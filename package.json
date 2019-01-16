@@ -1,0 +1,27 @@
+{
+  "name": "directory_maker",
+  "version": "1.0.0",
+  "description": "a script to convert freecodecamp study group json to nested directories readable for the guides",
+  "main": "directorize.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadabdolsaheb/directorize.git"
+  },
+  "author": "ahmad abdolsaheb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadabdolsaheb/directorize/issues"
+  },
+  "homepage": "https://github.com/ahmadabdolsaheb/directorize#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.2",
+    "js-yaml": "^3.12.1",
+    "rimraf": "^2.6.3"
+  }
+}
