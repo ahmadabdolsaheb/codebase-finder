@@ -93,16 +93,16 @@ coordinates: ${coordinates}
 plusCode:
 ---
 
-${"#Country: " + country}
-${"#State: " + state}
-${"#City: " + city}
-${"#Neighborhood: " + neighborhood}
-
+${"##Country: " + country}
+${"##State: " + state}
+${"##City: " + city}
+${"##Neighborhood: " + neighborhood}
+*****
 Join our [Facebook group](${url}).
 
-You can chat with us on [chat app](URL).
+You can chat with us on [chat app]().
 
-Our Group leader is [leader](URL)
+Our Group leader is [leader]()
 
 Here are some pictures from our recent events:
 ![study-group-image](${photoUrl})
@@ -110,7 +110,7 @@ Here are some pictures from our recent events:
 Here's a stream of one of our recent events:
 [video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [event platform](URL).
+We have events every Tuesday. You can RSVP for an event on [event platform]().
 `;
 return item;
 }

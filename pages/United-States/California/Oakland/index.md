@@ -8,16 +8,16 @@ coordinates: 37.804456, -122.271356
 plusCode:
 ---
 
-#Country: United States
-#State: California
-#City: Oakland
-#Neighborhood: 
-
+##Country: United States
+##State: California
+##City: Oakland
+##Neighborhood: 
+*****
 Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.berkeley).
 
-You can chat with us on [chat app](URL).
+You can chat with us on [chat app]().
 
-Our Group leader is [leader](URL)
+Our Group leader is [leader]()
 
 Here are some pictures from our recent events:
 ![study-group-image](https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/11221502_10101440645502101_8431216010583306158_o.jpg?oh=ad1ae85ecd2a6c80b77052be8e2cf736&oe=598FAD17)
@@ -25,4 +25,4 @@ Here are some pictures from our recent events:
 Here's a stream of one of our recent events:
 [video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [event platform](URL).
+We have events every Tuesday. You can RSVP for an event on [event platform]().

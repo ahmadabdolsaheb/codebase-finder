@@ -8,16 +8,16 @@ coordinates: 34.519706, 69.16243
 plusCode:
 ---
 
-#Country: Afghanistan
-#State: 
-#City: Kabul
-#Neighborhood: 
-
+##Country: Afghanistan
+##State: 
+##City: Kabul
+##Neighborhood: 
+*****
 Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.kabul).
 
-You can chat with us on [chat app](URL).
+You can chat with us on [chat app]().
 
-Our Group leader is [leader](URL)
+Our Group leader is [leader]()
 
 Here are some pictures from our recent events:
 ![study-group-image](https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/1909236_804880492967338_4532988271657391692_o.jpg?oh=abf0b929866e2640d518e886759d094d&oe=5958C9E2)
@@ -25,4 +25,4 @@ Here are some pictures from our recent events:
 Here's a stream of one of our recent events:
 [video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [event platform](URL).
+We have events every Tuesday. You can RSVP for an event on [event platform]().
