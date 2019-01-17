@@ -3,20 +3,26 @@ title: neighborhood-1
 country: undefined
 state: undefined
 city: undefined
-neighborhood: 
+neighborhood: One
 coordinates: undefined
 plusCode:
 ---
+
+#Country: undefined
+#State: undefined
+#City: undefined
+#Neighborhood: One
+
 Join our [Facebook group](undefined).
 
-You can chat with us on [WeChat](wechat URL).
+You can chat with us on [chat app](URL).
 
-Our Group leader is [Miya](freecodecamp.org/miya)
+Our Group leader is [leader](URL)
 
 Here are some pictures from our recent events:
-![](undefined).
+![study-group-image](undefined)
 
 Here's a stream of one of our recent events:
-[youtube embed]
+[video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [meetup](meetupurl).
+We have events every Tuesday. You can RSVP for an event on [event platform](URL).

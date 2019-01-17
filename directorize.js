@@ -11,46 +11,32 @@ for(let i of obj){
   let directory = mainDirectory + "/";
       lastItemMatter = ``;
   let lastItemValue;
+
   //replace spaces with hypthens
   let city = i.city.replace(/\s/g, '-');
   let state = i.state.replace(/\s/g, '-');
   let country = i.country.replace(/\s/g, '-');
 
-  //create a directory
+  //create a directories with nav md files
   if(!fs.existsSync(directory + "/" + country) && country != ""){
-    fs.mkdirSync(directory + "/" + country, { recursive: true }, (err) => {
-      if (err) throw err;
-    });
-    let item =
-`---
-title: ${i.country}
----`;
+    fs.mkdirSync(directory + "/" + country, { recursive: true })
+    let item = newItemMaker(i.country);
     fs.writeFileSync(directory + "/" + country + "/index.md", item);
     lastItemMatter = item;
     lastItemValue = i.country;
   }
 
   if(!fs.existsSync(directory + "/" + country + "/" + state ) && state != ""){
-    fs.mkdirSync(directory + "/" + country + "/" + state, { recursive: true }, (err) => {
-      if (err) throw err;
-    });
-    let item =
-`---
-title: ${i.state}
----`;
+    fs.mkdirSync(directory + "/" + country + "/" + state, { recursive: true });
+    let item = newItemMaker(i.state)
     fs.writeFileSync(directory + "/" + country + "/" + state + "/index.md", item);
     lastItemMatter = item;
     lastItemValue = i.state;
   }
 
   if(!fs.existsSync(directory + "/" + country + "/" + state + "/" + city ) && city != ""){
-    fs.mkdirSync(directory + "/" + country + "/" + state + "/" + city, { recursive: true }, (err) => {
-      if (err) throw err;
-    });
-    let item =
-`---
-title: ${i.city}
----`;
+    fs.mkdirSync(directory + "/" + country + "/" + state + "/" + city, { recursive: true });
+    let item = newItemMaker(i.city);
     fs.writeFileSync(directory + "/" + country + "/" + state + "/" + city + "/index.md", item);
     lastItemMatter = item;
     lastItemValue = i.city;
@@ -63,33 +49,39 @@ title: ${i.city}
 
   var file = fs.readFileSync(directory+'/index.md', 'utf8');
 
-
+  //if the directory does not have a study group in it, take the old md and replace it with
+  //study goup meta data
   if(file == lastItemMatter){
     fs.unlinkSync(directory+'/index.md');
     let item = mattermaker(lastItemValue, i.country, i.state, i.city,"", i.coordinates, i.photoUrl, i.url);
     fs.writeFileSync(directory + "/index.md", item);
+
+  //if the directory already has a study group md, take the old one and nest it
+  //neighborhood1, take the new study group and put it in neighborhood2
+  //recreate the current directory's md file for navigation
   }else{
     var oldMd = fs.readFileSync(directory + '/index.md', 'utf8');
     var oldMtr = matter(lastItemMatter).data;
-    fs.unlinkSync(directory+'/index.md');
+    let lastTitle = (matter(oldMd).data.title);
+    let newItem = newItemMaker(lastTitle);
 
-    fs.mkdirSync(directory + "/neighborhood-1", { recursive: true }, (err) => {
-      if (err) throw err;
-    });
-    var neighborhood1item = mattermaker("neighborhood-1", oldMtr.country, oldMtr.state, oldMtr.city,"" , oldMtr.coordinates, oldMtr.photoUrl, oldMtr.url);
+    fs.unlinkSync(directory+'/index.md');
+    fs.writeFileSync(directory + "/index.md", newItem);
+
+    fs.mkdirSync(directory + "/neighborhood-1");
+    var neighborhood1item = mattermaker("neighborhood-1", oldMtr.country, oldMtr.state, oldMtr.city,"One" , oldMtr.coordinates, oldMtr.photoUrl, oldMtr.url);
     fs.writeFileSync(directory + "/neighborhood-1" + "/index.md", neighborhood1item);
 
-    fs.mkdirSync(directory + "/neighborhood-2", { recursive: true }, (err) => {
-      if (err) throw err;
-    });
-    let neighborhood2item = mattermaker("neighborhood-2", i.country, i.state, i.city,"", i.coordinates, i.photoUrl, i.url);
+    fs.mkdirSync(directory + "/neighborhood-2");
+    let neighborhood2item = mattermaker("neighborhood-2", i.country, i.state, i.city,"Two", i.coordinates, i.photoUrl, i.url);
     fs.writeFileSync(directory + "/neighborhood-2" + "/index.md", neighborhood2item);
   }
 }
-console.log(lastItemMatter);
-console.log(matter(lastItemMatter).data.title);
+
+//helper functions
 
 function mattermaker(title, country, state, city, neighborhood, coordinates, photoUrl, url){
+
 let item =
 `---
 title: ${title}
@@ -100,19 +92,34 @@ neighborhood: ${neighborhood}
 coordinates: ${coordinates}
 plusCode:
 ---
+
+${"#Country: " + country}
+${"#State: " + state}
+${"#City: " + city}
+${"#Neighborhood: " + neighborhood}
+
 Join our [Facebook group](${url}).
 
-You can chat with us on [WeChat](wechat URL).
+You can chat with us on [chat app](URL).
 
-Our Group leader is [Miya](freecodecamp.org/miya)
+Our Group leader is [leader](URL)
 
 Here are some pictures from our recent events:
-![](${photoUrl}).
+![study-group-image](${photoUrl})
 
 Here's a stream of one of our recent events:
-[youtube embed]
+[video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [meetup](meetupurl).
+We have events every Tuesday. You can RSVP for an event on [event platform](URL).
 `;
 return item;
 }
+
+function newItemMaker(title){
+  let item =
+`---
+title: ${title}
+---`;
+  return item;
+}
+console.log('App finished running');

@@ -7,16 +7,22 @@ neighborhood:
 coordinates: 10.074037, -69.321567
 plusCode:
 ---
+
+#Country: Venezuela
+#State: 
+#City: Barquisimeto
+#Neighborhood: 
+
 Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.barquisimeto).
 
-You can chat with us on [WeChat](wechat URL).
+You can chat with us on [chat app](URL).
 
-Our Group leader is [Miya](freecodecamp.org/miya)
+Our Group leader is [leader](URL)
 
 Here are some pictures from our recent events:
-![]().
+![study-group-image]()
 
 Here's a stream of one of our recent events:
-[youtube embed]
+[video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [meetup](meetupurl).
+We have events every Tuesday. You can RSVP for an event on [event platform](URL).

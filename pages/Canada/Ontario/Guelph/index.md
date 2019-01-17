@@ -7,16 +7,22 @@ neighborhood:
 coordinates: 43.5448048,-80.24816659999999
 plusCode:
 ---
+
+#Country: Canada
+#State: Ontario
+#City: Guelph
+#Neighborhood: 
+
 Join our [Facebook group](https://www.facebook.com/groups/freecodecamp.guelph).
 
-You can chat with us on [WeChat](wechat URL).
+You can chat with us on [chat app](URL).
 
-Our Group leader is [Miya](freecodecamp.org/miya)
+Our Group leader is [leader](URL)
 
 Here are some pictures from our recent events:
-![]().
+![study-group-image]()
 
 Here's a stream of one of our recent events:
-[youtube embed]
+[video hosting platform embed]
 
-We have events every Tuesday. You can RSVP for an event on [meetup](meetupurl).
+We have events every Tuesday. You can RSVP for an event on [event platform](URL).
