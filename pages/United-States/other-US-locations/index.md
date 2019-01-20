@@ -1,3 +1,3 @@
 ---
-title: other US locations
+title: Other US locations
 ---

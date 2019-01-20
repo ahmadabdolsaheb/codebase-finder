@@ -1,7 +1,7 @@
 ---
 title: Armed Forces, Shaw AFB, SC
 country: United States
-state: other US locations
+state: Other US locations
 city: Armed Forces, Shaw AFB, SC
 neighborhood: 
 coordinates: 33.975344, -80.466978

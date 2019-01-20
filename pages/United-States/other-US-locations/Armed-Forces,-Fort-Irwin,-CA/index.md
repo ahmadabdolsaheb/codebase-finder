@@ -1,7 +1,7 @@
 ---
 title: Armed Forces, Fort Irwin, CA
 country: United States
-state: other US locations
+state: Other US locations
 city: Armed Forces, Fort Irwin, CA
 neighborhood: 
 coordinates: 35.262753, -116.684752

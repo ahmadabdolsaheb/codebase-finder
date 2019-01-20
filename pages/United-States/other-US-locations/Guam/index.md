@@ -1,7 +1,7 @@
 ---
 title: Guam
 country: United States
-state: other US locations
+state: Other US locations
 city: Guam
 neighborhood: 
 coordinates: 36.901996, -89.823698

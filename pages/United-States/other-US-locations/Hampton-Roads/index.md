@@ -1,7 +1,7 @@
 ---
 title: Hampton Roads
 country: United States
-state: other US locations
+state: Other US locations
 city: Hampton Roads
 neighborhood: 
 coordinates: 37.036465, -76.393608

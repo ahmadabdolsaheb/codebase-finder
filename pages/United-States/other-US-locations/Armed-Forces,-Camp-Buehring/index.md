@@ -1,7 +1,7 @@
 ---
 title: Armed Forces, Camp Buehring
 country: United States
-state: other US locations
+state: Other US locations
 city: Armed Forces, Camp Buehring
 neighborhood: 
 coordinates: 29.699025, 47.420235
