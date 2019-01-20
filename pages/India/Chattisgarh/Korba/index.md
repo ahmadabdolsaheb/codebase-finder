@@ -6,23 +6,14 @@ city: Korba
 neighborhood: 
 coordinates: 36.573553, 10.856499
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.korba
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: India
-##State: Chattisgarh
-##City: Korba
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.korba).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

@@ -1,3 +1,0 @@
----
-title: Fars Province
----

@@ -6,23 +6,14 @@ city: Cuenca
 neighborhood: 
 coordinates: 40.068116, -2.134824
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.cuenca
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: Ecuador
-##State: 
-##City: Cuenca
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.cuenca).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

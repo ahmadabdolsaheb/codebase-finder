@@ -6,23 +6,14 @@ city: Laguna
 neighborhood: 
 coordinates: 28.485772, -16.315942
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/freecodecamp.philippines.laguna
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: Philippines
-##State: 
-##City: Laguna
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/freecodecamp.philippines.laguna).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

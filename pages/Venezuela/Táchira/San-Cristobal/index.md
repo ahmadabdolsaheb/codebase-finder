@@ -6,23 +6,14 @@ city: San Cristobal
 neighborhood: 
 coordinates: 7.771357200000001,-72.22614659999999
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.san.cristobal.tachira
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: Venezuela
-##State: Táchira
-##City: San Cristobal
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.san.cristobal.tachira).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

@@ -6,23 +6,14 @@ city: Tarlac City
 neighborhood: 
 coordinates: 15.477597, 120.594409
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.tarlac.city
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: Philippines
-##State: 
-##City: Tarlac City
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.tarlac.city).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

@@ -6,23 +6,14 @@ city: Latakia
 neighborhood: 
 coordinates: 35.520019, 35.778104
 plusCode:
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.latakia
+chatName:
+chatURL:
+eventName:
+eventURL:
+leaderName:
+leaderURL:
+oldPhoto: 
+coverPhoto:
 ---
-
-##Country: Syria
-##State: 
-##City: Latakia
-##Neighborhood: 
-*****
-Join our [Facebook group](https://www.facebook.com/groups/free.code.camp.latakia).
-
-You can chat with us on [chat app]().
-
-Our Group leader is [leader]()
-
-Here are some pictures from our recent events:
-![study-group-image]()
-
-Here's a stream of one of our recent events:
-[video hosting platform embed]
-
-We have events every Tuesday. You can RSVP for an event on [event platform]().

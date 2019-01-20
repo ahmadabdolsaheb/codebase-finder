@@ -240,19 +240,19 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.santa.fe",
-"city": "Santa fe",
-"state": "",
-"country": "Argentina",
-"coordinates": "35.687, -105.9378",
-"photoUrl": ""
-},
-{
 "url": "https://web.facebook.com/groups/free.code.camp.smtucuman",
 "city": "San Miguel de Tucumán",
 "state": "Tucumán/Noroeste",
 "country": "Argentina",
 "coordinates": "-26.8241405, -65.2226028",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.santa.fe",
+"city": "Santa fe",
+"state": "",
+"country": "Argentina",
+"coordinates": "35.687, -105.9378",
 "photoUrl": ""
 },
 {
@@ -513,8 +513,8 @@
 },
 {
 "url": "https://www.facebook.com/groups/free.code.camp.cuet",
-"city": "CUET",
-"state": "",
+"city": "Raozan",
+"state": "Chittagong",
 "country": "Bangladesh",
 "coordinates": "46.323352, 5.112712",
 "photoUrl": ""
@@ -1144,14 +1144,6 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.niteroi",
-"city": "Niterói",
-"state": "Rio de Janeiro",
-"country": "Brazil",
-"coordinates": "-22.883237, -43.115455",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.rio.das.ostras",
 "city": "Rio das Ostras",
 "state": "Rio de Janeiro",
@@ -1165,6 +1157,14 @@
 "state": "Rio de Janeiro",
 "country": "Brazil",
 "coordinates": "-22.911014, -43.209373",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.niteroi",
+"city": "Niterói",
+"state": "Rio de Janeiro",
+"country": "Brazil",
+"coordinates": "-22.883237, -43.115455",
 "photoUrl": ""
 },
 {
@@ -1408,19 +1408,19 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.saojosedoriopreto",
-"city": "São José do Rio Preto",
-"state": "São Paulo",
-"country": "Brazil",
-"coordinates": "-20.812585, -49.380421",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.sjc",
 "city": "São José dos Campos",
 "state": "São Paulo",
 "country": "Brazil",
 "coordinates": "-23.180636, -45.890662",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.saojosedoriopreto",
+"city": "São José do Rio Preto",
+"state": "São Paulo",
+"country": "Brazil",
+"coordinates": "-20.812585, -49.380421",
 "photoUrl": ""
 },
 {
@@ -1968,22 +1968,6 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.moosejaw",
-"city": "Moose Jaw",
-"state": "Saskatchewan",
-"country": "Canada",
-"coordinates": "50.400124, -105.540913",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.regina",
-"city": "Regina",
-"state": "Saskatchewan",
-"country": "Canada",
-"coordinates": "50.448095, -104.615818",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.gatineau",
 "city": "Gatineau",
 "state": "Québec",
@@ -2021,6 +2005,22 @@
 "state": "Québec",
 "country": "Canada",
 "coordinates": "46.825737, -71.234911",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.moosejaw",
+"city": "Moose Jaw",
+"state": "Saskatchewan",
+"country": "Canada",
+"coordinates": "50.400124, -105.540913",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.regina",
+"city": "Regina",
+"state": "Saskatchewan",
+"country": "Canada",
+"coordinates": "50.448095, -104.615818",
 "photoUrl": ""
 },
 {
@@ -2066,7 +2066,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.anshun",
 "city": "Anshun",
-"state": "",
+"state": "Guizhou",
 "country": "China",
 "coordinates": "26.249696, 105.927781",
 "photoUrl": ""
@@ -2082,7 +2082,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.changchun",
 "city": "Changchun",
-"state": "",
+"state": "Jilin",
 "country": "China",
 "coordinates": "43.814405, 125.316942",
 "photoUrl": ""
@@ -2090,7 +2090,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.changsha",
 "city": "Changsha",
-"state": "",
+"state": "Hunan",
 "country": "China",
 "coordinates": "28.187377, 112.983582",
 "photoUrl": ""
@@ -2098,7 +2098,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.chengdu",
 "city": "Chengdu",
-"state": "",
+"state": "Sichuan",
 "country": "China",
 "coordinates": "30.676555, 104.061278",
 "photoUrl": ""
@@ -2114,7 +2114,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.dalian1",
 "city": "Dalian",
-"state": "",
+"state": "Liaoning",
 "country": "China",
 "coordinates": "38.920716, 121.638868",
 "photoUrl": ""
@@ -2122,7 +2122,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.dongguan",
 "city": "DongGuan",
-"state": "",
+"state": "Guangdong",
 "country": "China",
 "coordinates": "23.044928, 113.752478",
 "photoUrl": ""
@@ -2130,7 +2130,7 @@
 {
 "url": "https://www.facebook.com/groups/Free.Code.Camp.Foshan",
 "city": "Foshan",
-"state": "",
+"state": "Guangdong",
 "country": "China",
 "coordinates": "23.024917, 113.114617",
 "photoUrl": ""
@@ -2146,7 +2146,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.guiyang",
 "city": "Guiyang",
-"state": "",
+"state": "Guizhou",
 "country": "China",
 "coordinates": "26.581411, 106.705254",
 "photoUrl": ""
@@ -2154,7 +2154,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.hangzhou",
 "city": "Hangzhou",
-"state": "",
+"state": "Zhejiang",
 "country": "China",
 "coordinates": "30.275674, 120.150486",
 "photoUrl": ""
@@ -2162,7 +2162,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.hefei1",
 "city": "Hefei",
-"state": "",
+"state": "Anhui",
 "country": "China",
 "coordinates": "31.822809, 117.221803",
 "photoUrl": ""
@@ -2170,7 +2170,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.hohhot",
 "city": "Hohhot",
-"state": "",
+"state": "Inner Mongolia",
 "country": "China",
 "coordinates": "40.833796, 111.673079",
 "photoUrl": ""
@@ -2178,7 +2178,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.jinan",
 "city": "JiNan",
-"state": "",
+"state": "Shandong",
 "country": "China",
 "coordinates": "36.650701, 117.114004",
 "photoUrl": ""
@@ -2186,7 +2186,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.jincheng",
 "city": "Jincheng",
-"state": "",
+"state": "Shanxi",
 "country": "China",
 "coordinates": "35.493783, 112.851986",
 "photoUrl": ""
@@ -2194,7 +2194,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.kangbashen",
 "city": "Kangbashen",
-"state": "",
+"state": "Inner Mongolia",
 "country": "China",
 "coordinates": "39.78373, -100.445882",
 "photoUrl": ""
@@ -2202,7 +2202,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.lanzhou",
 "city": "Lanzhou",
-"state": "",
+"state": "Gansu",
 "country": "China",
 "coordinates": "36.060348, 103.833",
 "photoUrl": ""
@@ -2210,7 +2210,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Linyi",
 "city": "Linyi",
-"state": "",
+"state": "Shandong",
 "country": "China",
 "coordinates": "38.554469, 14.825471",
 "photoUrl": ""
@@ -2218,7 +2218,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Nanchang",
 "city": "Nanchang",
-"state": "",
+"state": "Jiangxi",
 "country": "China",
 "coordinates": "23.6175, 120.539722",
 "photoUrl": ""
@@ -2226,7 +2226,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.nanjing",
 "city": "Nanjing",
-"state": "",
+"state": "Jiangsu",
 "country": "China",
 "coordinates": "23.413611, 120.384722",
 "photoUrl": ""
@@ -2234,7 +2234,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.ningbo",
 "city": "Ningbo",
-"state": "",
+"state": "Zhejiang",
 "country": "China",
 "coordinates": "29.856506, 121.577886",
 "photoUrl": ""
@@ -2242,7 +2242,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Qingdao",
 "city": "Qingdao",
-"state": "",
+"state": "Shandong",
 "country": "China",
 "coordinates": "36.089509, 120.349719",
 "photoUrl": ""
@@ -2258,7 +2258,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Shenyang",
 "city": "Shenyang",
-"state": "",
+"state": "Liaoning",
 "country": "China",
 "coordinates": "41.804529, 123.427786",
 "photoUrl": ""
@@ -2266,7 +2266,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.shenzhen",
 "city": "Shenzhen",
-"state": "",
+"state": "Guangdong",
 "country": "China",
 "coordinates": "22.544267, 114.054533",
 "photoUrl": ""
@@ -2274,7 +2274,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.shijiazhuang",
 "city": "Shijiazhuang",
-"state": "",
+"state": "Hebei",
 "country": "China",
 "coordinates": "38.035981, 114.462773",
 "photoUrl": ""
@@ -2282,7 +2282,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.suzhou",
 "city": "Suzhou",
-"state": "",
+"state": "Jiangsu",
 "country": "China",
 "coordinates": "31.298476, 120.622239",
 "photoUrl": ""
@@ -2290,7 +2290,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.taiyuan",
 "city": "Taiyuan",
-"state": "",
+"state": "Shanxi",
 "country": "China",
 "coordinates": "37.856186, 112.556174",
 "photoUrl": ""
@@ -2306,7 +2306,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.wuhan",
 "city": "Wuhan",
-"state": "",
+"state": "Hubei",
 "country": "China",
 "coordinates": "30.596021, 114.29928",
 "photoUrl": ""
@@ -2314,7 +2314,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.wuxi",
 "city": "Wuxi",
-"state": "",
+"state": "Jiangsu",
 "country": "China",
 "coordinates": "31.575635, 120.295453",
 "photoUrl": ""
@@ -2322,7 +2322,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.xiamen",
 "city": "Xiamen",
-"state": "",
+"state": "Fujian",
 "country": "China",
 "coordinates": "24.497442, 118.135564",
 "photoUrl": ""
@@ -2330,7 +2330,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.china.xian",
 "city": "XiAn",
-"state": "",
+"state": "Fujian",
 "country": "China",
 "coordinates": "34.342971, 108.935274",
 "photoUrl": ""
@@ -2338,7 +2338,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.zhengzhou",
 "city": "Zhengzhou",
-"state": "",
+"state": "Henan",
 "country": "China",
 "coordinates": "34.759188, 113.652408",
 "photoUrl": ""
@@ -2424,19 +2424,19 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.riohacha",
-"city": "Riohacha",
-"state": "",
-"country": "Colombia",
-"coordinates": "11.544634, -72.906978",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.quibdo",
 "city": "Quibdo",
 "state": "",
 "country": "Colombia",
 "coordinates": "5.684571, -76.654046",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.riohacha",
+"city": "Riohacha",
+"state": "",
+"country": "Colombia",
+"coordinates": "11.544634, -72.906978",
 "photoUrl": ""
 },
 {
@@ -2728,19 +2728,19 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.santo.domingo.ecuador",
-"city": "Santo Domingo",
-"state": "",
-"country": "Ecuador",
-"coordinates": "18.480197, -69.942111",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.quito",
 "city": "Quito",
 "state": "",
 "country": "Ecuador",
 "coordinates": "-0.155388, -78.486231",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.santo.domingo.ecuador",
+"city": "Santo Domingo",
+"state": "",
+"country": "Ecuador",
+"coordinates": "18.480197, -69.942111",
 "photoUrl": ""
 },
 {
@@ -3616,14 +3616,6 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.bremen",
-"city": "Bremen",
-"state": "",
-"country": "Germany",
-"coordinates": "41.446436, -86.148058",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.bodensee",
 "city": "Bodensee",
 "state": "",
@@ -3645,6 +3637,14 @@
 "state": "",
 "country": "Germany",
 "coordinates": "52.263996, 10.525267",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.bremen",
+"city": "Bremen",
+"state": "",
+"country": "Germany",
+"coordinates": "41.446436, -86.148058",
 "photoUrl": ""
 },
 {
@@ -3864,19 +3864,19 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.muenster",
-"city": "Münster",
-"state": "",
-"country": "Germany",
-"coordinates": "51.96251, 7.625188",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.munich",
 "city": "Munich",
 "state": "",
 "country": "Germany",
 "coordinates": "48.669174, -98.832631",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.muenster",
+"city": "Münster",
+"state": "",
+"country": "Germany",
+"coordinates": "51.96251, 7.625188",
 "photoUrl": ""
 },
 {
@@ -5714,7 +5714,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.kobe",
 "city": "Kobe",
-"state": "",
+"state": "Hyōgo",
 "country": "Japan",
 "coordinates": "34.693238, 135.194376",
 "photoUrl": ""
@@ -5730,7 +5730,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.nagoya",
 "city": "Nagoya",
-"state": "",
+"state": "Aichi",
 "country": "Japan",
 "coordinates": "35.183333, 136.9",
 "photoUrl": ""
@@ -5738,7 +5738,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.okinawa",
 "city": "Okinawa",
-"state": "",
+"state": "Okinawa",
 "country": "Japan",
 "coordinates": "26.338393, 127.806341",
 "photoUrl": ""
@@ -5746,7 +5746,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.osaka",
 "city": "Osaka",
-"state": "",
+"state": "Osaka",
 "country": "Japan",
 "coordinates": "34.685296, 135.514568",
 "photoUrl": ""
@@ -5754,7 +5754,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.sasebo",
 "city": "Sasebo",
-"state": "",
+"state": "Nagasaki",
 "country": "Japan",
 "coordinates": "33.177797, 129.672769",
 "photoUrl": ""
@@ -5762,7 +5762,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.tokyo",
 "city": "Tokyo",
-"state": "",
+"state": "Tokyo",
 "country": "Japan",
 "coordinates": "35.682838, 139.758967",
 "photoUrl": "https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/11958042_495308973976670_8896177766676447339_o.jpg?oh=00a687de32184a394f3bf2bdb93287c9&oe=5957CE76"
@@ -5770,7 +5770,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.tsukuba",
 "city": "Tsukuba",
-"state": "",
+"state": "Ibaraki",
 "country": "Japan",
 "coordinates": "36.083388, 140.07651",
 "photoUrl": ""
@@ -5930,7 +5930,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.kotabharu.malaysia",
 "city": "Kota Bharu",
-"state": "",
+"state": "Kelantan",
 "country": "Malaysia",
 "coordinates": "6.125605, 102.239346",
 "photoUrl": ""
@@ -8642,7 +8642,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.busan",
 "city": "Busan",
-"state": "",
+"state": "Gyeongsangnam",
 "country": "South Korea",
 "coordinates": "27.918868, 68.23265",
 "photoUrl": ""
@@ -8650,7 +8650,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.your.daegu",
 "city": "Daegu",
-"state": "",
+"state": "Gyeongsangbuk",
 "country": "South Korea",
 "coordinates": "11.106116, 9.708971",
 "photoUrl": ""
@@ -8666,7 +8666,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.jeonju",
 "city": "Jeonju",
-"state": "",
+"state": "Jeollabuk",
 "country": "South Korea",
 "coordinates": "35.824272, 127.148066",
 "photoUrl": ""
@@ -8674,7 +8674,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.jinju",
 "city": "Jinju",
-"state": "",
+"state": "Gyeongsangnam",
 "country": "South Korea",
 "coordinates": "35.180346, 128.107995",
 "photoUrl": ""
@@ -8682,7 +8682,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.sejong.city",
 "city": "Sejong",
-"state": "",
+"state": "Chungcheongnam",
 "country": "South Korea",
 "coordinates": "-62.223111, -58.787056",
 "photoUrl": ""
@@ -8690,7 +8690,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.seoul",
 "city": "Seoul",
-"state": "",
+"state": "Gyeonggi",
 "country": "South Korea",
 "coordinates": "37.565486, 126.97799",
 "photoUrl": "https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/14021469_10154500020307174_4147651691787276444_n.jpg?oh=6f0ff157c671e623171b0745d5a6a154&oe=5956A53C"
@@ -8698,7 +8698,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.suwon",
 "city": "Suwon",
-"state": "Gyeonggi-do",
+"state": "Gyeonggi",
 "country": "South Korea",
 "coordinates": "33.429441, 126.267859",
 "photoUrl": "https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/27336804_1772058879494380_8578724638051911418_n.jpg?oh=c879cf78683b5d49093922ed9007b452&oe=5AE6EE5F"
@@ -9698,31 +9698,31 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.hamptonroads",
 "city": "Hampton Roads",
-"state": "",
+"state": "other US locations",
 "country": "United States",
 "coordinates": "37.036465, -76.393608",
 "photoUrl": ""
 },
 {
 "url": "https://www.facebook.com/groups/freeCodeCamp.FtIrwin",
-"city": "Fort Irwin, CA",
-"state": "US Armed Forces Base",
+"city": "Armed Forces, Fort Irwin, CA",
+"state": "other US locations",
 "country": "United States",
 "coordinates": "35.262753, -116.684752",
 "photoUrl": ""
 },
 {
 "url": "https://www.facebook.com/groups/416935265327149",
-"city": "Shaw AFB, SC",
-"state": "US Armed Forces Base",
+"city": "Armed Forces, Shaw AFB, SC",
+"state": "other US locations",
 "country": "United States",
 "coordinates": "33.975344, -80.466978",
 "photoUrl": ""
 },
 {
 "url": "https://www.facebook.com/groups/free.code.camp.buehring",
-"city": "Camp Buehring",
-"state": "Overseas",
+"city": "Armed Forces, Camp Buehring",
+"state": "other US locations",
 "country": "United States",
 "coordinates": "29.699025, 47.420235",
 "photoUrl": ""
@@ -9730,7 +9730,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Guam",
 "city": "Guam",
-"state": "Overseas",
+"state": "other US locations",
 "country": "United States",
 "coordinates": "36.901996, -89.823698",
 "photoUrl": ""
@@ -14336,62 +14336,6 @@
 "photoUrl": ""
 },
 {
-"url": "https://www.facebook.com/groups/free.code.camp.aberystwyth",
-"city": "Aberystwyth",
-"state": "",
-"country": "Wales",
-"coordinates": "52.414311, -4.081685",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.wales.bangor",
-"city": "Bangor",
-"state": "",
-"country": "Wales",
-"coordinates": "53.228702, -4.129300",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.bridgend",
-"city": "Bridgend",
-"state": "",
-"country": "Wales",
-"coordinates": "51.500654, -3.534955",
-"photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/19390907_1358754020827183_800307080888221255_o.jpg?oh=25ca43091c31b06e61ddcbe6b2e9b43a&oe=59DB78BB"
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.cardiff",
-"city": "Cardiff",
-"state": "",
-"country": "Wales",
-"coordinates": "51.481655, -3.179193",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.chepstow",
-"city": "Chepstow",
-"state": "",
-"country": "Wales",
-"coordinates": "51.642847, -2.675126",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.llandeilo",
-"city": "Llandeilo",
-"state": "",
-"country": "Wales",
-"coordinates": "51.885394, -3.992514",
-"photoUrl": ""
-},
-{
-"url": "https://www.facebook.com/groups/free.code.camp.swansea",
-"city": "Swansea",
-"state": "",
-"country": "Wales",
-"coordinates": "51.621144, -3.946775",
-"photoUrl": ""
-},
-{
 "url": "https://www.facebook.com/groups/free.code.camp.laayoune",
 "city": "Laayoune",
 "state": "",
@@ -14514,7 +14458,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.group.quixada/",
 "city": "Quixada",
-"state": "State of Ceará",
+"state": "Ceará",
 "country": "Brazil",
 "coordinates": "-4.9685795,-39.0162466",
 "photoUrl": ""
@@ -14554,7 +14498,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Almaty",
 "city": "Almaty",
-"state": "Almaty Province",
+"state": "Almaty",
 "country": "Kazakhstan",
 "coordinates": "43.2220146,76.8512485",
 "photoUrl": ""
@@ -14562,7 +14506,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.annaba",
 "city": "Annaba",
-"state": "Annaba Province",
+"state": "Annaba",
 "country": "Algeria",
 "coordinates": "36.9264582,7.752535200000001",
 "photoUrl": ""
@@ -14626,8 +14570,8 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.paisley",
 "city": "Paisley",
-"state": "Scotland",
-"country": "United Kingdom",
+"state": "",
+"country": "Scotland",
 "coordinates": "55.847258,-4.440113999999999",
 "photoUrl": ""
 },
@@ -14650,7 +14594,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.bishkek",
 "city": "Bishkek",
-"state": "Chuy Province",
+"state": "Chuy",
 "country": "Kyrgyzstan",
 "coordinates": "42.8746212,74.5697617",
 "photoUrl": ""
@@ -14658,7 +14602,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.bulawayo",
 "city": "Bulawayo",
-"state": "Bulawayo Province",
+"state": "Bulawayo",
 "country": "Zimbabwe",
 "coordinates": "-20.1325066,28.626479",
 "photoUrl": ""
@@ -14739,7 +14683,7 @@
 "url": "https://www.facebook.com/groups/free.code.camp.ferizaj",
 "city": "Uroshevac",
 "state": "",
-"country": "",
+"country": "Kosovo",
 "coordinates": "42.3701844,21.1483281",
 "photoUrl": ""
 },
@@ -14754,7 +14698,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.jundiai.sp.br",
 "city": "Jundiaí",
-"state": "State of São Paulo",
+"state": "São Paulo",
 "country": "Brazil",
 "coordinates": "-23.1857076,-46.8978057",
 "photoUrl": ""
@@ -14802,7 +14746,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.posadas",
 "city": "Posadas",
-"state": "Misiones Province",
+"state": "Misiones",
 "country": "Argentina",
 "coordinates": "-27.3621374,-55.90087459999999",
 "photoUrl": ""
@@ -14811,14 +14755,14 @@
 "url": "https://www.facebook.com/groups/free.code.camp.pristina",
 "city": "Prishtina",
 "state": "",
-"country": "",
+"country": "Kosovo",
 "coordinates": "42.6629138,21.1655028",
 "photoUrl": ""
 },
 {
 "url": "https://www.facebook.com/groups/free.code.camp.Rio.Gallegos",
 "city": "Rio Gallegos",
-"state": "Santa Cruz Province",
+"state": "Santa Cruz",
 "country": "Argentina",
 "coordinates": "-51.6230485,-69.2168291",
 "photoUrl": ""
@@ -14922,7 +14866,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.kitwe",
 "city": "Kitwe",
-"state": "Copperbelt Province",
+"state": "Copperbelt",
 "country": "Zambia",
 "coordinates": "-12.8231947,28.2175744",
 "photoUrl": ""
@@ -14930,7 +14874,7 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.kulsary",
 "city": "Kulsary",
-"state": "Atyrau Province",
+"state": "Atyrau",
 "country": "Kazakhstan",
 "coordinates": "46.9691061,54.00681909999999",
 "photoUrl": ""
@@ -15090,7 +15034,7 @@
 {
 "url": "https://www.facebook.com/groups/freecodecamp.sari",
 "city": "Sari",
-"state": "Mazandaran Province",
+"state": "Mazandaran",
 "country": "Iran",
 "coordinates": "36.5658729,53.0586328",
 "photoUrl": ""
@@ -15162,8 +15106,8 @@
 {
 "url": "https://www.facebook.com/groups/free.code.camp.forres/",
 "city": "Forres",
-"state": "Scotland",
-"country": "United Kingdom",
+"state": "",
+"country": "Scotland",
 "coordinates": "57.60979099999999,-3.61998",
 "photoUrl": ""
 },
@@ -15458,7 +15402,7 @@
 {
 "url": "https://www.facebook.com/groups/freecodecamp.ourinhos/",
 "city": "Ourinhos",
-"state": "State of São Paulo",
+"state": "São Paulo",
 "country": "Brazil",
 "coordinates": "-22.9493713,-49.87520689999999",
 "photoUrl": ""
@@ -15498,7 +15442,7 @@
 {
 "url": "https://gitter.im/freeCodeCampShiraz/",
 "city": "Shiraz",
-"state": "Fars Province",
+"state": "Fars",
 "country": "Iran",
 "coordinates": "29.615676, 52.547660",
 "photoUrl": ""
@@ -15522,7 +15466,7 @@
 {
 "url": "https://www.facebook.com/groups/freecodecamp.la.rioja/",
 "city": "La Rioja",
-"state": "La Rioja Province",
+"state": "La Rioja",
 "country": "Argentina",
 "coordinates": "-29.417881, -66.852688",
 "photoUrl": ""
@@ -15613,6 +15557,62 @@
 "state": "Indiana",
 "country": "United States",
 "coordinates": "39.209782, -85.899962",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.aberystwyth",
+"city": "Aberystwyth",
+"state": "",
+"country": "Wales",
+"coordinates": "52.414311, -4.081685",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.wales.bangor",
+"city": "Bangor",
+"state": "",
+"country": "Wales",
+"coordinates": "53.228702, -4.129300",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.bridgend",
+"city": "Bridgend",
+"state": "",
+"country": "Wales",
+"coordinates": "51.500654, -3.534955",
+"photoUrl": "https://scontent-lht6-1.xx.fbcdn.net/v/t31.0-8/19390907_1358754020827183_800307080888221255_o.jpg?oh=25ca43091c31b06e61ddcbe6b2e9b43a&oe=59DB78BB"
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.cardiff",
+"city": "Cardiff",
+"state": "",
+"country": "Wales",
+"coordinates": "51.481655, -3.179193",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.chepstow",
+"city": "Chepstow",
+"state": "",
+"country": "Wales",
+"coordinates": "51.642847, -2.675126",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.llandeilo",
+"city": "Llandeilo",
+"state": "",
+"country": "Wales",
+"coordinates": "51.885394, -3.992514",
+"photoUrl": ""
+},
+{
+"url": "https://www.facebook.com/groups/free.code.camp.swansea",
+"city": "Swansea",
+"state": "",
+"country": "Wales",
+"coordinates": "51.621144, -3.946775",
 "photoUrl": ""
 }
 ]

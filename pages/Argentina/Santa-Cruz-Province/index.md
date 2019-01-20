@@ -1,3 +1,0 @@
----
-title: Santa Cruz Province
----
