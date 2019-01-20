@@ -5,15 +5,15 @@ state: Alberta
 city: Calgary
 neighborhood: 
 coordinates: 51.053059, -114.062561
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.calgary
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.calgary
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

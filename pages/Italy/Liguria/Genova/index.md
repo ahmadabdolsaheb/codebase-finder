@@ -5,15 +5,15 @@ state: Liguria
 city: Genova
 neighborhood: 
 coordinates: 44.405600, 8.946300
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.genova/
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.genova/
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

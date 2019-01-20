@@ -5,15 +5,15 @@ state:
 city: San Miguel
 neighborhood: 
 coordinates: -12.078656, -77.095283
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sv
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.sv
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

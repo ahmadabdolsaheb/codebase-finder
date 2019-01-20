@@ -5,15 +5,15 @@ state: Hunan
 city: Changsha
 neighborhood: 
 coordinates: 28.187377, 112.983582
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.changsha
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.changsha
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

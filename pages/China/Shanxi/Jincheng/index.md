@@ -5,15 +5,15 @@ state: Shanxi
 city: Jincheng
 neighborhood: 
 coordinates: 35.493783, 112.851986
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jincheng
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.jincheng
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

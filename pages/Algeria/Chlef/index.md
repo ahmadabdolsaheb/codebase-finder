@@ -5,15 +5,15 @@ state:
 city: Chlef
 neighborhood: 
 coordinates: 36.164592, 1.331499
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/265286003918087
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/265286003918087
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

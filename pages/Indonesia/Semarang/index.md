@@ -5,15 +5,15 @@ state:
 city: Semarang
 neighborhood: 
 coordinates: -6.990404, 110.422946
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.semarang
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.semarang
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

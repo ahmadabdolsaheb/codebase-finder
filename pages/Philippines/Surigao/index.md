@@ -5,15 +5,15 @@ state:
 city: Surigao
 neighborhood: 
 coordinates: 9.791643, 125.492927
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.surigao
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.surigao
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

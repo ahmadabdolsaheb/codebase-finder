@@ -5,15 +5,15 @@ state: Washington
 city: Lake Stevens
 neighborhood: 
 coordinates: 48.019779, -122.066091
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Lake.Stevens.WA
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.Lake.Stevens.WA
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

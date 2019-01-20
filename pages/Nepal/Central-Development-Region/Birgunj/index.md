@@ -5,15 +5,15 @@ state: Central Development Region
 city: Birgunj
 neighborhood: 
 coordinates: 27.0449005,84.86721709999999
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.birgunj
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.birgunj
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

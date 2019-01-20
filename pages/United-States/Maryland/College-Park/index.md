@@ -5,15 +5,15 @@ state: Maryland
 city: College Park
 neighborhood: 
 coordinates: 38.980666, -76.936919
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.college.park
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.college.park
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

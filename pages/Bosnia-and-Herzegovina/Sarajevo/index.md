@@ -5,15 +5,15 @@ state:
 city: Sarajevo
 neighborhood: 
 coordinates: 43.851977, 18.386687
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sarajevo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.sarajevo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

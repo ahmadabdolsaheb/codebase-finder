@@ -5,15 +5,15 @@ state: Paraná
 city: Curitiba
 neighborhood: 
 coordinates: -25.428693, -49.272373
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.curitiba
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.curitiba
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

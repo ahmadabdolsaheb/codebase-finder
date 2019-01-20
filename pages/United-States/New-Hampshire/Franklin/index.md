@@ -5,15 +5,15 @@ state: New Hampshire
 city: Franklin
 neighborhood: 
 coordinates: 35.924864, -86.867691
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecode.camp.franklin
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecode.camp.franklin
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

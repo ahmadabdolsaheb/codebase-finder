@@ -5,15 +5,15 @@ state: Maharashtra
 city: Jalgaon
 neighborhood: 
 coordinates: 20.996845, 75.56838
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jalgaon
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.jalgaon
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

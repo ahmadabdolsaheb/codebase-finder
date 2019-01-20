@@ -5,15 +5,15 @@ state: Georgia
 city: Valdosta
 neighborhood: 
 coordinates: 30.832702, -83.278485
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.valdosta
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.valdosta
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

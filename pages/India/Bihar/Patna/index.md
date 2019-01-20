@@ -5,15 +5,15 @@ state: Bihar
 city: Patna
 neighborhood: 
 coordinates: 25.609575, 85.123819
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.patna
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.patna
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

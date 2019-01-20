@@ -5,15 +5,15 @@ state:
 city: Halmstad
 neighborhood: 
 coordinates: 56.673983, 12.857483
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.halmstad
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.halmstad
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

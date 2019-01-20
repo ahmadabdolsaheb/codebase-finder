@@ -5,15 +5,15 @@ state:
 city: Ramallah
 neighborhood: 
 coordinates: 31.903082, 35.195174
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ramallah
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.ramallah
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

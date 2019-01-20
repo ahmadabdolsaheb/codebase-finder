@@ -5,15 +5,15 @@ state: New York
 city: Brooklyn
 neighborhood: 
 coordinates: 40.650104, -73.949582
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.brooklyn.ny
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.brooklyn.ny
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

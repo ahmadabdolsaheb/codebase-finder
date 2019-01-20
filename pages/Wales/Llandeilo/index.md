@@ -5,15 +5,15 @@ state:
 city: Llandeilo
 neighborhood: 
 coordinates: 51.885394, -3.992514
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.llandeilo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.llandeilo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Santiago de Querétaro
 neighborhood: 
 coordinates: 20.587837, -100.38799
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.santiago.de.queretaro
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.santiago.de.queretaro
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

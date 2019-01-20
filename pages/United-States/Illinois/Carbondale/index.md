@@ -5,15 +5,15 @@ state: Illinois
 city: Carbondale
 neighborhood: 
 coordinates: 37.727469, -89.216655
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.carbondale.ilinois
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.carbondale.ilinois
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

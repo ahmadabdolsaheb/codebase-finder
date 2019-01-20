@@ -5,15 +5,15 @@ state:
 city: Blagoveshchensk
 neighborhood: 
 coordinates: 50.290529, 127.527158
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.blagoveshchensk.amur.region
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.blagoveshchensk.amur.region
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

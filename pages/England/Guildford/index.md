@@ -5,15 +5,15 @@ state:
 city: Guildford
 neighborhood: 
 coordinates: 51.236813, -0.570517
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.guildford.uk
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.guildford.uk
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

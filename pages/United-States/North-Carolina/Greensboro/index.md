@@ -5,15 +5,15 @@ state: North Carolina
 city: Greensboro
 neighborhood: 
 coordinates: 36.072636, -79.791975
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecampgreensboro
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecampgreensboro
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state: Georgia
 city: Cochran
 neighborhood: 
 coordinates: 32.386828, -83.35461
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cochran.ga
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.cochran.ga
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

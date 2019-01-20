@@ -90,17 +90,17 @@ state: ${state}
 city: ${city}
 neighborhood: ${neighborhood}
 coordinates: ${coordinates}
-plusCode:
-socialName: Facebook
-socialURL: ${url}
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: ${photoUrl}
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: ${url}
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: ${photoUrl}
+cover-photo:
 ---
 `;
 return item;

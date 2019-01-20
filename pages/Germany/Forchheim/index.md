@@ -5,15 +5,15 @@ state:
 city: Forchheim
 neighborhood: 
 coordinates: 49.718713, 11.059642
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.forchheim.bayern
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.forchheim.bayern
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

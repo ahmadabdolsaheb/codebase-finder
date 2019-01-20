@@ -5,15 +5,15 @@ state:
 city: Marrakesh
 neighborhood: 
 coordinates: 31.62599, -7.988608
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.marrakesh
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.marrakesh
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

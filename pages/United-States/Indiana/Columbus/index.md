@@ -5,15 +5,15 @@ state: Indiana
 city: Columbus
 neighborhood: 
 coordinates: 39.209782, -85.899962
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.columbus.indiana/
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.columbus.indiana/
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

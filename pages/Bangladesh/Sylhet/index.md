@@ -5,15 +5,15 @@ state:
 city: Sylhet
 neighborhood: 
 coordinates: 24.899091, 91.86881
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sylhet
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.sylhet
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

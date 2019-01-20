@@ -5,15 +5,15 @@ state: Khanpur
 city: Phagwara
 neighborhood: 
 coordinates: 31.220673, 75.769646
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.phagwara
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.phagwara
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

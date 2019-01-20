@@ -5,15 +5,15 @@ state: Madhya Pradesh
 city: Jabalpur
 neighborhood: 
 coordinates: 23.160938, 79.949717
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.your.city.jabalpur
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.your.city.jabalpur
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

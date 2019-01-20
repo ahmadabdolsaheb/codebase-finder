@@ -5,15 +5,15 @@ state:
 city: Veurne
 neighborhood: 
 coordinates: 51.071043, 2.654886
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.veurne
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.veurne
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

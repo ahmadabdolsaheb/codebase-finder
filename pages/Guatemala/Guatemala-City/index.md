@@ -5,15 +5,15 @@ state:
 city: Guatemala City
 neighborhood: 
 coordinates: 14.641789, -90.513224
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.guatemala
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.guatemala
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

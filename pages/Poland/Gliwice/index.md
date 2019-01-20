@@ -5,15 +5,15 @@ state:
 city: Gliwice
 neighborhood: 
 coordinates: 50.294113, 18.665731
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.gliwice
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecamp.gliwice
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

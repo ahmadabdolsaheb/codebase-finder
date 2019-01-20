@@ -5,15 +5,15 @@ state: Texas
 city: Abilene
 neighborhood: 
 coordinates: 32.446453, -99.733348
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.abilene
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.abilene
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

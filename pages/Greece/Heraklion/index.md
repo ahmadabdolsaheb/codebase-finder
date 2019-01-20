@@ -5,15 +5,15 @@ state:
 city: Heraklion
 neighborhood: 
 coordinates: 35.334013, 25.132854
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.heraklion
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.heraklion
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

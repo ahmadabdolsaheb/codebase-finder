@@ -5,15 +5,15 @@ state:
 city: Munich
 neighborhood: 
 coordinates: 48.669174, -98.832631
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.munich
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.munich
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

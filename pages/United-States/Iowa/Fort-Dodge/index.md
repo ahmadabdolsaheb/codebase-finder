@@ -5,15 +5,15 @@ state: Iowa
 city: Fort Dodge
 neighborhood: 
 coordinates: 42.497469, -94.168016
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.fort.dodge.iowa
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.fort.dodge.iowa
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Offenburg
 neighborhood: 
 coordinates: 48.471656, 7.944378
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.offenburg
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.offenburg
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

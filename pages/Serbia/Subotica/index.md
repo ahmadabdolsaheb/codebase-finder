@@ -5,15 +5,15 @@ state:
 city: Subotica
 neighborhood: 
 coordinates: 46.100013, 19.664097
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.subotica
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.subotica
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

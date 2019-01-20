@@ -5,15 +5,15 @@ state:
 city: Ulaanbaatar
 neighborhood: 
 coordinates: 47.918468, 106.917702
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.your.ulaanbaatar
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.your.ulaanbaatar
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

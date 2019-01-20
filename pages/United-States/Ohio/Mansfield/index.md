@@ -5,15 +5,15 @@ state: Ohio
 city: Mansfield
 neighborhood: 
 coordinates: 40.75839, -82.515447
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mansfieldoh
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.mansfieldoh
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

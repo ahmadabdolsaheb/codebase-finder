@@ -5,15 +5,15 @@ state: Illinois
 city: Carrollton
 neighborhood: 
 coordinates: 39.3022693,-90.4070632
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.carrollton.il
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.carrollton.il
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Nkongsamba
 neighborhood: 
 coordinates: 4.964145, 9.935545
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.nkongsamba/
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.nkongsamba/
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

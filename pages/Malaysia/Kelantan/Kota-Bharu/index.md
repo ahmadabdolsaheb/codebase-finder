@@ -5,15 +5,15 @@ state: Kelantan
 city: Kota Bharu
 neighborhood: 
 coordinates: 6.125605, 102.239346
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kotabharu.malaysia
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.kotabharu.malaysia
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

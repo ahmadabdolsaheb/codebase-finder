@@ -5,15 +5,15 @@ state: Illinois
 city: Quad Cities
 neighborhood: 
 coordinates: 41.725981, -90.310323
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.quadcities
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.quadcities
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

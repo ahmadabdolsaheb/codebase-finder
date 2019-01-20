@@ -5,15 +5,15 @@ state: Ontario
 city: Mississauga
 neighborhood: 
 coordinates: 43.589285, -79.644165
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sauga
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.sauga
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

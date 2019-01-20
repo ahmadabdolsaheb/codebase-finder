@@ -5,15 +5,15 @@ state: Machakos County
 city: Kangundo
 neighborhood: 
 coordinates: -1.3055671,37.3453215
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Kangundo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.Kangundo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

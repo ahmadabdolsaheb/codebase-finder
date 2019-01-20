@@ -5,15 +5,15 @@ state: Washington
 city: Lakewood
 neighborhood: 
 coordinates: 39.631109, -105.110058
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.lakewood
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.lakewood
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

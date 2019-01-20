@@ -5,15 +5,15 @@ state:
 city: Rangpur
 neighborhood: 
 coordinates: 25.76531, 89.232211
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rangpur
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.rangpur
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

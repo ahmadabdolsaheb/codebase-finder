@@ -5,15 +5,15 @@ state: Oklahoma
 city: Muskogee
 neighborhood: 
 coordinates: 35.747877, -95.369691
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.muskogee
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.muskogee
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Puerto La Cruz
 neighborhood: 
 coordinates: 28.415902, -16.553296
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.puertolacruz.anzoategui.ve
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.puertolacruz.anzoategui.ve
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

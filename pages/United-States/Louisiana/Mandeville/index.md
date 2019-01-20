@@ -5,15 +5,15 @@ state: Louisiana
 city: Mandeville
 neighborhood: 
 coordinates: 18.043125, -77.50741
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mandeville
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.mandeville
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

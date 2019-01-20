@@ -5,15 +5,15 @@ state:
 city: Guaymas
 neighborhood: 
 coordinates: 27.921644, -110.899406
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/FreeCodeCamp.Guaymas
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/FreeCodeCamp.Guaymas
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

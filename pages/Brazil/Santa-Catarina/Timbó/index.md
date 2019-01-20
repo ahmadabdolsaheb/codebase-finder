@@ -5,15 +5,15 @@ state: Santa Catarina
 city: Timbó
 neighborhood: 
 coordinates: -26.828274, -49.270641
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.timbo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.timbo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

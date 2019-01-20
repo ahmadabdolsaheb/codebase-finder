@@ -5,15 +5,15 @@ state:
 city: Isparta
 neighborhood: 
 coordinates: 37.77035, 30.555693
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.isparta
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.isparta
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

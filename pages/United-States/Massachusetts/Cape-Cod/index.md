@@ -5,15 +5,15 @@ state: Massachusetts
 city: Cape Cod
 neighborhood: 
 coordinates: 40.625428, -89.480619
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cape.cod
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.cape.cod
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

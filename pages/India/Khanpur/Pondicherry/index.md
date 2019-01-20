@@ -5,15 +5,15 @@ state: Khanpur
 city: Pondicherry
 neighborhood: 
 coordinates: 11.934057, 79.830645
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.pondicherry
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.pondicherry
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

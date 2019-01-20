@@ -5,15 +5,15 @@ state: Sichuan
 city: Chengdu
 neighborhood: 
 coordinates: 30.676555, 104.061278
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.chengdu
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.chengdu
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

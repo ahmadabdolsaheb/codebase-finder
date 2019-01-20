@@ -5,15 +5,15 @@ state:
 city: Mianwali
 neighborhood: 
 coordinates: 32.57451, 71.580041
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mianwali
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.mianwali
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

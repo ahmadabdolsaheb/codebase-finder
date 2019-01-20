@@ -5,15 +5,15 @@ state: Iowa
 city: Waterloo
 neighborhood: 
 coordinates: 43.465552, -80.521779
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.waterloo.iowa
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.waterloo.iowa
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

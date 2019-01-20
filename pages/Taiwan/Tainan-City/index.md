@@ -5,15 +5,15 @@ state: Tainan City
 city: 
 neighborhood: 
 coordinates: 22.9997281,120.2270277
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Tainan
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.Tainan
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

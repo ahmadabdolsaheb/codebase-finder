@@ -5,15 +5,15 @@ state:
 city: Guacara
 neighborhood: 
 coordinates: 10.227613, -67.877556
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.guacara
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.guacara
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

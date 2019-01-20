@@ -5,15 +5,15 @@ state:
 city: Burgos
 neighborhood: 
 coordinates: 42.343926, -3.696977
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.burgos
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.burgos
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

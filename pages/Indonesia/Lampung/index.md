@@ -5,15 +5,15 @@ state:
 city: Lampung
 neighborhood: 
 coordinates: -5.446071, 105.264374
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bandar.lampung
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.bandar.lampung
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

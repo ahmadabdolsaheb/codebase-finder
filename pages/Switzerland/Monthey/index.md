@@ -5,15 +5,15 @@ state:
 city: Monthey
 neighborhood: 
 coordinates: 46.255457, 6.953783
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.monthey
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.monthey
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

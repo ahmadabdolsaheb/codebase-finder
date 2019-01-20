@@ -5,15 +5,15 @@ state:
 city: Riga
 neighborhood: 
 coordinates: 56.949398, 24.105185
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.riga
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.riga
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

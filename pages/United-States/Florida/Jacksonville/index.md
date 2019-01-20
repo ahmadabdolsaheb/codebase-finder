@@ -5,15 +5,15 @@ state: Florida
 city: Jacksonville
 neighborhood: 
 coordinates: 30.332184, -81.655651
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jacksonville
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.jacksonville
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

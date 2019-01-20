@@ -5,15 +5,15 @@ state:
 city: Keffi
 neighborhood: 
 coordinates: 8.845318, 7.876834
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.keffi
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.keffi
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

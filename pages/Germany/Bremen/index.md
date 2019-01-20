@@ -5,15 +5,15 @@ state:
 city: Bremen
 neighborhood: 
 coordinates: 41.446436, -86.148058
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bremen
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.bremen
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

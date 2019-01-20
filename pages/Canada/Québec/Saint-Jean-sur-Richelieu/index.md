@@ -5,15 +5,15 @@ state: Québec
 city: Saint-Jean-sur-Richelieu
 neighborhood: 
 coordinates: 45.305688, -73.25334
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sjsr
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.sjsr
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state: Shandong
 city: Linyi
 neighborhood: 
 coordinates: 38.554469, 14.825471
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Linyi
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.Linyi
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state: Ontario
 city: Niagara region
 neighborhood: 
 coordinates: 43.11624, -79.24122
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.niagara
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.niagara
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

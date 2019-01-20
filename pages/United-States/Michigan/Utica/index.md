@@ -5,15 +5,15 @@ state: Michigan
 city: Utica
 neighborhood: 
 coordinates: 43.100903, -75.232664
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.uticaMI
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.uticaMI
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

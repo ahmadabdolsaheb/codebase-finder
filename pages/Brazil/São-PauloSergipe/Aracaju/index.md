@@ -5,15 +5,15 @@ state: São PauloSergipe
 city: Aracaju
 neighborhood: 
 coordinates: -10.916206, -37.077465
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.aracaju
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.aracaju
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

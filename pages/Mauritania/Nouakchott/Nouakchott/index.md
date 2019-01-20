@@ -5,15 +5,15 @@ state: Nouakchott
 city: Nouakchott
 neighborhood: 
 coordinates: 18.0735299,-15.9582372
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.nouakchott.mr
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.nouakchott.mr
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

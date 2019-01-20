@@ -5,15 +5,15 @@ state: Khanpur
 city: Ludhiana
 neighborhood: 
 coordinates: 30.909016, 75.851601
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ludhiana.punjab
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.ludhiana.punjab
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

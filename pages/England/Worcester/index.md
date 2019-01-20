@@ -5,15 +5,15 @@ state:
 city: Worcester
 neighborhood: 
 coordinates: 52.191829, -2.221601
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.worcester.uk
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.worcester.uk
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

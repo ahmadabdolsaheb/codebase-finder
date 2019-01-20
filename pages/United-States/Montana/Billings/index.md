@@ -5,15 +5,15 @@ state: Montana
 city: Billings
 neighborhood: 
 coordinates: 45.787496, -108.49607
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.billings
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.billings
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

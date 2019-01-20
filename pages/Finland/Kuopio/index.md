@@ -5,15 +5,15 @@ state:
 city: Kuopio
 neighborhood: 
 coordinates: 62.89246, 27.678184
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kuopio
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.kuopio
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

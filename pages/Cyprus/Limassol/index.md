@@ -5,15 +5,15 @@ state:
 city: Limassol
 neighborhood: 
 coordinates: 34.673564, 33.042341
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.limassol
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.limassol
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Malmö
 neighborhood: 
 coordinates: 55.605293, 13.000157
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.malmo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.malmo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Kolkata
 neighborhood: 
 coordinates: 22.567746, 88.347602
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kolkata
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.kolkata
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

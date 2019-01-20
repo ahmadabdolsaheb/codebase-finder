@@ -5,15 +5,15 @@ state:
 city: Uroshevac
 neighborhood: 
 coordinates: 42.3701844,21.1483281
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ferizaj
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.ferizaj
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

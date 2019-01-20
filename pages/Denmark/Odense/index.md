@@ -5,15 +5,15 @@ state:
 city: Odense
 neighborhood: 
 coordinates: 55.399723, 10.38521
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.odense
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.odense
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

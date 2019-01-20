@@ -5,15 +5,15 @@ state:
 city: Bihac
 neighborhood: 
 coordinates: 44.814641, 15.869086
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bihac
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.bihac
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

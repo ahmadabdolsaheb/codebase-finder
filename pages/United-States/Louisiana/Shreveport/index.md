@@ -5,15 +5,15 @@ state: Louisiana
 city: Shreveport
 neighborhood: 
 coordinates: 32.522183, -93.765194
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.shreveport
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.shreveport
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

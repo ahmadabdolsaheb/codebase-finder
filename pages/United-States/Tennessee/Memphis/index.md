@@ -5,15 +5,15 @@ state: Tennessee
 city: Memphis
 neighborhood: 
 coordinates: 35.149022, -90.051628
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Memphis
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.Memphis
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

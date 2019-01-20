@@ -5,15 +5,15 @@ state:
 city: Cluj-Napoca
 neighborhood: 
 coordinates: 46.769337, 23.59006
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cluj
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.cluj
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

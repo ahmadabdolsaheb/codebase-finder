@@ -5,15 +5,15 @@ state:
 city: Paris
 neighborhood: 
 coordinates: 48.85661, 2.351499
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.paris
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/11233530_544130219058080_3695438772452844527_o.jpg?oh=7f49153c8d5355a170f5268bb1eebe85&oe=59619045
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.paris
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/11233530_544130219058080_3695438772452844527_o.jpg?oh=7f49153c8d5355a170f5268bb1eebe85&oe=59619045
+cover-photo:
 ---

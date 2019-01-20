@@ -5,15 +5,15 @@ state: Paraná
 city: Maringá
 neighborhood: 
 coordinates: -23.425104, -51.938285
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecampmga
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecampmga
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

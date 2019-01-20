@@ -5,15 +5,15 @@ state:
 city: Itahari
 neighborhood: 
 coordinates: 26.664208, 87.276803
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.itahari
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.itahari
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

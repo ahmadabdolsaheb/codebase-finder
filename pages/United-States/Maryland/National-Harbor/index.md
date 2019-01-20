@@ -5,15 +5,15 @@ state: Maryland
 city: National Harbor
 neighborhood: 
 coordinates: 38.783436, -77.014142
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.national.harbor
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.national.harbor
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

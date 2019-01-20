@@ -5,15 +5,15 @@ state: Georgia
 city: Alpharetta
 neighborhood: 
 coordinates: 34.070958, -84.274733
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.alpharetta
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.alpharetta
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

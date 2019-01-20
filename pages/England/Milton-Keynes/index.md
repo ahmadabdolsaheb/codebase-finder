@@ -5,15 +5,15 @@ state:
 city: Milton Keynes
 neighborhood: 
 coordinates: 52.04298, -0.758961
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.milton.keynes
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.milton.keynes
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

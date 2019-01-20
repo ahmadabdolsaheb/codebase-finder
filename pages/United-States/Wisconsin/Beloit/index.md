@@ -5,15 +5,15 @@ state: Wisconsin
 city: Beloit
 neighborhood: 
 coordinates: 42.5083482,-89.03177649999999
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.beloit
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.beloit
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

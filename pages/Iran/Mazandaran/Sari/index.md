@@ -5,15 +5,15 @@ state: Mazandaran
 city: Sari
 neighborhood: 
 coordinates: 36.5658729,53.0586328
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.sari
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecamp.sari
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

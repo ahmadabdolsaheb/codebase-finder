@@ -5,15 +5,15 @@ state:
 city: Taiping
 neighborhood: 
 coordinates: 4.847834, 100.73716
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.taiping
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.taiping
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

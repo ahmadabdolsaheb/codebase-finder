@@ -5,15 +5,15 @@ state:
 city: Como
 neighborhood: 
 coordinates: 45.810681, 9.086303
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.camp.code.como
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.camp.code.como
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

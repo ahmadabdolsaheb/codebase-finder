@@ -5,15 +5,15 @@ state: Karnataka
 city: Mysore
 neighborhood: 
 coordinates: 12.305183, 76.655361
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mysore
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.mysore
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

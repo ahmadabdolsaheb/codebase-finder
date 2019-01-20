@@ -5,15 +5,15 @@ state:
 city: Banjul
 neighborhood: 
 coordinates: 13.45535, -16.575646
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.banjul
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.banjul
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

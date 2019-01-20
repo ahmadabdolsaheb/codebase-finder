@@ -5,15 +5,15 @@ state: Texas
 city: Laredo
 neighborhood: 
 coordinates: 27.506099, -99.508898
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.laredo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.laredo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

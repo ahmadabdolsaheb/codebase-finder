@@ -5,15 +5,15 @@ state:
 city: Stara Zagora
 neighborhood: 
 coordinates: 42.424742, 25.625724
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.stara.zagora
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.stara.zagora
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

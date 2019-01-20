@@ -5,15 +5,15 @@ state:
 city: Leipzig
 neighborhood: 
 coordinates: 51.339183, 12.381055
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.leipzig
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.leipzig
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

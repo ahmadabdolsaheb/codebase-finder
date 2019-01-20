@@ -5,15 +5,15 @@ state: Mato Grosso
 city: Lucas do Rio Verde
 neighborhood: 
 coordinates: -13.065455, -55.920077
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/1683221241966841
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/1683221241966841
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

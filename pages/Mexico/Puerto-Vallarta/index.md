@@ -5,15 +5,15 @@ state:
 city: Puerto Vallarta
 neighborhood: 
 coordinates: 20.609224, -105.233893
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.puerto.vallarta
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.puerto.vallarta
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

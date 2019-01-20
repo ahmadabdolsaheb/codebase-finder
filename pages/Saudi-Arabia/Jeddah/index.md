@@ -5,15 +5,15 @@ state:
 city: Jeddah
 neighborhood: 
 coordinates: 21.582225, 39.16404
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.jeddah
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecamp.jeddah
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

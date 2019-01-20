@@ -5,15 +5,15 @@ state:
 city: Wuerzburg
 neighborhood: 
 coordinates: 49.79245, 9.932966
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.wuerzburg
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.wuerzburg
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

@@ -5,15 +5,15 @@ state: Pennsylvania
 city: Scranton
 neighborhood: 
 coordinates: 41.408687, -75.662129
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.scranton
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.scranton
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

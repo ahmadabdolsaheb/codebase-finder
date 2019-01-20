@@ -5,15 +5,15 @@ state: New York
 city: Buffalo
 neighborhood: 
 coordinates: 42.886717, -78.878392
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.buffalo
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.buffalo
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

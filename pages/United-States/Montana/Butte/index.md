@@ -5,15 +5,15 @@ state: Montana
 city: Butte
 neighborhood: 
 coordinates: 45.984322, -112.501468
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.butte.montana
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.butte.montana
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

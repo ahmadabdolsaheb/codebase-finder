@@ -5,15 +5,15 @@ state:
 city: Ankara
 neighborhood: 
 coordinates: 39.922073, 32.853758
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ankara
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.ankara
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

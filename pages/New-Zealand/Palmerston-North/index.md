@@ -5,15 +5,15 @@ state:
 city: Palmerston North
 neighborhood: 
 coordinates: -40.354244, 175.613413
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.palmerston.north
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.palmerston.north
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

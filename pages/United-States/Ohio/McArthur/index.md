@@ -5,15 +5,15 @@ state: Ohio
 city: McArthur
 neighborhood: 
 coordinates: 39.2464596,-82.47848979999999
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.mcarthur.oh
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecamp.mcarthur.oh
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

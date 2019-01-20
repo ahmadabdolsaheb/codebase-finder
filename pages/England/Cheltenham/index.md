@@ -5,15 +5,15 @@ state:
 city: Cheltenham
 neighborhood: 
 coordinates: 51.899569, -2.071156
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cheltenham
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.cheltenham
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

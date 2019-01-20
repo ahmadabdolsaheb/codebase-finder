@@ -5,15 +5,15 @@ state: undefined
 city: undefined
 neighborhood: One
 coordinates: undefined
-plusCode:
-socialName: Facebook
-socialURL: undefined
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: undefined
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: undefined
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: undefined
+cover-photo:
 ---

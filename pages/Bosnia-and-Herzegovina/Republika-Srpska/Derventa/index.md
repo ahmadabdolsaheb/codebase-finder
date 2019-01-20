@@ -5,15 +5,15 @@ state: Republika Srpska
 city: Derventa
 neighborhood: 
 coordinates: 44.97839, 17.90779
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.derventa/
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/freecodecamp.derventa/
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

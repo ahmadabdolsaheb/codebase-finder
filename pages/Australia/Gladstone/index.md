@@ -5,15 +5,15 @@ state:
 city: Gladstone
 neighborhood: 
 coordinates: -23.843172, 151.256132
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.gladstone.qld
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.gladstone.qld
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

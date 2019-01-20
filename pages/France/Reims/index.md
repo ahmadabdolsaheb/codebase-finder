@@ -5,15 +5,15 @@ state:
 city: Reims
 neighborhood: 
 coordinates: 49.257789, 4.031926
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.reims
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.reims
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

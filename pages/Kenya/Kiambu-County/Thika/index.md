@@ -5,15 +5,15 @@ state: Kiambu County
 city: Thika
 neighborhood: 
 coordinates: -1.0387569,37.0833753
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.thika
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.thika
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

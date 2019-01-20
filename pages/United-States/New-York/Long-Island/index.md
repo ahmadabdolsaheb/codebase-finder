@@ -5,15 +5,15 @@ state: New York
 city: Long Island
 neighborhood: 
 coordinates: 23.303, -75.105878
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.long.island.ny
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.long.island.ny
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

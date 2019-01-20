@@ -5,15 +5,15 @@ state: Indiana
 city: Lafayette
 neighborhood: 
 coordinates: 40.4167022,-86.87528689999999
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.lafayette.indiana
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.lafayette.indiana
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

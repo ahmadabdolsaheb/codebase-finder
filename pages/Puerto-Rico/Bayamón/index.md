@@ -5,15 +5,15 @@ state:
 city: Bayamón
 neighborhood: 
 coordinates: 18.389396,-66.1653224
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bayamon.pr
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.bayamon.pr
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

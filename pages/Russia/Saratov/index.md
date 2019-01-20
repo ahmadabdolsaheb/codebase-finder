@@ -5,15 +5,15 @@ state:
 city: Saratov
 neighborhood: 
 coordinates: 51.530018, 46.034685
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.saratov
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.saratov
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

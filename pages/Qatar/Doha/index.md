@@ -5,15 +5,15 @@ state:
 city: Doha
 neighborhood: 
 coordinates: 25.301496, 51.499667
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.doha
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.doha
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

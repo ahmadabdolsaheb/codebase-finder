@@ -5,15 +5,15 @@ state:
 city: Rockhampton
 neighborhood: 
 coordinates: -23.37825, 150.513444
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rockhampton
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.rockhampton
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

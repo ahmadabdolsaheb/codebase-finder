@@ -5,15 +5,15 @@ state:
 city: Darwin
 neighborhood: 
 coordinates: -12.46044, 130.841047
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.darwin
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.darwin
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

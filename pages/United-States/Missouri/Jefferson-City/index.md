@@ -5,15 +5,15 @@ state: Missouri
 city: Jefferson City
 neighborhood: 
 coordinates: 38.577359, -92.172426
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jeffersoncity
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.jeffersoncity
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

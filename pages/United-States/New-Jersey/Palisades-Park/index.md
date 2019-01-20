@@ -5,15 +5,15 @@ state: New Jersey
 city: Palisades Park
 neighborhood: 
 coordinates: 40.848156, -73.997639
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.palisadespark
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.palisadespark
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

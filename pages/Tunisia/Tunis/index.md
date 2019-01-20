@@ -5,15 +5,15 @@ state:
 city: Tunis
 neighborhood: 
 coordinates: 36.800108, 10.184794
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.tunis
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.tunis
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

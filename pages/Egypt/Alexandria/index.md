@@ -5,15 +5,15 @@ state:
 city: Alexandria
 neighborhood: 
 coordinates: 31.199004, 29.894379
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.alex
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.alex
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

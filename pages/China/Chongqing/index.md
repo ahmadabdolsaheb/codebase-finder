@@ -5,15 +5,15 @@ state:
 city: Chongqing
 neighborhood: 
 coordinates: 29.558571, 106.549282
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.chongqing
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.chongqing
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

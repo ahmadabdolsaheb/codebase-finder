@@ -5,15 +5,15 @@ state:
 city: Zaki Biam
 neighborhood: 
 coordinates: 7.510068, 9.613513
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.zakibiam
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.zakibiam
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---

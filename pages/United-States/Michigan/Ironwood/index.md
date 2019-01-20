@@ -5,15 +5,15 @@ state: Michigan
 city: Ironwood
 neighborhood: 
 coordinates: 46.454571, -90.168582
-plusCode:
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ironwood
-chatName:
-chatURL:
-eventName:
-eventURL:
-leaderName:
-leaderURL:
-oldPhoto: 
-coverPhoto:
+plus-code:
+social-name: Facebook
+social-url: https://www.facebook.com/groups/free.code.camp.ironwood
+chat-name:
+chat-url:
+event-name:
+event-url:
+leader-name:
+leader-url:
+old-photo: 
+cover-photo:
 ---
