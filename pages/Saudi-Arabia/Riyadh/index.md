@@ -5,15 +5,15 @@ state:
 city: Riyadh
 neighborhood: 
 coordinates: 24.631969, 46.715065
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.Riyadh
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.Riyadh
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

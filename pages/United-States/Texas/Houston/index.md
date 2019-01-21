@@ -5,15 +5,15 @@ state: Texas
 city: Houston
 neighborhood: 
 coordinates: 29.758938, -95.367697
-plus-code:
-social-name: Facebook
-social-url: http://www.freecodecamphouston.com
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: http://www.freecodecamphouston.com
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

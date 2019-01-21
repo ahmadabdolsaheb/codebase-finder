@@ -5,15 +5,15 @@ state: South Carolina
 city: Laurens
 neighborhood: 
 coordinates: 34.4990116,-82.0142597
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.laurens.sc/
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.laurens.sc/
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

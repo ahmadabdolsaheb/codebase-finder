@@ -5,15 +5,15 @@ state: UtahVermont
 city: Burlington
 neighborhood: 
 coordinates: 44.472399, -73.211494
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.burlington.VT
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.burlington.VT
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

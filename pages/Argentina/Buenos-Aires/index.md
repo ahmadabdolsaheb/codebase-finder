@@ -5,15 +5,15 @@ state:
 city: Buenos Aires
 neighborhood: 
 coordinates: -34.612869, -58.445979
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.buenos.aires
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/14124459_10154485628878593_240313829817953595_o.jpg?oh=37a5699a75a8ffbe8153a5c0db99f850&oe=5957EA18
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.buenos.aires
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/14124459_10154485628878593_240313829817953595_o.jpg?oh=37a5699a75a8ffbe8153a5c0db99f850&oe=5957EA18
+cover_photo:
 ---

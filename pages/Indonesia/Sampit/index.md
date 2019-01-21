@@ -5,15 +5,15 @@ state:
 city: Sampit
 neighborhood: 
 coordinates: 33.364056, -79.458672
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.sampit
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.sampit
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

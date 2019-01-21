@@ -5,15 +5,15 @@ state: Massachusetts
 city: Worcester
 neighborhood: 
 coordinates: 42.2755407, -71.8777779
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.worcester.ma
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.worcester.ma
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

@@ -5,15 +5,15 @@ state:
 city: Valparaiso
 neighborhood: 
 coordinates: -33.046247, -71.619803
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.valparaiso
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.valparaiso
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

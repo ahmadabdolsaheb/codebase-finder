@@ -5,15 +5,15 @@ state:
 city: Awka
 neighborhood: 
 coordinates: 6.210095, 7.074115
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.awka
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.awka
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

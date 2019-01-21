@@ -5,15 +5,15 @@ state: Madhya Pradesh
 city: Gwalior
 neighborhood: 
 coordinates: 26.203725, 78.157363
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.Gwalior
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.Gwalior
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

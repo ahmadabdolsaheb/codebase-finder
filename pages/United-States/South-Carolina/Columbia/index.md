@@ -5,15 +5,15 @@ state: South Carolina
 city: Columbia
 neighborhood: 
 coordinates: 34.000749, -81.034331
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.columbia.sc
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.columbia.sc
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

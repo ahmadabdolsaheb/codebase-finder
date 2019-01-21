@@ -5,15 +5,15 @@ state:
 city: San Juan
 neighborhood: 
 coordinates: 18.465299, -66.116666
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.sanjuan.pr
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.sanjuan.pr
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

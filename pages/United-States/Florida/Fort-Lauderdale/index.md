@@ -5,15 +5,15 @@ state: Florida
 city: Fort Lauderdale
 neighborhood: 
 coordinates: 26.122308, -80.143379
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.ftlauderdale
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.ftlauderdale
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---

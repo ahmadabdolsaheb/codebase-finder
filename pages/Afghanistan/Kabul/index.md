@@ -5,15 +5,15 @@ state:
 city: Kabul
 neighborhood: 
 coordinates: 34.519706, 69.16243
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.kabul
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/1909236_804880492967338_4532988271657391692_o.jpg?oh=abf0b929866e2640d518e886759d094d&oe=5958C9E2
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.kabul
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/1909236_804880492967338_4532988271657391692_o.jpg?oh=abf0b929866e2640d518e886759d094d&oe=5958C9E2
+cover_photo:
 ---

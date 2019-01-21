@@ -5,15 +5,15 @@ state: São Paulo
 city: São José dos Campos
 neighborhood: 
 coordinates: -23.180636, -45.890662
-plus-code:
-social-name: Facebook
-social-url: https://www.facebook.com/groups/free.code.camp.sjc
-chat-name:
-chat-url:
-event-name:
-event-url:
-leader-name:
-leader-url:
-old-photo: 
-cover-photo:
+plus_code:
+social_name: Facebook
+social_url: https://www.facebook.com/groups/free.code.camp.sjc
+chat_name:
+chat_url:
+event_name:
+event_url:
+leader_name:
+leader_url:
+old_photo: 
+cover_photo:
 ---
