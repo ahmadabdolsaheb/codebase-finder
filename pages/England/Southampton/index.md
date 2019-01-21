@@ -1,19 +1,19 @@
 ---
 title: Southampton
 country: England
-state: 
+state: undefined
 city: Southampton
-neighborhood: 
+neighborhood: undefined
 coordinates: 50.902535, -1.404189
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/FCC.Southampton
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/FCC.Southampton
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

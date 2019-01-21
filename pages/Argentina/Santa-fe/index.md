@@ -1,19 +1,19 @@
 ---
 title: Santa fe
 country: Argentina
-state: 
+state: undefined
 city: Santa fe
-neighborhood: 
+neighborhood: undefined
 coordinates: 35.687, -105.9378
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.santa.fe
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.santa.fe
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

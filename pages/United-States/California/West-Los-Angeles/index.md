@@ -3,17 +3,17 @@ title: West Los Angeles
 country: United States
 state: California
 city: West Los Angeles
-neighborhood: 
+neighborhood: undefined
 coordinates: 34.046399, -118.448135
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/freecodecampwestla
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/freecodecampwestla
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

@@ -1,19 +1,19 @@
 ---
 title: Douglas
 country: Isle of Man
-state: 
+state: undefined
 city: Douglas
-neighborhood: 
+neighborhood: undefined
 coordinates: 54.149774, -4.477902
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.douglas
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.douglas
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

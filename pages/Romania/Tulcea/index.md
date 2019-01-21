@@ -1,19 +1,19 @@
 ---
 title: Tulcea
 country: Romania
-state: 
+state: undefined
 city: Tulcea
-neighborhood: 
+neighborhood: undefined
 coordinates: 45.17793, 28.801892
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.tulcea
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.tulcea
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

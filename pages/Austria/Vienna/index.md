@@ -1,19 +1,19 @@
 ---
 title: Vienna
 country: Austria
-state: 
+state: undefined
 city: Vienna
-neighborhood: 
+neighborhood: undefined
 coordinates: 48.208354, 16.372504
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.vienna.austria
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.vienna.austria
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

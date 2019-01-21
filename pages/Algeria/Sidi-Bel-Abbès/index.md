@@ -1,19 +1,19 @@
 ---
 title: Sidi Bel Abbès
 country: Algeria
-state: 
+state: undefined
 city: Sidi Bel Abbès
-neighborhood: 
+neighborhood: undefined
 coordinates: 35.205684, -0.62854
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.sidibelabbes
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.sidibelabbes
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

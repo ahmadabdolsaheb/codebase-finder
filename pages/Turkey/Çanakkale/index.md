@@ -1,19 +1,19 @@
 ---
 title: Çanakkale
 country: Turkey
-state: 
+state: undefined
 city: Çanakkale
-neighborhood: 
+neighborhood: undefined
 coordinates: 40.150081, 26.414887
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.canakkale
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.canakkale
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

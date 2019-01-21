@@ -1,19 +1,19 @@
 ---
 title: Maracaibo
 country: Venezuela
-state: 
+state: undefined
 city: Maracaibo
-neighborhood: 
+neighborhood: undefined
 coordinates: 10.665156, -71.623075
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.maracaibo
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.maracaibo
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

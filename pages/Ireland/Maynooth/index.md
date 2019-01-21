@@ -1,19 +1,19 @@
 ---
 title: Maynooth
 country: Ireland
-state: 
+state: undefined
 city: Maynooth
-neighborhood: 
+neighborhood: undefined
 coordinates: 53.383024, -6.592281
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/freecodecampmaynooth
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/freecodecampmaynooth
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

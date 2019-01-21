@@ -1,19 +1,19 @@
 ---
 title: Toucheng
 country: Taiwan
-state: 
+state: undefined
 city: Toucheng
-neighborhood: 
+neighborhood: undefined
 coordinates: 24.951152, 121.492128
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.toucheng.taiwan
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.toucheng.taiwan
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

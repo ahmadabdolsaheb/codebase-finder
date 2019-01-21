@@ -1,19 +1,19 @@
 ---
 title: Pasto
 country: Colombia
-state: 
+state: undefined
 city: Pasto
-neighborhood: 
+neighborhood: undefined
 coordinates: 1.214629, -77.278252
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.pasto
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.pasto
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

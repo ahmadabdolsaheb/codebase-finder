@@ -3,17 +3,17 @@ title: João Pessoa
 country: Brazil
 state: Paraíba
 city: João Pessoa
-neighborhood: 
+neighborhood: undefined
 coordinates: -7.114784, -34.889798
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.joao.pessoa
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.joao.pessoa
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

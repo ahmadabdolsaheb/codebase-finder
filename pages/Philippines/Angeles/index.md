@@ -1,19 +1,19 @@
 ---
 title: Angeles
 country: Philippines
-state: 
+state: undefined
 city: Angeles
-neighborhood: 
+neighborhood: undefined
 coordinates: 15.139966, 120.587918
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.angelescity.pampanga.philippines
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.angelescity.pampanga.philippines
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

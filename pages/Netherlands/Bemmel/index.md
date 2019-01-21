@@ -1,19 +1,19 @@
 ---
 title: Bemmel
 country: Netherlands
-state: 
+state: undefined
 city: Bemmel
-neighborhood: 
+neighborhood: undefined
 coordinates: 51.899913, 5.893718
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.bemmel
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.bemmel
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

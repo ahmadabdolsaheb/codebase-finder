@@ -1,19 +1,19 @@
 ---
 title: Beit Shemesh
 country: Israel
-state: 
+state: undefined
 city: Beit Shemesh
-neighborhood: 
+neighborhood: undefined
 coordinates: 31.746214, 34.988683
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.beitshemesh
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.beitshemesh
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

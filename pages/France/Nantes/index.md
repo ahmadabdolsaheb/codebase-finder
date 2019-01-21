@@ -1,19 +1,19 @@
 ---
 title: Nantes
 country: France
-state: 
+state: undefined
 city: Nantes
-neighborhood: 
+neighborhood: undefined
 coordinates: 47.218516, -1.560235
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.nantes
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.nantes
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

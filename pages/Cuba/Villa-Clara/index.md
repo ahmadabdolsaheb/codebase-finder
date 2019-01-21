@@ -1,19 +1,19 @@
 ---
 title: Villa Clara
 country: Cuba
-state: 
+state: undefined
 city: Villa Clara
-neighborhood: 
+neighborhood: undefined
 coordinates: 4.330746, -74.367409
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.villa.clara
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.villa.clara
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

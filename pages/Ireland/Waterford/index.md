@@ -1,19 +1,19 @@
 ---
 title: Waterford
 country: Ireland
-state: 
+state: undefined
 city: Waterford
-neighborhood: 
+neighborhood: undefined
 coordinates: 52.245157, -7.101979
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.waterford
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.waterford
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

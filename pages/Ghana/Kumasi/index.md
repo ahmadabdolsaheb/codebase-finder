@@ -1,19 +1,19 @@
 ---
 title: Kumasi
 country: Ghana
-state: 
+state: undefined
 city: Kumasi
-neighborhood: 
+neighborhood: undefined
 coordinates: 6.698081, -1.62304
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.kumasi
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.kumasi
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

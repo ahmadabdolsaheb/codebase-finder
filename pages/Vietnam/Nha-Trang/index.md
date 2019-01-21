@@ -1,19 +1,19 @@
 ---
 title: Nha Trang
 country: Vietnam
-state: 
+state: undefined
 city: Nha Trang
-neighborhood: 
+neighborhood: undefined
 coordinates: 12.243169, 109.189868
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.nha.trang
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.nha.trang
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

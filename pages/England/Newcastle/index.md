@@ -1,19 +1,19 @@
 ---
 title: Newcastle
 country: England
-state: 
+state: undefined
 city: Newcastle
-neighborhood: 
+neighborhood: undefined
 coordinates: 54.977092, -1.614206
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.newcastle
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.newcastle
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

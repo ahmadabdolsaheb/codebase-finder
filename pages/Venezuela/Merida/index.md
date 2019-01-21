@@ -1,19 +1,19 @@
 ---
 title: Merida
 country: Venezuela
-state: 
+state: undefined
 city: Merida
-neighborhood: 
+neighborhood: undefined
 coordinates: 38.917467, -6.344398
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.merida.venezuela
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.merida.venezuela
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

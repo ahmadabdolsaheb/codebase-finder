@@ -1,19 +1,19 @@
 ---
 title: Maroochydore
 country: Australia
-state: 
+state: undefined
 city: Maroochydore
-neighborhood: 
+neighborhood: undefined
 coordinates: -26.655652, 153.094668
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.maroochydore
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.maroochydore
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

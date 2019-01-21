@@ -1,19 +1,19 @@
 ---
 title: Kota Kinabalu
 country: Malaysia
-state: 
+state: undefined
 city: Kota Kinabalu
-neighborhood: 
+neighborhood: undefined
 coordinates: 5.978007, 116.072899
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/Free.code.camp.KK.Sabah
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/Free.code.camp.KK.Sabah
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

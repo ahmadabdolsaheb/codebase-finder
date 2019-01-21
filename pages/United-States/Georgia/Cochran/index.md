@@ -3,17 +3,17 @@ title: Cochran
 country: United States
 state: Georgia
 city: Cochran
-neighborhood: 
+neighborhood: undefined
 coordinates: 32.386828, -83.35461
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.cochran.ga
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.cochran.ga
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

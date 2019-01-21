@@ -1,19 +1,19 @@
 ---
 title: Tapachula
 country: Mexico
-state: 
+state: undefined
 city: Tapachula
-neighborhood: 
+neighborhood: undefined
 coordinates: 14.909941, -92.264971
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.tapachula
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.tapachula
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---

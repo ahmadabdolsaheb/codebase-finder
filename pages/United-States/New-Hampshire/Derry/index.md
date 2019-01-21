@@ -3,17 +3,17 @@ title: Derry
 country: United States
 state: New Hampshire
 city: Derry
-neighborhood: 
+neighborhood: undefined
 coordinates: 54.991942, -7.316801
-plus_code:
-social_name: Facebook
-social_url: https://www.facebook.com/groups/free.code.camp.derry.nh
-chat_name:
-chat_url:
-event_name:
-event_url:
-leader_name:
-leader_url:
-old_photo: 
-cover_photo:
+plusCode: undefined
+socialName: Facebook
+socialURL: https://www.facebook.com/groups/free.code.camp.derry.nh
+chatName: undefined
+chatURL: undefined
+eventName: undefined
+eventURL: undefined
+leaderName: undefined
+leaderURL: undefined
+oldPhoto: undefined
+coverPhoto: undefined
 ---
