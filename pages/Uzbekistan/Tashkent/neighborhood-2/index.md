@@ -4,7 +4,7 @@ location:
   country: Uzbekistan
   state: 
   city: Tashkent
-  neighborhood: Two
+  neighborhood: Neighborhood 2
   coordinates: 41.312336, 69.278708
   plusCode: ''
 social:

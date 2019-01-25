@@ -4,7 +4,7 @@ location:
   country: India
   state: Karnataka
   city: Bengaluru
-  neighborhood: Two
+  neighborhood: Neighborhood 2
   coordinates: 12.9657327,77.6000341
   plusCode: ''
 social:

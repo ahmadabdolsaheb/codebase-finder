@@ -1,15 +1,15 @@
 ---
 title: neighborhood-1
 location:
-  country: 
+  country: Uzbekistan
   state: 
-  city: 
-  neighborhood: One
-  coordinates: 
+  city: Tashkent
+  neighborhood: Neighborhood 1
+  coordinates: 41.312336, 69.278708
   plusCode: ''
 social:
   name: Facebook page
-  URL: 
+  URL: https://www.facebook.com/groups/freecodecamp.tashkent.city
 chat:
   name: ''
   URL: ''

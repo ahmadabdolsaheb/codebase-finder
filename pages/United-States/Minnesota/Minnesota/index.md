@@ -1,10 +1,10 @@
 ---
-title: neighborhood-2
+title: Minnesota
 location:
   country: United States
   state: Minnesota
-  city: 
-  neighborhood: Two
+  city: Minnesota
+  neighborhood: 
   coordinates: 46.489831, -94.584065
   plusCode: ''
 social:

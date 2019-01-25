@@ -4,7 +4,7 @@ location:
   country: United States
   state: Minnesota
   city: Rochester
-  neighborhood: Two
+  neighborhood: Neighborhood 2
   coordinates: 44.021987,-92.462571
   plusCode: ''
 social:

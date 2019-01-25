@@ -4,7 +4,7 @@ location:
   country: United States
   state: Massachusetts
   city: Boston
-  neighborhood: Two
+  neighborhood: Neighborhood 2
   coordinates: 42.37021370000001,-71.0388601
   plusCode: ''
 social:

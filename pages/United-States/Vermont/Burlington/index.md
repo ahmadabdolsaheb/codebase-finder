@@ -2,7 +2,7 @@
 title: Burlington
 location:
   country: United States
-  state: UtahVermont
+  state: Vermont
   city: Burlington
   neighborhood: 
   coordinates: 44.472399, -73.211494

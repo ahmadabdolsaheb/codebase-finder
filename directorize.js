@@ -7,6 +7,24 @@ var mainDirectory = "pages";
 let lastItemMatter = ``;
 rimraf.sync(mainDirectory);
 
+console.log('App started sorting');
+
+function standarize(item){
+  return (item.country+item.state+item.city).toLowerCase().replace(/ +?/g, '')
+}
+
+// obj = obj.sort(function(a, b) {
+//   let obj1 = standarize(a);
+//   let obj2 = standarize(b);
+//   if(obj1 < obj2){
+//     return -1;
+//   }else{
+//     return 1;
+//   }
+// });
+
+console.log('App finished sorting');
+
 for(let i of obj){
   let directory = mainDirectory + "/";
       lastItemMatter = ``;
@@ -61,19 +79,20 @@ for(let i of obj){
   //recreate the current directory's md file for navigation
   }else{
     var oldMd = fs.readFileSync(directory + '/index.md', 'utf8');
-    var oldMtr = matter(lastItemMatter).data;
-    let lastTitle = (matter(oldMd).data.title);
+    var oldMtr = matter(oldMd).data;
+    let lastTitle = oldMtr.title;
     let newItem = newItemMaker(lastTitle);
-
+    console.log(oldMtr);
     fs.unlinkSync(directory+'/index.md');
     fs.writeFileSync(directory + "/index.md", newItem);
 
     fs.mkdirSync(directory + "/neighborhood-1");
-    var neighborhood1item = mattermaker("neighborhood-1", oldMtr.country, oldMtr.state, oldMtr.city,"One" , oldMtr.coordinates, oldMtr.photoUrl, oldMtr.url);
+
+    var neighborhood1item = mattermaker("neighborhood-1", oldMtr.location.country, oldMtr.location.state, oldMtr.location.city,"Neighborhood 1" , oldMtr.location.coordinates, oldMtr.photos.URL, oldMtr.social.URL);
     fs.writeFileSync(directory + "/neighborhood-1" + "/index.md", neighborhood1item);
 
     fs.mkdirSync(directory + "/neighborhood-2");
-    let neighborhood2item = mattermaker("neighborhood-2", i.country, i.state, i.city,"Two", i.coordinates, i.photoUrl, i.url);
+    let neighborhood2item = mattermaker("neighborhood-2", i.country, i.state, i.city,"Neighborhood 2", i.coordinates, i.photoUrl, i.url);
     fs.writeFileSync(directory + "/neighborhood-2" + "/index.md", neighborhood2item);
   }
 }

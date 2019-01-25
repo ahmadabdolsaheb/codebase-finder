@@ -1,15 +1,15 @@
 ---
 title: neighborhood-1
 location:
-  country: 
-  state: 
-  city: 
-  neighborhood: One
-  coordinates: 
+  country: India
+  state: Karnataka
+  city: Bengaluru
+  neighborhood: Neighborhood 1
+  coordinates: 12.97912, 77.5913
   plusCode: ''
 social:
   name: Facebook page
-  URL: 
+  URL: https://www.facebook.com/groups/free.code.camp.bengaluru
 chat:
   name: ''
   URL: ''
