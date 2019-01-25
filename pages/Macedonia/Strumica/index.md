@@ -1,6 +1,5 @@
 ---
 title: Strumica
-
 location:
   country: Macedonia
   state: 

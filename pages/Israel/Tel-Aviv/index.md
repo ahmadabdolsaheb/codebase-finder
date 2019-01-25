@@ -1,6 +1,5 @@
 ---
 title: Tel Aviv
-
 location:
   country: Israel
   state: 

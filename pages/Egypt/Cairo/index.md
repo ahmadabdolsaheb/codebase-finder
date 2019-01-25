@@ -1,6 +1,5 @@
 ---
 title: Cairo
-
 location:
   country: Egypt
   state: 

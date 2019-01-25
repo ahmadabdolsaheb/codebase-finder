@@ -1,6 +1,5 @@
 ---
 title: Melitopol
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Vejle
-
 location:
   country: Denmark
   state: 

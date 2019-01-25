@@ -1,6 +1,5 @@
 ---
 title: Çanakkale
-
 location:
   country: Turkey
   state: 

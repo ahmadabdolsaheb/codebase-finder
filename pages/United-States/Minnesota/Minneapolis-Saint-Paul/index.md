@@ -1,6 +1,5 @@
 ---
 title: Minneapolis-Saint Paul
-
 location:
   country: United States
   state: Minnesota

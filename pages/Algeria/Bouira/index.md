@@ -1,6 +1,5 @@
 ---
 title: Bouira
-
 location:
   country: Algeria
   state: 

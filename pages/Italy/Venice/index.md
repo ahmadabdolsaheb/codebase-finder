@@ -1,6 +1,5 @@
 ---
 title: Venice
-
 location:
   country: Italy
   state: 

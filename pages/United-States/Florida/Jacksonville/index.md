@@ -1,6 +1,5 @@
 ---
 title: Jacksonville
-
 location:
   country: United States
   state: Florida

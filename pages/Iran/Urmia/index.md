@@ -1,6 +1,5 @@
 ---
 title: Urmia
-
 location:
   country: Iran
   state: 

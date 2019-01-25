@@ -1,6 +1,5 @@
 ---
 title: Las Vegas
-
 location:
   country: United States
   state: Nevada

@@ -1,6 +1,5 @@
 ---
 title: Khanpur
-
 location:
   country: Pakistan
   state: Punjab

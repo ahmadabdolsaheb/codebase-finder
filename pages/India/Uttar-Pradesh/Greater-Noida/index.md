@@ -1,6 +1,5 @@
 ---
 title: Greater Noida
-
 location:
   country: India
   state: Uttar Pradesh

@@ -1,6 +1,5 @@
 ---
 title: Metairie
-
 location:
   country: United States
   state: Louisiana

@@ -1,6 +1,5 @@
 ---
 title: Ticino
-
 location:
   country: Switzerland
   state: 

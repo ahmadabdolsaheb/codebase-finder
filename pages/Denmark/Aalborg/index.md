@@ -1,6 +1,5 @@
 ---
 title: Aalborg
-
 location:
   country: Denmark
   state: 

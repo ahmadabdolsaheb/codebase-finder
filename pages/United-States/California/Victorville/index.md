@@ -1,6 +1,5 @@
 ---
 title: Victorville
-
 location:
   country: United States
   state: California

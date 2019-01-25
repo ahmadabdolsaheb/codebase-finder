@@ -1,6 +1,5 @@
 ---
 title: Oshawa
-
 location:
   country: Canada
   state: Ontario

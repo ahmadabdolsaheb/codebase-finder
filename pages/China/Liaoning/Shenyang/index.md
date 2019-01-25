@@ -1,6 +1,5 @@
 ---
 title: Shenyang
-
 location:
   country: China
   state: Liaoning

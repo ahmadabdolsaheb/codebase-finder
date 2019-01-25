@@ -1,6 +1,5 @@
 ---
 title: Perry
-
 location:
   country: United States
   state: Iowa

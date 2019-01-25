@@ -1,6 +1,5 @@
 ---
 title: Palisades Park
-
 location:
   country: United States
   state: New Jersey

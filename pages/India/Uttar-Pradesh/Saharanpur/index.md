@@ -1,6 +1,5 @@
 ---
 title: Saharanpur
-
 location:
   country: India
   state: Uttar Pradesh

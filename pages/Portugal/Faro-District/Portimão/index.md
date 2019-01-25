@@ -1,6 +1,5 @@
 ---
 title: Portimão
-
 location:
   country: Portugal
   state: Faro District

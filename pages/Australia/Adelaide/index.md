@@ -1,6 +1,5 @@
 ---
 title: Adelaide
-
 location:
   country: Australia
   state: 

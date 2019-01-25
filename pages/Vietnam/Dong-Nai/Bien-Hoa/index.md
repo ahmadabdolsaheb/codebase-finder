@@ -1,6 +1,5 @@
 ---
 title: Bien Hoa
-
 location:
   country: Vietnam
   state: Dong Nai

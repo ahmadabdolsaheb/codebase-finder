@@ -1,6 +1,5 @@
 ---
 title: Emporia
-
 location:
   country: United States
   state: Virginia

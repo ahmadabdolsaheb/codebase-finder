@@ -1,6 +1,5 @@
 ---
 title: Magnitogorsk
-
 location:
   country: Russia
   state: 

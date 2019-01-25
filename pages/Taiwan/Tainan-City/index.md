@@ -1,6 +1,5 @@
 ---
 title: Tainan City
-
 location:
   country: Taiwan
   state: Tainan City

@@ -1,6 +1,5 @@
 ---
 title: Imphal
-
 location:
   country: India
   state: Manipur

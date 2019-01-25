@@ -1,6 +1,5 @@
 ---
 title: Mainz
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bacau
-
 location:
   country: Romania
   state: 

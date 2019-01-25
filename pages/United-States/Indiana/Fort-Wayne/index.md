@@ -1,6 +1,5 @@
 ---
 title: Fort Wayne
-
 location:
   country: United States
   state: Indiana

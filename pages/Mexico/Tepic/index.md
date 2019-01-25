@@ -1,6 +1,5 @@
 ---
 title: Tepic
-
 location:
   country: Mexico
   state: 

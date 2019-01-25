@@ -1,6 +1,5 @@
 ---
 title: Tegucigalpa
-
 location:
   country: Honduras
   state: 

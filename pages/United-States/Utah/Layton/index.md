@@ -1,6 +1,5 @@
 ---
 title: Layton
-
 location:
   country: United States
   state: Utah

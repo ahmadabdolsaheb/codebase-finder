@@ -1,6 +1,5 @@
 ---
 title: Auburn
-
 location:
   country: United States
   state: Maine

@@ -1,6 +1,5 @@
 ---
 title: Curitiba
-
 location:
   country: Brazil
   state: Paraná

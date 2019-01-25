@@ -1,6 +1,5 @@
 ---
 title: Cần Thơ
-
 location:
   country: Vietnam
   state: Cần Thơ

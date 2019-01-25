@@ -1,6 +1,5 @@
 ---
 title: Koch Bihar
-
 location:
   country: India
   state: 

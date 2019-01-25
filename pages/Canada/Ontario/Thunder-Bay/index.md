@@ -1,6 +1,5 @@
 ---
 title: Thunder Bay
-
 location:
   country: Canada
   state: Ontario

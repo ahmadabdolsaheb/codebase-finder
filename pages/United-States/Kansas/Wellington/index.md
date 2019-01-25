@@ -1,6 +1,5 @@
 ---
 title: Wellington
-
 location:
   country: United States
   state: Kansas

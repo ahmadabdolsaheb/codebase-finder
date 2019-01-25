@@ -1,6 +1,5 @@
 ---
 title: Murcia
-
 location:
   country: Spain
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Berne
-
 location:
   country: Switzerland
   state: 

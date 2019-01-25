@@ -1,6 +1,5 @@
 ---
 title: Groningen
-
 location:
   country: Netherlands
   state: 

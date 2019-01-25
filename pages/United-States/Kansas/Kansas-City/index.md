@@ -1,6 +1,5 @@
 ---
 title: Kansas City
-
 location:
   country: United States
   state: Kansas

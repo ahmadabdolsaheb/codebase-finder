@@ -1,6 +1,5 @@
 ---
 title: Novi Sad
-
 location:
   country: Serbia
   state: 

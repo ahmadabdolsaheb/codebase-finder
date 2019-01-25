@@ -1,6 +1,5 @@
 ---
 title: Research Triangle Park
-
 location:
   country: United States
   state: North Carolina

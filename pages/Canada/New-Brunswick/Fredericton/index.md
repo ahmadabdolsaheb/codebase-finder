@@ -1,6 +1,5 @@
 ---
 title: Fredericton
-
 location:
   country: Canada
   state: New Brunswick

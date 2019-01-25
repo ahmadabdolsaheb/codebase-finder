@@ -1,6 +1,5 @@
 ---
 title: Prishtina
-
 location:
   country: Kosovo
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Vizianagaram
-
 location:
   country: India
   state: Andhra Pradesh

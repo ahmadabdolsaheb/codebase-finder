@@ -1,6 +1,5 @@
 ---
 title: Dunedin
-
 location:
   country: New Zealand
   state: 

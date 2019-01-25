@@ -1,6 +1,5 @@
 ---
 title: South Atlanta suburbs
-
 location:
   country: United States
   state: Georgia

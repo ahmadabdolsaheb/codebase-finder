@@ -1,6 +1,5 @@
 ---
 title: Juiz de Fora
-
 location:
   country: Brazil
   state: Minas Gerais

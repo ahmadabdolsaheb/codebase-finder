@@ -1,6 +1,5 @@
 ---
 title: Stoke-on-Trent
-
 location:
   country: England
   state: 

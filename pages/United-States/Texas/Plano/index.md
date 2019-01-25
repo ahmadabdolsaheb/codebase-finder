@@ -1,6 +1,5 @@
 ---
 title: Plano
-
 location:
   country: United States
   state: Texas

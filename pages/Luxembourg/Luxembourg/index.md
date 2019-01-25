@@ -1,6 +1,5 @@
 ---
 title: Luxembourg
-
 location:
   country: Luxembourg
   state: 

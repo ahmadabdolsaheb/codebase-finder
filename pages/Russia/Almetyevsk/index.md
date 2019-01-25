@@ -1,6 +1,5 @@
 ---
 title: Almetyevsk
-
 location:
   country: Russia
   state: 

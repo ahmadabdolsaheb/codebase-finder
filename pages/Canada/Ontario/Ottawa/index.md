@@ -1,6 +1,5 @@
 ---
 title: Ottawa
-
 location:
   country: Canada
   state: Ontario

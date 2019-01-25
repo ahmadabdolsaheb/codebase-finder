@@ -1,6 +1,5 @@
 ---
 title: Adamawa
-
 location:
   country: Nigeria
   state: 

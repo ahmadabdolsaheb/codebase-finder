@@ -1,6 +1,5 @@
 ---
 title: South Bend
-
 location:
   country: United States
   state: Indiana

@@ -1,6 +1,5 @@
 ---
 title: Saint Etienne
-
 location:
   country: France
   state: 

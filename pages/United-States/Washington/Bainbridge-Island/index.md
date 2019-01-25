@@ -1,6 +1,5 @@
 ---
 title: Bainbridge Island
-
 location:
   country: United States
   state: Washington

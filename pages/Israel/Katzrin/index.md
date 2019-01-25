@@ -1,6 +1,5 @@
 ---
 title: Katzrin
-
 location:
   country: Israel
   state: 

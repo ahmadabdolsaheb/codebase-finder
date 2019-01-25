@@ -1,6 +1,5 @@
 ---
 title: Cuiabá
-
 location:
   country: Brazil
   state: Mato Grosso

@@ -1,6 +1,5 @@
 ---
 title: Nantes
-
 location:
   country: France
   state: 

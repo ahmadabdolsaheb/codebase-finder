@@ -1,6 +1,5 @@
 ---
 title: Maun
-
 location:
   country: Botswana
   state: 

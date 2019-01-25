@@ -1,6 +1,5 @@
 ---
 title: St. John's
-
 location:
   country: Canada
   state: New Foundland

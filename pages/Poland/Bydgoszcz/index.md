@@ -1,6 +1,5 @@
 ---
 title: Bydgoszcz
-
 location:
   country: Poland
   state: 

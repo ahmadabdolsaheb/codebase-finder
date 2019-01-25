@@ -1,6 +1,5 @@
 ---
 title: Sohar
-
 location:
   country: Oman
   state: 

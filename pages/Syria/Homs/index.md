@@ -1,6 +1,5 @@
 ---
 title: Homs
-
 location:
   country: Syria
   state: 

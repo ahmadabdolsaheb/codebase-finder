@@ -1,6 +1,5 @@
 ---
 title: Mocimboa da praia
-
 location:
   country: Mozambique
   state: 

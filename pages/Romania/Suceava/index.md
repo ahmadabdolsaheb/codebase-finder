@@ -1,6 +1,5 @@
 ---
 title: Suceava
-
 location:
   country: Romania
   state: 

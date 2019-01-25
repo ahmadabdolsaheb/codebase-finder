@@ -1,6 +1,5 @@
 ---
 title: Albuquerque
-
 location:
   country: United States
   state: New Mexico

@@ -1,6 +1,5 @@
 ---
 title: Lewes
-
 location:
   country: United States
   state: Delaware

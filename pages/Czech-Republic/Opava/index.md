@@ -1,6 +1,5 @@
 ---
 title: Opava
-
 location:
   country: Czech Republic
   state: 

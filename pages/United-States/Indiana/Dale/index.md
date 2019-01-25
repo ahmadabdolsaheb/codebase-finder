@@ -1,6 +1,5 @@
 ---
 title: Dale
-
 location:
   country: United States
   state: Indiana

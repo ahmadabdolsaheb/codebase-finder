@@ -1,6 +1,5 @@
 ---
 title: Emeryville
-
 location:
   country: United States
   state: California

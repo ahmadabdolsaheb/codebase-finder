@@ -1,6 +1,5 @@
 ---
 title: Brookhaven
-
 location:
   country: United States
   state: Mississippi

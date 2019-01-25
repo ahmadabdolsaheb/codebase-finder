@@ -1,6 +1,5 @@
 ---
 title: Sialkot
-
 location:
   country: Pakistan
   state: 

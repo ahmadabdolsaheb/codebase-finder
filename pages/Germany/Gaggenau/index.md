@@ -1,6 +1,5 @@
 ---
 title: Gaggenau
-
 location:
   country: Germany
   state: 

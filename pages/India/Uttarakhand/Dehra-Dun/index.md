@@ -1,6 +1,5 @@
 ---
 title: Dehra Dun
-
 location:
   country: India
   state: Uttarakhand

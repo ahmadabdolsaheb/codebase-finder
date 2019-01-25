@@ -1,6 +1,5 @@
 ---
 title: Maitland
-
 location:
   country: Australia
   state: 

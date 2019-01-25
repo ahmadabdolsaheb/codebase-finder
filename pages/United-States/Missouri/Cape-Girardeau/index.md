@@ -1,6 +1,5 @@
 ---
 title: Cape Girardeau
-
 location:
   country: United States
   state: Missouri

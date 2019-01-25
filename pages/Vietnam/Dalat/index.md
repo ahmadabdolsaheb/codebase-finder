@@ -1,6 +1,5 @@
 ---
 title: Dalat
-
 location:
   country: Vietnam
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Baldwin Park
-
 location:
   country: United States
   state: California

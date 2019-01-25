@@ -1,6 +1,5 @@
 ---
 title: Lille
-
 location:
   country: France
   state: 

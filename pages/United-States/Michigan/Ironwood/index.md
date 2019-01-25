@@ -1,6 +1,5 @@
 ---
 title: Ironwood
-
 location:
   country: United States
   state: Michigan

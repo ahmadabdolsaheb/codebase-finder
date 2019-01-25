@@ -1,6 +1,5 @@
 ---
 title: Pskov
-
 location:
   country: Russia
   state: 

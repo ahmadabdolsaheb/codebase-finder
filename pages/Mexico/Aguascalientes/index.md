@@ -1,6 +1,5 @@
 ---
 title: Aguascalientes
-
 location:
   country: Mexico
   state: 

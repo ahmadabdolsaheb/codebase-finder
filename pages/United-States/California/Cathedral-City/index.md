@@ -1,6 +1,5 @@
 ---
 title: Cathedral City
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Rajshahi
-
 location:
   country: Bangladesh
   state: 

@@ -1,6 +1,5 @@
 ---
 title: New York City
-
 location:
   country: United States
   state: New York

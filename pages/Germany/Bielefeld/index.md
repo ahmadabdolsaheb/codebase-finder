@@ -1,6 +1,5 @@
 ---
 title: Bielefeld
-
 location:
   country: Germany
   state: 

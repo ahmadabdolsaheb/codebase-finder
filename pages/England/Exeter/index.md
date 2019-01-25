@@ -1,6 +1,5 @@
 ---
 title: Exeter
-
 location:
   country: England
   state: 

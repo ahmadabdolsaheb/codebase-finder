@@ -1,6 +1,5 @@
 ---
 title: Maputo
-
 location:
   country: Mozambique
   state: 

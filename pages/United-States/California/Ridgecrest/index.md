@@ -1,6 +1,5 @@
 ---
 title: Ridgecrest
-
 location:
   country: United States
   state: California

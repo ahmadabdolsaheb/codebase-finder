@@ -1,6 +1,5 @@
 ---
 title: Abha
-
 location:
   country: Saudi Arabia
   state: 

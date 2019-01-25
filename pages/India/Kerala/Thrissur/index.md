@@ -1,6 +1,5 @@
 ---
 title: Thrissur
-
 location:
   country: India
   state: Kerala

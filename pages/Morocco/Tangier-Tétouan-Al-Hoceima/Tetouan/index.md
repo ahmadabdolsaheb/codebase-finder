@@ -1,6 +1,5 @@
 ---
 title: Tetouan
-
 location:
   country: Morocco
   state: Tangier-Tétouan-Al Hoceima

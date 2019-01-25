@@ -1,6 +1,5 @@
 ---
 title: Nice
-
 location:
   country: France
   state: 

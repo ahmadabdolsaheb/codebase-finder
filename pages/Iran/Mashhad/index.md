@@ -1,6 +1,5 @@
 ---
 title: Mashhad
-
 location:
   country: Iran
   state: 

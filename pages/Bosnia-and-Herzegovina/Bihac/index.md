@@ -1,6 +1,5 @@
 ---
 title: Bihac
-
 location:
   country: Bosnia and Herzegovina
   state: 

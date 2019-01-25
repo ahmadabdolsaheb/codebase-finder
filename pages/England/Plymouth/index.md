@@ -1,6 +1,5 @@
 ---
 title: Plymouth
-
 location:
   country: England
   state: 

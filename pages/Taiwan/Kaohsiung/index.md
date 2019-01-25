@@ -1,6 +1,5 @@
 ---
 title: Kaohsiung
-
 location:
   country: Taiwan
   state: 

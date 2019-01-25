@@ -1,6 +1,5 @@
 ---
 title: Townsville
-
 location:
   country: Australia
   state: 

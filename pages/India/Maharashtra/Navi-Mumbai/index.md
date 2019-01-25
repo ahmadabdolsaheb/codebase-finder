@@ -1,6 +1,5 @@
 ---
 title: Navi Mumbai
-
 location:
   country: India
   state: Maharashtra

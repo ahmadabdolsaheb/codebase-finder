@@ -1,6 +1,5 @@
 ---
 title: North Platte
-
 location:
   country: United States
   state: Nebraska

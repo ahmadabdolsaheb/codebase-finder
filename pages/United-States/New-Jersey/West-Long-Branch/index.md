@@ -1,6 +1,5 @@
 ---
 title: West Long Branch
-
 location:
   country: United States
   state: New Jersey

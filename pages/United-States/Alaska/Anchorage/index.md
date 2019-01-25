@@ -1,6 +1,5 @@
 ---
 title: Anchorage
-
 location:
   country: United States
   state: Alaska

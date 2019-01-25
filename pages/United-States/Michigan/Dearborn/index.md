@@ -1,6 +1,5 @@
 ---
 title: Dearborn
-
 location:
   country: United States
   state: Michigan

@@ -1,6 +1,5 @@
 ---
 title: Nakuru
-
 location:
   country: Kenya
   state: Nakuru County

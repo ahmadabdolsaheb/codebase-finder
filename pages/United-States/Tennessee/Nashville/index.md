@@ -1,6 +1,5 @@
 ---
 title: Nashville
-
 location:
   country: United States
   state: Tennessee

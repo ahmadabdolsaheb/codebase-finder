@@ -1,6 +1,5 @@
 ---
 title: Berlin
-
 location:
   country: Germany
   state: 

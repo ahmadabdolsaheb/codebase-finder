@@ -1,6 +1,5 @@
 ---
 title: Banjul
-
 location:
   country: Gambia
   state: 

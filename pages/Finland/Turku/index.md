@@ -1,6 +1,5 @@
 ---
 title: Turku
-
 location:
   country: Finland
   state: 

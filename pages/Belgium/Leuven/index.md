@@ -1,6 +1,5 @@
 ---
 title: Leuven
-
 location:
   country: Belgium
   state: 

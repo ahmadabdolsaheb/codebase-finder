@@ -1,6 +1,5 @@
 ---
 title: Hamilton
-
 location:
   country: New Zealand
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bellingham
-
 location:
   country: Australia
   state: 

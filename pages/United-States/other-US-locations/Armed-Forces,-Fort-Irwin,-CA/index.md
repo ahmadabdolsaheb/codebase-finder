@@ -1,6 +1,5 @@
 ---
 title: Armed Forces, Fort Irwin, CA
-
 location:
   country: United States
   state: Other US locations

@@ -1,6 +1,5 @@
 ---
 title: Preveza
-
 location:
   country: Greece
   state: 

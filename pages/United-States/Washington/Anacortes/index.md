@@ -1,6 +1,5 @@
 ---
 title: Anacortes
-
 location:
   country: United States
   state: Washington

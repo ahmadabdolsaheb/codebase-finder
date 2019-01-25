@@ -1,6 +1,5 @@
 ---
 title: Gaza
-
 location:
   country: Palestine
   state: 

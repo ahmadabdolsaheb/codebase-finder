@@ -1,6 +1,5 @@
 ---
 title: Nadiad
-
 location:
   country: India
   state: Gujarat

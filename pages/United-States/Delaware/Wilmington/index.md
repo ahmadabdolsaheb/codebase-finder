@@ -1,6 +1,5 @@
 ---
 title: Wilmington
-
 location:
   country: United States
   state: Delaware

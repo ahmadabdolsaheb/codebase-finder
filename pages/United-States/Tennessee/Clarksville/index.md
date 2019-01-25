@@ -1,6 +1,5 @@
 ---
 title: Clarksville
-
 location:
   country: United States
   state: Tennessee

@@ -1,6 +1,5 @@
 ---
 title: Missoula
-
 location:
   country: United States
   state: Montana

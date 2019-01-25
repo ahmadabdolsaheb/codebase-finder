@@ -1,6 +1,5 @@
 ---
 title: Bozeman
-
 location:
   country: United States
   state: Montana

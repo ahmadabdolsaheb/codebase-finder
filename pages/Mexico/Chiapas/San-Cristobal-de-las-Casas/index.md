@@ -1,6 +1,5 @@
 ---
 title: San Cristobal de las Casas
-
 location:
   country: Mexico
   state: Chiapas

@@ -1,6 +1,5 @@
 ---
 title: Taipei
-
 location:
   country: Taiwan
   state: 

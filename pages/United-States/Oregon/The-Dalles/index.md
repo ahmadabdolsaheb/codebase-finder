@@ -1,6 +1,5 @@
 ---
 title: The Dalles
-
 location:
   country: United States
   state: Oregon

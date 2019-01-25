@@ -1,6 +1,5 @@
 ---
 title: North York
-
 location:
   country: Canada
   state: Ontario

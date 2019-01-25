@@ -1,6 +1,5 @@
 ---
 title: Cotonou
-
 location:
   country: Benin
   state: 

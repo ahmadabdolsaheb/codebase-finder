@@ -1,6 +1,5 @@
 ---
 title: Ontario
-
 location:
   country: United States
   state: Oregon

@@ -1,6 +1,5 @@
 ---
 title: Brasov
-
 location:
   country: Romania
   state: 

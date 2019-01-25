@@ -1,6 +1,5 @@
 ---
 title: Raozan
-
 location:
   country: Bangladesh
   state: Chittagong

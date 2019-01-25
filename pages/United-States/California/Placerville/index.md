@@ -1,6 +1,5 @@
 ---
 title: Placerville
-
 location:
   country: United States
   state: California

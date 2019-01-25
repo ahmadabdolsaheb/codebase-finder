@@ -1,6 +1,5 @@
 ---
 title: Multan
-
 location:
   country: Pakistan
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Foz do Iguaçu
-
 location:
   country: Brazil
   state: Paraná

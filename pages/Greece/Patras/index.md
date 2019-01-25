@@ -1,6 +1,5 @@
 ---
 title: Patras
-
 location:
   country: Greece
   state: 

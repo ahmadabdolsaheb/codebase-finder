@@ -1,6 +1,5 @@
 ---
 title: Ibirama
-
 location:
   country: Brazil
   state: Santa Catarina

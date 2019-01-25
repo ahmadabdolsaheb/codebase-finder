@@ -1,6 +1,5 @@
 ---
 title: Phagwara
-
 location:
   country: India
   state: Khanpur

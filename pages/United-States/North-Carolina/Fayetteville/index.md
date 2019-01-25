@@ -1,6 +1,5 @@
 ---
 title: Fayetteville
-
 location:
   country: United States
   state: North Carolina

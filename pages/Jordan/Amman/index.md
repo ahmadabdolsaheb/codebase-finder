@@ -1,6 +1,5 @@
 ---
 title: Amman
-
 location:
   country: Jordan
   state: 

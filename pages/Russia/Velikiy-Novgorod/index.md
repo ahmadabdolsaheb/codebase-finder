@@ -1,6 +1,5 @@
 ---
 title: Velikiy Novgorod
-
 location:
   country: Russia
   state: 

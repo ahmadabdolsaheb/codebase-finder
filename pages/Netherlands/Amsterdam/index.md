@@ -1,6 +1,5 @@
 ---
 title: Amsterdam
-
 location:
   country: Netherlands
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bogota
-
 location:
   country: Colombia
   state: 

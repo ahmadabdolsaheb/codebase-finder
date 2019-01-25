@@ -1,6 +1,5 @@
 ---
 title: Kampala
-
 location:
   country: Uganda
   state: 

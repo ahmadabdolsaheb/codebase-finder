@@ -1,6 +1,5 @@
 ---
 title: Deland
-
 location:
   country: United States
   state: Florida

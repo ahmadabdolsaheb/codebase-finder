@@ -1,6 +1,5 @@
 ---
 title: Niš
-
 location:
   country: Serbia
   state: 

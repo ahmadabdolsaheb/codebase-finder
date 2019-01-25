@@ -1,6 +1,5 @@
 ---
 title: neighborhood-2
-
 location:
   country: United States
   state: Massachusetts

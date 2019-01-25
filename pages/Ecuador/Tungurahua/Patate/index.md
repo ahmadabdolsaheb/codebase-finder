@@ -1,6 +1,5 @@
 ---
 title: Patate
-
 location:
   country: Ecuador
   state: Tungurahua

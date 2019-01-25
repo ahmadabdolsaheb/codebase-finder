@@ -1,6 +1,5 @@
 ---
 title: Teresina
-
 location:
   country: Brazil
   state: Piauí

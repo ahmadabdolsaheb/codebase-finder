@@ -1,6 +1,5 @@
 ---
 title: Canberra
-
 location:
   country: Australia
   state: 

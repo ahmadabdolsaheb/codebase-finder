@@ -1,6 +1,5 @@
 ---
 title: Denver
-
 location:
   country: United States
   state: Colorado

@@ -1,6 +1,5 @@
 ---
 title: Bismarck
-
 location:
   country: United States
   state: North Dakota

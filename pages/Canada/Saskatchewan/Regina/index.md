@@ -1,6 +1,5 @@
 ---
 title: Regina
-
 location:
   country: Canada
   state: Saskatchewan

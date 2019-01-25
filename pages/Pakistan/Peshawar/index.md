@@ -1,6 +1,5 @@
 ---
 title: Peshawar
-
 location:
   country: Pakistan
   state: 

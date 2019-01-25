@@ -1,6 +1,5 @@
 ---
 title: Trondheim
-
 location:
   country: Norway
   state: 

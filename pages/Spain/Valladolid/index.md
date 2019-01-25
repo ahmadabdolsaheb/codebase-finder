@@ -1,6 +1,5 @@
 ---
 title: Valladolid
-
 location:
   country: Spain
   state: 

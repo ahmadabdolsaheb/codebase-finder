@@ -1,6 +1,5 @@
 ---
 title: Wuerzburg
-
 location:
   country: Germany
   state: 

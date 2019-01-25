@@ -1,6 +1,5 @@
 ---
 title: Johannesburg
-
 location:
   country: South Africa
   state: 

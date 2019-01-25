@@ -1,6 +1,5 @@
 ---
 title: Villa Clara
-
 location:
   country: Cuba
   state: 

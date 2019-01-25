@@ -1,6 +1,5 @@
 ---
 title: Fuenlabrada
-
 location:
   country: Spain
   state: Community of Madrid

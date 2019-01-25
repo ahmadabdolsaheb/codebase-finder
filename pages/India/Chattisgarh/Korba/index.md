@@ -1,6 +1,5 @@
 ---
 title: Korba
-
 location:
   country: India
   state: Chattisgarh

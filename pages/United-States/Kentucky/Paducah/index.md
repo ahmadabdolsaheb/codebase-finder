@@ -1,6 +1,5 @@
 ---
 title: Paducah
-
 location:
   country: United States
   state: Kentucky

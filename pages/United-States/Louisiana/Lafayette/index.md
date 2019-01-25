@@ -1,6 +1,5 @@
 ---
 title: Lafayette
-
 location:
   country: United States
   state: Louisiana

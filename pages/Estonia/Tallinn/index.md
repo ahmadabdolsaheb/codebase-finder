@@ -1,6 +1,5 @@
 ---
 title: Tallinn
-
 location:
   country: Estonia
   state: 

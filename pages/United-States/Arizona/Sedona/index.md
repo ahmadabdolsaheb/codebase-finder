@@ -1,6 +1,5 @@
 ---
 title: Sedona
-
 location:
   country: United States
   state: Arizona

@@ -1,6 +1,5 @@
 ---
 title: Effingham
-
 location:
   country: United States
   state: Illinois

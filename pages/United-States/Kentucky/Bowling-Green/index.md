@@ -1,6 +1,5 @@
 ---
 title: Bowling Green
-
 location:
   country: United States
   state: Kentucky

@@ -1,6 +1,5 @@
 ---
 title: Sumba Tengah
-
 location:
   country: Indonesia
   state: 

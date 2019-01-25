@@ -1,6 +1,5 @@
 ---
 title: Siracusa
-
 location:
   country: Italy
   state: 

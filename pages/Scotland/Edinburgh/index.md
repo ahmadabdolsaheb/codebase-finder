@@ -1,6 +1,5 @@
 ---
 title: Edinburgh
-
 location:
   country: Scotland
   state: 

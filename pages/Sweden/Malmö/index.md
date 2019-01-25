@@ -1,6 +1,5 @@
 ---
 title: Malmö
-
 location:
   country: Sweden
   state: 

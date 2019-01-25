@@ -1,6 +1,5 @@
 ---
 title: South Boston
-
 location:
   country: United States
   state: Virginia

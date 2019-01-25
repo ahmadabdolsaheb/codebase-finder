@@ -1,6 +1,5 @@
 ---
 title: Vero Beach
-
 location:
   country: United States
   state: Florida

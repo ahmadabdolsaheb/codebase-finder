@@ -1,6 +1,5 @@
 ---
 title: Queen Creek
-
 location:
   country: United States
   state: Arizona

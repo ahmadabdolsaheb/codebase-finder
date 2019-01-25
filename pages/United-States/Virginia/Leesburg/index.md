@@ -1,6 +1,5 @@
 ---
 title: Leesburg
-
 location:
   country: United States
   state: Virginia

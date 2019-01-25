@@ -1,6 +1,5 @@
 ---
 title: Souk Ahras
-
 location:
   country: Algeria
   state: 

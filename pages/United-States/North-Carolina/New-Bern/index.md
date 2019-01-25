@@ -1,6 +1,5 @@
 ---
 title: New Bern
-
 location:
   country: United States
   state: North Carolina

@@ -1,6 +1,5 @@
 ---
 title: Jinju
-
 location:
   country: South Korea
   state: Gyeongsangnam

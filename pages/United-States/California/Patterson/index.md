@@ -1,6 +1,5 @@
 ---
 title: Patterson
-
 location:
   country: United States
   state: California

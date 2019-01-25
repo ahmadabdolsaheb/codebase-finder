@@ -1,6 +1,5 @@
 ---
 title: Leiden
-
 location:
   country: Netherlands
   state: South Holland

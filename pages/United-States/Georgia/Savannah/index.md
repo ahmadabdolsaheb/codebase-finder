@@ -1,6 +1,5 @@
 ---
 title: Savannah
-
 location:
   country: United States
   state: Georgia

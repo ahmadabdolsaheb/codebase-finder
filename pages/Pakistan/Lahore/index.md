@@ -1,6 +1,5 @@
 ---
 title: Lahore
-
 location:
   country: Pakistan
   state: 

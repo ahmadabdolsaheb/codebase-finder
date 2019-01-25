@@ -1,6 +1,5 @@
 ---
 title: Hamadan
-
 location:
   country: Iran
   state: 

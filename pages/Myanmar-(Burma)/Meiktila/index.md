@@ -1,6 +1,5 @@
 ---
 title: Meiktila
-
 location:
   country: Myanmar (Burma)
   state: 

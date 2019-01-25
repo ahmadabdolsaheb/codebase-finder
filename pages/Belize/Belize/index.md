@@ -1,6 +1,5 @@
 ---
 title: Belize
-
 location:
   country: Belize
   state: 

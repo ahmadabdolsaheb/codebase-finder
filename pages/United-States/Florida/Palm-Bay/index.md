@@ -1,6 +1,5 @@
 ---
 title: Palm Bay
-
 location:
   country: United States
   state: Florida

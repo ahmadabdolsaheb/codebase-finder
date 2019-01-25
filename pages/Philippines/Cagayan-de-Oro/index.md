@@ -1,6 +1,5 @@
 ---
 title: Cagayan de Oro
-
 location:
   country: Philippines
   state: 

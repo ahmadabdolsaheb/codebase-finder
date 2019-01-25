@@ -1,6 +1,5 @@
 ---
 title: Hohenfels
-
 location:
   country: Germany
   state: 

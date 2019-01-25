@@ -1,6 +1,5 @@
 ---
 title: Sarajevo
-
 location:
   country: Bosnia and Herzegovina
   state: 

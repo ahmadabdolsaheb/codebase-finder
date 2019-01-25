@@ -1,6 +1,5 @@
 ---
 title: Kristinehamn
-
 location:
   country: Sweden
   state: Varmland County

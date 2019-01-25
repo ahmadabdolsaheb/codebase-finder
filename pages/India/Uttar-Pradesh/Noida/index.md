@@ -1,6 +1,5 @@
 ---
 title: Noida
-
 location:
   country: India
   state: Uttar Pradesh

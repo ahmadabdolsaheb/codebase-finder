@@ -1,6 +1,5 @@
 ---
 title: Nagercoil
-
 location:
   country: India
   state: Tamil Nadu

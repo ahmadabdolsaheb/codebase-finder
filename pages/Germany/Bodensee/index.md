@@ -1,6 +1,5 @@
 ---
 title: Bodensee
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Norfolk
-
 location:
   country: United States
   state: Virginia

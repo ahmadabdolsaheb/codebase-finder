@@ -1,6 +1,5 @@
 ---
 title: Sonora
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Port Elizabeth
-
 location:
   country: South Africa
   state: Eastern Cape

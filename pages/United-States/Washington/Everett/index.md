@@ -1,6 +1,5 @@
 ---
 title: Everett
-
 location:
   country: United States
   state: Washington

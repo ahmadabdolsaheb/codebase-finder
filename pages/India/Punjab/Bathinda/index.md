@@ -1,6 +1,5 @@
 ---
 title: Bathinda
-
 location:
   country: India
   state: Punjab

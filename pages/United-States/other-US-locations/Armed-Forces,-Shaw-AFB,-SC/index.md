@@ -1,6 +1,5 @@
 ---
 title: Armed Forces, Shaw AFB, SC
-
 location:
   country: United States
   state: Other US locations

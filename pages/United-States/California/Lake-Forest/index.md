@@ -1,6 +1,5 @@
 ---
 title: Lake Forest
-
 location:
   country: United States
   state: California

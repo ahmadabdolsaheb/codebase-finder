@@ -1,6 +1,5 @@
 ---
 title: Enterprise
-
 location:
   country: United States
   state: Alabama

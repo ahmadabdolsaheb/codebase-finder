@@ -1,6 +1,5 @@
 ---
 title: Hanoi
-
 location:
   country: Vietnam
   state: 

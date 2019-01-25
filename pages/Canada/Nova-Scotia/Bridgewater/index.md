@@ -1,6 +1,5 @@
 ---
 title: Bridgewater
-
 location:
   country: Canada
   state: Nova Scotia

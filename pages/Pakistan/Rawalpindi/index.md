@@ -1,6 +1,5 @@
 ---
 title: Rawalpindi
-
 location:
   country: Pakistan
   state: 

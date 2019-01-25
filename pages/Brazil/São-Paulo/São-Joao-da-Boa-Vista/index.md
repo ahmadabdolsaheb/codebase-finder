@@ -1,6 +1,5 @@
 ---
 title: São Joao da Boa Vista
-
 location:
   country: Brazil
   state: São Paulo

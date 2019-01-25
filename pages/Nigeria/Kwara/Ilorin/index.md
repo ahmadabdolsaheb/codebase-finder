@@ -1,6 +1,5 @@
 ---
 title: Ilorin
-
 location:
   country: Nigeria
   state: Kwara

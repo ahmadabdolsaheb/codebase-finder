@@ -1,6 +1,5 @@
 ---
 title: Twin Falls
-
 location:
   country: United States
   state: Idaho

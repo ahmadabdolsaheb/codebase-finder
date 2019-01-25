@@ -1,6 +1,5 @@
 ---
 title: Coimbatore
-
 location:
   country: India
   state: Tamil Nadu

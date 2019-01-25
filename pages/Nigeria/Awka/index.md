@@ -1,6 +1,5 @@
 ---
 title: Awka
-
 location:
   country: Nigeria
   state: 

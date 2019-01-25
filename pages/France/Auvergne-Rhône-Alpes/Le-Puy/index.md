@@ -1,6 +1,5 @@
 ---
 title: Le Puy
-
 location:
   country: France
   state: Auvergne-Rhône-Alpes

@@ -1,6 +1,5 @@
 ---
 title: Kemerovo
-
 location:
   country: Russia
   state: 

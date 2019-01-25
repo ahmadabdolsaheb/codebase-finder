@@ -1,6 +1,5 @@
 ---
 title: Oranjestad
-
 location:
   country: Aruba
   state: 

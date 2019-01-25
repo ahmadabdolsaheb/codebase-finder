@@ -1,6 +1,5 @@
 ---
 title: Lansing
-
 location:
   country: United States
   state: Michigan

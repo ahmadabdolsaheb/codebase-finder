@@ -1,6 +1,5 @@
 ---
 title: Nelson
-
 location:
   country: Canada
   state: British Columbia

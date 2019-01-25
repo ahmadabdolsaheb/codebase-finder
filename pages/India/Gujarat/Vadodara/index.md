@@ -1,6 +1,5 @@
 ---
 title: Vadodara
-
 location:
   country: India
   state: Gujarat

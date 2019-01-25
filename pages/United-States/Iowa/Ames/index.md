@@ -1,6 +1,5 @@
 ---
 title: Ames
-
 location:
   country: United States
   state: Iowa

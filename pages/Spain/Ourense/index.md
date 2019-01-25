@@ -1,6 +1,5 @@
 ---
 title: Ourense
-
 location:
   country: Spain
   state: 

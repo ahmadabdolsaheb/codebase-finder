@@ -1,6 +1,5 @@
 ---
 title: Williamsport
-
 location:
   country: United States
   state: Pennsylvania

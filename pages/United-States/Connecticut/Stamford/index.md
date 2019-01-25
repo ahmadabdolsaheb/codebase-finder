@@ -1,6 +1,5 @@
 ---
 title: Stamford
-
 location:
   country: United States
   state: Connecticut

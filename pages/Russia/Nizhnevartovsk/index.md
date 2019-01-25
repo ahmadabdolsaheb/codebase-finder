@@ -1,6 +1,5 @@
 ---
 title: Nizhnevartovsk
-
 location:
   country: Russia
   state: 

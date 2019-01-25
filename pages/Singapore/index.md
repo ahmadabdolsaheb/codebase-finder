@@ -1,6 +1,5 @@
 ---
 title: Singapore
-
 location:
   country: Singapore
   state: 

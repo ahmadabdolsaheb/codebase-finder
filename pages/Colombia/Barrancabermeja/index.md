@@ -1,6 +1,5 @@
 ---
 title: Barrancabermeja
-
 location:
   country: Colombia
   state: 

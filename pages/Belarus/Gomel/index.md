@@ -1,6 +1,5 @@
 ---
 title: Gomel
-
 location:
   country: Belarus
   state: 

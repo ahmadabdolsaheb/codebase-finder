@@ -1,6 +1,5 @@
 ---
 title: Saskatoon
-
 location:
   country: Canada
   state: Saskatchewan

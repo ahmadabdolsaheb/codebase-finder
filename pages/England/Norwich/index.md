@@ -1,6 +1,5 @@
 ---
 title: Norwich
-
 location:
   country: England
   state: 

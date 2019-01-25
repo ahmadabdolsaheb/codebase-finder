@@ -1,6 +1,5 @@
 ---
 title: Bratislava
-
 location:
   country: Slovakia
   state: 

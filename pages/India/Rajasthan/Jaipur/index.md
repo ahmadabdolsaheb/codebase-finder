@@ -1,6 +1,5 @@
 ---
 title: Jaipur
-
 location:
   country: India
   state: Rajasthan

@@ -1,6 +1,5 @@
 ---
 title: Mombasa
-
 location:
   country: Kenya
   state: Mombasa County

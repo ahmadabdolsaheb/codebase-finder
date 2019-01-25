@@ -1,6 +1,5 @@
 ---
 title: Modesto
-
 location:
   country: United States
   state: California

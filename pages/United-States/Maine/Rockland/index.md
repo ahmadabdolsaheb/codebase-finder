@@ -1,6 +1,5 @@
 ---
 title: Rockland
-
 location:
   country: United States
   state: Maine

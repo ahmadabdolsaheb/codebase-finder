@@ -1,6 +1,5 @@
 ---
 title: Wollongong
-
 location:
   country: Australia
   state: 

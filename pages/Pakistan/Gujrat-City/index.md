@@ -1,6 +1,5 @@
 ---
 title: Gujrat City
-
 location:
   country: Pakistan
   state: 

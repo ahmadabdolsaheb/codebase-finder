@@ -1,6 +1,5 @@
 ---
 title: Rochester
-
 location:
   country: United States
   state: New York

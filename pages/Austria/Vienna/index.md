@@ -1,6 +1,5 @@
 ---
 title: Vienna
-
 location:
   country: Austria
   state: 

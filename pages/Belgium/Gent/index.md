@@ -1,6 +1,5 @@
 ---
 title: Gent
-
 location:
   country: Belgium
   state: 

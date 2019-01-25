@@ -1,6 +1,5 @@
 ---
 title: Pittsburgh
-
 location:
   country: United States
   state: Pennsylvania

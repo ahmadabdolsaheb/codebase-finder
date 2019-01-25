@@ -1,6 +1,5 @@
 ---
 title: Concepción
-
 location:
   country: Chile
   state: 

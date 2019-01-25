@@ -1,6 +1,5 @@
 ---
 title: Perryville
-
 location:
   country: United States
   state: Maryland

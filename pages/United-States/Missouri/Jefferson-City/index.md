@@ -1,6 +1,5 @@
 ---
 title: Jefferson City
-
 location:
   country: United States
   state: Missouri

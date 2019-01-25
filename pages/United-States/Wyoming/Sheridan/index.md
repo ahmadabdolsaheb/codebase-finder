@@ -1,6 +1,5 @@
 ---
 title: Sheridan
-
 location:
   country: United States
   state: Wyoming

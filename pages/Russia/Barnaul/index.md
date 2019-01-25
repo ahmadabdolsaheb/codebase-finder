@@ -1,6 +1,5 @@
 ---
 title: Barnaul
-
 location:
   country: Russia
   state: 

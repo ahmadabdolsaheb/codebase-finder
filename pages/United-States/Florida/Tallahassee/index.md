@@ -1,6 +1,5 @@
 ---
 title: Tallahassee
-
 location:
   country: United States
   state: Florida

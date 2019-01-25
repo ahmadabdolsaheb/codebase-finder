@@ -1,6 +1,5 @@
 ---
 title: Friuli-Venezia Giulia
-
 location:
   country: Italy
   state: Friuli-Venezia Giulia

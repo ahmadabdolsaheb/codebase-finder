@@ -1,6 +1,5 @@
 ---
 title: Peterborough
-
 location:
   country: Canada
   state: Ontario

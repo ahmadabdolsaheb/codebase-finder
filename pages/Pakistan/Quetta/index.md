@@ -1,6 +1,5 @@
 ---
 title: Quetta
-
 location:
   country: Pakistan
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Victoria
-
 location:
   country: Canada
   state: British Columbia

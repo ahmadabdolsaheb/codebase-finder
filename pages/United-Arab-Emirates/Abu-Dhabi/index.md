@@ -1,6 +1,5 @@
 ---
 title: Abu Dhabi
-
 location:
   country: United Arab Emirates
   state: 

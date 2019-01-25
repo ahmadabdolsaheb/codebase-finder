@@ -1,6 +1,5 @@
 ---
 title: Pasto
-
 location:
   country: Colombia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Sasebo
-
 location:
   country: Japan
   state: Nagasaki

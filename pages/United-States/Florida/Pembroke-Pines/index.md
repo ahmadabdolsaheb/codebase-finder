@@ -1,6 +1,5 @@
 ---
 title: Pembroke Pines
-
 location:
   country: United States
   state: Florida

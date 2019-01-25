@@ -1,6 +1,5 @@
 ---
 title: East Liverpool
-
 location:
   country: United States
   state: Ohio

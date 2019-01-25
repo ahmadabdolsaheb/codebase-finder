@@ -1,6 +1,5 @@
 ---
 title: Lund
-
 location:
   country: Sweden
   state: 

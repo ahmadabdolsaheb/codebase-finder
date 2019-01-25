@@ -1,6 +1,5 @@
 ---
 title: Palembang
-
 location:
   country: Indonesia
   state: South Sumatra

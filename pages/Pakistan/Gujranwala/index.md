@@ -1,6 +1,5 @@
 ---
 title: Gujranwala
-
 location:
   country: Pakistan
   state: 

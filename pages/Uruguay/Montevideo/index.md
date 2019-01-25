@@ -1,6 +1,5 @@
 ---
 title: Montevideo
-
 location:
   country: Uruguay
   state: 

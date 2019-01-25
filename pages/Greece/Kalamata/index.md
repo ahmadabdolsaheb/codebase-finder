@@ -1,6 +1,5 @@
 ---
 title: Kalamata
-
 location:
   country: Greece
   state: 

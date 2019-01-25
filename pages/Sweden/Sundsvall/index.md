@@ -1,6 +1,5 @@
 ---
 title: Sundsvall
-
 location:
   country: Sweden
   state: 

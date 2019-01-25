@@ -1,6 +1,5 @@
 ---
 title: Birmingham
-
 location:
   country: United States
   state: Alabama

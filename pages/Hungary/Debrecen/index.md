@@ -1,6 +1,5 @@
 ---
 title: Debrecen
-
 location:
   country: Hungary
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Porto Alegre
-
 location:
   country: Brazil
   state: Rio Grande do Sul

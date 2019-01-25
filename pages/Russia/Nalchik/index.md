@@ -1,6 +1,5 @@
 ---
 title: Nalchik
-
 location:
   country: Russia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Kutztown
-
 location:
   country: United States
   state: Pennsylvania

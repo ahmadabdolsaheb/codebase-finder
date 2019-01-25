@@ -1,6 +1,5 @@
 ---
 title: Zurich
-
 location:
   country: Switzerland
   state: 

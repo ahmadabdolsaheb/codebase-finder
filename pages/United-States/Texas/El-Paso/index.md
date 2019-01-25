@@ -1,6 +1,5 @@
 ---
 title: El Paso
-
 location:
   country: United States
   state: Texas

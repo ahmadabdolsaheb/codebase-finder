@@ -1,6 +1,5 @@
 ---
 title: Ningbo
-
 location:
   country: China
   state: Zhejiang

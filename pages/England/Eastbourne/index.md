@@ -1,6 +1,5 @@
 ---
 title: Eastbourne
-
 location:
   country: England
   state: 

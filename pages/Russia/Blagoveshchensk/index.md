@@ -1,6 +1,5 @@
 ---
 title: Blagoveshchensk
-
 location:
   country: Russia
   state: 

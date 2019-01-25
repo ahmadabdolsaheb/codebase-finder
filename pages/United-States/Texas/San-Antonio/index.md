@@ -1,6 +1,5 @@
 ---
 title: San Antonio
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Lubbock
-
 location:
   country: United States
   state: Texas

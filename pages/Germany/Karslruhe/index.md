@@ -1,6 +1,5 @@
 ---
 title: Karslruhe
-
 location:
   country: Germany
   state: 

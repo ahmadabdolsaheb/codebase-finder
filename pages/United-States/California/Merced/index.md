@@ -1,6 +1,5 @@
 ---
 title: Merced
-
 location:
   country: United States
   state: California

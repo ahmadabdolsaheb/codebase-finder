@@ -1,6 +1,5 @@
 ---
 title: Hampton Roads
-
 location:
   country: United States
   state: Other US locations

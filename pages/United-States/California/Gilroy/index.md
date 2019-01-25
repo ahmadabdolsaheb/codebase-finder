@@ -1,6 +1,5 @@
 ---
 title: Gilroy
-
 location:
   country: United States
   state: California

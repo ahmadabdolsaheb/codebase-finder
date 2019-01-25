@@ -1,6 +1,5 @@
 ---
 title: Kent
-
 location:
   country: England
   state: 

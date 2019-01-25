@@ -1,6 +1,5 @@
 ---
 title: Tiffin
-
 location:
   country: United States
   state: Ohio

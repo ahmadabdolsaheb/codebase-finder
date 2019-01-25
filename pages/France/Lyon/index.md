@@ -1,6 +1,5 @@
 ---
 title: Lyon
-
 location:
   country: France
   state: 

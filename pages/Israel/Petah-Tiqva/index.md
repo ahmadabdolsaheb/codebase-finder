@@ -1,6 +1,5 @@
 ---
 title: Petah Tiqva
-
 location:
   country: Israel
   state: 

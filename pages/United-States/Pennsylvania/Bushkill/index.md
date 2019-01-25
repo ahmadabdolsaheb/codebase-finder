@@ -1,6 +1,5 @@
 ---
 title: Bushkill
-
 location:
   country: United States
   state: Pennsylvania

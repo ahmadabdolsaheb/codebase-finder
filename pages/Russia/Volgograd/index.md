@@ -1,6 +1,5 @@
 ---
 title: Volgograd
-
 location:
   country: Russia
   state: 

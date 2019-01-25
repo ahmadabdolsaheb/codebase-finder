@@ -1,6 +1,5 @@
 ---
 title: San Leandro
-
 location:
   country: United States
   state: California

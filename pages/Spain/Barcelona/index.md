@@ -1,6 +1,5 @@
 ---
 title: Barcelona
-
 location:
   country: Spain
   state: 

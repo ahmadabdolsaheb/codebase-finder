@@ -1,6 +1,5 @@
 ---
 title: Covasna
-
 location:
   country: Romania
   state: 

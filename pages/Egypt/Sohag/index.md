@@ -1,6 +1,5 @@
 ---
 title: Sohag
-
 location:
   country: Egypt
   state: 

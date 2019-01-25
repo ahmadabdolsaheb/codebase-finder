@@ -1,6 +1,5 @@
 ---
 title: Lavras
-
 location:
   country: Brazil
   state: Minas Gerais

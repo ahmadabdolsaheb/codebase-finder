@@ -1,6 +1,5 @@
 ---
 title: Wappingers Falls
-
 location:
   country: United States
   state: New York

@@ -1,6 +1,5 @@
 ---
 title: Kuala Lumpur
-
 location:
   country: Malaysia
   state: 

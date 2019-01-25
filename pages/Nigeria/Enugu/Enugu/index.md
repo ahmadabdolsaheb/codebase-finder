@@ -1,6 +1,5 @@
 ---
 title: Enugu
-
 location:
   country: Nigeria
   state: Enugu

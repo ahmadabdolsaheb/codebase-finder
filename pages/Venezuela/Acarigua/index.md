@@ -1,6 +1,5 @@
 ---
 title: Acarigua
-
 location:
   country: Venezuela
   state: 

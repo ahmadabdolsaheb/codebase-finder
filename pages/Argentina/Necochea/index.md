@@ -1,6 +1,5 @@
 ---
 title: Necochea
-
 location:
   country: Argentina
   state: 

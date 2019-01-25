@@ -1,6 +1,5 @@
 ---
 title: Cheyenne
-
 location:
   country: United States
   state: Wyoming

@@ -1,6 +1,5 @@
 ---
 title: Memphis
-
 location:
   country: United States
   state: Tennessee

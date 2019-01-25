@@ -1,6 +1,5 @@
 ---
 title: Sucre
-
 location:
   country: Bolivia
   state: 

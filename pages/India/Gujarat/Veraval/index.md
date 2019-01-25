@@ -1,6 +1,5 @@
 ---
 title: Veraval
-
 location:
   country: India
   state: Gujarat

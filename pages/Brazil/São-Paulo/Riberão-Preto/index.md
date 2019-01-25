@@ -1,6 +1,5 @@
 ---
 title: Riberão Preto
-
 location:
   country: Brazil
   state: São Paulo

@@ -1,6 +1,5 @@
 ---
 title: Durgapur
-
 location:
   country: India
   state: 

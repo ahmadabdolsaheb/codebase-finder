@@ -1,6 +1,5 @@
 ---
 title: Markham
-
 location:
   country: Canada
   state: Ontario

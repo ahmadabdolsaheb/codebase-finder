@@ -1,6 +1,5 @@
 ---
 title: Mosjøen
-
 location:
   country: Norway
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Perugia
-
 location:
   country: Italy
   state: 

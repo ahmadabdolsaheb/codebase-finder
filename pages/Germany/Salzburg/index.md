@@ -1,6 +1,5 @@
 ---
 title: Salzburg
-
 location:
   country: Germany
   state: 

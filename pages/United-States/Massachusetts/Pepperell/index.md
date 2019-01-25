@@ -1,6 +1,5 @@
 ---
 title: Pepperell
-
 location:
   country: United States
   state: Massachusetts

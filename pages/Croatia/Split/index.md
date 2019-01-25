@@ -1,6 +1,5 @@
 ---
 title: Split
-
 location:
   country: Croatia
   state: 

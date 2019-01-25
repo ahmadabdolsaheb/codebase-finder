@@ -1,6 +1,5 @@
 ---
 title: Arad
-
 location:
   country: Romania
   state: 

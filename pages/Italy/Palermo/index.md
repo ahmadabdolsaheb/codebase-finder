@@ -1,6 +1,5 @@
 ---
 title: Palermo
-
 location:
   country: Italy
   state: 

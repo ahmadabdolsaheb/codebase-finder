@@ -1,6 +1,5 @@
 ---
 title: Hermosillo
-
 location:
   country: Mexico
   state: 

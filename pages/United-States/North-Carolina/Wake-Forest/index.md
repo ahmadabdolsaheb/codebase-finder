@@ -1,6 +1,5 @@
 ---
 title: Wake Forest
-
 location:
   country: United States
   state: North Carolina

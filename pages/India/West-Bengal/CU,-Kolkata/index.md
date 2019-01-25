@@ -1,6 +1,5 @@
 ---
 title: CU, Kolkata
-
 location:
   country: India
   state: West Bengal

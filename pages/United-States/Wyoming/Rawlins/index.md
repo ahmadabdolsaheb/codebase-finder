@@ -1,6 +1,5 @@
 ---
 title: Rawlins
-
 location:
   country: United States
   state: Wyoming

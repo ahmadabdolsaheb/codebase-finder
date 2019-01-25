@@ -1,6 +1,5 @@
 ---
 title: Magway
-
 location:
   country: Myanmar (Burma)
   state: Magway Region

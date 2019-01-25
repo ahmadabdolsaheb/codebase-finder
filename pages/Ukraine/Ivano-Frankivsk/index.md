@@ -1,6 +1,5 @@
 ---
 title: Ivano Frankivsk
-
 location:
   country: Ukraine
   state: 

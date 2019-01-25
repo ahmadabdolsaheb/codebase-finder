@@ -1,6 +1,5 @@
 ---
 title: Moncton
-
 location:
   country: Canada
   state: New Brunswick

@@ -1,6 +1,5 @@
 ---
 title: Eureka
-
 location:
   country: United States
   state: California

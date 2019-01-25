@@ -1,6 +1,5 @@
 ---
 title: Hue
-
 location:
   country: Vietnam
   state: 

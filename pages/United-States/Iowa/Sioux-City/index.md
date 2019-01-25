@@ -1,6 +1,5 @@
 ---
 title: Sioux City
-
 location:
   country: United States
   state: Iowa

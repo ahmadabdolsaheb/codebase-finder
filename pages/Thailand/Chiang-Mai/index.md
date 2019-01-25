@@ -1,6 +1,5 @@
 ---
 title: Chiang Mai
-
 location:
   country: Thailand
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Joensuu
-
 location:
   country: Finland
   state: 

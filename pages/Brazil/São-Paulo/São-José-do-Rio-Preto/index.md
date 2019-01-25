@@ -1,6 +1,5 @@
 ---
 title: São José do Rio Preto
-
 location:
   country: Brazil
   state: São Paulo

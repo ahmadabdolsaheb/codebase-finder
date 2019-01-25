@@ -1,6 +1,5 @@
 ---
 title: Ondo
-
 location:
   country: Nigeria
   state: 

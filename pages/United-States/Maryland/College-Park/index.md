@@ -1,6 +1,5 @@
 ---
 title: College Park
-
 location:
   country: United States
   state: Maryland

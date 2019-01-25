@@ -1,6 +1,5 @@
 ---
 title: Calgary
-
 location:
   country: Canada
   state: Alberta

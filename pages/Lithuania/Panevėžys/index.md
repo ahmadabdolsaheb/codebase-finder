@@ -1,6 +1,5 @@
 ---
 title: Panevėžys
-
 location:
   country: Lithuania
   state: 

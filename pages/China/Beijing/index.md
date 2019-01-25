@@ -1,6 +1,5 @@
 ---
 title: Beijing
-
 location:
   country: China
   state: 

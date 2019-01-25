@@ -1,6 +1,5 @@
 ---
 title: Bonn
-
 location:
   country: Germany
   state: 

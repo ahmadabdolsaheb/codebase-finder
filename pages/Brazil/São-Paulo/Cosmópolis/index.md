@@ -1,6 +1,5 @@
 ---
 title: Cosmópolis
-
 location:
   country: Brazil
   state: São Paulo

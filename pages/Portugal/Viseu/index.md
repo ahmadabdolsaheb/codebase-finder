@@ -1,6 +1,5 @@
 ---
 title: Viseu
-
 location:
   country: Portugal
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Chetumal
-
 location:
   country: Mexico
   state: 

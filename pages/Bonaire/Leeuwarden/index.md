@@ -1,6 +1,5 @@
 ---
 title: Leeuwarden
-
 location:
   country: Bonaire
   state: 

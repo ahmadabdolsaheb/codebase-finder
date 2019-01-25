@@ -1,6 +1,5 @@
 ---
 title: Brno
-
 location:
   country: Czech Republic
   state: 

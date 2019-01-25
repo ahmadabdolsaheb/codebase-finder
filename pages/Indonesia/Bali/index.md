@@ -1,6 +1,5 @@
 ---
 title: Bali
-
 location:
   country: Indonesia
   state: 

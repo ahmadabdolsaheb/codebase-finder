@@ -1,6 +1,5 @@
 ---
 title: Moose Jaw
-
 location:
   country: Canada
   state: Saskatchewan

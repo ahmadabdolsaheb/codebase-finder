@@ -1,6 +1,5 @@
 ---
 title: neighborhood-2
-
 location:
   country: India
   state: Karnataka

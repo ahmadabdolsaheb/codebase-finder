@@ -1,6 +1,5 @@
 ---
 title: Eau Claire
-
 location:
   country: United States
   state: Wisconsin

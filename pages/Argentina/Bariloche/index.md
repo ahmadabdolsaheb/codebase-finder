@@ -1,6 +1,5 @@
 ---
 title: Bariloche
-
 location:
   country: Argentina
   state: 

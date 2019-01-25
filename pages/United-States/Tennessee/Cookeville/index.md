@@ -1,6 +1,5 @@
 ---
 title: Cookeville
-
 location:
   country: United States
   state: Tennessee

@@ -1,6 +1,5 @@
 ---
 title: Las Palmas
-
 location:
   country: Spain
   state: 

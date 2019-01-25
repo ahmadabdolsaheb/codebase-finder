@@ -1,6 +1,5 @@
 ---
 title: Tupelo
-
 location:
   country: United States
   state: Mississippi

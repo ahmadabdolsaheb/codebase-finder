@@ -1,6 +1,5 @@
 ---
 title: Arusha
-
 location:
   country: Tanzania
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Mandeville
-
 location:
   country: United States
   state: Louisiana

@@ -1,6 +1,5 @@
 ---
 title: Srebrenica
-
 location:
   country: Bosnia and Herzegovina
   state: 

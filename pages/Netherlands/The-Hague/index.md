@@ -1,6 +1,5 @@
 ---
 title: The Hague
-
 location:
   country: Netherlands
   state: 

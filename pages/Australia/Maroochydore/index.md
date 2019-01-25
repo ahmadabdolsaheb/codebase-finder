@@ -1,6 +1,5 @@
 ---
 title: Maroochydore
-
 location:
   country: Australia
   state: 

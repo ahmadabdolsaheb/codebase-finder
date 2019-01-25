@@ -1,6 +1,5 @@
 ---
 title: Barranquilla
-
 location:
   country: Colombia
   state: 

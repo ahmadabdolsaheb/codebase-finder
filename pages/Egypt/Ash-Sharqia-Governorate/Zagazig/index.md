@@ -1,6 +1,5 @@
 ---
 title: Zagazig
-
 location:
   country: Egypt
   state: Ash Sharqia Governorate

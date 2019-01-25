@@ -1,6 +1,5 @@
 ---
 title: Mumbai
-
 location:
   country: India
   state: Maharashtra

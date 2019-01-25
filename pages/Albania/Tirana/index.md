@@ -1,6 +1,5 @@
 ---
 title: Tirana
-
 location:
   country: Albania
   state: 

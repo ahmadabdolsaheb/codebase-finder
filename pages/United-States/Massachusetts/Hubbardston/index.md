@@ -1,6 +1,5 @@
 ---
 title: Hubbardston
-
 location:
   country: United States
   state: Massachusetts

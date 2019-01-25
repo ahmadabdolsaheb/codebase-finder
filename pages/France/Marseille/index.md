@@ -1,6 +1,5 @@
 ---
 title: Marseille
-
 location:
   country: France
   state: 

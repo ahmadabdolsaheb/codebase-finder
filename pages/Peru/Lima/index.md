@@ -1,6 +1,5 @@
 ---
 title: Lima
-
 location:
   country: Peru
   state: 

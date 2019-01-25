@@ -1,6 +1,5 @@
 ---
 title: Krk
-
 location:
   country: Croatia
   state: 

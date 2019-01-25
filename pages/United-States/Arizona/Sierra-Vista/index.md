@@ -1,6 +1,5 @@
 ---
 title: Sierra Vista
-
 location:
   country: United States
   state: Arizona

@@ -1,6 +1,5 @@
 ---
 title: Canmore
-
 location:
   country: Canada
   state: Alberta

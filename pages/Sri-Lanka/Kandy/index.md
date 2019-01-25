@@ -1,6 +1,5 @@
 ---
 title: Kandy
-
 location:
   country: Sri Lanka
   state: 

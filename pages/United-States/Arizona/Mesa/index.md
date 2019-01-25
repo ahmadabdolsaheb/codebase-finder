@@ -1,6 +1,5 @@
 ---
 title: Mesa
-
 location:
   country: United States
   state: Arizona

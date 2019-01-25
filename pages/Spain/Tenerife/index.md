@@ -1,6 +1,5 @@
 ---
 title: Tenerife
-
 location:
   country: Spain
   state: 

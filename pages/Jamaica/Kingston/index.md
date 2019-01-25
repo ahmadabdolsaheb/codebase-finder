@@ -1,6 +1,5 @@
 ---
 title: Kingston
-
 location:
   country: Jamaica
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Nashik
-
 location:
   country: India
   state: Maharashtra

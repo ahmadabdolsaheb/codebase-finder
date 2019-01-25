@@ -1,6 +1,5 @@
 ---
 title: Constantine
-
 location:
   country: Algeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Gouda
-
 location:
   country: Netherlands
   state: 

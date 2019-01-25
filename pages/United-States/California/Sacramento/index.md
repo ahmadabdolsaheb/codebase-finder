@@ -1,6 +1,5 @@
 ---
 title: Sacramento
-
 location:
   country: United States
   state: California

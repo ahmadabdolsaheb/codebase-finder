@@ -1,6 +1,5 @@
 ---
 title: Knjazevac
-
 location:
   country: Serbia
   state: 

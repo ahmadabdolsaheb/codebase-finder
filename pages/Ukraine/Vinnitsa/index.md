@@ -1,6 +1,5 @@
 ---
 title: Vinnitsa
-
 location:
   country: Ukraine
   state: 

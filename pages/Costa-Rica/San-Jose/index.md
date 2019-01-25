@@ -1,6 +1,5 @@
 ---
 title: San Jose
-
 location:
   country: Costa Rica
   state: 

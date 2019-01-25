@@ -1,6 +1,5 @@
 ---
 title: Athens
-
 location:
   country: Greece
   state: 

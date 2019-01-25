@@ -1,6 +1,5 @@
 ---
 title: Gliwice
-
 location:
   country: Poland
   state: 

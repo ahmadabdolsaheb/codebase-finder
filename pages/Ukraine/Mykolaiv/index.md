@@ -1,6 +1,5 @@
 ---
 title: Mykolaiv
-
 location:
   country: Ukraine
   state: 

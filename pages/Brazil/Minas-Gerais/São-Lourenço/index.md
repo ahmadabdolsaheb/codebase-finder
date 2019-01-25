@@ -1,6 +1,5 @@
 ---
 title: São Lourenço
-
 location:
   country: Brazil
   state: Minas Gerais

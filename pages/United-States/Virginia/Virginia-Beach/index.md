@@ -1,6 +1,5 @@
 ---
 title: Virginia Beach
-
 location:
   country: United States
   state: Virginia

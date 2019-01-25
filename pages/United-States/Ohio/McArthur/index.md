@@ -1,6 +1,5 @@
 ---
 title: McArthur
-
 location:
   country: United States
   state: Ohio

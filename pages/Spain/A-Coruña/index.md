@@ -1,6 +1,5 @@
 ---
 title: A Coruña
-
 location:
   country: Spain
   state: 

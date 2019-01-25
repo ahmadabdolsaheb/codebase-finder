@@ -1,6 +1,5 @@
 ---
 title: Cottage Grove
-
 location:
   country: United States
   state: Oregon

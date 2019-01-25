@@ -1,6 +1,5 @@
 ---
 title: Fairfield
-
 location:
   country: United States
   state: California

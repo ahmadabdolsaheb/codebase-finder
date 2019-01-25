@@ -1,6 +1,5 @@
 ---
 title: Wijk bij Duurstede
-
 location:
   country: Netherlands
   state: Utrecht

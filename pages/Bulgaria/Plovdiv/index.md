@@ -1,6 +1,5 @@
 ---
 title: Plovdiv
-
 location:
   country: Bulgaria
   state: 

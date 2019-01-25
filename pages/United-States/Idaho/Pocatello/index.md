@@ -1,6 +1,5 @@
 ---
 title: Pocatello
-
 location:
   country: United States
   state: Idaho

@@ -1,6 +1,5 @@
 ---
 title: Bury St Edmunds
-
 location:
   country: England
   state: 

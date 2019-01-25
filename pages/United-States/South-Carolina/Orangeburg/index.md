@@ -1,6 +1,5 @@
 ---
 title: Orangeburg
-
 location:
   country: United States
   state: South Carolina

@@ -1,6 +1,5 @@
 ---
 title: Katowice
-
 location:
   country: Poland
   state: 

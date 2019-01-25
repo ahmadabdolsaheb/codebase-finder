@@ -1,6 +1,5 @@
 ---
 title: Brighton
-
 location:
   country: England
   state: 

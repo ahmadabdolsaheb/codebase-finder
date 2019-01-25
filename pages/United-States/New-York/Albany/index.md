@@ -1,6 +1,5 @@
 ---
 title: Albany
-
 location:
   country: United States
   state: New York

@@ -1,6 +1,5 @@
 ---
 title: Nusajaya
-
 location:
   country: Indonesia
   state: 

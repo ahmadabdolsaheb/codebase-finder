@@ -1,6 +1,5 @@
 ---
 title: Rajnandgaon
-
 location:
   country: India
   state: Chattisgarh

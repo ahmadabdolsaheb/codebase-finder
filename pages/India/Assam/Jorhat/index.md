@@ -1,6 +1,5 @@
 ---
 title: Jorhat
-
 location:
   country: India
   state: Assam

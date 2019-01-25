@@ -1,6 +1,5 @@
 ---
 title: Wheeling
-
 location:
   country: United States
   state: West Virginia

@@ -1,6 +1,5 @@
 ---
 title: La Rioja
-
 location:
   country: Argentina
   state: La Rioja

@@ -1,6 +1,5 @@
 ---
 title: Dar-Es-Salaam
-
 location:
   country: Tanzania
   state: 

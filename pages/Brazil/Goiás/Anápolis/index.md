@@ -1,6 +1,5 @@
 ---
 title: Anápolis
-
 location:
   country: Brazil
   state: Goiás

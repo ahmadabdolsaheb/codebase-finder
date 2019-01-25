@@ -1,6 +1,5 @@
 ---
 title: Raipur
-
 location:
   country: India
   state: Chattisgarh

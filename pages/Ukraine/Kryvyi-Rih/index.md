@@ -1,6 +1,5 @@
 ---
 title: Kryvyi Rih
-
 location:
   country: Ukraine
   state: 

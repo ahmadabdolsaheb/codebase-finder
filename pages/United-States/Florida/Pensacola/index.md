@@ -1,6 +1,5 @@
 ---
 title: Pensacola
-
 location:
   country: United States
   state: Florida

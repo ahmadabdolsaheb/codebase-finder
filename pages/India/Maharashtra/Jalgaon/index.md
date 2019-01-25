@@ -1,6 +1,5 @@
 ---
 title: Jalgaon
-
 location:
   country: India
   state: Maharashtra

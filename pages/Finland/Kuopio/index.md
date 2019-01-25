@@ -1,6 +1,5 @@
 ---
 title: Kuopio
-
 location:
   country: Finland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Sleaford
-
 location:
   country: England
   state: 

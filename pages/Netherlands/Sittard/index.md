@@ -1,6 +1,5 @@
 ---
 title: Sittard
-
 location:
   country: Netherlands
   state: 

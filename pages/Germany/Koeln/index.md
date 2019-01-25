@@ -1,6 +1,5 @@
 ---
 title: Koeln
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Hangzhou
-
 location:
   country: China
   state: Zhejiang

@@ -1,6 +1,5 @@
 ---
 title: Novosibirsk
-
 location:
   country: Russia
   state: 

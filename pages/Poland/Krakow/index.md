@@ -1,6 +1,5 @@
 ---
 title: Krakow
-
 location:
   country: Poland
   state: 

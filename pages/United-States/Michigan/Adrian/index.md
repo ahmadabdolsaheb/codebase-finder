@@ -1,6 +1,5 @@
 ---
 title: Adrian
-
 location:
   country: United States
   state: Michigan

@@ -1,6 +1,5 @@
 ---
 title: Cordoba
-
 location:
   country: Argentina
   state: 

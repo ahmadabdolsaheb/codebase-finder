@@ -1,6 +1,5 @@
 ---
 title: Khabarovsk
-
 location:
   country: Russia
   state: 

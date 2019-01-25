@@ -1,6 +1,5 @@
 ---
 title: Hanover
-
 location:
   country: Germany
   state: 

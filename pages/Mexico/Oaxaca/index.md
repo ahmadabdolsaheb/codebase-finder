@@ -1,6 +1,5 @@
 ---
 title: Oaxaca
-
 location:
   country: Mexico
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Málaga
-
 location:
   country: Spain
   state: 

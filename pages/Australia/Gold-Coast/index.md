@@ -1,6 +1,5 @@
 ---
 title: Gold Coast
-
 location:
   country: Australia
   state: 

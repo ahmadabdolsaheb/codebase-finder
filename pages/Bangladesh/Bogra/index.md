@@ -1,6 +1,5 @@
 ---
 title: Bogra
-
 location:
   country: Bangladesh
   state: 

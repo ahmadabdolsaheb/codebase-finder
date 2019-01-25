@@ -1,6 +1,5 @@
 ---
 title: Al-Mansoura
-
 location:
   country: Egypt
   state: 

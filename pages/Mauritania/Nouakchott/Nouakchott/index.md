@@ -1,6 +1,5 @@
 ---
 title: Nouakchott
-
 location:
   country: Mauritania
   state: Nouakchott

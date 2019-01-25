@@ -1,6 +1,5 @@
 ---
 title: Taiping
-
 location:
   country: Malaysia
   state: 

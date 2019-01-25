@@ -1,6 +1,5 @@
 ---
 title: Kirovohrad
-
 location:
   country: Ukraine
   state: 

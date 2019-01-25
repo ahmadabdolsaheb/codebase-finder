@@ -1,6 +1,5 @@
 ---
 title: São Paulo
-
 location:
   country: Brazil
   state: São Paulo

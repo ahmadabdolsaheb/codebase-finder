@@ -1,6 +1,5 @@
 ---
 title: Kimberley
-
 location:
   country: South Africa
   state: 

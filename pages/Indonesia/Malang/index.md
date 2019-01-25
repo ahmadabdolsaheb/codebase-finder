@@ -1,6 +1,5 @@
 ---
 title: Malang
-
 location:
   country: Indonesia
   state: 

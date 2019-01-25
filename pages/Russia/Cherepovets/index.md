@@ -1,6 +1,5 @@
 ---
 title: Cherepovets
-
 location:
   country: Russia
   state: 

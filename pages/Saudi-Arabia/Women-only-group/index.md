@@ -1,6 +1,5 @@
 ---
 title: Women only group
-
 location:
   country: Saudi Arabia
   state: 

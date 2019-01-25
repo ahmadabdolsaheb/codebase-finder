@@ -1,6 +1,5 @@
 ---
 title: Rabat
-
 location:
   country: Morocco
   state: 

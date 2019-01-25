@@ -1,6 +1,5 @@
 ---
 title: Mayagüez
-
 location:
   country: Puerto Rico
   state: 

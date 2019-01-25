@@ -1,6 +1,5 @@
 ---
 title: Maynooth
-
 location:
   country: Ireland
   state: 

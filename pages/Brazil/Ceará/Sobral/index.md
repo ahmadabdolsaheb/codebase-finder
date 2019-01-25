@@ -1,6 +1,5 @@
 ---
 title: Sobral
-
 location:
   country: Brazil
   state: Ceará

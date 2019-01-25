@@ -1,6 +1,5 @@
 ---
 title: Abeokuta
-
 location:
   country: Nigeria
   state: 

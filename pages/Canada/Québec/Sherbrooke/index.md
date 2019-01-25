@@ -1,6 +1,5 @@
 ---
 title: Sherbrooke
-
 location:
   country: Canada
   state: Québec

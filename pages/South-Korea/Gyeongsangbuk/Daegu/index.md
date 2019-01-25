@@ -1,6 +1,5 @@
 ---
 title: Daegu
-
 location:
   country: South Korea
   state: Gyeongsangbuk

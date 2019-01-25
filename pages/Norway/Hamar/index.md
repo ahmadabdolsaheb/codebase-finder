@@ -1,6 +1,5 @@
 ---
 title: Hamar
-
 location:
   country: Norway
   state: 

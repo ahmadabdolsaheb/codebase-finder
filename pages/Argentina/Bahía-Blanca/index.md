@@ -1,6 +1,5 @@
 ---
 title: Bahía Blanca
-
 location:
   country: Argentina
   state: 

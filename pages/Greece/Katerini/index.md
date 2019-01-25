@@ -1,6 +1,5 @@
 ---
 title: Katerini
-
 location:
   country: Greece
   state: 

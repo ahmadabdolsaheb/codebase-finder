@@ -1,6 +1,5 @@
 ---
 title: Warrington
-
 location:
   country: England
   state: 

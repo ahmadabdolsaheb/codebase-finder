@@ -1,6 +1,5 @@
 ---
 title: Khartoum
-
 location:
   country: Sudan
   state: 

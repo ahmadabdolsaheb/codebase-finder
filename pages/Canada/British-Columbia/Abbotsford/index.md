@@ -1,6 +1,5 @@
 ---
 title: Abbotsford
-
 location:
   country: Canada
   state: British Columbia

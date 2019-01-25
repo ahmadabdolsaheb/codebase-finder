@@ -1,6 +1,5 @@
 ---
 title: Hostelbro
-
 location:
   country: Denmark
   state: 

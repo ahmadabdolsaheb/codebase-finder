@@ -1,6 +1,5 @@
 ---
 title: Medan
-
 location:
   country: Indonesia
   state: 

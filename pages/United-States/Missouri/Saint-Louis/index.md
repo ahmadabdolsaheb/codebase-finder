@@ -1,6 +1,5 @@
 ---
 title: Saint Louis
-
 location:
   country: United States
   state: Missouri

@@ -1,6 +1,5 @@
 ---
 title: Nanchang
-
 location:
   country: China
   state: Jiangxi

@@ -1,6 +1,5 @@
 ---
 title: Lviv
-
 location:
   country: Ukraine
   state: 

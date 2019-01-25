@@ -1,6 +1,5 @@
 ---
 title: Forth Smith
-
 location:
   country: United States
   state: Arkansas

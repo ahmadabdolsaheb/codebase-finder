@@ -1,6 +1,5 @@
 ---
 title: Fremont
-
 location:
   country: United States
   state: California

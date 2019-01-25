@@ -1,6 +1,5 @@
 ---
 title: Livingstone
-
 location:
   country: Zambia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Mobile
-
 location:
   country: United States
   state: Alabama

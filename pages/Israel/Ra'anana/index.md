@@ -1,6 +1,5 @@
 ---
 title: Ra'anana
-
 location:
   country: Israel
   state: 

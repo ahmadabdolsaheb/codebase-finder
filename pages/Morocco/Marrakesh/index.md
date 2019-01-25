@@ -1,6 +1,5 @@
 ---
 title: Marrakesh
-
 location:
   country: Morocco
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bonita Springs
-
 location:
   country: United States
   state: Florida

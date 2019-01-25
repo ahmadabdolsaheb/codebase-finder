@@ -1,6 +1,5 @@
 ---
 title: Allahabad
-
 location:
   country: India
   state: Uttar Pradesh

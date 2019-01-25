@@ -1,6 +1,5 @@
 ---
 title: Chambersburg
-
 location:
   country: United States
   state: Pennsylvania

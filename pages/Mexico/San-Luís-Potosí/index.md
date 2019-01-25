@@ -1,6 +1,5 @@
 ---
 title: San Luís Potosí
-
 location:
   country: Mexico
   state: 

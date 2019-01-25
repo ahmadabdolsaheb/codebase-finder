@@ -1,6 +1,5 @@
 ---
 title: Braunschweig
-
 location:
   country: Germany
   state: 

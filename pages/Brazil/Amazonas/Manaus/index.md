@@ -1,6 +1,5 @@
 ---
 title: Manaus
-
 location:
   country: Brazil
   state: Amazonas

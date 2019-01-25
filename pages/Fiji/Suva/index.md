@@ -1,6 +1,5 @@
 ---
 title: Suva
-
 location:
   country: Fiji
   state: 

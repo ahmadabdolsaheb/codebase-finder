@@ -1,6 +1,5 @@
 ---
 title: Geelong
-
 location:
   country: Australia
   state: 

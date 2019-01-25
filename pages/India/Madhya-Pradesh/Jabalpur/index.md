@@ -1,6 +1,5 @@
 ---
 title: Jabalpur
-
 location:
   country: India
   state: Madhya Pradesh

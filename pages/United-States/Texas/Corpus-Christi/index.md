@@ -1,6 +1,5 @@
 ---
 title: Corpus Christi
-
 location:
   country: United States
   state: Texas

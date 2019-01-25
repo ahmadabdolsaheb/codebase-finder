@@ -1,6 +1,5 @@
 ---
 title: University Center
-
 location:
   country: United States
   state: Michigan

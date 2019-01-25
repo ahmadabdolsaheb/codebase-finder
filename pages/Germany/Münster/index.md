@@ -1,6 +1,5 @@
 ---
 title: Münster
-
 location:
   country: Germany
   state: 

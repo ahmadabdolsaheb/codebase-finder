@@ -1,6 +1,5 @@
 ---
 title: El Campo
-
 location:
   country: United States
   state: Texas

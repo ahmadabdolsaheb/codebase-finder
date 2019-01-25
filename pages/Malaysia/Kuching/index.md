@@ -1,6 +1,5 @@
 ---
 title: Kuching
-
 location:
   country: Malaysia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Pleasant Hill
-
 location:
   country: United States
   state: California

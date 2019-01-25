@@ -1,6 +1,5 @@
 ---
 title: Buzau
-
 location:
   country: Romania
   state: 

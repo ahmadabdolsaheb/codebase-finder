@@ -1,6 +1,5 @@
 ---
 title: Burgas
-
 location:
   country: Bulgaria
   state: 

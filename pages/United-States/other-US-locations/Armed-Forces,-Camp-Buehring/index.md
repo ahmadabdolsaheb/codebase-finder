@@ -1,6 +1,5 @@
 ---
 title: Armed Forces, Camp Buehring
-
 location:
   country: United States
   state: Other US locations

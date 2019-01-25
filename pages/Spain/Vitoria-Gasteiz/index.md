@@ -1,6 +1,5 @@
 ---
 title: Vitoria-Gasteiz
-
 location:
   country: Spain
   state: 

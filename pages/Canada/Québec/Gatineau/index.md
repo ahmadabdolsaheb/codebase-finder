@@ -1,6 +1,5 @@
 ---
 title: Gatineau
-
 location:
   country: Canada
   state: Québec

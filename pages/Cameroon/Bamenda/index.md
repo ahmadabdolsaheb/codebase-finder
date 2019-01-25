@@ -1,6 +1,5 @@
 ---
 title: Bamenda
-
 location:
   country: Cameroon
   state: 

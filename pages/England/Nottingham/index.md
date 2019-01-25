@@ -1,6 +1,5 @@
 ---
 title: Nottingham
-
 location:
   country: England
   state: 

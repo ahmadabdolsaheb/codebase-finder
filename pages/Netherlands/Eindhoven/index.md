@@ -1,6 +1,5 @@
 ---
 title: Eindhoven
-
 location:
   country: Netherlands
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Gwalior
-
 location:
   country: India
   state: Madhya Pradesh

@@ -1,6 +1,5 @@
 ---
 title: La Plata
-
 location:
   country: Argentina
   state: 

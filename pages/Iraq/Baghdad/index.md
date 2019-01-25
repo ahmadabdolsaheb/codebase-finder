@@ -1,6 +1,5 @@
 ---
 title: Baghdad
-
 location:
   country: Iraq
   state: 

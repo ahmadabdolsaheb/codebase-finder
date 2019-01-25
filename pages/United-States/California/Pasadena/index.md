@@ -1,6 +1,5 @@
 ---
 title: Pasadena
-
 location:
   country: United States
   state: California

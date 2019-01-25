@@ -1,6 +1,5 @@
 ---
 title: San Angelo
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Abia
-
 location:
   country: Nigeria
   state: Abia

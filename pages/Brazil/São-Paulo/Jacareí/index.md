@@ -1,6 +1,5 @@
 ---
 title: Jacareí
-
 location:
   country: Brazil
   state: São Paulo

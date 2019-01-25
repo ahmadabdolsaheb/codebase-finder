@@ -1,6 +1,5 @@
 ---
 title: Morges
-
 location:
   country: Switzerland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Porlamar
-
 location:
   country: Venezuela
   state: 

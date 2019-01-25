@@ -1,6 +1,5 @@
 ---
 title: Tacna
-
 location:
   country: Peru
   state: 

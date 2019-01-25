@@ -1,6 +1,5 @@
 ---
 title: Erie
-
 location:
   country: United States
   state: Pennsylvania

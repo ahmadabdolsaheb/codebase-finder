@@ -1,6 +1,5 @@
 ---
 title: Milton Keynes
-
 location:
   country: England
   state: 

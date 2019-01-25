@@ -1,6 +1,5 @@
 ---
 title: Visalia
-
 location:
   country: United States
   state: California

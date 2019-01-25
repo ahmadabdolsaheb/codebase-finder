@@ -1,6 +1,5 @@
 ---
 title: East Hanover
-
 location:
   country: United States
   state: New Jersey

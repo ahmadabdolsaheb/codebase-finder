@@ -1,6 +1,5 @@
 ---
 title: Santa Clara
-
 location:
   country: United States
   state: California

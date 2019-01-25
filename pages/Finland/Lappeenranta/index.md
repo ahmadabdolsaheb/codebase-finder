@@ -1,6 +1,5 @@
 ---
 title: Lappeenranta
-
 location:
   country: Finland
   state: 

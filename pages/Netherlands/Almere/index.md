@@ -1,6 +1,5 @@
 ---
 title: Almere
-
 location:
   country: Netherlands
   state: 

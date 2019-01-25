@@ -1,6 +1,5 @@
 ---
 title: Atlanta
-
 location:
   country: United States
   state: Georgia

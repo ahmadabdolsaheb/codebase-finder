@@ -1,6 +1,5 @@
 ---
 title: Alicante
-
 location:
   country: Spain
   state: 

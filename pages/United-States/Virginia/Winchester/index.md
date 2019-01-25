@@ -1,6 +1,5 @@
 ---
 title: Winchester
-
 location:
   country: United States
   state: Virginia

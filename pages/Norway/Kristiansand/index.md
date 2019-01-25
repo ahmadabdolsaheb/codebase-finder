@@ -1,6 +1,5 @@
 ---
 title: Kristiansand
-
 location:
   country: Norway
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Baltimore City
-
 location:
   country: United States
   state: Maryland

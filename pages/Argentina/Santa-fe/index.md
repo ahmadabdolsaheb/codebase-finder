@@ -1,6 +1,5 @@
 ---
 title: Santa fe
-
 location:
   country: Argentina
   state: 

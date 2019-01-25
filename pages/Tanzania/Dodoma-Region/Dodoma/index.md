@@ -1,6 +1,5 @@
 ---
 title: Dodoma
-
 location:
   country: Tanzania
   state: Dodoma Region

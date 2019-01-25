@@ -1,6 +1,5 @@
 ---
 title: Subotica
-
 location:
   country: Serbia
   state: 

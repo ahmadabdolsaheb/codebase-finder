@@ -1,6 +1,5 @@
 ---
 title: Tinton Falls
-
 location:
   country: United States
   state: New Jersey

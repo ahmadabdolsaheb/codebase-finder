@@ -1,6 +1,5 @@
 ---
 title: Pilani
-
 location:
   country: India
   state: Rajasthan

@@ -1,6 +1,5 @@
 ---
 title: Banjarmasin
-
 location:
   country: South Borneo
   state: 

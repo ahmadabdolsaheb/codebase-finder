@@ -1,6 +1,5 @@
 ---
 title: Coldwater
-
 location:
   country: United States
   state: Kansas

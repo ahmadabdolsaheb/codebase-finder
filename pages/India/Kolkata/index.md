@@ -1,6 +1,5 @@
 ---
 title: Kolkata
-
 location:
   country: India
   state: 

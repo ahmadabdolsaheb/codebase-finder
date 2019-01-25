@@ -1,6 +1,5 @@
 ---
 title: Ithaca
-
 location:
   country: United States
   state: New York

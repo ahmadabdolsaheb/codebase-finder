@@ -1,6 +1,5 @@
 ---
 title: Wuppertal
-
 location:
   country: Germany
   state: 

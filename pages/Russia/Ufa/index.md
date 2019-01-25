@@ -1,6 +1,5 @@
 ---
 title: Ufa
-
 location:
   country: Russia
   state: 

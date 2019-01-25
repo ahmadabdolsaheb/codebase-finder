@@ -1,6 +1,5 @@
 ---
 title: Kitwe
-
 location:
   country: Zambia
   state: Copperbelt

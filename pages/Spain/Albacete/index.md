@@ -1,6 +1,5 @@
 ---
 title: Albacete
-
 location:
   country: Spain
   state: 

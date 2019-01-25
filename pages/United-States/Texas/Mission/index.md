@@ -1,6 +1,5 @@
 ---
 title: Mission
-
 location:
   country: United States
   state: Texas

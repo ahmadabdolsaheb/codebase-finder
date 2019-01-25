@@ -1,6 +1,5 @@
 ---
 title: Saas-Fee
-
 location:
   country: Switzerland
   state: 

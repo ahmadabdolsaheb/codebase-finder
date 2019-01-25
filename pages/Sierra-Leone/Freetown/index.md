@@ -1,6 +1,5 @@
 ---
 title: Freetown
-
 location:
   country: Sierra Leone
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Jerusalem
-
 location:
   country: Israel
   state: 

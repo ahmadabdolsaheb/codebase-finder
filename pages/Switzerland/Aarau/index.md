@@ -1,6 +1,5 @@
 ---
 title: Aarau
-
 location:
   country: Switzerland
   state: 

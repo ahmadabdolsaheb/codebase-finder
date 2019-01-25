@@ -1,6 +1,5 @@
 ---
 title: Sydney
-
 location:
   country: Canada
   state: Nova Scotia

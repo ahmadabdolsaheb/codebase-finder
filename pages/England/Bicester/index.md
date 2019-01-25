@@ -1,6 +1,5 @@
 ---
 title: Bicester
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Tarlac City
-
 location:
   country: Philippines
   state: 

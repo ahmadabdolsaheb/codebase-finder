@@ -1,6 +1,5 @@
 ---
 title: Athlone
-
 location:
   country: Ireland
   state: 

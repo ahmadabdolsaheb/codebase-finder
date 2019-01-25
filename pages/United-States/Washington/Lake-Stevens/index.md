@@ -1,6 +1,5 @@
 ---
 title: Lake Stevens
-
 location:
   country: United States
   state: Washington

@@ -1,6 +1,5 @@
 ---
 title: Shimla
-
 location:
   country: India
   state: Himachal Pradesh

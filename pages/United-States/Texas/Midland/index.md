@@ -1,6 +1,5 @@
 ---
 title: Midland
-
 location:
   country: United States
   state: Texas

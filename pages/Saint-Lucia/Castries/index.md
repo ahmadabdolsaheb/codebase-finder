@@ -1,6 +1,5 @@
 ---
 title: Castries
-
 location:
   country: Saint Lucia
   state: 

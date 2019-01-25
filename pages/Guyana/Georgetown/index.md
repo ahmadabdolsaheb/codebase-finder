@@ -1,6 +1,5 @@
 ---
 title: Georgetown
-
 location:
   country: Guyana
   state: 

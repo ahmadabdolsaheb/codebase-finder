@@ -1,6 +1,5 @@
 ---
 title: Salt Lake City
-
 location:
   country: United States
   state: Utah

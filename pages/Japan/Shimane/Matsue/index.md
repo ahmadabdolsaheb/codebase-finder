@@ -1,6 +1,5 @@
 ---
 title: Matsue
-
 location:
   country: Japan
   state: Shimane

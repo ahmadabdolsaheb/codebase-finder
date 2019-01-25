@@ -1,6 +1,5 @@
 ---
 title: Kochi
-
 location:
   country: India
   state: Kerala

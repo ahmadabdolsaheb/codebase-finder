@@ -1,6 +1,5 @@
 ---
 title: Hickory
-
 location:
   country: United States
   state: North Carolina

@@ -1,6 +1,5 @@
 ---
 title: Addis Ababa
-
 location:
   country: Ethiopia
   state: 

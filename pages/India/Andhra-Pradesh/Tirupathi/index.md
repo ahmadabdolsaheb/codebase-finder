@@ -1,6 +1,5 @@
 ---
 title: Tirupathi
-
 location:
   country: India
   state: Andhra Pradesh

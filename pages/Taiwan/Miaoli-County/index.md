@@ -1,6 +1,5 @@
 ---
 title: Miaoli County
-
 location:
   country: Taiwan
   state: Miaoli County

@@ -1,6 +1,5 @@
 ---
 title: Fairfax
-
 location:
   country: United States
   state: Virginia

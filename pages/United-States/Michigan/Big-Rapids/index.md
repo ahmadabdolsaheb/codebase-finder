@@ -1,6 +1,5 @@
 ---
 title: Big Rapids
-
 location:
   country: United States
   state: Michigan

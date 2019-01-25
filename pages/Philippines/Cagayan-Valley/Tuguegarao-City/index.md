@@ -1,6 +1,5 @@
 ---
 title: Tuguegarao City
-
 location:
   country: Philippines
   state: Cagayan Valley

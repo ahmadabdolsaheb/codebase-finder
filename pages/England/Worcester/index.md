@@ -1,6 +1,5 @@
 ---
 title: Worcester
-
 location:
   country: England
   state: 

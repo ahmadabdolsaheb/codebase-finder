@@ -1,6 +1,5 @@
 ---
 title: Bryan / College Station
-
 location:
   country: United States
   state: Texas

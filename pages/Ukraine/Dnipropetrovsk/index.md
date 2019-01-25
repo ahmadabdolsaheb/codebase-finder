@@ -1,6 +1,5 @@
 ---
 title: Dnipropetrovsk
-
 location:
   country: Ukraine
   state: 

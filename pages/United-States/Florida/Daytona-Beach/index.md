@@ -1,6 +1,5 @@
 ---
 title: Daytona Beach
-
 location:
   country: United States
   state: Florida

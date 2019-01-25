@@ -1,6 +1,5 @@
 ---
 title: Quad Cities
-
 location:
   country: United States
   state: Illinois

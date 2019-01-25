@@ -1,6 +1,5 @@
 ---
 title: Aarhus
-
 location:
   country: Denmark
   state: 

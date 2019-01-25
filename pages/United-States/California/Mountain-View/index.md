@@ -1,6 +1,5 @@
 ---
 title: Mountain View
-
 location:
   country: United States
   state: California

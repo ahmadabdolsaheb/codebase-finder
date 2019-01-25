@@ -1,6 +1,5 @@
 ---
 title: Quixada
-
 location:
   country: Brazil
   state: Ceará

@@ -1,6 +1,5 @@
 ---
 title: Brookings
-
 location:
   country: United States
   state: South Dakota

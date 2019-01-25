@@ -1,6 +1,5 @@
 ---
 title: Waterloo
-
 location:
   country: Canada
   state: Ontario

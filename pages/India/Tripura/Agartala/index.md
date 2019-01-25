@@ -1,6 +1,5 @@
 ---
 title: Agartala
-
 location:
   country: India
   state: Tripura

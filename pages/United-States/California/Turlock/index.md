@@ -1,6 +1,5 @@
 ---
 title: Turlock
-
 location:
   country: United States
   state: California

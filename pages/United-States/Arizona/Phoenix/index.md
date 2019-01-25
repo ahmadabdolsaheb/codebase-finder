@@ -1,6 +1,5 @@
 ---
 title: Phoenix
-
 location:
   country: United States
   state: Arizona

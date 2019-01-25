@@ -1,6 +1,5 @@
 ---
 title: Birmingham
-
 location:
   country: England
   state: 

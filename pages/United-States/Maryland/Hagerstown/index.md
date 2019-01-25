@@ -1,6 +1,5 @@
 ---
 title: Hagerstown
-
 location:
   country: United States
   state: Maryland

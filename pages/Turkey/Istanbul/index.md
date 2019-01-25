@@ -1,6 +1,5 @@
 ---
 title: Istanbul
-
 location:
   country: Turkey
   state: 

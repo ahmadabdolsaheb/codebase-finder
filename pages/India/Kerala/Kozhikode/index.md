@@ -1,6 +1,5 @@
 ---
 title: Kozhikode
-
 location:
   country: India
   state: Kerala

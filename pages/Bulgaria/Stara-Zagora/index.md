@@ -1,6 +1,5 @@
 ---
 title: Stara Zagora
-
 location:
   country: Bulgaria
   state: 

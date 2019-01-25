@@ -1,6 +1,5 @@
 ---
 title: Richmond Hill
-
 location:
   country: Canada
   state: Ontario

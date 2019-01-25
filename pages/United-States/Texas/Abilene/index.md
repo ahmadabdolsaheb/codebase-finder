@@ -1,6 +1,5 @@
 ---
 title: Abilene
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Paynesville
-
 location:
   country: Liberia
   state: Monrovia

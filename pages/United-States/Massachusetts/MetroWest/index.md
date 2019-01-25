@@ -1,6 +1,5 @@
 ---
 title: MetroWest
-
 location:
   country: United States
   state: Massachusetts

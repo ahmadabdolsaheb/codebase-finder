@@ -1,6 +1,5 @@
 ---
 title: Khmelnitsky
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Almería
-
 location:
   country: Spain
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Kazan
-
 location:
   country: Russia
   state: 

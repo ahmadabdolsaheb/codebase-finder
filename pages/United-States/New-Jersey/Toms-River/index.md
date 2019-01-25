@@ -1,6 +1,5 @@
 ---
 title: Toms River
-
 location:
   country: United States
   state: New Jersey

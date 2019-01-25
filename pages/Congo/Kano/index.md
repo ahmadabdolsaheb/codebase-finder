@@ -1,6 +1,5 @@
 ---
 title: Kano
-
 location:
   country: Congo
   state: 

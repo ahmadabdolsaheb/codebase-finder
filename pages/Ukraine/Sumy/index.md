@@ -1,6 +1,5 @@
 ---
 title: Sumy
-
 location:
   country: Ukraine
   state: 

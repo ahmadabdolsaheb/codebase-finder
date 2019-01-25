@@ -1,6 +1,5 @@
 ---
 title: Mangalore
-
 location:
   country: India
   state: Karnataka

@@ -1,6 +1,5 @@
 ---
 title: Faro
-
 location:
   country: Portugal
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Rangpur
-
 location:
   country: Bangladesh
   state: 

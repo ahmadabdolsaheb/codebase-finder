@@ -1,6 +1,5 @@
 ---
 title: Fernando de Noronha
-
 location:
   country: Brazil
   state: Pernambuco

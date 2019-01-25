@@ -1,6 +1,5 @@
 ---
 title: Makati
-
 location:
   country: Philippines
   state: 

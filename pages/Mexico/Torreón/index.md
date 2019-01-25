@@ -1,6 +1,5 @@
 ---
 title: Torreón
-
 location:
   country: Mexico
   state: 

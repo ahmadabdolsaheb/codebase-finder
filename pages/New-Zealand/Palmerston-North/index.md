@@ -1,6 +1,5 @@
 ---
 title: Palmerston North
-
 location:
   country: New Zealand
   state: 

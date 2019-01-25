@@ -1,6 +1,5 @@
 ---
 title: Guadalajara
-
 location:
   country: Mexico
   state: 

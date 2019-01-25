@@ -1,6 +1,5 @@
 ---
 title: Bruges
-
 location:
   country: Belgium
   state: 

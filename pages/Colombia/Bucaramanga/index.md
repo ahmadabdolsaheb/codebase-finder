@@ -1,6 +1,5 @@
 ---
 title: Bucaramanga
-
 location:
   country: Colombia
   state: 

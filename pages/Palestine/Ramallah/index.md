@@ -1,6 +1,5 @@
 ---
 title: Ramallah
-
 location:
   country: Palestine
   state: 

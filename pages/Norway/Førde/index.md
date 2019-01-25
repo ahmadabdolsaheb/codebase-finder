@@ -1,6 +1,5 @@
 ---
 title: Førde
-
 location:
   country: Norway
   state: 

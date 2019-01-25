@@ -1,6 +1,5 @@
 ---
 title: Toulouse
-
 location:
   country: France
   state: 

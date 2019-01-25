@@ -1,6 +1,5 @@
 ---
 title: Poulsbo
-
 location:
   country: United States
   state: Washington

@@ -1,6 +1,5 @@
 ---
 title: Okinawa
-
 location:
   country: Japan
   state: Okinawa

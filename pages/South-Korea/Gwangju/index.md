@@ -1,6 +1,5 @@
 ---
 title: Gwangju
-
 location:
   country: South Korea
   state: 

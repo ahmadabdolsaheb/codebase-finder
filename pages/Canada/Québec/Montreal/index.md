@@ -1,6 +1,5 @@
 ---
 title: Montreal
-
 location:
   country: Canada
   state: Québec

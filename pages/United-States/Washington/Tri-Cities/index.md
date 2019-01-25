@@ -1,6 +1,5 @@
 ---
 title: Tri-Cities
-
 location:
   country: United States
   state: Washington

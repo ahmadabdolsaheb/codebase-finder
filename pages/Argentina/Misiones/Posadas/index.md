@@ -1,6 +1,5 @@
 ---
 title: Posadas
-
 location:
   country: Argentina
   state: Misiones

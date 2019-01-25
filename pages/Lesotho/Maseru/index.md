@@ -1,6 +1,5 @@
 ---
 title: Maseru
-
 location:
   country: Lesotho
   state: 

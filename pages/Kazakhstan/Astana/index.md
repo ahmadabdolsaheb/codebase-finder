@@ -1,6 +1,5 @@
 ---
 title: Astana
-
 location:
   country: Kazakhstan
   state: 

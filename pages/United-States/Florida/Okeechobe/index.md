@@ -1,6 +1,5 @@
 ---
 title: Okeechobe
-
 location:
   country: United States
   state: Florida

@@ -1,6 +1,5 @@
 ---
 title: Riga
-
 location:
   country: Latvia
   state: 

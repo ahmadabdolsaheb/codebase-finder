@@ -1,6 +1,5 @@
 ---
 title: Orenburg
-
 location:
   country: Russia
   state: 

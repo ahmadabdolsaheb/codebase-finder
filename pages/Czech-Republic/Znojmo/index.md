@@ -1,6 +1,5 @@
 ---
 title: Znojmo
-
 location:
   country: Czech Republic
   state: 

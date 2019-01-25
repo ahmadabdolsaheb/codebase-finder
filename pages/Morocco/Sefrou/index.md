@@ -1,6 +1,5 @@
 ---
 title: Sefrou
-
 location:
   country: Morocco
   state: 

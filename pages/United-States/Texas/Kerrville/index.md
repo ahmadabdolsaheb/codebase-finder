@@ -1,6 +1,5 @@
 ---
 title: Kerrville
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Chisinau
-
 location:
   country: Moldova
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Balneário Camboriú
-
 location:
   country: Brazil
   state: Santa Catarina

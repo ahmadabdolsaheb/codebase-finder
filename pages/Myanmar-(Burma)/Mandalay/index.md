@@ -1,6 +1,5 @@
 ---
 title: Mandalay
-
 location:
   country: Myanmar (Burma)
   state: 

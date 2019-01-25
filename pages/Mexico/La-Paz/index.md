@@ -1,6 +1,5 @@
 ---
 title: La Paz
-
 location:
   country: Mexico
   state: 

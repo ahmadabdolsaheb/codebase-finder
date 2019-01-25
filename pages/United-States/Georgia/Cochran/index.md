@@ -1,6 +1,5 @@
 ---
 title: Cochran
-
 location:
   country: United States
   state: Georgia

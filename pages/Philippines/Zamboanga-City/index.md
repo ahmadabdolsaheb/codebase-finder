@@ -1,6 +1,5 @@
 ---
 title: Zamboanga City
-
 location:
   country: Philippines
   state: 

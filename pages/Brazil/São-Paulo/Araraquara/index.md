@@ -1,6 +1,5 @@
 ---
 title: Araraquara
-
 location:
   country: Brazil
   state: São Paulo

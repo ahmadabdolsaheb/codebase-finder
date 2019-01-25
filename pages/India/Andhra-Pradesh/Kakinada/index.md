@@ -1,6 +1,5 @@
 ---
 title: Kakinada
-
 location:
   country: India
   state: Andhra Pradesh

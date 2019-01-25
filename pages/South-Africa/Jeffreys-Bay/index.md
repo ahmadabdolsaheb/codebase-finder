@@ -1,6 +1,5 @@
 ---
 title: Jeffreys Bay
-
 location:
   country: South Africa
   state: 

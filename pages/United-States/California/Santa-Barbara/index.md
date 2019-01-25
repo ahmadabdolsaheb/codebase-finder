@@ -1,6 +1,5 @@
 ---
 title: Santa Barbara
-
 location:
   country: United States
   state: California

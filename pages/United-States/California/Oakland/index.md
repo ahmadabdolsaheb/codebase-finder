@@ -1,6 +1,5 @@
 ---
 title: Oakland
-
 location:
   country: United States
   state: California

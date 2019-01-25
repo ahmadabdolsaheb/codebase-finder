@@ -1,6 +1,5 @@
 ---
 title: Desouk
-
 location:
   country: Egypt
   state: 

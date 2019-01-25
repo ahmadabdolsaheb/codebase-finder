@@ -1,6 +1,5 @@
 ---
 title: Patiala
-
 location:
   country: India
   state: Khanpur

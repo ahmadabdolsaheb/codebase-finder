@@ -1,6 +1,5 @@
 ---
 title: Tianjin
-
 location:
   country: China
   state: 

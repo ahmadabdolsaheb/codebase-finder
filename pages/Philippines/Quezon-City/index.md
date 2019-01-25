@@ -1,6 +1,5 @@
 ---
 title: Quezon City
-
 location:
   country: Philippines
   state: 

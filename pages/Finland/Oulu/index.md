@@ -1,6 +1,5 @@
 ---
 title: Oulu
-
 location:
   country: Finland
   state: 

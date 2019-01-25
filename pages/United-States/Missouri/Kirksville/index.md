@@ -1,6 +1,5 @@
 ---
 title: Kirksville
-
 location:
   country: United States
   state: Missouri

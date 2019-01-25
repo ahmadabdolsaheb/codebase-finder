@@ -1,6 +1,5 @@
 ---
 title: Owen Sound
-
 location:
   country: Canada
   state: Ontario

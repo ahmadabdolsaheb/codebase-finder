@@ -1,6 +1,5 @@
 ---
 title: Qingdao
-
 location:
   country: China
   state: Shandong

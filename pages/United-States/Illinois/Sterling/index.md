@@ -1,6 +1,5 @@
 ---
 title: Sterling
-
 location:
   country: United States
   state: Illinois

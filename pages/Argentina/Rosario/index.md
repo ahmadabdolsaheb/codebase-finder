@@ -1,6 +1,5 @@
 ---
 title: Rosario
-
 location:
   country: Argentina
   state: 

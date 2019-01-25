@@ -1,6 +1,5 @@
 ---
 title: Passau
-
 location:
   country: Germany
   state: 

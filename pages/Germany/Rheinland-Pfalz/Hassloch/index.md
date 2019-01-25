@@ -1,6 +1,5 @@
 ---
 title: Hassloch
-
 location:
   country: Germany
   state: Rheinland-Pfalz

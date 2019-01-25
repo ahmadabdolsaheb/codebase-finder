@@ -1,6 +1,5 @@
 ---
 title: Tuzla
-
 location:
   country: Bosnia and Herzegovina
   state: 

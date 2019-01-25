@@ -1,6 +1,5 @@
 ---
 title: Coro
-
 location:
   country: Venezuela
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Darbhanga
-
 location:
   country: India
   state: Bihar

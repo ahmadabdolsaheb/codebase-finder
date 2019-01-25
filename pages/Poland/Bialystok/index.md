@@ -1,6 +1,5 @@
 ---
 title: Bialystok
-
 location:
   country: Poland
   state: 

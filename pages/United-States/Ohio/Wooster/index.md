@@ -1,6 +1,5 @@
 ---
 title: Wooster
-
 location:
   country: United States
   state: Ohio

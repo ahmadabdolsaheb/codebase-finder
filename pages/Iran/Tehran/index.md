@@ -1,6 +1,5 @@
 ---
 title: Tehran
-
 location:
   country: Iran
   state: 

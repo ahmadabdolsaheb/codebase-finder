@@ -1,6 +1,5 @@
 ---
 title: La Habana
-
 location:
   country: Cuba
   state: 

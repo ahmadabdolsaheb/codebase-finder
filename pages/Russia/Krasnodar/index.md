@@ -1,6 +1,5 @@
 ---
 title: Krasnodar
-
 location:
   country: Russia
   state: 

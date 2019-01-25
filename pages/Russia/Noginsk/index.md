@@ -1,6 +1,5 @@
 ---
 title: Noginsk
-
 location:
   country: Russia
   state: 

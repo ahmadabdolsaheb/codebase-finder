@@ -1,6 +1,5 @@
 ---
 title: Changchun
-
 location:
   country: China
   state: Jilin

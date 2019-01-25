@@ -1,6 +1,5 @@
 ---
 title: Ipswich
-
 location:
   country: England
   state: 

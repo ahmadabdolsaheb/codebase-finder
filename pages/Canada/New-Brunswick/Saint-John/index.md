@@ -1,6 +1,5 @@
 ---
 title: Saint John
-
 location:
   country: Canada
   state: New Brunswick

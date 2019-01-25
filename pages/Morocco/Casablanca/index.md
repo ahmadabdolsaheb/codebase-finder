@@ -1,6 +1,5 @@
 ---
 title: Casablanca
-
 location:
   country: Morocco
   state: 

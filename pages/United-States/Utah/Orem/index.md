@@ -1,6 +1,5 @@
 ---
 title: Orem
-
 location:
   country: United States
   state: Utah

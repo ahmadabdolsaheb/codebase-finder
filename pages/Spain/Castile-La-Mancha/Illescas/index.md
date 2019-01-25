@@ -1,6 +1,5 @@
 ---
 title: Illescas
-
 location:
   country: Spain
   state: Castile-La Mancha

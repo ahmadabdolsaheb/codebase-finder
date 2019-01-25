@@ -1,6 +1,5 @@
 ---
 title: Seoul
-
 location:
   country: South Korea
   state: Gyeonggi

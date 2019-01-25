@@ -1,6 +1,5 @@
 ---
 title: Oslo
-
 location:
   country: Norway
   state: 

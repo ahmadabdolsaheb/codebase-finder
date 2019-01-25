@@ -1,6 +1,5 @@
 ---
 title: Saint Petersburg
-
 location:
   country: Russia
   state: 

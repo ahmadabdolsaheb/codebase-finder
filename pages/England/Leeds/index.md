@@ -1,6 +1,5 @@
 ---
 title: Leeds
-
 location:
   country: England
   state: 

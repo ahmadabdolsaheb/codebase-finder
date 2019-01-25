@@ -1,6 +1,5 @@
 ---
 title: Napier
-
 location:
   country: New Zealand
   state: 

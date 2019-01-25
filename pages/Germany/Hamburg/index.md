@@ -1,6 +1,5 @@
 ---
 title: Hamburg
-
 location:
   country: Germany
   state: 

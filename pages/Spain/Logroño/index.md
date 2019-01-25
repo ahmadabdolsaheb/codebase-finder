@@ -1,6 +1,5 @@
 ---
 title: Logroño
-
 location:
   country: Spain
   state: 

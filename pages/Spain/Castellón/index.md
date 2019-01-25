@@ -1,6 +1,5 @@
 ---
 title: Castellón
-
 location:
   country: Spain
   state: 

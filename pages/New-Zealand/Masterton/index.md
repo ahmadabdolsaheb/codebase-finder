@@ -1,6 +1,5 @@
 ---
 title: Masterton
-
 location:
   country: New Zealand
   state: 

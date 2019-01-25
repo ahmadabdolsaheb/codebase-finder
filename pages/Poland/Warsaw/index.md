@@ -1,6 +1,5 @@
 ---
 title: Warsaw
-
 location:
   country: Poland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Philadelphia
-
 location:
   country: United States
   state: Pennsylvania

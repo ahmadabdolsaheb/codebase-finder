@@ -1,6 +1,5 @@
 ---
 title: Kosice
-
 location:
   country: Slovakia
   state: 

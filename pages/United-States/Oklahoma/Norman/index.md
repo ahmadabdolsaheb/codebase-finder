@@ -1,6 +1,5 @@
 ---
 title: Norman
-
 location:
   country: United States
   state: Oklahoma

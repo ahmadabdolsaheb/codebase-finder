@@ -1,6 +1,5 @@
 ---
 title: Duchanbe
-
 location:
   country: Tajikistan
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Nürnberg
-
 location:
   country: Germany
   state: 

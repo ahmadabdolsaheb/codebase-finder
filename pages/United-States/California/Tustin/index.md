@@ -1,6 +1,5 @@
 ---
 title: Tustin
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Macon
-
 location:
   country: France
   state: 

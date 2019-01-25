@@ -1,6 +1,5 @@
 ---
 title: Mandi
-
 location:
   country: India
   state: Himachal Pradesh

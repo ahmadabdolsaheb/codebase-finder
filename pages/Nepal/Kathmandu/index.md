@@ -1,6 +1,5 @@
 ---
 title: Kathmandu
-
 location:
   country: Nepal
   state: 

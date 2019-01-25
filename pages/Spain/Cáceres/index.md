@@ -1,6 +1,5 @@
 ---
 title: Cáceres
-
 location:
   country: Spain
   state: 

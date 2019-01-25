@@ -1,6 +1,5 @@
 ---
 title: Stavanger
-
 location:
   country: Norway
   state: 

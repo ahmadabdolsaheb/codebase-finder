@@ -1,6 +1,5 @@
 ---
 title: Nairobi
-
 location:
   country: Kenya
   state: 

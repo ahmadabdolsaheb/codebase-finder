@@ -1,6 +1,5 @@
 ---
 title: Bauchi
-
 location:
   country: Nigeria
   state: Bauchi

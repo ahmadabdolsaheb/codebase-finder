@@ -1,6 +1,5 @@
 ---
 title: Buchholz in der Nordheide
-
 location:
   country: Germany
   state: Niedersachsen

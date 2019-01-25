@@ -1,6 +1,5 @@
 ---
 title: Red Deer
-
 location:
   country: Canada
   state: Alberta

@@ -1,6 +1,5 @@
 ---
 title: Balikpapan
-
 location:
   country: Indonesia
   state: 

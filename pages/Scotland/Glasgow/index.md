@@ -1,6 +1,5 @@
 ---
 title: Glasgow
-
 location:
   country: Scotland
   state: 

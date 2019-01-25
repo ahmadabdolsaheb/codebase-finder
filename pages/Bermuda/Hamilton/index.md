@@ -1,6 +1,5 @@
 ---
 title: Hamilton
-
 location:
   country: Bermuda
   state: 

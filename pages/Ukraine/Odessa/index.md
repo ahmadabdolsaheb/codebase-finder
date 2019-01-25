@@ -1,6 +1,5 @@
 ---
 title: Odessa
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bucharest
-
 location:
   country: Romania
   state: 

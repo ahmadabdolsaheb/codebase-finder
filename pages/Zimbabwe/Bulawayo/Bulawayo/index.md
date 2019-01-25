@@ -1,6 +1,5 @@
 ---
 title: Bulawayo
-
 location:
   country: Zimbabwe
   state: Bulawayo

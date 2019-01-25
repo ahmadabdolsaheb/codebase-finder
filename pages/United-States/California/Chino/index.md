@@ -1,6 +1,5 @@
 ---
 title: Chino
-
 location:
   country: United States
   state: California

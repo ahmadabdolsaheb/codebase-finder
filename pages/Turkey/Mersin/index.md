@@ -1,6 +1,5 @@
 ---
 title: Mersin
-
 location:
   country: Turkey
   state: 

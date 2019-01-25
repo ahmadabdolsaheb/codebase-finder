@@ -1,6 +1,5 @@
 ---
 title: Las Cruces
-
 location:
   country: United States
   state: New Mexico

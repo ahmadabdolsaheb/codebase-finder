@@ -1,6 +1,5 @@
 ---
 title: Bundaberg
-
 location:
   country: Australia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Southampton
-
 location:
   country: England
   state: 

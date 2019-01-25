@@ -1,6 +1,5 @@
 ---
 title: Bauru
-
 location:
   country: Brazil
   state: São Paulo

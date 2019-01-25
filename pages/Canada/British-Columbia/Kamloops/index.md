@@ -1,6 +1,5 @@
 ---
 title: Kamloops
-
 location:
   country: Canada
   state: British Columbia

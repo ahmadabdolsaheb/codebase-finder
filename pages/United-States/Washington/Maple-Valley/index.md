@@ -1,6 +1,5 @@
 ---
 title: Maple Valley
-
 location:
   country: United States
   state: Washington

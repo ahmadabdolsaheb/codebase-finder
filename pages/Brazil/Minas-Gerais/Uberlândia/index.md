@@ -1,6 +1,5 @@
 ---
 title: Uberlândia
-
 location:
   country: Brazil
   state: Minas Gerais

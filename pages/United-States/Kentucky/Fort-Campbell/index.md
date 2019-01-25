@@ -1,6 +1,5 @@
 ---
 title: Fort Campbell
-
 location:
   country: United States
   state: Kentucky

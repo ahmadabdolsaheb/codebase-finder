@@ -1,6 +1,5 @@
 ---
 title: King's Lynn
-
 location:
   country: England
   state: 

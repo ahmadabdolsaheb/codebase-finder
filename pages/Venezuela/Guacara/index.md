@@ -1,6 +1,5 @@
 ---
 title: Guacara
-
 location:
   country: Venezuela
   state: 

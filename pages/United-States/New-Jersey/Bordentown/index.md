@@ -1,6 +1,5 @@
 ---
 title: Bordentown
-
 location:
   country: United States
   state: New Jersey

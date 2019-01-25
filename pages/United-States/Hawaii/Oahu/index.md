@@ -1,6 +1,5 @@
 ---
 title: Oahu
-
 location:
   country: United States
   state: Hawaii

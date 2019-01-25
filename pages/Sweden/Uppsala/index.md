@@ -1,6 +1,5 @@
 ---
 title: Uppsala
-
 location:
   country: Sweden
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Leipzig
-
 location:
   country: Germany
   state: 

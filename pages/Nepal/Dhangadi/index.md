@@ -1,6 +1,5 @@
 ---
 title: Dhangadi
-
 location:
   country: Nepal
   state: 

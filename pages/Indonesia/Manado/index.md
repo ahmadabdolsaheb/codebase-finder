@@ -1,6 +1,5 @@
 ---
 title: Manado
-
 location:
   country: Indonesia
   state: 

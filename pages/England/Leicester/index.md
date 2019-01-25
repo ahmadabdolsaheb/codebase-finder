@@ -1,6 +1,5 @@
 ---
 title: Leicester
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Jhansi
-
 location:
   country: India
   state: Uttar Pradesh

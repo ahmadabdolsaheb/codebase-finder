@@ -1,6 +1,5 @@
 ---
 title: Chelles
-
 location:
   country: France
   state: 

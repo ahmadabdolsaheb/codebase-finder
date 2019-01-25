@@ -1,6 +1,5 @@
 ---
 title: Los Alamos
-
 location:
   country: United States
   state: New Mexico

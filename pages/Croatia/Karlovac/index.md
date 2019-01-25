@@ -1,6 +1,5 @@
 ---
 title: Karlovac
-
 location:
   country: Croatia
   state: 

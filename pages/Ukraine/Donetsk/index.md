@@ -1,6 +1,5 @@
 ---
 title: Donetsk
-
 location:
   country: Ukraine
   state: 

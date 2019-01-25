@@ -1,6 +1,5 @@
 ---
 title: Salisbury
-
 location:
   country: United States
   state: Maryland

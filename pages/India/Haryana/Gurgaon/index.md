@@ -1,6 +1,5 @@
 ---
 title: Gurgaon
-
 location:
   country: India
   state: Haryana

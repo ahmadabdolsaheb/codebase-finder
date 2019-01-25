@@ -1,6 +1,5 @@
 ---
 title: Larisa
-
 location:
   country: Greece
   state: 

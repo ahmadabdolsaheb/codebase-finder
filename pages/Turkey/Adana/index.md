@@ -1,6 +1,5 @@
 ---
 title: Adana
-
 location:
   country: Turkey
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Little Elm
-
 location:
   country: United States
   state: Texas

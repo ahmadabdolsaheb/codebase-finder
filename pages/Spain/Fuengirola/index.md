@@ -1,6 +1,5 @@
 ---
 title: Fuengirola
-
 location:
   country: Spain
   state: 

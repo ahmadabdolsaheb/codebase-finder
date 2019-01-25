@@ -1,6 +1,5 @@
 ---
 title: Sivas
-
 location:
   country: Turkey
   state: 

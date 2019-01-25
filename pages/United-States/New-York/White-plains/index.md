@@ -1,6 +1,5 @@
 ---
 title: White plains
-
 location:
   country: United States
   state: New York

@@ -1,6 +1,5 @@
 ---
 title: Prescott
-
 location:
   country: United States
   state: Arizona

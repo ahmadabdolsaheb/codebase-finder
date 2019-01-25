@@ -1,6 +1,5 @@
 ---
 title: Tuebingen
-
 location:
   country: Germany
   state: 

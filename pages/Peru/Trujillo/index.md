@@ -1,6 +1,5 @@
 ---
 title: Trujillo
-
 location:
   country: Peru
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Changsha
-
 location:
   country: China
   state: Hunan

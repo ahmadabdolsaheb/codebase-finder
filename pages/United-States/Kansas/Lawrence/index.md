@@ -1,6 +1,5 @@
 ---
 title: Lawrence
-
 location:
   country: United States
   state: Kansas

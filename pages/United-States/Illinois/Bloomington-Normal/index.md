@@ -1,6 +1,5 @@
 ---
 title: Bloomington-Normal
-
 location:
   country: United States
   state: Illinois

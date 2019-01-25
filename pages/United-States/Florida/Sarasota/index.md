@@ -1,6 +1,5 @@
 ---
 title: Sarasota
-
 location:
   country: United States
   state: Florida

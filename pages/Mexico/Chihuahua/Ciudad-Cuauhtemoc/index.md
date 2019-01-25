@@ -1,6 +1,5 @@
 ---
 title: Ciudad Cuauhtemoc
-
 location:
   country: Mexico
   state: Chihuahua

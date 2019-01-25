@@ -1,6 +1,5 @@
 ---
 title: Anshun
-
 location:
   country: China
   state: Guizhou

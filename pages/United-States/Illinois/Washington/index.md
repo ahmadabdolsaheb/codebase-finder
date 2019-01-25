@@ -1,6 +1,5 @@
 ---
 title: Washington
-
 location:
   country: United States
   state: Illinois

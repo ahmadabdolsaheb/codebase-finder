@@ -1,6 +1,5 @@
 ---
 title: Tucson
-
 location:
   country: United States
   state: Arizona

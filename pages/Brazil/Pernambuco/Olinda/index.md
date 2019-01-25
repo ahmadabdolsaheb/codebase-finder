@@ -1,6 +1,5 @@
 ---
 title: Olinda
-
 location:
   country: Brazil
   state: Pernambuco

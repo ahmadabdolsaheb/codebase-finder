@@ -1,6 +1,5 @@
 ---
 title: Kannur
-
 location:
   country: India
   state: Kerala

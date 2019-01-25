@@ -1,6 +1,5 @@
 ---
 title: Hazelton
-
 location:
   country: Canada
   state: British Columbia

@@ -1,6 +1,5 @@
 ---
 title: Srinagar
-
 location:
   country: India
   state: Jammu & Kashmir

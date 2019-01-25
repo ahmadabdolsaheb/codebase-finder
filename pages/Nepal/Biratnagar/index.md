@@ -1,6 +1,5 @@
 ---
 title: Biratnagar
-
 location:
   country: Nepal
   state: 

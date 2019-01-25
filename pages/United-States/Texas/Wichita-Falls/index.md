@@ -1,6 +1,5 @@
 ---
 title: Wichita Falls
-
 location:
   country: United States
   state: Texas

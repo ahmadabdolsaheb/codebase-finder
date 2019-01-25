@@ -1,6 +1,5 @@
 ---
 title: Macon
-
 location:
   country: United States
   state: Georgia

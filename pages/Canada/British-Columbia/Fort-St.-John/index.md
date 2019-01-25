@@ -1,6 +1,5 @@
 ---
 title: Fort St. John
-
 location:
   country: Canada
   state: British Columbia

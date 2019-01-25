@@ -1,6 +1,5 @@
 ---
 title: Kangbashen
-
 location:
   country: China
   state: Inner Mongolia

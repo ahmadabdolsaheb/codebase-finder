@@ -1,6 +1,5 @@
 ---
 title: Kiev
-
 location:
   country: Ukraine
   state: 

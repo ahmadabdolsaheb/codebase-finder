@@ -1,6 +1,5 @@
 ---
 title: Novokuznetsk
-
 location:
   country: Russia
   state: 

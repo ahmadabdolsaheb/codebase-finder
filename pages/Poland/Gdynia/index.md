@@ -1,6 +1,5 @@
 ---
 title: Gdynia
-
 location:
   country: Poland
   state: 

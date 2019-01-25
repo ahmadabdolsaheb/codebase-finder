@@ -1,6 +1,5 @@
 ---
 title: Shreveport
-
 location:
   country: United States
   state: Louisiana

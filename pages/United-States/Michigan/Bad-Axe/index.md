@@ -1,6 +1,5 @@
 ---
 title: Bad Axe
-
 location:
   country: United States
   state: Michigan

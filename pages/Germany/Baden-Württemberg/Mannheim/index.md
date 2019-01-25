@@ -1,6 +1,5 @@
 ---
 title: Mannheim
-
 location:
   country: Germany
   state: Baden-Württemberg

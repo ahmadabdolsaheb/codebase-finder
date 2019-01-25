@@ -1,6 +1,5 @@
 ---
 title: Ourinhos
-
 location:
   country: Brazil
   state: São Paulo

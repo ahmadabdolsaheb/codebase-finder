@@ -1,6 +1,5 @@
 ---
 title: Northampton
-
 location:
   country: England
   state: 

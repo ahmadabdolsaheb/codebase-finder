@@ -1,6 +1,5 @@
 ---
 title: Raichur
-
 location:
   country: India
   state: Karnataka

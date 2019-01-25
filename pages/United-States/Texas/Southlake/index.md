@@ -1,6 +1,5 @@
 ---
 title: Southlake
-
 location:
   country: United States
   state: Texas

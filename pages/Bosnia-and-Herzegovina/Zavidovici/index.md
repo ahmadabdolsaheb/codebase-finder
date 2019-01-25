@@ -1,6 +1,5 @@
 ---
 title: Zavidovici
-
 location:
   country: Bosnia and Herzegovina
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Muzaffarpur
-
 location:
   country: India
   state: Bihar

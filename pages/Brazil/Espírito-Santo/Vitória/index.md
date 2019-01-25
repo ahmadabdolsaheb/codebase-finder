@@ -1,6 +1,5 @@
 ---
 title: Vitória
-
 location:
   country: Brazil
   state: Espírito Santo

@@ -1,6 +1,5 @@
 ---
 title: Spokane
-
 location:
   country: United States
   state: Washington

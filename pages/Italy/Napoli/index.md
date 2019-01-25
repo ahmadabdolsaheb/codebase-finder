@@ -1,6 +1,5 @@
 ---
 title: Napoli
-
 location:
   country: Italy
   state: 

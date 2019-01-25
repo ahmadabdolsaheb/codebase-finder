@@ -1,6 +1,5 @@
 ---
 title: San Diego
-
 location:
   country: United States
   state: California

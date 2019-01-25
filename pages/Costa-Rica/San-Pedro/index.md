@@ -1,6 +1,5 @@
 ---
 title: San Pedro
-
 location:
   country: Costa Rica
   state: 

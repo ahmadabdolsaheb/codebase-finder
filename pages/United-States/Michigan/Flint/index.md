@@ -1,6 +1,5 @@
 ---
 title: Flint
-
 location:
   country: United States
   state: Michigan

@@ -1,6 +1,5 @@
 ---
 title: Como
-
 location:
   country: Italy
   state: 

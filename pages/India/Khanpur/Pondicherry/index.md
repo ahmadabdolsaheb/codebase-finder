@@ -1,6 +1,5 @@
 ---
 title: Pondicherry
-
 location:
   country: India
   state: Khanpur

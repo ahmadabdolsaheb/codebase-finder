@@ -1,6 +1,5 @@
 ---
 title: Antwerp
-
 location:
   country: Belgium
   state: 

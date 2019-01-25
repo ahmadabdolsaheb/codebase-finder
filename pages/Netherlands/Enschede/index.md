@@ -1,6 +1,5 @@
 ---
 title: Enschede
-
 location:
   country: Netherlands
   state: 

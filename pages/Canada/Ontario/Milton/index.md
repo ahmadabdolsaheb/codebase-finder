@@ -1,6 +1,5 @@
 ---
 title: Milton
-
 location:
   country: Canada
   state: Ontario

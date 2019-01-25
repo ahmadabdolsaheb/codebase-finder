@@ -1,6 +1,5 @@
 ---
 title: Tsukuba
-
 location:
   country: Japan
   state: Ibaraki

@@ -1,6 +1,5 @@
 ---
 title: Bjelovar
-
 location:
   country: Croatia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bristol
-
 location:
   country: England
   state: 

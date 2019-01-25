@@ -1,6 +1,5 @@
 ---
 title: Wuhan
-
 location:
   country: China
   state: Hubei

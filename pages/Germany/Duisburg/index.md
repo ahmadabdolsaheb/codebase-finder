@@ -1,6 +1,5 @@
 ---
 title: Duisburg
-
 location:
   country: Germany
   state: 

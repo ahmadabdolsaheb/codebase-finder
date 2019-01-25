@@ -1,6 +1,5 @@
 ---
 title: Kuwait City
-
 location:
   country: Kuwait
   state: Al Asimah Governate

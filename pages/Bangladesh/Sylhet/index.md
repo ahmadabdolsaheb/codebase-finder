@@ -1,6 +1,5 @@
 ---
 title: Sylhet
-
 location:
   country: Bangladesh
   state: 

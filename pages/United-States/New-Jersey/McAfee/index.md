@@ -1,6 +1,5 @@
 ---
 title: McAfee
-
 location:
   country: United States
   state: New Jersey

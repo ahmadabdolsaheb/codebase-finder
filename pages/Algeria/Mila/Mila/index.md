@@ -1,6 +1,5 @@
 ---
 title: Mila
-
 location:
   country: Algeria
   state: Mila

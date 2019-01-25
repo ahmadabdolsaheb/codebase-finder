@@ -1,6 +1,5 @@
 ---
 title: Thousand Oaks
-
 location:
   country: United States
   state: California

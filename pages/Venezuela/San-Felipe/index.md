@@ -1,6 +1,5 @@
 ---
 title: San Felipe
-
 location:
   country: Venezuela
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Nanjing
-
 location:
   country: China
   state: Jiangsu

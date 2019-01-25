@@ -1,6 +1,5 @@
 ---
 title: Aracaju
-
 location:
   country: Brazil
   state: São PauloSergipe

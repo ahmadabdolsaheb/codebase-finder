@@ -1,6 +1,5 @@
 ---
 title: Corrientes
-
 location:
   country: Argentina
   state: 

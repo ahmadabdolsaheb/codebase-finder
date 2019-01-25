@@ -1,6 +1,5 @@
 ---
 title: Vannes
-
 location:
   country: France
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Pavlovo
-
 location:
   country: Russia
   state: 

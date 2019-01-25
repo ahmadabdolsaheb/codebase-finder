@@ -1,6 +1,5 @@
 ---
 title: Terre Haute
-
 location:
   country: United States
   state: Indiana

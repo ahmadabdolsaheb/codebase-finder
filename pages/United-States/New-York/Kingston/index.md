@@ -1,6 +1,5 @@
 ---
 title: Kingston
-
 location:
   country: United States
   state: New York

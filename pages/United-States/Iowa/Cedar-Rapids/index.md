@@ -1,6 +1,5 @@
 ---
 title: Cedar Rapids
-
 location:
   country: United States
   state: Iowa

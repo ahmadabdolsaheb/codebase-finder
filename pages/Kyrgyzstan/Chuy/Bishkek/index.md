@@ -1,6 +1,5 @@
 ---
 title: Bishkek
-
 location:
   country: Kyrgyzstan
   state: Chuy

@@ -1,6 +1,5 @@
 ---
 title: Tualatin
-
 location:
   country: United States
   state: Oregon

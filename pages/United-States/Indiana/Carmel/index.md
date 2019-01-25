@@ -1,6 +1,5 @@
 ---
 title: Carmel
-
 location:
   country: United States
   state: Indiana

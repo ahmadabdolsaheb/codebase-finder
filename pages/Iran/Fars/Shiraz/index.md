@@ -1,6 +1,5 @@
 ---
 title: Shiraz
-
 location:
   country: Iran
   state: Fars

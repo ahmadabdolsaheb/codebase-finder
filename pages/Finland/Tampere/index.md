@@ -1,6 +1,5 @@
 ---
 title: Tampere
-
 location:
   country: Finland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Aalesund
-
 location:
   country: Norway
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Kerman
-
 location:
   country: Iran
   state: 

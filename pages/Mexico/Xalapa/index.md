@@ -1,6 +1,5 @@
 ---
 title: Xalapa
-
 location:
   country: Mexico
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Montgomery
-
 location:
   country: United States
   state: Alabama

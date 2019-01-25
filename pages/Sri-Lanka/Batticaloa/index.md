@@ -1,6 +1,5 @@
 ---
 title: Batticaloa
-
 location:
   country: Sri Lanka
   state: 

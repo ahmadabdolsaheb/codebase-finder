@@ -1,6 +1,5 @@
 ---
 title: Flensburg
-
 location:
   country: Germany
   state: 

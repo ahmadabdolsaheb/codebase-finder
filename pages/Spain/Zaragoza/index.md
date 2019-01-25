@@ -1,6 +1,5 @@
 ---
 title: Zaragoza
-
 location:
   country: Spain
   state: 

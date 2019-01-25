@@ -1,6 +1,5 @@
 ---
 title: Guildford
-
 location:
   country: England
   state: 

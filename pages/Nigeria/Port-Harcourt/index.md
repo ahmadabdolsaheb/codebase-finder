@@ -1,6 +1,5 @@
 ---
 title: Port Harcourt
-
 location:
   country: Nigeria
   state: 

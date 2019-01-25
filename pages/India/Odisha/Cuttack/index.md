@@ -1,6 +1,5 @@
 ---
 title: Cuttack
-
 location:
   country: India
   state: Odisha

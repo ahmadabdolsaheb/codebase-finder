@@ -1,6 +1,5 @@
 ---
 title: Huntsville
-
 location:
   country: United States
   state: Alabama

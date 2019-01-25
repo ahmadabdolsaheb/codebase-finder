@@ -1,6 +1,5 @@
 ---
 title: Beloit
-
 location:
   country: United States
   state: Wisconsin

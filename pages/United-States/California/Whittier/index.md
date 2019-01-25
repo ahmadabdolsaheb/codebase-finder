@@ -1,6 +1,5 @@
 ---
 title: Whittier
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Rehovot
-
 location:
   country: Israel
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Hobart
-
 location:
   country: Australia
   state: 

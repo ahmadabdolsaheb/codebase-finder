@@ -1,6 +1,5 @@
 ---
 title: Grand Forks
-
 location:
   country: United States
   state: North Dakota

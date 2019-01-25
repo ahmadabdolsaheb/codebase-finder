@@ -1,6 +1,5 @@
 ---
 title: Ede
-
 location:
   country: Netherlands
   state: Gelderland

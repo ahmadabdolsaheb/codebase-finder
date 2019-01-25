@@ -1,6 +1,5 @@
 ---
 title: Frederick
-
 location:
   country: United States
   state: Maryland

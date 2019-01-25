@@ -1,6 +1,5 @@
 ---
 title: Eskişehir
-
 location:
   country: Turkey
   state: 

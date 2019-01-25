@@ -1,6 +1,5 @@
 ---
 title: Manizales
-
 location:
   country: Colombia
   state: 

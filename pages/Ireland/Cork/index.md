@@ -1,6 +1,5 @@
 ---
 title: Cork
-
 location:
   country: Ireland
   state: 

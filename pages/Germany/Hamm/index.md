@@ -1,6 +1,5 @@
 ---
 title: Hamm
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Tripoli
-
 location:
   country: Libya
   state: 

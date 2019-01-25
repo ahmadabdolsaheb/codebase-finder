@@ -1,6 +1,5 @@
 ---
 title: Monclova
-
 location:
   country: Mexico
   state: Coahuila

@@ -1,6 +1,5 @@
 ---
 title: Traverse City
-
 location:
   country: United States
   state: Michigan

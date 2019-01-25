@@ -1,6 +1,5 @@
 ---
 title: Chico
-
 location:
   country: United States
   state: California

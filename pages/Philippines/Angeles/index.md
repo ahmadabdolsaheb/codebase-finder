@@ -1,6 +1,5 @@
 ---
 title: Angeles
-
 location:
   country: Philippines
   state: 

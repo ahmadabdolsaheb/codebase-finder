@@ -1,6 +1,5 @@
 ---
 title: Wairoa
-
 location:
   country: New Zealand
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Austin
-
 location:
   country: United States
   state: Texas

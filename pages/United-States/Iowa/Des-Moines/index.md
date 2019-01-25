@@ -1,6 +1,5 @@
 ---
 title: Des Moines
-
 location:
   country: United States
   state: Iowa

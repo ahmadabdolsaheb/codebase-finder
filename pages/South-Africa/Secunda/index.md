@@ -1,6 +1,5 @@
 ---
 title: Secunda
-
 location:
   country: South Africa
   state: 

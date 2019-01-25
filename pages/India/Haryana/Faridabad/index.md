@@ -1,6 +1,5 @@
 ---
 title: Faridabad
-
 location:
   country: India
   state: Haryana

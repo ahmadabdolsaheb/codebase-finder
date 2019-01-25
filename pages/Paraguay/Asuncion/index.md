@@ -1,6 +1,5 @@
 ---
 title: Asuncion
-
 location:
   country: Paraguay
   state: 

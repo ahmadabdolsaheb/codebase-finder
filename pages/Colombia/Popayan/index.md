@@ -1,6 +1,5 @@
 ---
 title: Popayan
-
 location:
   country: Colombia
   state: 

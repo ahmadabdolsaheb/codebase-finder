@@ -1,6 +1,5 @@
 ---
 title: Galveston
-
 location:
   country: United States
   state: Texas

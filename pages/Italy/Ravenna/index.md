@@ -1,6 +1,5 @@
 ---
 title: Ravenna
-
 location:
   country: Italy
   state: 

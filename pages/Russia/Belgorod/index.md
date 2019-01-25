@@ -1,6 +1,5 @@
 ---
 title: Belgorod
-
 location:
   country: Russia
   state: 

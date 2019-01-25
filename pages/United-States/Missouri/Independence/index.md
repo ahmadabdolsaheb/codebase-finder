@@ -1,6 +1,5 @@
 ---
 title: Independence
-
 location:
   country: United States
   state: Missouri

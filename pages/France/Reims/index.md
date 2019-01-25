@@ -1,6 +1,5 @@
 ---
 title: Reims
-
 location:
   country: France
   state: 

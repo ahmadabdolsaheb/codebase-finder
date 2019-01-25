@@ -1,6 +1,5 @@
 ---
 title: Buford
-
 location:
   country: United States
   state: Georgia

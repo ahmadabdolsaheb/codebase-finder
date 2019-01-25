@@ -1,6 +1,5 @@
 ---
 title: Jamnagar
-
 location:
   country: India
   state: Gujarat

@@ -1,6 +1,5 @@
 ---
 title: Colorado Springs
-
 location:
   country: United States
   state: Colorado

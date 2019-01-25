@@ -1,6 +1,5 @@
 ---
 title: Pontianak
-
 location:
   country: Indonesia
   state: 

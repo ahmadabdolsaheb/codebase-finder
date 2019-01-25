@@ -1,6 +1,5 @@
 ---
 title: Phnom Penh
-
 location:
   country: Cambodia
   state: 

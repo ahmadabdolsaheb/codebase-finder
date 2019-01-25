@@ -1,6 +1,5 @@
 ---
 title: Foshan
-
 location:
   country: China
   state: Guangdong

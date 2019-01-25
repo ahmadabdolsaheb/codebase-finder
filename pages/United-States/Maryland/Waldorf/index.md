@@ -1,6 +1,5 @@
 ---
 title: Waldorf
-
 location:
   country: United States
   state: Maryland

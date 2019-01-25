@@ -1,6 +1,5 @@
 ---
 title: Cluj-Napoca
-
 location:
   country: Romania
   state: 

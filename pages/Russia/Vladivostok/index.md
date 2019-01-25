@@ -1,6 +1,5 @@
 ---
 title: Vladivostok
-
 location:
   country: Russia
   state: 

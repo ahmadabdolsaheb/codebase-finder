@@ -1,6 +1,5 @@
 ---
 title: Montpellier
-
 location:
   country: France
   state: 

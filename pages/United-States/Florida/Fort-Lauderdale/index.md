@@ -1,6 +1,5 @@
 ---
 title: Fort Lauderdale
-
 location:
   country: United States
   state: Florida

@@ -1,6 +1,5 @@
 ---
 title: Fadeyi
-
 location:
   country: Nigeria
   state: Lagos

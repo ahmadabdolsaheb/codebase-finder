@@ -1,6 +1,5 @@
 ---
 title: Algiers
-
 location:
   country: Algeria
   state: 

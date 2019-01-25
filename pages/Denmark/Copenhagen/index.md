@@ -1,6 +1,5 @@
 ---
 title: Copenhagen
-
 location:
   country: Denmark
   state: 

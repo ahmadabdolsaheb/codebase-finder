@@ -1,6 +1,5 @@
 ---
 title: Bangi
-
 location:
   country: Malaysia
   state: 

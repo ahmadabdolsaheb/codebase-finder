@@ -1,6 +1,5 @@
 ---
 title: Munich
-
 location:
   country: Germany
   state: 

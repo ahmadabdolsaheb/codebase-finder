@@ -1,6 +1,5 @@
 ---
 title: Polokwane
-
 location:
   country: South Africa
   state: 

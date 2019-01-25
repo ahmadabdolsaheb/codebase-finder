@@ -1,6 +1,5 @@
 ---
 title: Brooklyn
-
 location:
   country: United States
   state: New York

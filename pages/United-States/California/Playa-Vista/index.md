@@ -1,6 +1,5 @@
 ---
 title: Playa Vista
-
 location:
   country: United States
   state: California

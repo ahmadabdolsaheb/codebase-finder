@@ -1,6 +1,5 @@
 ---
 title: Guaymas
-
 location:
   country: Mexico
   state: 

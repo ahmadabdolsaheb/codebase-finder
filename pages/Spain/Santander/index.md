@@ -1,6 +1,5 @@
 ---
 title: Santander
-
 location:
   country: Spain
   state: 

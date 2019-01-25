@@ -1,6 +1,5 @@
 ---
 title: Pietermaritzburg
-
 location:
   country: South Africa
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Kingsburg
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Zenica
-
 location:
   country: Bosnia and Herzegovina
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Maringá
-
 location:
   country: Brazil
   state: Paraná

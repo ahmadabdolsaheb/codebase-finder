@@ -1,6 +1,5 @@
 ---
 title: Delhi
-
 location:
   country: India
   state: Chattisgarh

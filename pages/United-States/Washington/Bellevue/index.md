@@ -1,6 +1,5 @@
 ---
 title: Bellevue
-
 location:
   country: United States
   state: Washington

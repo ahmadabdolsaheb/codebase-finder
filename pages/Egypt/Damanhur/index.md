@@ -1,6 +1,5 @@
 ---
 title: Damanhur
-
 location:
   country: Egypt
   state: 

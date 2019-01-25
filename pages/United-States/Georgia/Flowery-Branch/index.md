@@ -1,6 +1,5 @@
 ---
 title: Flowery Branch
-
 location:
   country: United States
   state: Georgia

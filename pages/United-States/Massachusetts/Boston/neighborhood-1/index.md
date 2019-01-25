@@ -1,6 +1,5 @@
 ---
 title: neighborhood-1
-
 location:
   country: 
   state: 

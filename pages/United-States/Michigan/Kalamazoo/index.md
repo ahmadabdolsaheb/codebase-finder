@@ -1,6 +1,5 @@
 ---
 title: Kalamazoo
-
 location:
   country: United States
   state: Michigan

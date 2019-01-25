@@ -1,6 +1,5 @@
 ---
 title: Karachi
-
 location:
   country: Pakistan
   state: 

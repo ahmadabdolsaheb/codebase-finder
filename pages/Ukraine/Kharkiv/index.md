@@ -1,6 +1,5 @@
 ---
 title: Kharkiv
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Timbó
-
 location:
   country: Brazil
   state: Santa Catarina

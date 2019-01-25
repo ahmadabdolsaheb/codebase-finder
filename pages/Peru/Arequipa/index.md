@@ -1,6 +1,5 @@
 ---
 title: Arequipa
-
 location:
   country: Peru
   state: 

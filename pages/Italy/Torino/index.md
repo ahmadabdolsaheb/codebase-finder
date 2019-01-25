@@ -1,6 +1,5 @@
 ---
 title: Torino
-
 location:
   country: Italy
   state: 

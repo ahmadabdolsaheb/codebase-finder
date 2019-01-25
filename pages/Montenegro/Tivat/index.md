@@ -1,6 +1,5 @@
 ---
 title: Tivat
-
 location:
   country: Montenegro
   state: 

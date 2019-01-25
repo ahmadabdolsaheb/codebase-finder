@@ -1,6 +1,5 @@
 ---
 title: Shillong
-
 location:
   country: India
   state: Meghalaya

@@ -1,6 +1,5 @@
 ---
 title: Seattle
-
 location:
   country: United States
   state: Washington

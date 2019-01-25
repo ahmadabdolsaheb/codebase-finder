@@ -1,6 +1,5 @@
 ---
 title: Encarnacion
-
 location:
   country: Paraguay
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Laguna
-
 location:
   country: Philippines
   state: 

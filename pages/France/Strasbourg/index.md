@@ -1,6 +1,5 @@
 ---
 title: Strasbourg
-
 location:
   country: France
   state: 

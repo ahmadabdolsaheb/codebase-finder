@@ -1,6 +1,5 @@
 ---
 title: Pitesti
-
 location:
   country: Romania
   state: 

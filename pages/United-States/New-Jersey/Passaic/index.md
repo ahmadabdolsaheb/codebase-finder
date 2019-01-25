@@ -1,6 +1,5 @@
 ---
 title: Passaic
-
 location:
   country: United States
   state: New Jersey

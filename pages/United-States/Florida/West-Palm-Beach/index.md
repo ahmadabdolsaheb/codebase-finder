@@ -1,6 +1,5 @@
 ---
 title: West Palm Beach
-
 location:
   country: United States
   state: Florida

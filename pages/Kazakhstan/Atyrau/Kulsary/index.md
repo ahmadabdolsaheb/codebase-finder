@@ -1,6 +1,5 @@
 ---
 title: Kulsary
-
 location:
   country: Kazakhstan
   state: Atyrau

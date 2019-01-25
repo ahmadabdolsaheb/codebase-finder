@@ -1,6 +1,5 @@
 ---
 title: Orange County
-
 location:
   country: United States
   state: California

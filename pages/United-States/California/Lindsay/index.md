@@ -1,6 +1,5 @@
 ---
 title: Lindsay
-
 location:
   country: United States
   state: California

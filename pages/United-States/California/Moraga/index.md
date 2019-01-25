@@ -1,6 +1,5 @@
 ---
 title: Moraga
-
 location:
   country: United States
   state: California

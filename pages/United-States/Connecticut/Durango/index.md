@@ -1,6 +1,5 @@
 ---
 title: Durango
-
 location:
   country: United States
   state: Connecticut

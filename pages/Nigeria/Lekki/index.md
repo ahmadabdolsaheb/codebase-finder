@@ -1,6 +1,5 @@
 ---
 title: Lekki
-
 location:
   country: Nigeria
   state: 

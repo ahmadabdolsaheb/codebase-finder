@@ -1,6 +1,5 @@
 ---
 title: Old Bridge
-
 location:
   country: United States
   state: New Jersey

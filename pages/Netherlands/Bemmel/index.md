@@ -1,6 +1,5 @@
 ---
 title: Bemmel
-
 location:
   country: Netherlands
   state: 

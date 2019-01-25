@@ -1,6 +1,5 @@
 ---
 title: Isparta
-
 location:
   country: Turkey
   state: 

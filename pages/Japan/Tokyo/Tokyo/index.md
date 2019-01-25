@@ -1,6 +1,5 @@
 ---
 title: Tokyo
-
 location:
   country: Japan
   state: Tokyo

@@ -1,6 +1,5 @@
 ---
 title: Milwaukee
-
 location:
   country: United States
   state: Wisconsin

@@ -1,6 +1,5 @@
 ---
 title: Boulder
-
 location:
   country: United States
   state: Colorado

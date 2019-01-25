@@ -1,6 +1,5 @@
 ---
 title: Grenoble
-
 location:
   country: France
   state: 

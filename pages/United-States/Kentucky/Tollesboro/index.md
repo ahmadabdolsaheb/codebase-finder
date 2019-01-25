@@ -1,6 +1,5 @@
 ---
 title: Tollesboro
-
 location:
   country: United States
   state: Kentucky

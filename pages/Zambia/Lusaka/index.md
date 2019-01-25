@@ -1,6 +1,5 @@
 ---
 title: Lusaka
-
 location:
   country: Zambia
   state: 

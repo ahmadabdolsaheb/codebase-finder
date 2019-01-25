@@ -1,6 +1,5 @@
 ---
 title: Chipata
-
 location:
   country: Zambia
   state: 

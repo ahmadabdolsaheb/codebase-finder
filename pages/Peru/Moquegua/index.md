@@ -1,6 +1,5 @@
 ---
 title: Moquegua
-
 location:
   country: Peru
   state: 

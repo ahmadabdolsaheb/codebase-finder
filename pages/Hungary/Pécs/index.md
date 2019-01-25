@@ -1,6 +1,5 @@
 ---
 title: Pécs
-
 location:
   country: Hungary
   state: 

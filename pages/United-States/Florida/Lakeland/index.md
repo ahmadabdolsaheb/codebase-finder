@@ -1,6 +1,5 @@
 ---
 title: Lakeland
-
 location:
   country: United States
   state: Florida

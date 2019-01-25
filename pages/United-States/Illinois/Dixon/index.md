@@ -1,6 +1,5 @@
 ---
 title: Dixon
-
 location:
   country: United States
   state: Illinois

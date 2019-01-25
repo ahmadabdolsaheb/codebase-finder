@@ -1,6 +1,5 @@
 ---
 title: Libertyville
-
 location:
   country: United States
   state: Illinois

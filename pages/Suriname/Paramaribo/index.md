@@ -1,6 +1,5 @@
 ---
 title: Paramaribo
-
 location:
   country: Suriname
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Tomsk
-
 location:
   country: Russia
   state: 

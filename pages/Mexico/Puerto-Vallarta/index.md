@@ -1,6 +1,5 @@
 ---
 title: Puerto Vallarta
-
 location:
   country: Mexico
   state: 

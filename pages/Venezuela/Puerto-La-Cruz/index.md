@@ -1,6 +1,5 @@
 ---
 title: Puerto La Cruz
-
 location:
   country: Venezuela
   state: 

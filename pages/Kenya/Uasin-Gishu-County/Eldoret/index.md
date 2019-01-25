@@ -1,6 +1,5 @@
 ---
 title: Eldoret
-
 location:
   country: Kenya
   state: Uasin Gishu County

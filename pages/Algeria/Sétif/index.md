@@ -1,6 +1,5 @@
 ---
 title: Sétif
-
 location:
   country: Algeria
   state: 

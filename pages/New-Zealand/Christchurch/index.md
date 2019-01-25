@@ -1,6 +1,5 @@
 ---
 title: Christchurch
-
 location:
   country: New Zealand
   state: 

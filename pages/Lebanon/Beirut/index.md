@@ -1,6 +1,5 @@
 ---
 title: Beirut
-
 location:
   country: Lebanon
   state: 

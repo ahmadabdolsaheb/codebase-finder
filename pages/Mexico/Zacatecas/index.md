@@ -1,6 +1,5 @@
 ---
 title: Zacatecas
-
 location:
   country: Mexico
   state: 

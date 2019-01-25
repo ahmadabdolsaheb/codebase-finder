@@ -1,6 +1,5 @@
 ---
 title: Lekhnath
-
 location:
   country: Nepal
   state: 

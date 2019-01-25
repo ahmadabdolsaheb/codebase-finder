@@ -1,6 +1,5 @@
 ---
 title: Cherkassy
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Salem
-
 location:
   country: United States
   state: Oregon

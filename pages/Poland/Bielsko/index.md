@@ -1,6 +1,5 @@
 ---
 title: Bielsko
-
 location:
   country: Poland
   state: 

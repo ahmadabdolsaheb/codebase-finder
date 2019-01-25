@@ -1,6 +1,5 @@
 ---
 title: Calabar
-
 location:
   country: Nigeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Mysore
-
 location:
   country: India
   state: Karnataka

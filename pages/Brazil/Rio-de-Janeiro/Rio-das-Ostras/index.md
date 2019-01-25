@@ -1,6 +1,5 @@
 ---
 title: Rio das Ostras
-
 location:
   country: Brazil
   state: Rio de Janeiro

@@ -1,6 +1,5 @@
 ---
 title: Ostrava
-
 location:
   country: Czech Republic
   state: 

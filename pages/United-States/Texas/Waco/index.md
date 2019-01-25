@@ -1,6 +1,5 @@
 ---
 title: Waco
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Doha
-
 location:
   country: Qatar
   state: 

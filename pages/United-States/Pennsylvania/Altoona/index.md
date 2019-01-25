@@ -1,6 +1,5 @@
 ---
 title: Altoona
-
 location:
   country: United States
   state: Pennsylvania

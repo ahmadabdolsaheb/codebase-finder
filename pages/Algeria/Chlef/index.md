@@ -1,6 +1,5 @@
 ---
 title: Chlef
-
 location:
   country: Algeria
   state: 

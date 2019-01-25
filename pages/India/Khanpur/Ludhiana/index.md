@@ -1,6 +1,5 @@
 ---
 title: Ludhiana
-
 location:
   country: India
   state: Khanpur

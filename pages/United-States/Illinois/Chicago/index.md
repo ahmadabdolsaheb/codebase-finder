@@ -1,6 +1,5 @@
 ---
 title: Chicago
-
 location:
   country: United States
   state: Illinois

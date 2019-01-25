@@ -1,6 +1,5 @@
 ---
 title: Andalusia
-
 location:
   country: Spain
   state: Andalusia

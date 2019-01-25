@@ -1,6 +1,5 @@
 ---
 title: San Francisco
-
 location:
   country: United States
   state: California

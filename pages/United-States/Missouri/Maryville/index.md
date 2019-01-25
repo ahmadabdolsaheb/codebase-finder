@@ -1,6 +1,5 @@
 ---
 title: Maryville
-
 location:
   country: United States
   state: Missouri

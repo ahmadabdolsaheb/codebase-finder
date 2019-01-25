@@ -1,6 +1,5 @@
 ---
 title: Cape Coral
-
 location:
   country: United States
   state: Florida

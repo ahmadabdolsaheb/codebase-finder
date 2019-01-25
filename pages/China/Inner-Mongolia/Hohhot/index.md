@@ -1,6 +1,5 @@
 ---
 title: Hohhot
-
 location:
   country: China
   state: Inner Mongolia

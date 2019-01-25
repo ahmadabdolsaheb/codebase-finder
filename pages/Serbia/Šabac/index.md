@@ -1,6 +1,5 @@
 ---
 title: Šabac
-
 location:
   country: Serbia
   state: 

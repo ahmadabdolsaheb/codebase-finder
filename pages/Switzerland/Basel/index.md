@@ -1,6 +1,5 @@
 ---
 title: Basel
-
 location:
   country: Switzerland
   state: 

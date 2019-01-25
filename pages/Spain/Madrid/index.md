@@ -1,6 +1,5 @@
 ---
 title: Madrid
-
 location:
   country: Spain
   state: 

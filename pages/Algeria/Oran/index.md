@@ -1,6 +1,5 @@
 ---
 title: Oran
-
 location:
   country: Algeria
   state: 

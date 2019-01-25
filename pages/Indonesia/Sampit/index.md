@@ -1,6 +1,5 @@
 ---
 title: Sampit
-
 location:
   country: Indonesia
   state: 

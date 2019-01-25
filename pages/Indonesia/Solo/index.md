@@ -1,6 +1,5 @@
 ---
 title: Solo
-
 location:
   country: Indonesia
   state: 

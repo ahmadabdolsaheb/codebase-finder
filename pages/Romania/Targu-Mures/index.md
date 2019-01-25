@@ -1,6 +1,5 @@
 ---
 title: Targu Mures
-
 location:
   country: Romania
   state: 

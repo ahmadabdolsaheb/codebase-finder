@@ -1,6 +1,5 @@
 ---
 title: Londrina
-
 location:
   country: Brazil
   state: Paraná

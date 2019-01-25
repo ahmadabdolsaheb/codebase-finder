@@ -1,6 +1,5 @@
 ---
 title: Longview
-
 location:
   country: United States
   state: Texas

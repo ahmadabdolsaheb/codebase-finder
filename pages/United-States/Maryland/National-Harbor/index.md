@@ -1,6 +1,5 @@
 ---
 title: National Harbor
-
 location:
   country: United States
   state: Maryland

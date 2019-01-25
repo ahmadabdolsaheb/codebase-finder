@@ -1,6 +1,5 @@
 ---
 title: Rio Gallegos
-
 location:
   country: Argentina
   state: Santa Cruz

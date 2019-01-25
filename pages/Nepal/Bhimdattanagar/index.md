@@ -1,6 +1,5 @@
 ---
 title: Bhimdattanagar
-
 location:
   country: Nepal
   state: 

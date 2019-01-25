@@ -1,6 +1,5 @@
 ---
 title: Dhanbad
-
 location:
   country: India
   state: Jharkhand

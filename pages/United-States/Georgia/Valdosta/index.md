@@ -1,6 +1,5 @@
 ---
 title: Valdosta
-
 location:
   country: United States
   state: Georgia

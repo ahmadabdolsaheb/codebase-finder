@@ -1,6 +1,5 @@
 ---
 title: Vinkovci
-
 location:
   country: Croatia
   state: 

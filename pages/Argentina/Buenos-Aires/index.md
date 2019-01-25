@@ -1,6 +1,5 @@
 ---
 title: Buenos Aires
-
 location:
   country: Argentina
   state: 

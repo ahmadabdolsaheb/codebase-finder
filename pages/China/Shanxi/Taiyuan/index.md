@@ -1,6 +1,5 @@
 ---
 title: Taiyuan
-
 location:
   country: China
   state: Shanxi

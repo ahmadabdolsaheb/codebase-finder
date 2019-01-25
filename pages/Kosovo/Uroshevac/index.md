@@ -1,6 +1,5 @@
 ---
 title: Uroshevac
-
 location:
   country: Kosovo
   state: 

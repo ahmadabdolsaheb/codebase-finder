@@ -1,6 +1,5 @@
 ---
 title: Richmond
-
 location:
   country: United States
   state: Virginia

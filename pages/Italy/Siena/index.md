@@ -1,6 +1,5 @@
 ---
 title: Siena
-
 location:
   country: Italy
   state: 

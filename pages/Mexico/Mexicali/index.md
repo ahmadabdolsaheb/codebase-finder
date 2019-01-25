@@ -1,6 +1,5 @@
 ---
 title: Mexicali
-
 location:
   country: Mexico
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Banja Luka
-
 location:
   country: Bosnia and Herzegovina
   state: 

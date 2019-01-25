@@ -1,6 +1,5 @@
 ---
 title: Buffalo
-
 location:
   country: United States
   state: New York

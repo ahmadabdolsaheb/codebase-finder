@@ -1,6 +1,5 @@
 ---
 title: Cajamarca
-
 location:
   country: Peru
   state: 

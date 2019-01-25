@@ -1,6 +1,5 @@
 ---
 title: Jaén
-
 location:
   country: Spain
   state: 

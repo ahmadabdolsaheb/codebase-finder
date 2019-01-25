@@ -1,6 +1,5 @@
 ---
 title: Bowie
-
 location:
   country: United States
   state: Maryland

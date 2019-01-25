@@ -1,6 +1,5 @@
 ---
 title: Mangalagiri
-
 location:
   country: India
   state: Andhra Pradesh

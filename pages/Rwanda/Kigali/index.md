@@ -1,6 +1,5 @@
 ---
 title: Kigali
-
 location:
   country: Rwanda
   state: 

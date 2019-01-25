@@ -1,6 +1,5 @@
 ---
 title: Odense
-
 location:
   country: Denmark
   state: 

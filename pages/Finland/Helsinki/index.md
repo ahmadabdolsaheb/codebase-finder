@@ -1,6 +1,5 @@
 ---
 title: Helsinki
-
 location:
   country: Finland
   state: 

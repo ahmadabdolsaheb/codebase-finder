@@ -1,6 +1,5 @@
 ---
 title: Oak Harbor
-
 location:
   country: United States
   state: Washington

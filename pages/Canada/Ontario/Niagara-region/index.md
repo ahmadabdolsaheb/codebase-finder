@@ -1,6 +1,5 @@
 ---
 title: Niagara region
-
 location:
   country: Canada
   state: Ontario

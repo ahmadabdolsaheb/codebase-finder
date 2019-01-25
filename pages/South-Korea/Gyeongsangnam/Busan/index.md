@@ -1,6 +1,5 @@
 ---
 title: Busan
-
 location:
   country: South Korea
   state: Gyeongsangnam

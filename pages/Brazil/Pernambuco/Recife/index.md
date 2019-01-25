@@ -1,6 +1,5 @@
 ---
 title: Recife
-
 location:
   country: Brazil
   state: Pernambuco

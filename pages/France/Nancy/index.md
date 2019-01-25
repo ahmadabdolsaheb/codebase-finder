@@ -1,6 +1,5 @@
 ---
 title: Nancy
-
 location:
   country: France
   state: 

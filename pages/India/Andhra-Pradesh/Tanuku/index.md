@@ -1,6 +1,5 @@
 ---
 title: Tanuku
-
 location:
   country: India
   state: Andhra Pradesh

@@ -1,6 +1,5 @@
 ---
 title: Hamilton
-
 location:
   country: Canada
   state: Ontario

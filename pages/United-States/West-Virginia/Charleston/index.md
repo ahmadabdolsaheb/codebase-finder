@@ -1,6 +1,5 @@
 ---
 title: Charleston
-
 location:
   country: United States
   state: West Virginia

@@ -1,6 +1,5 @@
 ---
 title: Valparaiso
-
 location:
   country: Chile
   state: 

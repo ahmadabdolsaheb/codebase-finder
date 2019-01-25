@@ -1,6 +1,5 @@
 ---
 title: Vilnius
-
 location:
   country: Lithuania
   state: 

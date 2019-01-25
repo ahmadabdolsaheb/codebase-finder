@@ -1,6 +1,5 @@
 ---
 title: Vellore
-
 location:
   country: India
   state: Tamil Nadu

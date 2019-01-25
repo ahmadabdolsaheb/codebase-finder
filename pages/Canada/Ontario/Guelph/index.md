@@ -1,6 +1,5 @@
 ---
 title: Guelph
-
 location:
   country: Canada
   state: Ontario

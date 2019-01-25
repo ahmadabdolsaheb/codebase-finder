@@ -1,6 +1,5 @@
 ---
 title: Iloilo
-
 location:
   country: Philippines
   state: 

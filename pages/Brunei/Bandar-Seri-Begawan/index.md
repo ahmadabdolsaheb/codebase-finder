@@ -1,6 +1,5 @@
 ---
 title: Bandar Seri Begawan
-
 location:
   country: Brunei
   state: 

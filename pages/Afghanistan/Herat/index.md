@@ -1,6 +1,5 @@
 ---
 title: Herat
-
 location:
   country: Afghanistan
   state: 

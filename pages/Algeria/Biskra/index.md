@@ -1,6 +1,5 @@
 ---
 title: Biskra
-
 location:
   country: Algeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Rineyville
-
 location:
   country: United States
   state: Kentucky

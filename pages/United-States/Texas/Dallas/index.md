@@ -1,6 +1,5 @@
 ---
 title: Dallas
-
 location:
   country: United States
   state: Texas

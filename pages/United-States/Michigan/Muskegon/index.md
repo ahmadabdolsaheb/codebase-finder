@@ -1,6 +1,5 @@
 ---
 title: Muskegon
-
 location:
   country: United States
   state: Michigan

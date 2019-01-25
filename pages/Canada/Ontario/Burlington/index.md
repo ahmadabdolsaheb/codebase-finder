@@ -1,6 +1,5 @@
 ---
 title: Burlington
-
 location:
   country: Canada
   state: Ontario

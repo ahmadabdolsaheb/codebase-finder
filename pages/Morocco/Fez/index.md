@@ -1,6 +1,5 @@
 ---
 title: Fez
-
 location:
   country: Morocco
   state: 

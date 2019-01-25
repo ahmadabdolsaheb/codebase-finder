@@ -1,6 +1,5 @@
 ---
 title: Bokaro
-
 location:
   country: India
   state: Jharkhand

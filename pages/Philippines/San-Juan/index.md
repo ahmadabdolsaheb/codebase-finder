@@ -1,6 +1,5 @@
 ---
 title: San Juan
-
 location:
   country: Philippines
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Morgantown
-
 location:
   country: United States
   state: West Virginia

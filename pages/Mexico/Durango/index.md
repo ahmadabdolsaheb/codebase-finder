@@ -1,6 +1,5 @@
 ---
 title: Durango
-
 location:
   country: Mexico
   state: 

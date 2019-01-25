@@ -1,6 +1,5 @@
 ---
 title: Apeldoorn
-
 location:
   country: Netherlands
   state: 

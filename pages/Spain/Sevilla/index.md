@@ -1,6 +1,5 @@
 ---
 title: Sevilla
-
 location:
   country: Spain
   state: 

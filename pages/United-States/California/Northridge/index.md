@@ -1,6 +1,5 @@
 ---
 title: Northridge
-
 location:
   country: United States
   state: California

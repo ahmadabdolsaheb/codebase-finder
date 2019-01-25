@@ -1,6 +1,5 @@
 ---
 title: Male
-
 location:
   country: Maldives
   state: 

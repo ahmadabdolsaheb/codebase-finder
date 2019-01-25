@@ -1,6 +1,5 @@
 ---
 title: Hackensack
-
 location:
   country: United States
   state: New Jersey

@@ -1,6 +1,5 @@
 ---
 title: Paris
-
 location:
   country: France
   state: 

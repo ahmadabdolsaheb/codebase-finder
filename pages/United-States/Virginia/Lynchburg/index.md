@@ -1,6 +1,5 @@
 ---
 title: Lynchburg
-
 location:
   country: United States
   state: Virginia

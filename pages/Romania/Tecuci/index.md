@@ -1,6 +1,5 @@
 ---
 title: Tecuci
-
 location:
   country: Romania
   state: 

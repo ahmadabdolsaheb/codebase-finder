@@ -1,6 +1,5 @@
 ---
 title: Göttingen
-
 location:
   country: Germany
   state: 

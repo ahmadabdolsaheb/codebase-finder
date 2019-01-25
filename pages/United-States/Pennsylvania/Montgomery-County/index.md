@@ -1,6 +1,5 @@
 ---
 title: Montgomery County
-
 location:
   country: United States
   state: Pennsylvania

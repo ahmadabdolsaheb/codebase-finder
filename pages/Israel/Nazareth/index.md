@@ -1,6 +1,5 @@
 ---
 title: Nazareth
-
 location:
   country: Israel
   state: 

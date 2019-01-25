@@ -1,6 +1,5 @@
 ---
 title: Engenheiro Coelho
-
 location:
   country: Brazil
   state: São Paulo

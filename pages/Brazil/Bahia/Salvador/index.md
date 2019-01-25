@@ -1,6 +1,5 @@
 ---
 title: Salvador
-
 location:
   country: Brazil
   state: Bahia

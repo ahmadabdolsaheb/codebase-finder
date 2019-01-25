@@ -1,6 +1,5 @@
 ---
 title: Anderson
-
 location:
   country: United States
   state: Indiana

@@ -1,6 +1,5 @@
 ---
 title: Kyzyl
-
 location:
   country: Russia
   state: Tuva

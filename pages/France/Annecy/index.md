@@ -1,6 +1,5 @@
 ---
 title: Annecy
-
 location:
   country: France
   state: 

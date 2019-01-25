@@ -1,6 +1,5 @@
 ---
 title: Stockholm
-
 location:
   country: Sweden
   state: 

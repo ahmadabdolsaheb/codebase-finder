@@ -1,6 +1,5 @@
 ---
 title: Osnabrück
-
 location:
   country: Germany
   state: Lower Saxony

@@ -1,6 +1,5 @@
 ---
 title: Indianapolis
-
 location:
   country: United States
   state: Indiana

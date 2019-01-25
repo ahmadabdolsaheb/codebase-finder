@@ -1,6 +1,5 @@
 ---
 title: Bergen
-
 location:
   country: Norway
   state: 

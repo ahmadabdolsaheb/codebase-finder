@@ -1,6 +1,5 @@
 ---
 title: Jagodina
-
 location:
   country: Serbia
   state: 

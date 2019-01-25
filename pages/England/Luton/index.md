@@ -1,6 +1,5 @@
 ---
 title: Luton
-
 location:
   country: England
   state: 

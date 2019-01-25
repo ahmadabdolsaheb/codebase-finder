@@ -1,6 +1,5 @@
 ---
 title: Indore
-
 location:
   country: India
   state: Madhya Pradesh

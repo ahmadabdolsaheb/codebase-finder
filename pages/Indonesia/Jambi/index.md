@@ -1,6 +1,5 @@
 ---
 title: Jambi
-
 location:
   country: Indonesia
   state: 

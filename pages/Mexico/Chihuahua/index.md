@@ -1,6 +1,5 @@
 ---
 title: Chihuahua
-
 location:
   country: Mexico
   state: 

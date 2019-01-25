@@ -1,6 +1,5 @@
 ---
 title: Doncaster
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Cheboksary
-
 location:
   country: Russia
   state: 

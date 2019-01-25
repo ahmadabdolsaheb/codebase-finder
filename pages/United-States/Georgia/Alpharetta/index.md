@@ -1,6 +1,5 @@
 ---
 title: Alpharetta
-
 location:
   country: United States
   state: Georgia

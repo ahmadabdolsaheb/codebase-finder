@@ -1,6 +1,5 @@
 ---
 title: Danbury
-
 location:
   country: United States
   state: Connecticut

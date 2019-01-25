@@ -1,6 +1,5 @@
 ---
 title: Dresden
-
 location:
   country: Germany
   state: 

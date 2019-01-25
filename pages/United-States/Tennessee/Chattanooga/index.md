@@ -1,6 +1,5 @@
 ---
 title: Chattanooga
-
 location:
   country: United States
   state: Tennessee

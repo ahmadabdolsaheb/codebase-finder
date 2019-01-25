@@ -1,6 +1,5 @@
 ---
 title: Cochabamba
-
 location:
   country: Bolivia
   state: 

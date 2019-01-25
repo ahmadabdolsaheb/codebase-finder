@@ -1,6 +1,5 @@
 ---
 title: Asheville
-
 location:
   country: United States
   state: North Carolina

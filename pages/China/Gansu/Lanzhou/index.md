@@ -1,6 +1,5 @@
 ---
 title: Lanzhou
-
 location:
   country: China
   state: Gansu

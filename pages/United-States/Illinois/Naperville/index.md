@@ -1,6 +1,5 @@
 ---
 title: Naperville
-
 location:
   country: United States
   state: Illinois

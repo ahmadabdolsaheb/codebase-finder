@@ -1,6 +1,5 @@
 ---
 title: Lisbon
-
 location:
   country: Portugal
   state: 

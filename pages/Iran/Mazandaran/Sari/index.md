@@ -1,6 +1,5 @@
 ---
 title: Sari
-
 location:
   country: Iran
   state: Mazandaran

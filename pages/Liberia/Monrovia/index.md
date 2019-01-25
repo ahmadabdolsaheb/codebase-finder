@@ -1,6 +1,5 @@
 ---
 title: Monrovia
-
 location:
   country: Liberia
   state: 

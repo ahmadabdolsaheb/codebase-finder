@@ -1,6 +1,5 @@
 ---
 title: Governador Valadares
-
 location:
   country: Brazil
   state: Minas Gerais

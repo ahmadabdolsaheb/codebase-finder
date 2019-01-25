@@ -1,6 +1,5 @@
 ---
 title: Pokhara
-
 location:
   country: Nepal
   state: 

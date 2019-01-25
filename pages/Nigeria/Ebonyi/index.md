@@ -1,6 +1,5 @@
 ---
 title: Ebonyi
-
 location:
   country: Nigeria
   state: Ebonyi

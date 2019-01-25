@@ -1,6 +1,5 @@
 ---
 title: Eskilstuna
-
 location:
   country: Sweden
   state: 

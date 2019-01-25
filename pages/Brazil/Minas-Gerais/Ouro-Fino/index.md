@@ -1,6 +1,5 @@
 ---
 title: Ouro Fino
-
 location:
   country: Brazil
   state: Minas Gerais

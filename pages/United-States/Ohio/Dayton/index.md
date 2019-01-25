@@ -1,6 +1,5 @@
 ---
 title: Dayton
-
 location:
   country: United States
   state: Ohio

@@ -1,6 +1,5 @@
 ---
 title: Surat
-
 location:
   country: India
   state: Gujarat

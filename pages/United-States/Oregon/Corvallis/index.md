@@ -1,6 +1,5 @@
 ---
 title: Corvallis
-
 location:
   country: United States
   state: Oregon

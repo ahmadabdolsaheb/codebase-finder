@@ -1,6 +1,5 @@
 ---
 title: Lawrenceville
-
 location:
   country: United States
   state: Georgia

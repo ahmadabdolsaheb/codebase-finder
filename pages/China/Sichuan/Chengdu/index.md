@@ -1,6 +1,5 @@
 ---
 title: Chengdu
-
 location:
   country: China
   state: Sichuan

@@ -1,6 +1,5 @@
 ---
 title: Concord
-
 location:
   country: United States
   state: New Hampshire

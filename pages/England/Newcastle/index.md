@@ -1,6 +1,5 @@
 ---
 title: Newcastle
-
 location:
   country: England
   state: 

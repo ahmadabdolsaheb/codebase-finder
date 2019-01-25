@@ -1,6 +1,5 @@
 ---
 title: Perlis
-
 location:
   country: Malaysia
   state: 

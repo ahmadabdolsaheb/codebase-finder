@@ -1,6 +1,5 @@
 ---
 title: Verde Valley
-
 location:
   country: United States
   state: Arizona

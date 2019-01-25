@@ -1,6 +1,5 @@
 ---
 title: Krasnoyarsk
-
 location:
   country: Russia
   state: 

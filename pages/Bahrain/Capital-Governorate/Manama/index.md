@@ -1,6 +1,5 @@
 ---
 title: Manama
-
 location:
   country: Bahrain
   state: Capital Governorate

@@ -1,6 +1,5 @@
 ---
 title: Sidi Bel Abbès
-
 location:
   country: Algeria
   state: 

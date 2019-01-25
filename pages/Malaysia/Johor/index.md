@@ -1,6 +1,5 @@
 ---
 title: Johor
-
 location:
   country: Malaysia
   state: 

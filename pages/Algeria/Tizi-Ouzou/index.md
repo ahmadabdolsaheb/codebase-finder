@@ -1,6 +1,5 @@
 ---
 title: Tizi Ouzou
-
 location:
   country: Algeria
   state: 

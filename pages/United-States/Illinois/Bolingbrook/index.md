@@ -1,6 +1,5 @@
 ---
 title: Bolingbrook
-
 location:
   country: United States
   state: Illinois

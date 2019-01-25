@@ -1,6 +1,5 @@
 ---
 title: Da Nang
-
 location:
   country: Vietnam
   state: 

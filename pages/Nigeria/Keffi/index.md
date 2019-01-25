@@ -1,6 +1,5 @@
 ---
 title: Keffi
-
 location:
   country: Nigeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Penang
-
 location:
   country: Malaysia
   state: 

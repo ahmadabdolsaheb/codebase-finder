@@ -1,6 +1,5 @@
 ---
 title: Kitchener
-
 location:
   country: Canada
   state: Ontario

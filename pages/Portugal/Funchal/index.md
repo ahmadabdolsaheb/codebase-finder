@@ -1,6 +1,5 @@
 ---
 title: Funchal
-
 location:
   country: Portugal
   state: 

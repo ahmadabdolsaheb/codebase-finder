@@ -1,6 +1,5 @@
 ---
 title: McKinney
-
 location:
   country: United States
   state: Texas

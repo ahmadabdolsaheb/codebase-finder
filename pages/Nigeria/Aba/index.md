@@ -1,6 +1,5 @@
 ---
 title: Aba
-
 location:
   country: Nigeria
   state: 

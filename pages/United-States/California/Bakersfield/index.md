@@ -1,6 +1,5 @@
 ---
 title: Bakersfield
-
 location:
   country: United States
   state: California

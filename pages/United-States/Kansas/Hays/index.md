@@ -1,6 +1,5 @@
 ---
 title: Hays
-
 location:
   country: United States
   state: Kansas

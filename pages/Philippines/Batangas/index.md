@@ -1,6 +1,5 @@
 ---
 title: Batangas
-
 location:
   country: Philippines
   state: 

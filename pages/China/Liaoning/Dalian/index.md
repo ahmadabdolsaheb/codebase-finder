@@ -1,6 +1,5 @@
 ---
 title: Dalian
-
 location:
   country: China
   state: Liaoning

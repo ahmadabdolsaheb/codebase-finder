@@ -1,6 +1,5 @@
 ---
 title: Bangor
-
 location:
   country: Wales
   state: 

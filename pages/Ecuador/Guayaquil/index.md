@@ -1,6 +1,5 @@
 ---
 title: Guayaquil
-
 location:
   country: Ecuador
   state: 

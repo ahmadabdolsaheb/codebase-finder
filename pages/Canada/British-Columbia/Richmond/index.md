@@ -1,6 +1,5 @@
 ---
 title: Richmond
-
 location:
   country: Canada
   state: British Columbia

@@ -1,6 +1,5 @@
 ---
 title: Welwyn + Hatfield
-
 location:
   country: England
   state: 

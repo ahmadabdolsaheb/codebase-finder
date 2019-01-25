@@ -1,6 +1,5 @@
 ---
 title: Ranchi
-
 location:
   country: India
   state: Jharkhand

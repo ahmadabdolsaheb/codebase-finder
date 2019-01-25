@@ -1,6 +1,5 @@
 ---
 title: Manassas
-
 location:
   country: United States
   state: Virginia

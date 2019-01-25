@@ -1,6 +1,5 @@
 ---
 title: Fresno
-
 location:
   country: United States
   state: California

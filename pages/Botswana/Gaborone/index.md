@@ -1,6 +1,5 @@
 ---
 title: Gaborone
-
 location:
   country: Botswana
   state: 

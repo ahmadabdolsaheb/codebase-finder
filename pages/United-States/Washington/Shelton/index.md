@@ -1,6 +1,5 @@
 ---
 title: Shelton
-
 location:
   country: United States
   state: Washington

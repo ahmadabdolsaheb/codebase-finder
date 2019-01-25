@@ -1,6 +1,5 @@
 ---
 title: Davao
-
 location:
   country: Philippines
   state: 

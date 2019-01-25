@@ -1,6 +1,5 @@
 ---
 title: Zaki Biam
-
 location:
   country: Nigeria
   state: 

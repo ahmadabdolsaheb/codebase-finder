@@ -1,6 +1,5 @@
 ---
 title: Fargo
-
 location:
   country: United States
   state: North Dakota

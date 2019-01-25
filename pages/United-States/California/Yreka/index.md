@@ -1,6 +1,5 @@
 ---
 title: Yreka
-
 location:
   country: United States
   state: California

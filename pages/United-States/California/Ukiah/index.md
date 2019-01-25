@@ -1,6 +1,5 @@
 ---
 title: Ukiah
-
 location:
   country: United States
   state: California

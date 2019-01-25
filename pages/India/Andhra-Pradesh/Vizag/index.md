@@ -1,6 +1,5 @@
 ---
 title: Vizag
-
 location:
   country: India
   state: Andhra Pradesh

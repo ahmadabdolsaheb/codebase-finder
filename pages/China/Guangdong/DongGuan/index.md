@@ -1,6 +1,5 @@
 ---
 title: Dongguan
-
 location:
   country: China
   state: Guangdong

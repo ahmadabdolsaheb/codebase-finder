@@ -1,6 +1,5 @@
 ---
 title: Coimbra
-
 location:
   country: Portugal
   state: 

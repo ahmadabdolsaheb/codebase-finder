@@ -1,6 +1,5 @@
 ---
 title: Kediri
-
 location:
   country: Indonesia
   state: 

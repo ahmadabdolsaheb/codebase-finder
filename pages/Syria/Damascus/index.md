@@ -1,6 +1,5 @@
 ---
 title: Damascus
-
 location:
   country: Syria
   state: 

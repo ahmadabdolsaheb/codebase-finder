@@ -1,6 +1,5 @@
 ---
 title: Rostovondon
-
 location:
   country: Russia
   state: 

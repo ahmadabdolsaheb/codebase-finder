@@ -1,6 +1,5 @@
 ---
 title: Sumter
-
 location:
   country: United States
   state: South Carolina

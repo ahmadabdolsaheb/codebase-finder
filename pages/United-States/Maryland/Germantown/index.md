@@ -1,6 +1,5 @@
 ---
 title: Germantown
-
 location:
   country: United States
   state: Maryland

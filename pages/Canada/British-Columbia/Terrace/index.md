@@ -1,6 +1,5 @@
 ---
 title: Terrace
-
 location:
   country: Canada
   state: British Columbia

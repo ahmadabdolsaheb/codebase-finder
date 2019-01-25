@@ -1,6 +1,5 @@
 ---
 title: Lexington
-
 location:
   country: United States
   state: Kentucky

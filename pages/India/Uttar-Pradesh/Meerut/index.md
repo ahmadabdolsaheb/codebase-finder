@@ -1,6 +1,5 @@
 ---
 title: Meerut
-
 location:
   country: India
   state: Uttar Pradesh

@@ -1,6 +1,5 @@
 ---
 title: Frankfort
-
 location:
   country: United States
   state: Kentucky

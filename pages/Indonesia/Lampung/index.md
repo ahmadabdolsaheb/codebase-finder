@@ -1,6 +1,5 @@
 ---
 title: Lampung
-
 location:
   country: Indonesia
   state: 

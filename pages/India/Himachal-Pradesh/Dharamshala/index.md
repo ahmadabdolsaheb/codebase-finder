@@ -1,6 +1,5 @@
 ---
 title: Dharamshala
-
 location:
   country: India
   state: Himachal Pradesh

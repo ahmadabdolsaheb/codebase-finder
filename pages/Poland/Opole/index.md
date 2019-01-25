@@ -1,6 +1,5 @@
 ---
 title: Opole
-
 location:
   country: Poland
   state: 

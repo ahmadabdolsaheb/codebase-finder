@@ -1,6 +1,5 @@
 ---
 title: Santiago
-
 location:
   country: Philippines
   state: 

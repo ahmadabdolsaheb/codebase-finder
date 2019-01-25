@@ -1,6 +1,5 @@
 ---
 title: Galway
-
 location:
   country: Ireland
   state: 

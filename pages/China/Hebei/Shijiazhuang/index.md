@@ -1,6 +1,5 @@
 ---
 title: Shijiazhuang
-
 location:
   country: China
   state: Hebei

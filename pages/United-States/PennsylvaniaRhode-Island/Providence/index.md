@@ -1,6 +1,5 @@
 ---
 title: Providence
-
 location:
   country: United States
   state: PennsylvaniaRhode Island

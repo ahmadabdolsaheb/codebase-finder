@@ -1,6 +1,5 @@
 ---
 title: León
-
 location:
   country: Mexico
   state: 

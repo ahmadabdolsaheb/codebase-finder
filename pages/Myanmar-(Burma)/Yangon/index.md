@@ -1,6 +1,5 @@
 ---
 title: Yangon
-
 location:
   country: Myanmar (Burma)
   state: 

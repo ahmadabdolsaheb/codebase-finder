@@ -1,6 +1,5 @@
 ---
 title: Miskolc
-
 location:
   country: Hungary
   state: 

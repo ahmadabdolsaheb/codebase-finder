@@ -1,6 +1,5 @@
 ---
 title: Hattiesburg
-
 location:
   country: United States
   state: Mississippi

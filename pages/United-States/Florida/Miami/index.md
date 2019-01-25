@@ -1,6 +1,5 @@
 ---
 title: Miami
-
 location:
   country: United States
   state: Florida

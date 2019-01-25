@@ -1,6 +1,5 @@
 ---
 title: Paysandú
-
 location:
   country: Uruguay
   state: 

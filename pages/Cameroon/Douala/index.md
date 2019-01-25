@@ -1,6 +1,5 @@
 ---
 title: Douala
-
 location:
   country: Cameroon
   state: 

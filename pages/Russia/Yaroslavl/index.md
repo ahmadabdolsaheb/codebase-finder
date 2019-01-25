@@ -1,6 +1,5 @@
 ---
 title: Yaroslavl
-
 location:
   country: Russia
   state: 

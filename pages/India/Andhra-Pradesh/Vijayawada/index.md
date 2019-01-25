@@ -1,6 +1,5 @@
 ---
 title: Vijayawada
-
 location:
   country: India
   state: Andhra Pradesh

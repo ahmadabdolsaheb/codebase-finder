@@ -1,6 +1,5 @@
 ---
 title: Youngstown
-
 location:
   country: United States
   state: Ohio

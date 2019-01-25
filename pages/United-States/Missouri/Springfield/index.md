@@ -1,6 +1,5 @@
 ---
 title: Springfield
-
 location:
   country: United States
   state: Missouri

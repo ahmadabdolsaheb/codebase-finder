@@ -1,6 +1,5 @@
 ---
 title: Arnhem
-
 location:
   country: Netherlands
   state: 

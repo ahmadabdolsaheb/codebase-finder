@@ -1,6 +1,5 @@
 ---
 title: Yakima
-
 location:
   country: United States
   state: Washington

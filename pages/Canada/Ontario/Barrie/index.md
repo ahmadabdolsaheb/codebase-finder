@@ -1,6 +1,5 @@
 ---
 title: Barrie
-
 location:
   country: Canada
   state: Ontario

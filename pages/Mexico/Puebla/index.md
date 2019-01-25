@@ -1,6 +1,5 @@
 ---
 title: Puebla
-
 location:
   country: Mexico
   state: 

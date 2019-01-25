@@ -1,6 +1,5 @@
 ---
 title: Galle
-
 location:
   country: Sri Lanka
   state: 

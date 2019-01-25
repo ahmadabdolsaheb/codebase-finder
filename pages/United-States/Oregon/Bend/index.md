@@ -1,6 +1,5 @@
 ---
 title: Bend
-
 location:
   country: United States
   state: Oregon

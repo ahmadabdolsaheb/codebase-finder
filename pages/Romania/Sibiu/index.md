@@ -1,6 +1,5 @@
 ---
 title: Sibiu
-
 location:
   country: Romania
   state: 

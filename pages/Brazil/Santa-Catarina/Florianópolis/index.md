@@ -1,6 +1,5 @@
 ---
 title: Florianópolis
-
 location:
   country: Brazil
   state: Santa Catarina

@@ -1,6 +1,5 @@
 ---
 title: Coatzacoalcos
-
 location:
   country: Mexico
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Sokoto
-
 location:
   country: Nigeria
   state: 

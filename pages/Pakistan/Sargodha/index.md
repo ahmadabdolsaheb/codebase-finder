@@ -1,6 +1,5 @@
 ---
 title: Sargodha
-
 location:
   country: Pakistan
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Glendora
-
 location:
   country: United States
   state: California

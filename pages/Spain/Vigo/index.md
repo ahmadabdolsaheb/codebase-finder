@@ -1,6 +1,5 @@
 ---
 title: Vigo
-
 location:
   country: Spain
   state: 

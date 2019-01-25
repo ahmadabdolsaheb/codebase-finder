@@ -1,6 +1,5 @@
 ---
 title: Kangundo
-
 location:
   country: Kenya
   state: Machakos County

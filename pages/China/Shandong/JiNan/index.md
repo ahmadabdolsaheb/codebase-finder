@@ -1,6 +1,5 @@
 ---
 title: JiNan
-
 location:
   country: China
   state: Shandong

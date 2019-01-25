@@ -1,6 +1,5 @@
 ---
 title: Narasaopet
-
 location:
   country: India
   state: Andhra Pradesh

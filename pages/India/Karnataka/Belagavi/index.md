@@ -1,6 +1,5 @@
 ---
 title: Belagavi
-
 location:
   country: India
   state: Karnataka

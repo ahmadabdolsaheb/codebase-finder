@@ -1,6 +1,5 @@
 ---
 title: Thimphu
-
 location:
   country: Bhutan
   state: 

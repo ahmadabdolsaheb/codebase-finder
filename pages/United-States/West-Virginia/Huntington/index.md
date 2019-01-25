@@ -1,6 +1,5 @@
 ---
 title: Huntington
-
 location:
   country: United States
   state: West Virginia

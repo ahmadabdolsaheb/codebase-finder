@@ -1,6 +1,5 @@
 ---
 title: Sugar land
-
 location:
   country: United States
   state: Texas

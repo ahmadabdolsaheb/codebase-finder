@@ -1,6 +1,5 @@
 ---
 title: San Ramon
-
 location:
   country: United States
   state: California

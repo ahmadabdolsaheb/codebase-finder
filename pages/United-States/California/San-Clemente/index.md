@@ -1,6 +1,5 @@
 ---
 title: San Clemente
-
 location:
   country: United States
   state: California

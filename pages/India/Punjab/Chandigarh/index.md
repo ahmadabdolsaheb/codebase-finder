@@ -1,6 +1,5 @@
 ---
 title: Chandigarh
-
 location:
   country: India
   state: Punjab

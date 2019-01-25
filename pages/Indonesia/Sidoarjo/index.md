@@ -1,6 +1,5 @@
 ---
 title: Sidoarjo
-
 location:
   country: Indonesia
   state: 

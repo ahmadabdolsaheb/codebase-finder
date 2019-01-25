@@ -1,6 +1,5 @@
 ---
 title: State College
-
 location:
   country: United States
   state: Pennsylvania

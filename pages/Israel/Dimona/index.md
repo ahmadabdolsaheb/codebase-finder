@@ -1,6 +1,5 @@
 ---
 title: Dimona
-
 location:
   country: Israel
   state: 

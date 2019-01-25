@@ -1,6 +1,5 @@
 ---
 title: Cerritos
-
 location:
   country: United States
   state: California

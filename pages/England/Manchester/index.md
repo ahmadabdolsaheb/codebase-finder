@@ -1,6 +1,5 @@
 ---
 title: Manchester
-
 location:
   country: England
   state: 

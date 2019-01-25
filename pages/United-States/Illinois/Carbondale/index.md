@@ -1,6 +1,5 @@
 ---
 title: Carbondale
-
 location:
   country: United States
   state: Illinois

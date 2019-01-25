@@ -1,6 +1,5 @@
 ---
 title: Port Angeles
-
 location:
   country: United States
   state: Washington

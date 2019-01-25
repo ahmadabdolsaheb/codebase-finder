@@ -1,6 +1,5 @@
 ---
 title: Telford
-
 location:
   country: England
   state: 

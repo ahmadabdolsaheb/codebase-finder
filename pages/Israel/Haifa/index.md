@@ -1,6 +1,5 @@
 ---
 title: Haifa
-
 location:
   country: Israel
   state: 

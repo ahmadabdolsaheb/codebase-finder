@@ -1,6 +1,5 @@
 ---
 title: Quito
-
 location:
   country: Ecuador
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Cambridge
-
 location:
   country: Canada
   state: Ontario

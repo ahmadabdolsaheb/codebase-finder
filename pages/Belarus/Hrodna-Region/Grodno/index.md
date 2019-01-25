@@ -1,6 +1,5 @@
 ---
 title: Grodno
-
 location:
   country: Belarus
   state: Hrodna Region

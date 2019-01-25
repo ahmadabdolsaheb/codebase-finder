@@ -1,6 +1,5 @@
 ---
 title: Greensboro
-
 location:
   country: United States
   state: North Carolina

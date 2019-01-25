@@ -1,6 +1,5 @@
 ---
 title: Jeonju
-
 location:
   country: South Korea
   state: Jeollabuk

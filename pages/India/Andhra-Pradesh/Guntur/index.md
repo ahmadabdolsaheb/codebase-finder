@@ -1,6 +1,5 @@
 ---
 title: Guntur
-
 location:
   country: India
   state: Andhra Pradesh

@@ -1,6 +1,5 @@
 ---
 title: Duluth
-
 location:
   country: United States
   state: Minnesota

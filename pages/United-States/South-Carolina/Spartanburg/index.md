@@ -1,6 +1,5 @@
 ---
 title: Spartanburg
-
 location:
   country: United States
   state: South Carolina

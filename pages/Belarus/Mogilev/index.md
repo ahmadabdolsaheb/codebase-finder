@@ -1,6 +1,5 @@
 ---
 title: Mogilev
-
 location:
   country: Belarus
   state: 

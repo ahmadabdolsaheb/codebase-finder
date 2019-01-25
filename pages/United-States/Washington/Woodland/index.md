@@ -1,6 +1,5 @@
 ---
 title: Woodland
-
 location:
   country: United States
   state: Washington

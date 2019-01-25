@@ -1,6 +1,5 @@
 ---
 title: Juba
-
 location:
   country: South Sudan
   state: Central Equatoria

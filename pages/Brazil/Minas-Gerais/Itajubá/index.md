@@ -1,6 +1,5 @@
 ---
 title: Itajubá
-
 location:
   country: Brazil
   state: Minas Gerais

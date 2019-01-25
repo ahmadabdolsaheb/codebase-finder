@@ -1,6 +1,5 @@
 ---
 title: Bel Air
-
 location:
   country: United States
   state: Maryland

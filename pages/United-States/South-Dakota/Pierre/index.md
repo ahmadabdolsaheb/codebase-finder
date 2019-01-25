@@ -1,6 +1,5 @@
 ---
 title: Pierre
-
 location:
   country: United States
   state: South Dakota

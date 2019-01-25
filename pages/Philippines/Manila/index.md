@@ -1,6 +1,5 @@
 ---
 title: Manila
-
 location:
   country: Philippines
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Stratford
-
 location:
   country: Canada
   state: Ontario

@@ -1,6 +1,5 @@
 ---
 title: Pavia
-
 location:
   country: Italy
   state: 

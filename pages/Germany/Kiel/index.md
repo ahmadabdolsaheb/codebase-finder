@@ -1,6 +1,5 @@
 ---
 title: Kiel
-
 location:
   country: Germany
   state: 

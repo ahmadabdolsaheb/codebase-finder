@@ -1,6 +1,5 @@
 ---
 title: Palm Springs
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Monthey
-
 location:
   country: Switzerland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Laurens
-
 location:
   country: United States
   state: South Carolina

@@ -1,6 +1,5 @@
 ---
 title: Siedlce
-
 location:
   country: Poland
   state: 

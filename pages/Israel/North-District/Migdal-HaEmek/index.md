@@ -1,6 +1,5 @@
 ---
 title: Migdal HaEmek
-
 location:
   country: Israel
   state: North District

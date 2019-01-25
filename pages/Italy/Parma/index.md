@@ -1,6 +1,5 @@
 ---
 title: Parma
-
 location:
   country: Italy
   state: 

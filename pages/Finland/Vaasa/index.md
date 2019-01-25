@@ -1,6 +1,5 @@
 ---
 title: Vaasa
-
 location:
   country: Finland
   state: 

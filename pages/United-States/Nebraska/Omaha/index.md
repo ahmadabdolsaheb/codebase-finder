@@ -1,6 +1,5 @@
 ---
 title: Omaha
-
 location:
   country: United States
   state: Nebraska

@@ -1,6 +1,5 @@
 ---
 title: Geneva
-
 location:
   country: Switzerland
   state: 

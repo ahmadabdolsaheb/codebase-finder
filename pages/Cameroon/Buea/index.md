@@ -1,6 +1,5 @@
 ---
 title: Buea
-
 location:
   country: Cameroon
   state: 

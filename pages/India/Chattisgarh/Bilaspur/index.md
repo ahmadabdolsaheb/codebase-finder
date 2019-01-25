@@ -1,6 +1,5 @@
 ---
 title: Bilaspur
-
 location:
   country: India
   state: Chattisgarh

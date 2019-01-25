@@ -1,6 +1,5 @@
 ---
 title: Mendoza
-
 location:
   country: Argentina
   state: 

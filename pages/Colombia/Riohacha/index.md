@@ -1,6 +1,5 @@
 ---
 title: Riohacha
-
 location:
   country: Colombia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: San Bernardino
-
 location:
   country: United States
   state: California

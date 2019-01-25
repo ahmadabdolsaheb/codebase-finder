@@ -1,6 +1,5 @@
 ---
 title: Aberdeen
-
 location:
   country: United States
   state: Washington

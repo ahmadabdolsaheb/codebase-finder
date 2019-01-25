@@ -1,6 +1,5 @@
 ---
 title: Varazdin
-
 location:
   country: Croatia
   state: 

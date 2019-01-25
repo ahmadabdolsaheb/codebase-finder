@@ -1,6 +1,5 @@
 ---
 title: Lecce
-
 location:
   country: Italy
   state: 

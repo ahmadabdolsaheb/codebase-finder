@@ -1,6 +1,5 @@
 ---
 title: Struga
-
 location:
   country: Macedonia
   state: 

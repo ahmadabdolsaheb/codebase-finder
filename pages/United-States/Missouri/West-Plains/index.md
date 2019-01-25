@@ -1,6 +1,5 @@
 ---
 title: West Plains
-
 location:
   country: United States
   state: Missouri

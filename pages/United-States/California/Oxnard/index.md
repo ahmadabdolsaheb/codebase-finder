@@ -1,6 +1,5 @@
 ---
 title: Oxnard
-
 location:
   country: United States
   state: California

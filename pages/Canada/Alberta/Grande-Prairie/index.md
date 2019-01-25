@@ -1,6 +1,5 @@
 ---
 title: Grande Prairie
-
 location:
   country: Canada
   state: Alberta

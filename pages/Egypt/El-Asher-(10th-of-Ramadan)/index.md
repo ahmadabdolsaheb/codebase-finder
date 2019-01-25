@@ -1,6 +1,5 @@
 ---
 title: El Asher (10th of Ramadan)
-
 location:
   country: Egypt
   state: 

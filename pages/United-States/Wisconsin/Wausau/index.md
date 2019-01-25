@@ -1,6 +1,5 @@
 ---
 title: Wausau
-
 location:
   country: United States
   state: Wisconsin

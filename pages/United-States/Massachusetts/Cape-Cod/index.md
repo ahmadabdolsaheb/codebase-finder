@@ -1,6 +1,5 @@
 ---
 title: Cape Cod
-
 location:
   country: United States
   state: Massachusetts

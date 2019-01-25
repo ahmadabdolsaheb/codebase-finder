@@ -1,6 +1,5 @@
 ---
 title: Melbourne
-
 location:
   country: Australia
   state: 

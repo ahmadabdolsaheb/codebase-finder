@@ -1,6 +1,5 @@
 ---
 title: Stockton
-
 location:
   country: United States
   state: California

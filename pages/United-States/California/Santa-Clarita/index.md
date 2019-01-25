@@ -1,6 +1,5 @@
 ---
 title: Santa Clarita
-
 location:
   country: United States
   state: California

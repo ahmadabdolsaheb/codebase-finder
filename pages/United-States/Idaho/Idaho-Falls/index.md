@@ -1,6 +1,5 @@
 ---
 title: Idaho Falls
-
 location:
   country: United States
   state: Idaho

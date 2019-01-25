@@ -1,6 +1,5 @@
 ---
 title: Tirupur
-
 location:
   country: India
   state: Tamil Nadu

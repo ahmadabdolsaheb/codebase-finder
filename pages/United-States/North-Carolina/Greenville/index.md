@@ -1,6 +1,5 @@
 ---
 title: Greenville
-
 location:
   country: United States
   state: North Carolina

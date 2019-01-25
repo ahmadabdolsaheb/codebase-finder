@@ -1,6 +1,5 @@
 ---
 title: Tver
-
 location:
   country: Russia
   state: 

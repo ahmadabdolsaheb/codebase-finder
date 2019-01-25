@@ -1,6 +1,5 @@
 ---
 title: Middletown
-
 location:
   country: United States
   state: New York

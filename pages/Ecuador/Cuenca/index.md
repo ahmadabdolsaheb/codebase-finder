@@ -1,6 +1,5 @@
 ---
 title: Cuenca
-
 location:
   country: Ecuador
   state: 

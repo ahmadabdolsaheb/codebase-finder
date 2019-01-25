@@ -1,6 +1,5 @@
 ---
 title: Forchheim
-
 location:
   country: Germany
   state: 

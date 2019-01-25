@@ -1,6 +1,5 @@
 ---
 title: North Bay
-
 location:
   country: Canada
   state: Ontario

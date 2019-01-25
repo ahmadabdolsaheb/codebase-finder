@@ -1,6 +1,5 @@
 ---
 title: Owatonna
-
 location:
   country: United States
   state: Minnesota

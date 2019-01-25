@@ -1,6 +1,5 @@
 ---
 title: Kostroma
-
 location:
   country: Russia
   state: Kostroma Oblast

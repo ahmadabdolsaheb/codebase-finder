@@ -1,6 +1,5 @@
 ---
 title: Winston Salem
-
 location:
   country: United States
   state: North Carolina

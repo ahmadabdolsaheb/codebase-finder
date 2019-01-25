@@ -1,6 +1,5 @@
 ---
 title: Sejong
-
 location:
   country: South Korea
   state: Chungcheongnam

@@ -1,6 +1,5 @@
 ---
 title: Culiacán
-
 location:
   country: Mexico
   state: 

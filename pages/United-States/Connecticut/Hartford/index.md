@@ -1,6 +1,5 @@
 ---
 title: Hartford
-
 location:
   country: United States
   state: Connecticut

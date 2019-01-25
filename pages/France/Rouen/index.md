@@ -1,6 +1,5 @@
 ---
 title: Rouen
-
 location:
   country: France
   state: 

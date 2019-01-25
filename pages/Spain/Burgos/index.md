@@ -1,6 +1,5 @@
 ---
 title: Burgos
-
 location:
   country: Spain
   state: 

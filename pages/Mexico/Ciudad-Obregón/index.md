@@ -1,6 +1,5 @@
 ---
 title: Ciudad Obregón
-
 location:
   country: Mexico
   state: 

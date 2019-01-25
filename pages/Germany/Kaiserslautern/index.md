@@ -1,6 +1,5 @@
 ---
 title: Kaiserslautern
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Cheljabinsk
-
 location:
   country: Russia
   state: 

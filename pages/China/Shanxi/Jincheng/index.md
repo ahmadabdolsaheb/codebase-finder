@@ -1,6 +1,5 @@
 ---
 title: Jincheng
-
 location:
   country: China
   state: Shanxi

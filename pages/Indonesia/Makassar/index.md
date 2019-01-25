@@ -1,6 +1,5 @@
 ---
 title: Makassar
-
 location:
   country: Indonesia
   state: 

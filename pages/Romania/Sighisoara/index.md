@@ -1,6 +1,5 @@
 ---
 title: Sighisoara
-
 location:
   country: Romania
   state: 

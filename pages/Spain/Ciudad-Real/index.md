@@ -1,6 +1,5 @@
 ---
 title: Ciudad Real
-
 location:
   country: Spain
   state: 

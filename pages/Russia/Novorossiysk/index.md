@@ -1,6 +1,5 @@
 ---
 title: Novorossiysk
-
 location:
   country: Russia
   state: 

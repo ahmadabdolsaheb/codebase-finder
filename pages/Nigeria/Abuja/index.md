@@ -1,6 +1,5 @@
 ---
 title: Abuja
-
 location:
   country: Nigeria
   state: 

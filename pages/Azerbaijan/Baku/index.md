@@ -1,6 +1,5 @@
 ---
 title: Baku
-
 location:
   country: Azerbaijan
   state: 

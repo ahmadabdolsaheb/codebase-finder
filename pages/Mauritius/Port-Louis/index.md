@@ -1,6 +1,5 @@
 ---
 title: Port Louis
-
 location:
   country: Mauritius
   state: 

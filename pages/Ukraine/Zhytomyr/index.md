@@ -1,6 +1,5 @@
 ---
 title: Zhytomyr
-
 location:
   country: Ukraine
   state: 

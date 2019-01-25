@@ -1,6 +1,5 @@
 ---
 title: Jaffna
-
 location:
   country: Sri Lanka
   state: 

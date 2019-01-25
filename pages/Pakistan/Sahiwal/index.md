@@ -1,6 +1,5 @@
 ---
 title: Sahiwal
-
 location:
   country: Pakistan
   state: 

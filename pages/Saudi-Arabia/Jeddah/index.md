@@ -1,6 +1,5 @@
 ---
 title: Jeddah
-
 location:
   country: Saudi Arabia
   state: 

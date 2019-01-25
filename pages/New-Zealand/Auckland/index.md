@@ -1,6 +1,5 @@
 ---
 title: Auckland
-
 location:
   country: New Zealand
   state: 

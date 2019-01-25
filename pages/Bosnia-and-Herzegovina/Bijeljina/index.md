@@ -1,6 +1,5 @@
 ---
 title: Bijeljina
-
 location:
   country: Bosnia and Herzegovina
   state: 

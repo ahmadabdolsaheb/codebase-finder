@@ -1,6 +1,5 @@
 ---
 title: Oklahoma City
-
 location:
   country: United States
   state: Oklahoma

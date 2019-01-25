@@ -1,6 +1,5 @@
 ---
 title: Medford
-
 location:
   country: United States
   state: New Jersey

@@ -1,6 +1,5 @@
 ---
 title: Maricopa
-
 location:
   country: United States
   state: Arizona

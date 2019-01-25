@@ -1,6 +1,5 @@
 ---
 title: Fishkill
-
 location:
   country: United States
   state: New York

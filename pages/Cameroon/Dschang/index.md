@@ -1,6 +1,5 @@
 ---
 title: Dschang
-
 location:
   country: Cameroon
   state: 

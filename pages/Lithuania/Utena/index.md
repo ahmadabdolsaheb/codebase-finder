@@ -1,6 +1,5 @@
 ---
 title: Utena
-
 location:
   country: Lithuania
   state: 

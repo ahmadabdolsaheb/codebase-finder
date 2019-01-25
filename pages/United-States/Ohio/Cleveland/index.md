@@ -1,6 +1,5 @@
 ---
 title: Cleveland
-
 location:
   country: United States
   state: Ohio

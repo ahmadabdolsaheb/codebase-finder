@@ -1,6 +1,5 @@
 ---
 title: Sheffield
-
 location:
   country: England
   state: 

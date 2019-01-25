@@ -1,6 +1,5 @@
 ---
 title: Alhambra
-
 location:
   country: United States
   state: California

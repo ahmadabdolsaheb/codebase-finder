@@ -1,6 +1,5 @@
 ---
 title: Cardiff
-
 location:
   country: Wales
   state: 

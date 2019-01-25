@@ -1,6 +1,5 @@
 ---
 title: Amarillo
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Butte
-
 location:
   country: United States
   state: Montana

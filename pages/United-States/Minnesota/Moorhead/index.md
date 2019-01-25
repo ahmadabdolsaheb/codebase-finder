@@ -1,6 +1,5 @@
 ---
 title: Moorhead
-
 location:
   country: United States
   state: Minnesota

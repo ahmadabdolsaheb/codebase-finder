@@ -1,6 +1,5 @@
 ---
 title: Asansol
-
 location:
   country: India
   state: 

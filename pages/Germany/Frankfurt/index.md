@@ -1,6 +1,5 @@
 ---
 title: Frankfurt
-
 location:
   country: Germany
   state: 

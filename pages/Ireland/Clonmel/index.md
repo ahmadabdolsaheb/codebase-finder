@@ -1,6 +1,5 @@
 ---
 title: Clonmel
-
 location:
   country: Ireland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Roskilde
-
 location:
   country: Denmark
   state: 

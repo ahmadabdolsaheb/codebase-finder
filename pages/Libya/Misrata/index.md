@@ -1,6 +1,5 @@
 ---
 title: Misrata
-
 location:
   country: Libya
   state: 

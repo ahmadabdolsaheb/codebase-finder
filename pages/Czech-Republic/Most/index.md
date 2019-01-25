@@ -1,6 +1,5 @@
 ---
 title: Most
-
 location:
   country: Czech Republic
   state: 

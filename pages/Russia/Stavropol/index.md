@@ -1,6 +1,5 @@
 ---
 title: Stavropol
-
 location:
   country: Russia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Cincinnati
-
 location:
   country: United States
   state: Ohio

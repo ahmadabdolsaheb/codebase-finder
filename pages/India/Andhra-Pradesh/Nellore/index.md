@@ -1,6 +1,5 @@
 ---
 title: Nellore
-
 location:
   country: India
   state: Andhra Pradesh

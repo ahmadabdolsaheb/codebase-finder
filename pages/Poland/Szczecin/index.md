@@ -1,6 +1,5 @@
 ---
 title: Szczecin
-
 location:
   country: Poland
   state: 

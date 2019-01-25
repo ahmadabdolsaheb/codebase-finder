@@ -1,6 +1,5 @@
 ---
 title: Balti
-
 location:
   country: Moldova
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Valle de La Pascua
-
 location:
   country: Venezuela
   state: 

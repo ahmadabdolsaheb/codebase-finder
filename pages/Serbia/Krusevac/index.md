@@ -1,6 +1,5 @@
 ---
 title: Krusevac
-
 location:
   country: Serbia
   state: 

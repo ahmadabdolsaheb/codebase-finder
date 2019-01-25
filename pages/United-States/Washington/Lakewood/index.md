@@ -1,6 +1,5 @@
 ---
 title: Lakewood
-
 location:
   country: United States
   state: Washington

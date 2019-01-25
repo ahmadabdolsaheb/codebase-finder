@@ -1,6 +1,5 @@
 ---
 title: Aberdeen
-
 location:
   country: Scotland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Iasi
-
 location:
   country: Romania
   state: 

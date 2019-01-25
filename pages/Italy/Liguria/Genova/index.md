@@ -1,6 +1,5 @@
 ---
 title: Genova
-
 location:
   country: Italy
   state: Liguria

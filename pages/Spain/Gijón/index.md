@@ -1,6 +1,5 @@
 ---
 title: Gijón
-
 location:
   country: Spain
   state: 

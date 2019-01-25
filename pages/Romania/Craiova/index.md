@@ -1,6 +1,5 @@
 ---
 title: Craiova
-
 location:
   country: Romania
   state: 

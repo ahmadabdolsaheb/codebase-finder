@@ -1,6 +1,5 @@
 ---
 title: Carrollton
-
 location:
   country: United States
   state: Illinois

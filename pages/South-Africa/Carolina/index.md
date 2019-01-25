@@ -1,6 +1,5 @@
 ---
 title: Carolina
-
 location:
   country: South Africa
   state: 

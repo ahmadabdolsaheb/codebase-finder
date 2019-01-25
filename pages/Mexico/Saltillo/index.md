@@ -1,6 +1,5 @@
 ---
 title: Saltillo
-
 location:
   country: Mexico
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Arcadia
-
 location:
   country: United States
   state: California

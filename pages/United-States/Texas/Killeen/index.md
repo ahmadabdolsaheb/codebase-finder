@@ -1,6 +1,5 @@
 ---
 title: Killeen
-
 location:
   country: United States
   state: Texas

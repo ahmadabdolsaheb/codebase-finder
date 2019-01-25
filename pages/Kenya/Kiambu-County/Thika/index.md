@@ -1,6 +1,5 @@
 ---
 title: Thika
-
 location:
   country: Kenya
   state: Kiambu County

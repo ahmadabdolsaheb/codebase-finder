@@ -1,6 +1,5 @@
 ---
 title: Dahlonega
-
 location:
   country: United States
   state: Georgia

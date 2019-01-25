@@ -1,6 +1,5 @@
 ---
 title: Hull
-
 location:
   country: England
   state: 

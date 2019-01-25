@@ -1,6 +1,5 @@
 ---
 title: Suwon
-
 location:
   country: South Korea
   state: Gyeonggi

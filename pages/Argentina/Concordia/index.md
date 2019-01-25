@@ -1,6 +1,5 @@
 ---
 title: Concordia
-
 location:
   country: Argentina
   state: 

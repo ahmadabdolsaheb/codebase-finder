@@ -1,6 +1,5 @@
 ---
 title: Brest
-
 location:
   country: Belarus
   state: 

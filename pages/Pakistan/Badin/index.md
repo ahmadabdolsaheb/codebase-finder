@@ -1,6 +1,5 @@
 ---
 title: Badin
-
 location:
   country: Pakistan
   state: 

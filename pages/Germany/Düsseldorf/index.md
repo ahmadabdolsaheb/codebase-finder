@@ -1,6 +1,5 @@
 ---
 title: Düsseldorf
-
 location:
   country: Germany
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Davis
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Perm
-
 location:
   country: Russia
   state: 

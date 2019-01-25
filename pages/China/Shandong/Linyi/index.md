@@ -1,6 +1,5 @@
 ---
 title: Linyi
-
 location:
   country: China
   state: Shandong

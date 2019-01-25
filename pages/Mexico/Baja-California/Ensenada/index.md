@@ -1,6 +1,5 @@
 ---
 title: Ensenada
-
 location:
   country: Mexico
   state: Baja California

@@ -1,6 +1,5 @@
 ---
 title: Brussels
-
 location:
   country: Belgium
   state: 

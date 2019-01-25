@@ -1,6 +1,5 @@
 ---
 title: Norrköping
-
 location:
   country: Sweden
   state: 

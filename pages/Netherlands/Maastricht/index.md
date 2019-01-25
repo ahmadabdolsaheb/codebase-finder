@@ -1,6 +1,5 @@
 ---
 title: Maastricht
-
 location:
   country: Netherlands
   state: 

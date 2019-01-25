@@ -1,6 +1,5 @@
 ---
 title: Long Island
-
 location:
   country: United States
   state: New York

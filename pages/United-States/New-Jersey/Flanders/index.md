@@ -1,6 +1,5 @@
 ---
 title: Flanders
-
 location:
   country: United States
   state: New Jersey

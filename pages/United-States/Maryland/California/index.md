@@ -1,6 +1,5 @@
 ---
 title: California
-
 location:
   country: United States
   state: Maryland

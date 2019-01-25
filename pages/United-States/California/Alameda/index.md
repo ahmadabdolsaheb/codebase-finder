@@ -1,6 +1,5 @@
 ---
 title: Alameda
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Onitsha
-
 location:
   country: Nigeria
   state: Anambra

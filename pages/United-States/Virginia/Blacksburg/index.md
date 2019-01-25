@@ -1,6 +1,5 @@
 ---
 title: Blacksburg
-
 location:
   country: United States
   state: Virginia

@@ -1,6 +1,5 @@
 ---
 title: Novi
-
 location:
   country: United States
   state: Michigan

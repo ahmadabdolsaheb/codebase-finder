@@ -1,6 +1,5 @@
 ---
 title: Lehi
-
 location:
   country: United States
   state: Utah

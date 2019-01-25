@@ -1,6 +1,5 @@
 ---
 title: Covina
-
 location:
   country: United States
   state: California

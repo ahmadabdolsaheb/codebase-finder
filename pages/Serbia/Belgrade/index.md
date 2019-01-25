@@ -1,6 +1,5 @@
 ---
 title: Belgrade
-
 location:
   country: Serbia
   state: 

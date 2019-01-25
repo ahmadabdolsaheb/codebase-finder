@@ -1,6 +1,5 @@
 ---
 title: Montego Bay
-
 location:
   country: Jamaica
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Porto Velho
-
 location:
   country: Brazil
   state: Rondônia

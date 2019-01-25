@@ -1,6 +1,5 @@
 ---
 title: Tiraspol
-
 location:
   country: Moldova
   state: 

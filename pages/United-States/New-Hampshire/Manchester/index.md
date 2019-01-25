@@ -1,6 +1,5 @@
 ---
 title: Manchester
-
 location:
   country: United States
   state: New Hampshire

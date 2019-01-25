@@ -1,6 +1,5 @@
 ---
 title: Piura
-
 location:
   country: Peru
   state: 

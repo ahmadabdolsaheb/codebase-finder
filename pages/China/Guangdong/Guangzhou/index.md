@@ -1,6 +1,5 @@
 ---
 title: Guangzhou
-
 location:
   country: China
   state: Guangdong

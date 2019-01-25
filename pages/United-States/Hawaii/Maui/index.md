@@ -1,6 +1,5 @@
 ---
 title: Maui
-
 location:
   country: United States
   state: Hawaii

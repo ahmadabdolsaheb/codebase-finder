@@ -1,6 +1,5 @@
 ---
 title: Guayana
-
 location:
   country: Venezuela
   state: 

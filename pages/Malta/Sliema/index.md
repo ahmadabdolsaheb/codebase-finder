@@ -1,6 +1,5 @@
 ---
 title: Sliema
-
 location:
   country: Malta
   state: 

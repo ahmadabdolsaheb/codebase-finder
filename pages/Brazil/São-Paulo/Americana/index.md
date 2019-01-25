@@ -1,6 +1,5 @@
 ---
 title: Americana
-
 location:
   country: Brazil
   state: São Paulo

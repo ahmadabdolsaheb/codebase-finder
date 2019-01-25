@@ -1,6 +1,5 @@
 ---
 title: Osaka
-
 location:
   country: Japan
   state: Osaka

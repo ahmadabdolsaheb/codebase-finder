@@ -1,6 +1,5 @@
 ---
 title: Chester
-
 location:
   country: United States
   state: Virginia

@@ -1,6 +1,5 @@
 ---
 title: Cleveland East
-
 location:
   country: United States
   state: Ohio

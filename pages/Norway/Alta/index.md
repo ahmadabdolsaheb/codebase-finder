@@ -1,6 +1,5 @@
 ---
 title: Alta
-
 location:
   country: Norway
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Beit Shemesh
-
 location:
   country: Israel
   state: 

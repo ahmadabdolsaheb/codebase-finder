@@ -1,6 +1,5 @@
 ---
 title: Mar del Plata
-
 location:
   country: Argentina
   state: 

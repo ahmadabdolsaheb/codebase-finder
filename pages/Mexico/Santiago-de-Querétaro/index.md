@@ -1,6 +1,5 @@
 ---
 title: Santiago de Querétaro
-
 location:
   country: Mexico
   state: 

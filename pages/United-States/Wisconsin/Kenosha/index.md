@@ -1,6 +1,5 @@
 ---
 title: Kenosha
-
 location:
   country: United States
   state: Wisconsin

@@ -1,6 +1,5 @@
 ---
 title: Elgin
-
 location:
   country: United States
   state: Illinois

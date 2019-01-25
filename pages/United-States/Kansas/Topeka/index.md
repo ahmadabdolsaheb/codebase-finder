@@ -1,6 +1,5 @@
 ---
 title: Topeka
-
 location:
   country: United States
   state: Kansas

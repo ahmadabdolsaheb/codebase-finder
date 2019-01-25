@@ -1,6 +1,5 @@
 ---
 title: Ho Chi Minh City (Saigon)
-
 location:
   country: Vietnam
   state: 

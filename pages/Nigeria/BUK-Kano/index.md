@@ -1,6 +1,5 @@
 ---
 title: BUK Kano
-
 location:
   country: Nigeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Valencia
-
 location:
   country: Spain
   state: 

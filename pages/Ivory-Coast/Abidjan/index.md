@@ -1,6 +1,5 @@
 ---
 title: Abidjan
-
 location:
   country: Ivory Coast
   state: 

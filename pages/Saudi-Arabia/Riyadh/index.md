@@ -1,6 +1,5 @@
 ---
 title: Riyadh
-
 location:
   country: Saudi Arabia
   state: 

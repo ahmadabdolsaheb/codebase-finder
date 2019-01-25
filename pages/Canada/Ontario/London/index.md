@@ -1,6 +1,5 @@
 ---
 title: London
-
 location:
   country: Canada
   state: Ontario

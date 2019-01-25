@@ -1,6 +1,5 @@
 ---
 title: Mexico City
-
 location:
   country: Mexico
   state: 

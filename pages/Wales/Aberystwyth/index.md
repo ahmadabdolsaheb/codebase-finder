@@ -1,6 +1,5 @@
 ---
 title: Aberystwyth
-
 location:
   country: Wales
   state: 

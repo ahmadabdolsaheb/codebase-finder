@@ -1,6 +1,5 @@
 ---
 title: Louisville
-
 location:
   country: Belize
   state: 

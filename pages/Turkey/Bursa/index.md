@@ -1,6 +1,5 @@
 ---
 title: Bursa
-
 location:
   country: Turkey
   state: 

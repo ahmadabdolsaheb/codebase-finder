@@ -1,6 +1,5 @@
 ---
 title: Halifax
-
 location:
   country: Canada
   state: Nova Scotia

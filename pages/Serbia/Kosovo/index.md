@@ -1,6 +1,5 @@
 ---
 title: Kosovo
-
 location:
   country: Serbia
   state: 

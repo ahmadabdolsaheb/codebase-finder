@@ -1,6 +1,5 @@
 ---
 title: Chongqing
-
 location:
   country: China
   state: 

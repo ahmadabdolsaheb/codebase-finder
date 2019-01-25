@@ -1,6 +1,5 @@
 ---
 title: Villavicencio
-
 location:
   country: Colombia
   state: 

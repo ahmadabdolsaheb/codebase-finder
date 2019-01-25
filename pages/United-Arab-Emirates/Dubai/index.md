@@ -1,6 +1,5 @@
 ---
 title: Dubai
-
 location:
   country: United Arab Emirates
   state: 

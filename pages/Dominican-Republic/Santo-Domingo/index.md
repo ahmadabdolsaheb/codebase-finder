@@ -1,6 +1,5 @@
 ---
 title: Santo Domingo
-
 location:
   country: Dominican Republic
   state: 

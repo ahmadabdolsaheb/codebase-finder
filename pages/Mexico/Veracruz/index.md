@@ -1,6 +1,5 @@
 ---
 title: Veracruz
-
 location:
   country: Mexico
   state: 

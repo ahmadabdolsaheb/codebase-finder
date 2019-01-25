@@ -1,6 +1,5 @@
 ---
 title: Bethlehem
-
 location:
   country: United States
   state: Pennsylvania

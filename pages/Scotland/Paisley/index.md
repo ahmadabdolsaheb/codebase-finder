@@ -1,6 +1,5 @@
 ---
 title: Paisley
-
 location:
   country: Scotland
   state: 

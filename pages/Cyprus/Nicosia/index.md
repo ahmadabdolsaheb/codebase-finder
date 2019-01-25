@@ -1,6 +1,5 @@
 ---
 title: Nicosia
-
 location:
   country: Cyprus
   state: 

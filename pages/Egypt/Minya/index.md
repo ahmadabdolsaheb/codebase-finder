@@ -1,6 +1,5 @@
 ---
 title: Minya
-
 location:
   country: Egypt
   state: 

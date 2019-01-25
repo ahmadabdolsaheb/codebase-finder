@@ -1,6 +1,5 @@
 ---
 title: Mount Darwin
-
 location:
   country: Zimbabwe
   state: 

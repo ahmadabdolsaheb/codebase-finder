@@ -1,6 +1,5 @@
 ---
 title: Kabul
-
 location:
   country: Afghanistan
   state: 

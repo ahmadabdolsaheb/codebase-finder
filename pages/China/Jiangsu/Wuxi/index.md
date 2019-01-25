@@ -1,6 +1,5 @@
 ---
 title: Wuxi
-
 location:
   country: China
   state: Jiangsu

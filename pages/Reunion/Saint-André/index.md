@@ -1,6 +1,5 @@
 ---
 title: Saint-André
-
 location:
   country: Reunion
   state: 

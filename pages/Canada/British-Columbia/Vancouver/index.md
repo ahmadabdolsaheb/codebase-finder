@@ -1,6 +1,5 @@
 ---
 title: Vancouver
-
 location:
   country: Canada
   state: British Columbia

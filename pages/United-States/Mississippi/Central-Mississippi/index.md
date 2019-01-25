@@ -1,6 +1,5 @@
 ---
 title: Central Mississippi
-
 location:
   country: United States
   state: Mississippi

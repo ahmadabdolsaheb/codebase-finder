@@ -1,6 +1,5 @@
 ---
 title: Brooksville
-
 location:
   country: United States
   state: Florida

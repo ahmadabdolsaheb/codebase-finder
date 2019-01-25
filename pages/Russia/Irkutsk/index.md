@@ -1,6 +1,5 @@
 ---
 title: Irkutsk
-
 location:
   country: Russia
   state: 

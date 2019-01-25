@@ -1,6 +1,5 @@
 ---
 title: Gorakhpur
-
 location:
   country: India
   state: Uttar Pradesh

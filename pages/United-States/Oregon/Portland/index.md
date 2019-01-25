@@ -1,6 +1,5 @@
 ---
 title: Portland
-
 location:
   country: United States
   state: Oregon

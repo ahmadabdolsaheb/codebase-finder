@@ -1,6 +1,5 @@
 ---
 title: Koblenz
-
 location:
   country: Germany
   state: 

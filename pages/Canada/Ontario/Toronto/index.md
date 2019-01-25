@@ -1,6 +1,5 @@
 ---
 title: Toronto
-
 location:
   country: Canada
   state: Ontario

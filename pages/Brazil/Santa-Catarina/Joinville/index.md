@@ -1,6 +1,5 @@
 ---
 title: Joinville
-
 location:
   country: Brazil
   state: Santa Catarina

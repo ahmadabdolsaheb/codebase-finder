@@ -1,6 +1,5 @@
 ---
 title: Gainesville
-
 location:
   country: United States
   state: Florida

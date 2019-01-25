@@ -1,6 +1,5 @@
 ---
 title: Guantánamo
-
 location:
   country: Cuba
   state: 

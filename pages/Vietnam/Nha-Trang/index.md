@@ -1,6 +1,5 @@
 ---
 title: Nha Trang
-
 location:
   country: Vietnam
   state: 

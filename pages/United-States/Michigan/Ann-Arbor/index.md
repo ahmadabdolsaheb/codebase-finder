@@ -1,6 +1,5 @@
 ---
 title: Ann Arbor
-
 location:
   country: United States
   state: Michigan

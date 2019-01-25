@@ -1,6 +1,5 @@
 ---
 title: Faisalabad
-
 location:
   country: Pakistan
   state: Punjab

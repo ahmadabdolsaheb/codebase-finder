@@ -1,6 +1,5 @@
 ---
 title: Asyut
-
 location:
   country: Egypt
   state: 

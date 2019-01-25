@@ -1,6 +1,5 @@
 ---
 title: Cumana
-
 location:
   country: Venezuela
   state: Sucre

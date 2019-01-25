@@ -1,6 +1,5 @@
 ---
 title: Riverside
-
 location:
   country: United States
   state: California

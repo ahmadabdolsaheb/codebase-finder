@@ -1,6 +1,5 @@
 ---
 title: Shanghai
-
 location:
   country: China
   state: 

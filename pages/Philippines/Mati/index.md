@@ -1,6 +1,5 @@
 ---
 title: Mati
-
 location:
   country: Philippines
   state: 

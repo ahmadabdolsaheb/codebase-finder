@@ -1,6 +1,5 @@
 ---
 title: Xi'an
-
 location:
   country: China
   state: Shanxi

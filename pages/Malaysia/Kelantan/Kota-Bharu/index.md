@@ -1,6 +1,5 @@
 ---
 title: Kota Bharu
-
 location:
   country: Malaysia
   state: Kelantan

@@ -1,6 +1,5 @@
 ---
 title: Scarborough
-
 location:
   country: Canada
   state: Ontario

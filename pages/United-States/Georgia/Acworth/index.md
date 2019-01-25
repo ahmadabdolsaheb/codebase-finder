@@ -1,6 +1,5 @@
 ---
 title: Acworth
-
 location:
   country: United States
   state: Georgia

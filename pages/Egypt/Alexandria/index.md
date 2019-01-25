@@ -1,6 +1,5 @@
 ---
 title: Alexandria
-
 location:
   country: Egypt
   state: 

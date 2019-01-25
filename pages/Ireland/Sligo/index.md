@@ -1,6 +1,5 @@
 ---
 title: Sligo
-
 location:
   country: Ireland
   state: 

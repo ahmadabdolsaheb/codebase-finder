@@ -1,6 +1,5 @@
 ---
 title: Oxford
-
 location:
   country: England
   state: 

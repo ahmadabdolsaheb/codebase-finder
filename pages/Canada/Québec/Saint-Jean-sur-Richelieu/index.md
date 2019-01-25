@@ -1,6 +1,5 @@
 ---
 title: Saint-Jean-sur-Richelieu
-
 location:
   country: Canada
   state: Québec

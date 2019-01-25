@@ -1,6 +1,5 @@
 ---
 title: Conakry
-
 location:
   country: Guinea
   state: 

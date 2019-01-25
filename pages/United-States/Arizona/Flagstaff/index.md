@@ -1,6 +1,5 @@
 ---
 title: Flagstaff
-
 location:
   country: United States
   state: Arizona

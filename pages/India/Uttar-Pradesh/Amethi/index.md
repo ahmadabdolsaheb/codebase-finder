@@ -1,6 +1,5 @@
 ---
 title: Amethi
-
 location:
   country: India
   state: Uttar Pradesh

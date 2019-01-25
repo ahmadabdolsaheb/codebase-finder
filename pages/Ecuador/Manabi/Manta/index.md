@@ -1,6 +1,5 @@
 ---
 title: Manta
-
 location:
   country: Ecuador
   state: Manabi

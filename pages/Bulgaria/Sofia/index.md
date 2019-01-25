@@ -1,6 +1,5 @@
 ---
 title: Sofia
-
 location:
   country: Bulgaria
   state: 

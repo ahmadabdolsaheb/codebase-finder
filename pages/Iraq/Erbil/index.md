@@ -1,6 +1,5 @@
 ---
 title: Erbil
-
 location:
   country: Iraq
   state: 

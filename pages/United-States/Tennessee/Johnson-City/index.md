@@ -1,6 +1,5 @@
 ---
 title: Johnson City
-
 location:
   country: United States
   state: Tennessee

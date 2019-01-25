@@ -1,6 +1,5 @@
 ---
 title: Şanlıurfa
-
 location:
   country: Turkey
   state: 

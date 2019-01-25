@@ -1,6 +1,5 @@
 ---
 title: Ljubljana
-
 location:
   country: Slovenia
   state: 

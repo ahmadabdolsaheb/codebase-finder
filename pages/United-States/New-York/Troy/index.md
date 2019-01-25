@@ -1,6 +1,5 @@
 ---
 title: Troy
-
 location:
   country: United States
   state: New York

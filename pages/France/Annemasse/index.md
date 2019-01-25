@@ -1,6 +1,5 @@
 ---
 title: Annemasse
-
 location:
   country: France
   state: 

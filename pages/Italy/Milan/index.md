@@ -1,6 +1,5 @@
 ---
 title: Milan
-
 location:
   country: Italy
   state: 

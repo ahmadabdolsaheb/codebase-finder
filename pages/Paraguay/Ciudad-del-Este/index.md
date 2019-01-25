@@ -1,6 +1,5 @@
 ---
 title: Ciudad del Este
-
 location:
   country: Paraguay
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Győr
-
 location:
   country: Hungary
   state: 

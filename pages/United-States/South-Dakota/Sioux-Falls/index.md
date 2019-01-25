@@ -1,6 +1,5 @@
 ---
 title: Sioux Falls
-
 location:
   country: United States
   state: South Dakota

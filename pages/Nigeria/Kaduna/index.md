@@ -1,6 +1,5 @@
 ---
 title: Kaduna
-
 location:
   country: Nigeria
   state: 

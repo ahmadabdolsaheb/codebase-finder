@@ -1,6 +1,5 @@
 ---
 title: Bannu
-
 location:
   country: Pakistan
   state: 

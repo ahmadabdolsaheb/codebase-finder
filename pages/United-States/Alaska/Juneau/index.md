@@ -1,6 +1,5 @@
 ---
 title: Juneau
-
 location:
   country: United States
   state: Alaska

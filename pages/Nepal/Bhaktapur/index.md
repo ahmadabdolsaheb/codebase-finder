@@ -1,6 +1,5 @@
 ---
 title: Bhaktapur
-
 location:
   country: Nepal
   state: 

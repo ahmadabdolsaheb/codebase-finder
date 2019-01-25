@@ -1,6 +1,5 @@
 ---
 title: Zaandam
-
 location:
   country: Netherlands
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Merida
-
 location:
   country: Venezuela
   state: 

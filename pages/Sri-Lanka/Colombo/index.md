@@ -1,6 +1,5 @@
 ---
 title: Colombo
-
 location:
   country: Sri Lanka
   state: 

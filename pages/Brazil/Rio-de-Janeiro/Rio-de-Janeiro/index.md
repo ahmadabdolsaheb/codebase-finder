@@ -1,6 +1,5 @@
 ---
 title: Rio de Janeiro
-
 location:
   country: Brazil
   state: Rio de Janeiro

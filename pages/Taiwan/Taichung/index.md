@@ -1,6 +1,5 @@
 ---
 title: Taichung
-
 location:
   country: Taiwan
   state: 

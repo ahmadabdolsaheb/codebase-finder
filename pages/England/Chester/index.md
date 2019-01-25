@@ -1,6 +1,5 @@
 ---
 title: Chester
-
 location:
   country: England
   state: 

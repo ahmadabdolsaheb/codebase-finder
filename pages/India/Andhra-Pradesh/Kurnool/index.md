@@ -1,6 +1,5 @@
 ---
 title: Kurnool
-
 location:
   country: India
   state: Andhra Pradesh

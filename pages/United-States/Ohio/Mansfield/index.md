@@ -1,6 +1,5 @@
 ---
 title: Mansfield
-
 location:
   country: United States
   state: Ohio

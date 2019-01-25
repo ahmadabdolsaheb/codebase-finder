@@ -1,6 +1,5 @@
 ---
 title: Guam
-
 location:
   country: United States
   state: Other US locations

@@ -1,6 +1,5 @@
 ---
 title: Scranton
-
 location:
   country: United States
   state: Pennsylvania

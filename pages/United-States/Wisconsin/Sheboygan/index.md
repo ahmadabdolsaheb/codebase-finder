@@ -1,6 +1,5 @@
 ---
 title: Sheboygan
-
 location:
   country: United States
   state: Wisconsin

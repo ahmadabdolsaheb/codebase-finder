@@ -1,6 +1,5 @@
 ---
 title: Athens
-
 location:
   country: United States
   state: Georgia

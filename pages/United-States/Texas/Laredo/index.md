@@ -1,6 +1,5 @@
 ---
 title: Laredo
-
 location:
   country: United States
   state: Texas

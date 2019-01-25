@@ -1,6 +1,5 @@
 ---
 title: Derventa
-
 location:
   country: Bosnia and Herzegovina
   state: Republika Srpska

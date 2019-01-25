@@ -1,6 +1,5 @@
 ---
 title: São José dos Campos
-
 location:
   country: Brazil
   state: São Paulo

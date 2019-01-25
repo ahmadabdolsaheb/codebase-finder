@@ -1,6 +1,5 @@
 ---
 title: Tikrit
-
 location:
   country: Iraq
   state: 

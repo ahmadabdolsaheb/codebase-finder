@@ -1,6 +1,5 @@
 ---
 title: Islamabad
-
 location:
   country: Pakistan
   state: 

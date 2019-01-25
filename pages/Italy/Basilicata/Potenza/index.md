@@ -1,6 +1,5 @@
 ---
 title: Potenza
-
 location:
   country: Italy
   state: Basilicata

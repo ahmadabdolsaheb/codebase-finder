@@ -1,6 +1,5 @@
 ---
 title: Penza
-
 location:
   country: Russia
   state: 

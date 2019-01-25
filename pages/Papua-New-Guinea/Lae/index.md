@@ -1,6 +1,5 @@
 ---
 title: Lae
-
 location:
   country: Papua New Guinea
   state: 

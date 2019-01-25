@@ -1,6 +1,5 @@
 ---
 title: Tijuana
-
 location:
   country: Mexico
   state: 

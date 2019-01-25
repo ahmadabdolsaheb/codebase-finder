@@ -1,6 +1,5 @@
 ---
 title: Owerri
-
 location:
   country: Nigeria
   state: 

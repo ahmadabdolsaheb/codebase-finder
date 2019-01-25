@@ -1,6 +1,5 @@
 ---
 title: Surabaya
-
 location:
   country: Indonesia
   state: 

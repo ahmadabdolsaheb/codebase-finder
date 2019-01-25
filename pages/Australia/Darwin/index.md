@@ -1,6 +1,5 @@
 ---
 title: Darwin
-
 location:
   country: Australia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Derby
-
 location:
   country: England
   state: 

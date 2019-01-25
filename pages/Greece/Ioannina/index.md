@@ -1,6 +1,5 @@
 ---
 title: Ioannina
-
 location:
   country: Greece
   state: 

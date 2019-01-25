@@ -1,6 +1,5 @@
 ---
 title: Benin City
-
 location:
   country: Nigeria
   state: 

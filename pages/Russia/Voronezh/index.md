@@ -1,6 +1,5 @@
 ---
 title: Voronezh
-
 location:
   country: Russia
   state: 

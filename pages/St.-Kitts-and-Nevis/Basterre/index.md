@@ -1,6 +1,5 @@
 ---
 title: Basterre
-
 location:
   country: St. Kitts and Nevis
   state: 

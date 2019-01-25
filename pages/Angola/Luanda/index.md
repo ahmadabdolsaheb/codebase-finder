@@ -1,6 +1,5 @@
 ---
 title: Luanda
-
 location:
   country: Angola
   state: 

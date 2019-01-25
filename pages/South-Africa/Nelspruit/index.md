@@ -1,6 +1,5 @@
 ---
 title: Nelspruit
-
 location:
   country: South Africa
   state: 

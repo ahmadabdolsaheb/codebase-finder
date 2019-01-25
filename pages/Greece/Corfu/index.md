@@ -1,6 +1,5 @@
 ---
 title: Corfu
-
 location:
   country: Greece
   state: 

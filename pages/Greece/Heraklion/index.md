@@ -1,6 +1,5 @@
 ---
 title: Heraklion
-
 location:
   country: Greece
   state: 

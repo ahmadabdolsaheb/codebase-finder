@@ -1,6 +1,5 @@
 ---
 title: Edmonton
-
 location:
   country: Canada
   state: Alberta

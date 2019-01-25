@@ -1,6 +1,5 @@
 ---
 title: Parit Raja
-
 location:
   country: Malaysia
   state: Johor

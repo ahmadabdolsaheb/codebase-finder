@@ -1,6 +1,5 @@
 ---
 title: Hong Kong
-
 location:
   country: Hong Kong
   state: 

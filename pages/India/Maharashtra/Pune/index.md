@@ -1,6 +1,5 @@
 ---
 title: Pune
-
 location:
   country: India
   state: Maharashtra

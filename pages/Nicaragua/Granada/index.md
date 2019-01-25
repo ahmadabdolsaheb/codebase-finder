@@ -1,6 +1,5 @@
 ---
 title: Granada
-
 location:
   country: Nicaragua
   state: 

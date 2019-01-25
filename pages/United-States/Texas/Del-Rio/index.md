@@ -1,6 +1,5 @@
 ---
 title: Del Rio
-
 location:
   country: United States
   state: Texas

@@ -1,6 +1,5 @@
 ---
 title: Poitiers
-
 location:
   country: France
   state: 

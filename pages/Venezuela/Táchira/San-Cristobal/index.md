@@ -1,6 +1,5 @@
 ---
 title: San Cristobal
-
 location:
   country: Venezuela
   state: Táchira

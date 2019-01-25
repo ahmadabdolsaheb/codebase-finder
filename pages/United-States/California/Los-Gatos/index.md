@@ -1,6 +1,5 @@
 ---
 title: Los Gatos
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: Huancayo
-
 location:
   country: Peru
   state: 

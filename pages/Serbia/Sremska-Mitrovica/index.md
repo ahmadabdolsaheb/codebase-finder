@@ -1,6 +1,5 @@
 ---
 title: Sremska Mitrovica
-
 location:
   country: Serbia
   state: 

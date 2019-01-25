@@ -1,6 +1,5 @@
 ---
 title: Prince George
-
 location:
   country: Canada
   state: British Columbia

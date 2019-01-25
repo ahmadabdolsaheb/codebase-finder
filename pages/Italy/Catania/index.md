@@ -1,6 +1,5 @@
 ---
 title: Catania
-
 location:
   country: Italy
   state: 

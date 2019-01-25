@@ -1,6 +1,5 @@
 ---
 title: San Miguel
-
 location:
   country: El Salvador
   state: 

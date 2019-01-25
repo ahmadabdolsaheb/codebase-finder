@@ -1,6 +1,5 @@
 ---
 title: Forres
-
 location:
   country: Scotland
   state: 

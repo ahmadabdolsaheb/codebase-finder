@@ -1,6 +1,5 @@
 ---
 title: Bapatla
-
 location:
   country: India
   state: Andhra Pradesh

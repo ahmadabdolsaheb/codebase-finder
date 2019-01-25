@@ -1,6 +1,5 @@
 ---
 title: Mostar
-
 location:
   country: Bosnia and Herzegovina
   state: 

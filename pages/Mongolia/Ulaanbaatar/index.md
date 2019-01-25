@@ -1,6 +1,5 @@
 ---
 title: Ulaanbaatar
-
 location:
   country: Mongolia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Portsaid
-
 location:
   country: Egypt
   state: 

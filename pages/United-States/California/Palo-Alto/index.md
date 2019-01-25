@@ -1,6 +1,5 @@
 ---
 title: Palo Alto
-
 location:
   country: United States
   state: California

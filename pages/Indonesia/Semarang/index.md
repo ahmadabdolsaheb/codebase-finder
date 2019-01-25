@@ -1,6 +1,5 @@
 ---
 title: Semarang
-
 location:
   country: Indonesia
   state: 

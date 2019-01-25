@@ -1,6 +1,5 @@
 ---
 title: Salamanca
-
 location:
   country: Spain
   state: 

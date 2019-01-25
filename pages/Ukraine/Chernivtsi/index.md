@@ -1,6 +1,5 @@
 ---
 title: Chernivtsi
-
 location:
   country: Ukraine
   state: 

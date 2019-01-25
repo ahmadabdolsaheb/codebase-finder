@@ -1,6 +1,5 @@
 ---
 title: Joshua Tree
-
 location:
   country: United States
   state: California

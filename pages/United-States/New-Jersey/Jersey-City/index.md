@@ -1,6 +1,5 @@
 ---
 title: Jersey City
-
 location:
   country: United States
   state: New Jersey

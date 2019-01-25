@@ -1,6 +1,5 @@
 ---
 title: Almaty
-
 location:
   country: Kazakhstan
   state: Almaty

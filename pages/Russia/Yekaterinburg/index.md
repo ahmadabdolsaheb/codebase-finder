@@ -1,6 +1,5 @@
 ---
 title: Yekaterinburg
-
 location:
   country: Russia
   state: 

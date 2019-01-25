@@ -1,6 +1,5 @@
 ---
 title: Nsukka
-
 location:
   country: Nigeria
   state: 

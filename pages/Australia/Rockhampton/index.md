@@ -1,6 +1,5 @@
 ---
 title: Rockhampton
-
 location:
   country: Australia
   state: 

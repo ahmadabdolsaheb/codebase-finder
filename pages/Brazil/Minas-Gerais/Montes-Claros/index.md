@@ -1,6 +1,5 @@
 ---
 title: Montes Claros
-
 location:
   country: Brazil
   state: Minas Gerais

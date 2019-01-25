@@ -1,6 +1,5 @@
 ---
 title: Lancaster
-
 location:
   country: United States
   state: California

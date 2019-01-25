@@ -1,6 +1,5 @@
 ---
 title: Tyler
-
 location:
   country: United States
   state: Texas

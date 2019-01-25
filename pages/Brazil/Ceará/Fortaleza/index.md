@@ -1,6 +1,5 @@
 ---
 title: Fortaleza
-
 location:
   country: Brazil
   state: Ceará

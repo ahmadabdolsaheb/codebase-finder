@@ -1,6 +1,5 @@
 ---
 title: Poznan
-
 location:
   country: Poland
   state: 

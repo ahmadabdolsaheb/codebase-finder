@@ -1,6 +1,5 @@
 ---
 title: Mississauga
-
 location:
   country: Canada
   state: Ontario

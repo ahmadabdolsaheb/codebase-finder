@@ -1,6 +1,5 @@
 ---
 title: Tarragona
-
 location:
   country: Spain
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Udaipur
-
 location:
   country: India
   state: Rajasthan

@@ -1,6 +1,5 @@
 ---
 title: Surrey
-
 location:
   country: Canada
   state: British Columbia

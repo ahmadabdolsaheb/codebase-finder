@@ -1,6 +1,5 @@
 ---
 title: Long Beach
-
 location:
   country: United States
   state: California

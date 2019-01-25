@@ -1,6 +1,5 @@
 ---
 title: Sao Luis
-
 location:
   country: Brazil
   state: Maranhão

@@ -1,6 +1,5 @@
 ---
 title: Niagara Falls
-
 location:
   country: Canada
   state: British Columbia

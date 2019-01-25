@@ -1,6 +1,5 @@
 ---
 title: Diamond Bar
-
 location:
   country: United States
   state: California

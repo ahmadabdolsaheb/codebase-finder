@@ -1,6 +1,5 @@
 ---
 title: La Crosse
-
 location:
   country: United States
   state: Wisconsin

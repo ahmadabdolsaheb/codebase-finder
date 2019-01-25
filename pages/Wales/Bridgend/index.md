@@ -1,6 +1,5 @@
 ---
 title: Bridgend
-
 location:
   country: Wales
   state: 

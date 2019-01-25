@@ -1,6 +1,5 @@
 ---
 title: Yazd
-
 location:
   country: Iran
   state: 

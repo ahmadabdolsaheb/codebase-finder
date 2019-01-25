@@ -1,6 +1,5 @@
 ---
 title: Patna
-
 location:
   country: India
   state: Bihar

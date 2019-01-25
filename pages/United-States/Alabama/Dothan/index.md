@@ -1,6 +1,5 @@
 ---
 title: Dothan
-
 location:
   country: United States
   state: Alabama

@@ -1,6 +1,5 @@
 ---
 title: Redmond
-
 location:
   country: United States
   state: Oregon

@@ -1,6 +1,5 @@
 ---
 title: Baguio
-
 location:
   country: Philippines
   state: 

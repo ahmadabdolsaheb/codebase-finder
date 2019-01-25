@@ -1,6 +1,5 @@
 ---
 title: Xiamen
-
 location:
   country: China
   state: Fujian

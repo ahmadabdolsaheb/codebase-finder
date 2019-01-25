@@ -1,6 +1,5 @@
 ---
 title: Stuttgart
-
 location:
   country: Germany
   state: 

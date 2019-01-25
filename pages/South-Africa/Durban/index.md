@@ -1,6 +1,5 @@
 ---
 title: Durban
-
 location:
   country: South Africa
   state: 

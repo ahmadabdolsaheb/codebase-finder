@@ -1,6 +1,5 @@
 ---
 title: Ibadan
-
 location:
   country: Nigeria
   state: Oyo

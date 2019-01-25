@@ -1,6 +1,5 @@
 ---
 title: Fort Worth
-
 location:
   country: United States
   state: Texas

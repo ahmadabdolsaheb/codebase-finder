@@ -1,6 +1,5 @@
 ---
 title: Dutse
-
 location:
   country: Nigeria
   state: 

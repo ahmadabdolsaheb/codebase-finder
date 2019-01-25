@@ -1,6 +1,5 @@
 ---
 title: João Pessoa
-
 location:
   country: Brazil
   state: Paraíba

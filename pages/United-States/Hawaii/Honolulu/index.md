@@ -1,6 +1,5 @@
 ---
 title: Honolulu
-
 location:
   country: United States
   state: Hawaii

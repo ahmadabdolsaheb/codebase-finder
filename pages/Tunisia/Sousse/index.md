@@ -1,6 +1,5 @@
 ---
 title: Sousse
-
 location:
   country: Tunisia
   state: 

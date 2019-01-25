@@ -1,6 +1,5 @@
 ---
 title: Santiago
-
 location:
   country: Chile
   state: 

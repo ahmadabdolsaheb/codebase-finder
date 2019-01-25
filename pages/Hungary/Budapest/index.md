@@ -1,6 +1,5 @@
 ---
 title: Budapest
-
 location:
   country: Hungary
   state: 

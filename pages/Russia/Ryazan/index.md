@@ -1,6 +1,5 @@
 ---
 title: Ryazan
-
 location:
   country: Russia
   state: 

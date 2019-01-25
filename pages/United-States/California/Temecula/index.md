@@ -1,6 +1,5 @@
 ---
 title: Temecula
-
 location:
   country: United States
   state: California

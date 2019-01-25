@@ -1,6 +1,5 @@
 ---
 title: Winder
-
 location:
   country: United States
   state: Georgia

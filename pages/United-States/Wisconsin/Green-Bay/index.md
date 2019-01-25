@@ -1,6 +1,5 @@
 ---
 title: Green Bay
-
 location:
   country: United States
   state: Wisconsin

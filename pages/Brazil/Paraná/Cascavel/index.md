@@ -1,6 +1,5 @@
 ---
 title: Cascavel
-
 location:
   country: Brazil
   state: Paraná

@@ -1,6 +1,5 @@
 ---
 title: Caruaru
-
 location:
   country: Brazil
   state: Pernambuco

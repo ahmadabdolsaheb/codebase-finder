@@ -1,6 +1,5 @@
 ---
 title: Port-au-Prince
-
 location:
   country: Haiti
   state: 

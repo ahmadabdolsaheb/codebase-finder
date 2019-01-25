@@ -1,6 +1,5 @@
 ---
 title: Firenze
-
 location:
   country: Italy
   state: 

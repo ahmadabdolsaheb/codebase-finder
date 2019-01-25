@@ -1,6 +1,5 @@
 ---
 title: Fullerton
-
 location:
   country: United States
   state: California

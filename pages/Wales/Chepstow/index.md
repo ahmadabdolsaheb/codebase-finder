@@ -1,6 +1,5 @@
 ---
 title: Chepstow
-
 location:
   country: Wales
   state: 

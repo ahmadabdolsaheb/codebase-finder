@@ -1,6 +1,5 @@
 ---
 title: Guarapuava
-
 location:
   country: Brazil
   state: Paraná

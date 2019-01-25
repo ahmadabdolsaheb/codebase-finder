@@ -1,6 +1,5 @@
 ---
 title: Cali
-
 location:
   country: Colombia
   state: 

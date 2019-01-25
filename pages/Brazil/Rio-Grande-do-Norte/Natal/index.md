@@ -1,6 +1,5 @@
 ---
 title: Natal
-
 location:
   country: Brazil
   state: Rio Grande do Norte

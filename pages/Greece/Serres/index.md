@@ -1,6 +1,5 @@
 ---
 title: Serres
-
 location:
   country: Greece
   state: 

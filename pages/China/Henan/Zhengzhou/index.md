@@ -1,6 +1,5 @@
 ---
 title: Zhengzhou
-
 location:
   country: China
   state: Henan

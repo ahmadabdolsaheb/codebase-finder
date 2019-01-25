@@ -1,6 +1,5 @@
 ---
 title: Lucas do Rio Verde
-
 location:
   country: Brazil
   state: Mato Grosso

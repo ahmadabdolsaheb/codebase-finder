@@ -1,6 +1,5 @@
 ---
 title: Aurangabad
-
 location:
   country: India
   state: Maharashtra

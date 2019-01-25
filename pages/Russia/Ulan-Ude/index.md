@@ -1,6 +1,5 @@
 ---
 title: Ulan-Ude
-
 location:
   country: Russia
   state: 

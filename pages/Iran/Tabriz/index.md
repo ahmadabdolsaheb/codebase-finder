@@ -1,6 +1,5 @@
 ---
 title: Tabriz
-
 location:
   country: Iran
   state: 

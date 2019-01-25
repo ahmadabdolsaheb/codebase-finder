@@ -1,6 +1,5 @@
 ---
 title: Belém
-
 location:
   country: Brazil
   state: Pará

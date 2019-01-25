@@ -1,6 +1,5 @@
 ---
 title: Naxos
-
 location:
   country: Greece
   state: 

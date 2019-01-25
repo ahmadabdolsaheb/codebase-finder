@@ -1,6 +1,5 @@
 ---
 title: Cheltenham
-
 location:
   country: England
   state: 

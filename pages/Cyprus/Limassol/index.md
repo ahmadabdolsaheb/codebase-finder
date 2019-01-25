@@ -1,6 +1,5 @@
 ---
 title: Limassol
-
 location:
   country: Cyprus
   state: 

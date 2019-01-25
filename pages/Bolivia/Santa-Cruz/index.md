@@ -1,6 +1,5 @@
 ---
 title: Santa Cruz
-
 location:
   country: Bolivia
   state: 

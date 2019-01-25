@@ -1,6 +1,5 @@
 ---
 title: Houston
-
 location:
   country: United States
   state: Texas

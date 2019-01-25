@@ -1,6 +1,5 @@
 ---
 title: Bossier City
-
 location:
   country: United States
   state: Louisiana

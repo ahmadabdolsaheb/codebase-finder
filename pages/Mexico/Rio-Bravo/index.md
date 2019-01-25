@@ -1,6 +1,5 @@
 ---
 title: Rio Bravo
-
 location:
   country: Mexico
   state: 

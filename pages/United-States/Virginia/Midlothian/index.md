@@ -1,6 +1,5 @@
 ---
 title: Midlothian
-
 location:
   country: United States
   state: Virginia

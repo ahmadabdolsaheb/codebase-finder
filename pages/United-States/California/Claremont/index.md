@@ -1,6 +1,5 @@
 ---
 title: Claremont
-
 location:
   country: United States
   state: California

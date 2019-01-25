@@ -1,6 +1,5 @@
 ---
 title: Quibdo
-
 location:
   country: Colombia
   state: 

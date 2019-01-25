@@ -1,6 +1,5 @@
 ---
 title: Moscow
-
 location:
   country: Russia
   state: 

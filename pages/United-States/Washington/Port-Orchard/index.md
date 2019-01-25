@@ -1,6 +1,5 @@
 ---
 title: Port Orchard
-
 location:
   country: United States
   state: Washington

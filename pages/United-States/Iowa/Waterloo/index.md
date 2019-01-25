@@ -1,6 +1,5 @@
 ---
 title: Waterloo
-
 location:
   country: United States
   state: Iowa

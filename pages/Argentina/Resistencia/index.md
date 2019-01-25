@@ -1,6 +1,5 @@
 ---
 title: Resistencia
-
 location:
   country: Argentina
   state: 

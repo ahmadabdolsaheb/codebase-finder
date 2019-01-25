@@ -1,6 +1,5 @@
 ---
 title: Kota Kinabalu
-
 location:
   country: Malaysia
   state: 

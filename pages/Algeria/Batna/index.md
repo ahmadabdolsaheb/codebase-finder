@@ -1,6 +1,5 @@
 ---
 title: Batna
-
 location:
   country: Algeria
   state: 

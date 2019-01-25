@@ -1,6 +1,5 @@
 ---
 title: Taizz
-
 location:
   country: Yemen
   state: Taizz Governorate

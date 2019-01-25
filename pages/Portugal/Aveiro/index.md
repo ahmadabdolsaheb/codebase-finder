@@ -1,6 +1,5 @@
 ---
 title: Aveiro
-
 location:
   country: Portugal
   state: 

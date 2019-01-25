@@ -1,6 +1,5 @@
 ---
 title: Dublin
-
 location:
   country: Ireland
   state: 

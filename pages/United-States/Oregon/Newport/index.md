@@ -1,6 +1,5 @@
 ---
 title: Newport
-
 location:
   country: United States
   state: Oregon

@@ -1,6 +1,5 @@
 ---
 title: Worcester
-
 location:
   country: United States
   state: Massachusetts

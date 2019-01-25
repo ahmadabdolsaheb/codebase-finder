@@ -1,6 +1,5 @@
 ---
 title: Palma de Mallorca
-
 location:
   country: Spain
   state: 

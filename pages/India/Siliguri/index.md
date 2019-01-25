@@ -1,6 +1,5 @@
 ---
 title: Siliguri
-
 location:
   country: India
   state: 

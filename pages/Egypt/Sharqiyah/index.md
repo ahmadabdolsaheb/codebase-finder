@@ -1,6 +1,5 @@
 ---
 title: Sharqiyah
-
 location:
   country: Egypt
   state: 

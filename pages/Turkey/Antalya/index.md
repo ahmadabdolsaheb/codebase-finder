@@ -1,6 +1,5 @@
 ---
 title: Antalya
-
 location:
   country: Turkey
   state: 

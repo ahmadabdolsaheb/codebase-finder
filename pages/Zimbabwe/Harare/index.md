@@ -1,6 +1,5 @@
 ---
 title: Harare
-
 location:
   country: Zimbabwe
   state: 

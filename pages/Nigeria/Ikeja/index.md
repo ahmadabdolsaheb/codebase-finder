@@ -1,6 +1,5 @@
 ---
 title: Ikeja
-
 location:
   country: Nigeria
   state: 

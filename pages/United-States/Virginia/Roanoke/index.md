@@ -1,6 +1,5 @@
 ---
 title: Roanoke
-
 location:
   country: United States
   state: Virginia

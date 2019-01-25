@@ -1,6 +1,5 @@
 ---
 title: San Luis Obispo
-
 location:
   country: United States
   state: California

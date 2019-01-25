@@ -1,6 +1,5 @@
 ---
 title: Kobe
-
 location:
   country: Japan
   state: Hyōgo

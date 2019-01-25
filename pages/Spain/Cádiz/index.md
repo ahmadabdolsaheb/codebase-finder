@@ -1,6 +1,5 @@
 ---
 title: Cádiz
-
 location:
   country: Spain
   state: 

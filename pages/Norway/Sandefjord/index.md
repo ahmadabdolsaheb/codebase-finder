@@ -1,6 +1,5 @@
 ---
 title: Sandefjord
-
 location:
   country: Norway
   state: 

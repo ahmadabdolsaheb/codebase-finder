@@ -1,6 +1,5 @@
 ---
 title: Washington, D.C.
-
 location:
   country: United States
   state: 

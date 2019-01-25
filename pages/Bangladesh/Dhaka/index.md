@@ -1,6 +1,5 @@
 ---
 title: Dhaka
-
 location:
   country: Bangladesh
   state: 

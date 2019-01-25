@@ -1,6 +1,5 @@
 ---
 title: Muskogee
-
 location:
   country: United States
   state: Oklahoma

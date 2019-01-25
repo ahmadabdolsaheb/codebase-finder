@@ -1,6 +1,5 @@
 ---
 title: Campina Grande
-
 location:
   country: Brazil
   state: Paraíba

@@ -1,6 +1,5 @@
 ---
 title: Jyväskylä
-
 location:
   country: Finland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Oujda
-
 location:
   country: Morocco
   state: Oriental

@@ -1,6 +1,5 @@
 ---
 title: Fort Dodge
-
 location:
   country: United States
   state: Iowa

@@ -1,6 +1,5 @@
 ---
 title: Maceió
-
 location:
   country: Brazil
   state: Alagoas

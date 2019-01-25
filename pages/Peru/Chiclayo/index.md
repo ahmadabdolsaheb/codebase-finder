@@ -1,6 +1,5 @@
 ---
 title: Chiclayo
-
 location:
   country: Peru
   state: 

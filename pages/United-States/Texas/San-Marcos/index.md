@@ -1,6 +1,5 @@
 ---
 title: San Marcos
-
 location:
   country: United States
   state: Texas

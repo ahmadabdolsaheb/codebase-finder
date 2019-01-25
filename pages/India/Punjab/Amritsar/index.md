@@ -1,6 +1,5 @@
 ---
 title: Amritsar
-
 location:
   country: India
   state: Punjab

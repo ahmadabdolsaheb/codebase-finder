@@ -1,6 +1,5 @@
 ---
 title: Laayoune
-
 location:
   country: West Sahara
   state: 

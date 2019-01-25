@@ -1,6 +1,5 @@
 ---
 title: Columbus
-
 location:
   country: United States
   state: Indiana

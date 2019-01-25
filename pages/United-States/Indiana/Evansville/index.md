@@ -1,6 +1,5 @@
 ---
 title: Evansville
-
 location:
   country: United States
   state: Indiana

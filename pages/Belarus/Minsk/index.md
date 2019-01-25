@@ -1,6 +1,5 @@
 ---
 title: Minsk
-
 location:
   country: Belarus
   state: 

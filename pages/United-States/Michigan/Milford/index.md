@@ -1,6 +1,5 @@
 ---
 title: Milford
-
 location:
   country: United States
   state: Michigan

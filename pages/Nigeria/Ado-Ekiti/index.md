@@ -1,6 +1,5 @@
 ---
 title: Ado Ekiti
-
 location:
   country: Nigeria
   state: 

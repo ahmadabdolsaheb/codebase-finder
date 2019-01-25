@@ -1,6 +1,5 @@
 ---
 title: Douglas
-
 location:
   country: Isle of Man
   state: 

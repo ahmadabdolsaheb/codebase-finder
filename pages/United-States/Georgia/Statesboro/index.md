@@ -1,6 +1,5 @@
 ---
 title: Statesboro
-
 location:
   country: United States
   state: Georgia

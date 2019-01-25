@@ -1,6 +1,5 @@
 ---
 title: Windhoek
-
 location:
   country: Namibia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Burnaby
-
 location:
   country: Canada
   state: British Columbia

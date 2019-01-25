@@ -1,6 +1,5 @@
 ---
 title: Randfontein
-
 location:
   country: South Africa
   state: 

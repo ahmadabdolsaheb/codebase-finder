@@ -1,6 +1,5 @@
 ---
 title: Pekanbaru
-
 location:
   country: Indonesia
   state: Riau

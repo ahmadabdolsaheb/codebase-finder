@@ -1,6 +1,5 @@
 ---
 title: Liverpool
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Podgorica
-
 location:
   country: Montenegro
   state: 

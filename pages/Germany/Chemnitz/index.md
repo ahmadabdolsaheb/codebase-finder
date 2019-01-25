@@ -1,6 +1,5 @@
 ---
 title: Chemnitz
-
 location:
   country: Germany
   state: 

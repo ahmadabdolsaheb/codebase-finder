@@ -1,6 +1,5 @@
 ---
 title: Petersburg
-
 location:
   country: United States
   state: Virginia

@@ -1,6 +1,5 @@
 ---
 title: Tahlequah
-
 location:
   country: United States
   state: Oklahoma

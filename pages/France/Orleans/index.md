@@ -1,6 +1,5 @@
 ---
 title: Orleans
-
 location:
   country: France
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Medellin
-
 location:
   country: Colombia
   state: 

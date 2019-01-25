@@ -1,6 +1,5 @@
 ---
 title: Birgunj
-
 location:
   country: Nepal
   state: Central Development Region

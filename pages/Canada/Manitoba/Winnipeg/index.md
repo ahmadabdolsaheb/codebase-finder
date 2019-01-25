@@ -1,6 +1,5 @@
 ---
 title: Winnipeg
-
 location:
   country: Canada
   state: Manitoba

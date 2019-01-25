@@ -1,6 +1,5 @@
 ---
 title: Appleton
-
 location:
   country: United States
   state: Wisconsin

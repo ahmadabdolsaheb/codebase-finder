@@ -1,6 +1,5 @@
 ---
 title: Halle
-
 location:
   country: Germany
   state: 

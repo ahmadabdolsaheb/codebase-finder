@@ -1,6 +1,5 @@
 ---
 title: Kaliningrad
-
 location:
   country: Russia
   state: 

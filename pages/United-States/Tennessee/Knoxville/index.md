@@ -1,6 +1,5 @@
 ---
 title: Knoxville
-
 location:
   country: United States
   state: Tennessee

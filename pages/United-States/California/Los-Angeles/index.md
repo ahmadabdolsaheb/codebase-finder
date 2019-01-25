@@ -1,6 +1,5 @@
 ---
 title: Los Angeles
-
 location:
   country: United States
   state: California

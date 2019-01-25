@@ -1,6 +1,5 @@
 ---
 title: Orlando
-
 location:
   country: United States
   state: Florida

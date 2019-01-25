@@ -1,6 +1,5 @@
 ---
 title: Berea
-
 location:
   country: United States
   state: Kentucky

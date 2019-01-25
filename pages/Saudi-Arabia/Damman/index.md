@@ -1,6 +1,5 @@
 ---
 title: Damman
-
 location:
   country: Saudi Arabia
   state: 

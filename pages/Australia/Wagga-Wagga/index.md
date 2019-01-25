@@ -1,6 +1,5 @@
 ---
 title: Wagga Wagga
-
 location:
   country: Australia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Rijeka
-
 location:
   country: Croatia
   state: 

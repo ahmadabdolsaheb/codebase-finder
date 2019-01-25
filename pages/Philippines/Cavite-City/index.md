@@ -1,6 +1,5 @@
 ---
 title: Cavite City
-
 location:
   country: Philippines
   state: 

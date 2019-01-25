@@ -1,6 +1,5 @@
 ---
 title: Alexandria
-
 location:
   country: United States
   state: Louisiana

@@ -1,6 +1,5 @@
 ---
 title: Nagpur West
-
 location:
   country: India
   state: Maharashtra

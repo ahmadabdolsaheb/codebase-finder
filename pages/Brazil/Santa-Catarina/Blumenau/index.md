@@ -1,6 +1,5 @@
 ---
 title: Blumenau
-
 location:
   country: Brazil
   state: Santa Catarina

@@ -1,6 +1,5 @@
 ---
 title: Amravati
-
 location:
   country: India
   state: Maharashtra

@@ -1,6 +1,5 @@
 ---
 title: Isfahan
-
 location:
   country: Iran
   state: 

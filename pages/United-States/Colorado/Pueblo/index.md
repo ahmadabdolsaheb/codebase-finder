@@ -1,6 +1,5 @@
 ---
 title: Pueblo
-
 location:
   country: United States
   state: Colorado

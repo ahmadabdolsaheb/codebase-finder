@@ -1,6 +1,5 @@
 ---
 title: Cambridge
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Tulcea
-
 location:
   country: Romania
   state: 

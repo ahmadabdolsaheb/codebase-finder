@@ -1,6 +1,5 @@
 ---
 title: Constanta
-
 location:
   country: Romania
   state: 

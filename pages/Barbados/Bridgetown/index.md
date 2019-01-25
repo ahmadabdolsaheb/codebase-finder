@@ -1,6 +1,5 @@
 ---
 title: Bridgetown
-
 location:
   country: Barbados
   state: 

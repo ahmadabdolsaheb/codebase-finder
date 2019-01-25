@@ -1,6 +1,5 @@
 ---
 title: Ahmedabad
-
 location:
   country: India
   state: Gujarat

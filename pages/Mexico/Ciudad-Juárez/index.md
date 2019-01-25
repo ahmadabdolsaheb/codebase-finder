@@ -1,6 +1,5 @@
 ---
 title: Ciudad Juárez
-
 location:
   country: Mexico
   state: 

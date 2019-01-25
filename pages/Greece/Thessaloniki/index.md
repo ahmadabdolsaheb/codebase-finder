@@ -1,6 +1,5 @@
 ---
 title: Thessaloniki
-
 location:
   country: Greece
   state: 

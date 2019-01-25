@@ -1,6 +1,5 @@
 ---
 title: Jüterbog
-
 location:
   country: Germany
   state: 

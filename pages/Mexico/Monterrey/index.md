@@ -1,6 +1,5 @@
 ---
 title: Monterrey
-
 location:
   country: Mexico
   state: 

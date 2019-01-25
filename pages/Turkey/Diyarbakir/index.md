@@ -1,6 +1,5 @@
 ---
 title: Diyarbakir
-
 location:
   country: Turkey
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Lodz
-
 location:
   country: Poland
   state: 

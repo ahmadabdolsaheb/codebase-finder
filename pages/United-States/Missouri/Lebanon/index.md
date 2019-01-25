@@ -1,6 +1,5 @@
 ---
 title: Lebanon
-
 location:
   country: United States
   state: Missouri

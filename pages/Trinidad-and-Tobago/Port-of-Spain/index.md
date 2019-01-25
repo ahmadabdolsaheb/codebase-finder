@@ -1,6 +1,5 @@
 ---
 title: Port of Spain
-
 location:
   country: Trinidad and Tobago
   state: 

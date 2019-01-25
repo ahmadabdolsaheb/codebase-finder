@@ -1,6 +1,5 @@
 ---
 title: Durham
-
 location:
   country: United States
   state: North Carolina

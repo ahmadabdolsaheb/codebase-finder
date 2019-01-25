@@ -1,6 +1,5 @@
 ---
 title: Porto
-
 location:
   country: Portugal
   state: 

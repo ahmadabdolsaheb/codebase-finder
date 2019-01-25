@@ -1,6 +1,5 @@
 ---
 title: Franca
-
 location:
   country: Brazil
   state: São Paulo

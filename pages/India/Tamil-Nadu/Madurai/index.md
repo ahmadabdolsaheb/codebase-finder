@@ -1,6 +1,5 @@
 ---
 title: Madurai
-
 location:
   country: India
   state: Tamil Nadu

@@ -1,6 +1,5 @@
 ---
 title: Sopot
-
 location:
   country: Poland
   state: 

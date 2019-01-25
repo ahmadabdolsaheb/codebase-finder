@@ -1,6 +1,5 @@
 ---
 title: Bhopal
-
 location:
   country: India
   state: Madhya Pradesh

@@ -1,6 +1,5 @@
 ---
 title: Al Ain
-
 location:
   country: United Arab Emirates
   state: 

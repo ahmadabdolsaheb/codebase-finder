@@ -1,6 +1,5 @@
 ---
 title: Veliko Tarnovo
-
 location:
   country: Sergipe
   state: 

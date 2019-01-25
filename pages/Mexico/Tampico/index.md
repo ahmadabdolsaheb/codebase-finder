@@ -1,6 +1,5 @@
 ---
 title: Tampico
-
 location:
   country: Mexico
   state: 

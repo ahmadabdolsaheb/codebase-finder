@@ -1,6 +1,5 @@
 ---
 title: Širvintos
-
 location:
   country: Lithuania
   state: Vilnius County

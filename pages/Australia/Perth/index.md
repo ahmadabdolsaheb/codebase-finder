@@ -1,6 +1,5 @@
 ---
 title: Perth
-
 location:
   country: Australia
   state: 

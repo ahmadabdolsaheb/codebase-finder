@@ -1,6 +1,5 @@
 ---
 title: Graz
-
 location:
   country: Austria
   state: 

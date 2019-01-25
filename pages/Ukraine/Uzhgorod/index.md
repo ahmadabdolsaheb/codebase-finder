@@ -1,6 +1,5 @@
 ---
 title: Uzhgorod
-
 location:
   country: Ukraine
   state: 

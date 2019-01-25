@@ -1,6 +1,5 @@
 ---
 title: Muscat
-
 location:
   country: Oman
   state: 

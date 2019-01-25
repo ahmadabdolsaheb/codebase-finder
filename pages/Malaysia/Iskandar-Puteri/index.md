@@ -1,6 +1,5 @@
 ---
 title: Iskandar Puteri
-
 location:
   country: Malaysia
   state: 

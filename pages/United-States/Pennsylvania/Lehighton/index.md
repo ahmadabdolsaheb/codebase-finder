@@ -1,6 +1,5 @@
 ---
 title: Lehighton
-
 location:
   country: United States
   state: Pennsylvania

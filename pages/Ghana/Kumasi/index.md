@@ -1,6 +1,5 @@
 ---
 title: Kumasi
-
 location:
   country: Ghana
   state: 

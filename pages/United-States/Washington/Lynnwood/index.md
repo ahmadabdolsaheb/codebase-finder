@@ -1,6 +1,5 @@
 ---
 title: Lynnwood
-
 location:
   country: United States
   state: Washington

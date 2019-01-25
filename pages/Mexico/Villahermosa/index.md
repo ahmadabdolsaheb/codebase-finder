@@ -1,6 +1,5 @@
 ---
 title: Villahermosa
-
 location:
   country: Mexico
   state: 

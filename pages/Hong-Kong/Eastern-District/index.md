@@ -1,6 +1,5 @@
 ---
 title: Eastern District
-
 location:
   country: Hong Kong
   state: 

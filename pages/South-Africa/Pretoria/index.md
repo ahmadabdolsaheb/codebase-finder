@@ -1,6 +1,5 @@
 ---
 title: Pretoria
-
 location:
   country: South Africa
   state: 

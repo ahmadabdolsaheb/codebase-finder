@@ -1,6 +1,5 @@
 ---
 title: Omsk
-
 location:
   country: Russia
   state: 

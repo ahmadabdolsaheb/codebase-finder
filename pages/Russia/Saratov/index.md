@@ -1,6 +1,5 @@
 ---
 title: Saratov
-
 location:
   country: Russia
   state: 

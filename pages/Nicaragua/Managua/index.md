@@ -1,6 +1,5 @@
 ---
 title: Managua
-
 location:
   country: Nicaragua
   state: 

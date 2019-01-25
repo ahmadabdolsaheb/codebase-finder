@@ -1,6 +1,5 @@
 ---
 title: Rojales
-
 location:
   country: Spain
   state: 

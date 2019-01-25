@@ -1,6 +1,5 @@
 ---
 title: Szeged
-
 location:
   country: Hungary
   state: 

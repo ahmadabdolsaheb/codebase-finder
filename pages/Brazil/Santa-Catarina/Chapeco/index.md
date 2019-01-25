@@ -1,6 +1,5 @@
 ---
 title: Chapeco
-
 location:
   country: Brazil
   state: Santa Catarina

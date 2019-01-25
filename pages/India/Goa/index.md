@@ -1,6 +1,5 @@
 ---
 title: Goa
-
 location:
   country: India
   state: Goa

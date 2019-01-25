@@ -1,6 +1,5 @@
 ---
 title: Chernihiv
-
 location:
   country: Ukraine
   state: 

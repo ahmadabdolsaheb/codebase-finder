@@ -1,6 +1,5 @@
 ---
 title: Kisumu
-
 location:
   country: Kenya
   state: Kisumu County

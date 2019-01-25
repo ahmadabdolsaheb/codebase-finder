@@ -1,6 +1,5 @@
 ---
 title: Braga
-
 location:
   country: Portugal
   state: 

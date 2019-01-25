@@ -1,6 +1,5 @@
 ---
 title: Guiyang
-
 location:
   country: China
   state: Guizhou

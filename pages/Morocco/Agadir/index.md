@@ -1,6 +1,5 @@
 ---
 title: Agadir
-
 location:
   country: Morocco
   state: 

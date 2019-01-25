@@ -1,6 +1,5 @@
 ---
 title: Bandung
-
 location:
   country: Indonesia
   state: 

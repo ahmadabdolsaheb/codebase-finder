@@ -1,6 +1,5 @@
 ---
 title: Tbilisi
-
 location:
   country: Georgia
   state: 

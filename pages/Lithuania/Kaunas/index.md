@@ -1,6 +1,5 @@
 ---
 title: Kaunas
-
 location:
   country: Lithuania
   state: 

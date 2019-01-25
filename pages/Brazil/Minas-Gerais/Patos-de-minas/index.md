@@ -1,6 +1,5 @@
 ---
 title: Patos de minas
-
 location:
   country: Brazil
   state: Minas Gerais

@@ -1,6 +1,5 @@
 ---
 title: Little Rock
-
 location:
   country: United States
   state: Arkansas

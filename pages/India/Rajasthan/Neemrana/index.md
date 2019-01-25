@@ -1,6 +1,5 @@
 ---
 title: Neemrana
-
 location:
   country: India
   state: Rajasthan

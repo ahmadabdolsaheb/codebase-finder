@@ -1,6 +1,5 @@
 ---
 title: Daet
-
 location:
   country: Philippines
   state: Camarines Norte

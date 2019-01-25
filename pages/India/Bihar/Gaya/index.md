@@ -1,6 +1,5 @@
 ---
 title: Gaya
-
 location:
   country: India
   state: Bihar

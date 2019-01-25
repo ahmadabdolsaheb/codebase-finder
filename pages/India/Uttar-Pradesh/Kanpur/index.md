@@ -1,6 +1,5 @@
 ---
 title: Kanpur
-
 location:
   country: India
   state: Uttar Pradesh

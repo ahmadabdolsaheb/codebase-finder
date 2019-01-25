@@ -1,6 +1,5 @@
 ---
 title: Richmond
-
 location:
   country: New Zealand
   state: 

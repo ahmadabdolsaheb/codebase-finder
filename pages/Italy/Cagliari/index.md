@@ -1,6 +1,5 @@
 ---
 title: Cagliari
-
 location:
   country: Italy
   state: 

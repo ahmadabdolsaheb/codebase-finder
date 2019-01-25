@@ -1,6 +1,5 @@
 ---
 title: Turangi
-
 location:
   country: New Zealand
   state: 

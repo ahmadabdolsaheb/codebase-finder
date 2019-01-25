@@ -1,6 +1,5 @@
 ---
 title: Veurne
-
 location:
   country: Belgium
   state: 

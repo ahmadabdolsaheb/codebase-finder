@@ -1,6 +1,5 @@
 ---
 title: San Jose
-
 location:
   country: United States
   state: California

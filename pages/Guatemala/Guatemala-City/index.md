@@ -1,6 +1,5 @@
 ---
 title: Guatemala City
-
 location:
   country: Guatemala
   state: 

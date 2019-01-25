@@ -1,6 +1,5 @@
 ---
 title: Guanajuato
-
 location:
   country: Mexico
   state: 

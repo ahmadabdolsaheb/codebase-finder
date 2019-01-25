@@ -1,6 +1,5 @@
 ---
 title: Fredericksburg
-
 location:
   country: United States
   state: Virginia

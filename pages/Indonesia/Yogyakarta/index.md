@@ -1,6 +1,5 @@
 ---
 title: Yogyakarta
-
 location:
   country: Indonesia
   state: 

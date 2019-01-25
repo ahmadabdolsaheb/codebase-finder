@@ -1,6 +1,5 @@
 ---
 title: Ota
-
 location:
   country: Nigeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Waynesboro
-
 location:
   country: United States
   state: Georgia

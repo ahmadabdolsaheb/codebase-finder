@@ -1,6 +1,5 @@
 ---
 title: Maracay
-
 location:
   country: Venezuela
   state: 

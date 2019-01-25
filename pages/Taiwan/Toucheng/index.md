@@ -1,6 +1,5 @@
 ---
 title: Toucheng
-
 location:
   country: Taiwan
   state: 

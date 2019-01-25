@@ -1,6 +1,5 @@
 ---
 title: Bridgeport
-
 location:
   country: United States
   state: Connecticut

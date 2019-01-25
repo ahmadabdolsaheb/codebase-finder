@@ -1,6 +1,5 @@
 ---
 title: Zunyi
-
 location:
   country: China
   state: Guizhou

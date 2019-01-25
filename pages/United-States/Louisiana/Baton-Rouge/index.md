@@ -1,6 +1,5 @@
 ---
 title: Baton Rouge
-
 location:
   country: United States
   state: Louisiana

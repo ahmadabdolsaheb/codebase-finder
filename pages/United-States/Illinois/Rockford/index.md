@@ -1,6 +1,5 @@
 ---
 title: Rockford
-
 location:
   country: United States
   state: Illinois

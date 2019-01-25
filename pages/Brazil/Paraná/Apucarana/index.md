@@ -1,6 +1,5 @@
 ---
 title: Apucarana
-
 location:
   country: Brazil
   state: Paraná

@@ -1,6 +1,5 @@
 ---
 title: Halmstad
-
 location:
   country: Sweden
   state: 

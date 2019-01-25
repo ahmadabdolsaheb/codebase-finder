@@ -1,6 +1,5 @@
 ---
 title: Bicol
-
 location:
   country: Philippines
   state: 

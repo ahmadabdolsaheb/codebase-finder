@@ -1,6 +1,5 @@
 ---
 title: Gardiner
-
 location:
   country: United States
   state: Maine

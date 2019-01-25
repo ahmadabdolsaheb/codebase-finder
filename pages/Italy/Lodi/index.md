@@ -1,6 +1,5 @@
 ---
 title: Lodi
-
 location:
   country: Italy
   state: 

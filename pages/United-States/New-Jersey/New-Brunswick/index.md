@@ -1,6 +1,5 @@
 ---
 title: New Brunswick
-
 location:
   country: United States
   state: New Jersey

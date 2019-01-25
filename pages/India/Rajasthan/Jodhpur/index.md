@@ -1,6 +1,5 @@
 ---
 title: Jodhpur
-
 location:
   country: India
   state: Rajasthan

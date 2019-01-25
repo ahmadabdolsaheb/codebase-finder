@@ -1,6 +1,5 @@
 ---
 title: Tooele
-
 location:
   country: United States
   state: Utah

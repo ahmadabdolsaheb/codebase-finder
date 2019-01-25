@@ -1,6 +1,5 @@
 ---
 title: Izmir
-
 location:
   country: Turkey
   state: 

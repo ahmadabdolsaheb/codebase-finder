@@ -1,6 +1,5 @@
 ---
 title: Silver Spring
-
 location:
   country: United States
   state: Maryland

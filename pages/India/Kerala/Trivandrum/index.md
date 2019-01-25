@@ -1,6 +1,5 @@
 ---
 title: Trivandrum
-
 location:
   country: India
   state: Kerala

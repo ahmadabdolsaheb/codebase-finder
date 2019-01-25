@@ -1,6 +1,5 @@
 ---
 title: Kelowna
-
 location:
   country: Canada
   state: British Columbia

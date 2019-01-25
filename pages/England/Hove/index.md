@@ -1,6 +1,5 @@
 ---
 title: Hove
-
 location:
   country: England
   state: 

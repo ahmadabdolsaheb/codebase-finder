@@ -1,6 +1,5 @@
 ---
 title: Atlantic City
-
 location:
   country: United States
   state: New Jersey

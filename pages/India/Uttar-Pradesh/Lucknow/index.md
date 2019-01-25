@@ -1,6 +1,5 @@
 ---
 title: Lucknow
-
 location:
   country: India
   state: Uttar Pradesh

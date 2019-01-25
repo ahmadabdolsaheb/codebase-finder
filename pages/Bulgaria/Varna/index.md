@@ -1,6 +1,5 @@
 ---
 title: Varna
-
 location:
   country: Bulgaria
   state: 

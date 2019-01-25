@@ -1,6 +1,5 @@
 ---
 title: Pnei Kedem
-
 location:
   country: Israel
   state: 

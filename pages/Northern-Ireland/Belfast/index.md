@@ -1,6 +1,5 @@
 ---
 title: Belfast
-
 location:
   country: Northern Ireland
   state: 

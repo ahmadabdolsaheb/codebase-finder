@@ -1,6 +1,5 @@
 ---
 title: Zaporozhye
-
 location:
   country: Ukraine
   state: 

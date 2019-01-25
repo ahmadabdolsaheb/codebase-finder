@@ -1,6 +1,5 @@
 ---
 title: Valdivia
-
 location:
   country: Chile
   state: 

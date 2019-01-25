@@ -1,6 +1,5 @@
 ---
 title: Bordeaux
-
 location:
   country: France
   state: 

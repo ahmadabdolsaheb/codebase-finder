@@ -1,6 +1,5 @@
 ---
 title: Tri-cities
-
 location:
   country: United States
   state: Michigan

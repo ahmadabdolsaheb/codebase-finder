@@ -1,6 +1,5 @@
 ---
 title: Banda Aceh
-
 location:
   country: Indonesia
   state: 

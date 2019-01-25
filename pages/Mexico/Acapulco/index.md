@@ -1,6 +1,5 @@
 ---
 title: Acapulco
-
 location:
   country: Mexico
   state: 

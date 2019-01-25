@@ -1,6 +1,5 @@
 ---
 title: Shenzhen
-
 location:
   country: China
   state: Guangdong

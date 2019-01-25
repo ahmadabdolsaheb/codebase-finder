@@ -1,6 +1,5 @@
 ---
 title: Bangkok
-
 location:
   country: Thailand
   state: 

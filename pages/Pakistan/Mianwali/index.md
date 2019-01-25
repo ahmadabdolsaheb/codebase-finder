@@ -1,6 +1,5 @@
 ---
 title: Mianwali
-
 location:
   country: Pakistan
   state: 

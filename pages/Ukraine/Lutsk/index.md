@@ -1,6 +1,5 @@
 ---
 title: Lutsk
-
 location:
   country: Ukraine
   state: 

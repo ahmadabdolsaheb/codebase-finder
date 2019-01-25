@@ -1,6 +1,5 @@
 ---
 title: Akola
-
 location:
   country: India
   state: Maharashtra

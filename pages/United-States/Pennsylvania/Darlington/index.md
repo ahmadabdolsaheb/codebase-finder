@@ -1,6 +1,5 @@
 ---
 title: Darlington
-
 location:
   country: United States
   state: Pennsylvania

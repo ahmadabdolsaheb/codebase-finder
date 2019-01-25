@@ -1,6 +1,5 @@
 ---
 title: Westwood
-
 location:
   country: United States
   state: Massachusetts

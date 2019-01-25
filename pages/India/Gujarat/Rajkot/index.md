@@ -1,6 +1,5 @@
 ---
 title: Rajkot
-
 location:
   country: India
   state: Gujarat

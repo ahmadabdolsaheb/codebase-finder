@@ -1,6 +1,5 @@
 ---
 title: Elizabeth City
-
 location:
   country: United States
   state: North Carolina

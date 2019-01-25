@@ -1,6 +1,5 @@
 ---
 title: York
-
 location:
   country: United States
   state: Pennsylvania

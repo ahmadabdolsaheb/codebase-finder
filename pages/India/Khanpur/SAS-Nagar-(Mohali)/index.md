@@ -1,6 +1,5 @@
 ---
 title: SAS Nagar (Mohali)
-
 location:
   country: India
   state: Khanpur

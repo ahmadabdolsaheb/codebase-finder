@@ -1,6 +1,5 @@
 ---
 title: Alushta
-
 location:
   country: Ukraine
   state: 

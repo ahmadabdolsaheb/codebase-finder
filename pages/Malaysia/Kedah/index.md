@@ -1,6 +1,5 @@
 ---
 title: Kedah
-
 location:
   country: Malaysia
   state: Kedah

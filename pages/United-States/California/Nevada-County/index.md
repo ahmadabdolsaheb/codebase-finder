@@ -1,6 +1,5 @@
 ---
 title: Nevada County
-
 location:
   country: United States
   state: California

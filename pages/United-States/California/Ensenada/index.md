@@ -1,6 +1,5 @@
 ---
 title: Ensenada
-
 location:
   country: United States
   state: California

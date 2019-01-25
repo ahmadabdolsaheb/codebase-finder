@@ -1,6 +1,5 @@
 ---
 title: Arak
-
 location:
   country: Iran
   state: 

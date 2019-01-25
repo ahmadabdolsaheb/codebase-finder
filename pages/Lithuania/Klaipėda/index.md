@@ -1,6 +1,5 @@
 ---
 title: Klaipėda
-
 location:
   country: Lithuania
   state: 

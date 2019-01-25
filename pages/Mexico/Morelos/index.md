@@ -1,6 +1,5 @@
 ---
 title: Morelos
-
 location:
   country: Mexico
   state: 

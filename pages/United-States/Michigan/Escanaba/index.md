@@ -1,6 +1,5 @@
 ---
 title: Escanaba
-
 location:
   country: United States
   state: Michigan

@@ -1,6 +1,5 @@
 ---
 title: Gurnee
-
 location:
   country: United States
   state: Illinois

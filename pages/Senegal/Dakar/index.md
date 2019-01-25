@@ -1,6 +1,5 @@
 ---
 title: Dakar
-
 location:
   country: Senegal
   state: 

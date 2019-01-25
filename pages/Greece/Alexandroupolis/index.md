@@ -1,6 +1,5 @@
 ---
 title: Alexandroupolis
-
 location:
   country: Greece
   state: 

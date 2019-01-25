@@ -1,6 +1,5 @@
 ---
 title: Tirunelveli
-
 location:
   country: India
   state: Tamil Nadu

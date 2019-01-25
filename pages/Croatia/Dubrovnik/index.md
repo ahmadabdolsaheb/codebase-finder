@@ -1,6 +1,5 @@
 ---
 title: Dubrovnik
-
 location:
   country: Croatia
   state: 

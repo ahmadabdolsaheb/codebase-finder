@@ -1,6 +1,5 @@
 ---
 title: Zagreb
-
 location:
   country: Croatia
   state: 

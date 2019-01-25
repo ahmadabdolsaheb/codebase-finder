@@ -1,6 +1,5 @@
 ---
 title: Olympia
-
 location:
   country: United States
   state: Washington

@@ -1,6 +1,5 @@
 ---
 title: McAllen
-
 location:
   country: United States
   state: Texas

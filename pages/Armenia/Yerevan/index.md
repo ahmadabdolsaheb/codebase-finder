@@ -1,6 +1,5 @@
 ---
 title: Yerevan
-
 location:
   country: Armenia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Göteborg
-
 location:
   country: Sweden
   state: 

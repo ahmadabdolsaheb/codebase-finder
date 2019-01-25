@@ -1,6 +1,5 @@
 ---
 title: Burlington
-
 location:
   country: United States
   state: Massachusetts

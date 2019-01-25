@@ -1,6 +1,5 @@
 ---
 title: Macomb
-
 location:
   country: United States
   state: Illinois

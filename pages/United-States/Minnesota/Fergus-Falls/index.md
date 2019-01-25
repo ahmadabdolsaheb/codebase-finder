@@ -1,6 +1,5 @@
 ---
 title: Fergus Falls
-
 location:
   country: United States
   state: Minnesota

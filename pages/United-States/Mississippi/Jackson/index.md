@@ -1,6 +1,5 @@
 ---
 title: Jackson
-
 location:
   country: United States
   state: Mississippi

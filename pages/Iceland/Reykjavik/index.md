@@ -1,6 +1,5 @@
 ---
 title: Reykjavik
-
 location:
   country: Iceland
   state: 

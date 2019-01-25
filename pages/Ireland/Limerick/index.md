@@ -1,6 +1,5 @@
 ---
 title: Limerick
-
 location:
   country: Ireland
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Rybinsk
-
 location:
   country: Russia
   state: 

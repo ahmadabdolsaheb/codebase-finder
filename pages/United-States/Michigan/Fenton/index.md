@@ -1,6 +1,5 @@
 ---
 title: Fenton
-
 location:
   country: United States
   state: Michigan

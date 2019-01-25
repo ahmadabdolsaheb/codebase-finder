@@ -1,6 +1,5 @@
 ---
 title: Lanzarote
-
 location:
   country: Spain
   state: 

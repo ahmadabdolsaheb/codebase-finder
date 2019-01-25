@@ -1,6 +1,5 @@
 ---
 title: Waterford
-
 location:
   country: Ireland
   state: 

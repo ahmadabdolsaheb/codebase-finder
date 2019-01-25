@@ -1,6 +1,5 @@
 ---
 title: Rotterdam
-
 location:
   country: Netherlands
   state: 

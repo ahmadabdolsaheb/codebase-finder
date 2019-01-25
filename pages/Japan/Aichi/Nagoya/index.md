@@ -1,6 +1,5 @@
 ---
 title: Nagoya
-
 location:
   country: Japan
   state: Aichi

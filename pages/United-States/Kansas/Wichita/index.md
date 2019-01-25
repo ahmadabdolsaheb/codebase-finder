@@ -1,6 +1,5 @@
 ---
 title: Wichita
-
 location:
   country: United States
   state: Kansas

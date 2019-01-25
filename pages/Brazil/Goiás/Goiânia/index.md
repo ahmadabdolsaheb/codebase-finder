@@ -1,6 +1,5 @@
 ---
 title: Goiânia
-
 location:
   country: Brazil
   state: Goiás

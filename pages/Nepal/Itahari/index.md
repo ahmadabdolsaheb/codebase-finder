@@ -1,6 +1,5 @@
 ---
 title: Itahari
-
 location:
   country: Nepal
   state: 

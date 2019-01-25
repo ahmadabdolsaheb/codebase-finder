@@ -1,6 +1,5 @@
 ---
 title: Coventry
-
 location:
   country: England
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Fort Collins
-
 location:
   country: United States
   state: Colorado

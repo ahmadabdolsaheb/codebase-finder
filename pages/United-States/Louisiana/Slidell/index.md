@@ -1,6 +1,5 @@
 ---
 title: Slidell
-
 location:
   country: United States
   state: Louisiana

@@ -1,6 +1,5 @@
 ---
 title: Reno
-
 location:
   country: United States
   state: Nevada

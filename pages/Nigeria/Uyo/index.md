@@ -1,6 +1,5 @@
 ---
 title: Uyo
-
 location:
   country: Nigeria
   state: 

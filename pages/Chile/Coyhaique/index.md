@@ -1,6 +1,5 @@
 ---
 title: Coyhaique
-
 location:
   country: Chile
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Sparta
-
 location:
   country: Greece
   state: 

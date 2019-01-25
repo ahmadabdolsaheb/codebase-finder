@@ -1,6 +1,5 @@
 ---
 title: Sfax
-
 location:
   country: Tunisia
   state: 

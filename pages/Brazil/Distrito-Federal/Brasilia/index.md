@@ -1,6 +1,5 @@
 ---
 title: Brasilia
-
 location:
   country: Brazil
   state: Distrito Federal

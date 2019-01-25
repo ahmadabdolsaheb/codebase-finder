@@ -1,6 +1,5 @@
 ---
 title: Wearside
-
 location:
   country: England
   state: 

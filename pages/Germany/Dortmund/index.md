@@ -1,6 +1,5 @@
 ---
 title: Dortmund
-
 location:
   country: Germany
   state: 

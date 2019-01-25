@@ -1,6 +1,5 @@
 ---
 title: Torrington
-
 location:
   country: United States
   state: Connecticut

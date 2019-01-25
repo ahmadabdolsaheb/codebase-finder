@@ -1,6 +1,5 @@
 ---
 title: Heerlen
-
 location:
   country: Netherlands
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Logan
-
 location:
   country: United States
   state: Utah

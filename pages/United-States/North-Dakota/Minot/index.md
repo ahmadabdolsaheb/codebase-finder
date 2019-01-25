@@ -1,6 +1,5 @@
 ---
 title: Minot
-
 location:
   country: United States
   state: North Dakota

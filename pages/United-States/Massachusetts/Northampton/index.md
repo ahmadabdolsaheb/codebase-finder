@@ -1,6 +1,5 @@
 ---
 title: Northampton
-
 location:
   country: United States
   state: Massachusetts

@@ -1,6 +1,5 @@
 ---
 title: Cape Town
-
 location:
   country: South Africa
   state: 

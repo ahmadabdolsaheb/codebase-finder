@@ -1,6 +1,5 @@
 ---
 title: Brisbane
-
 location:
   country: Australia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Chennai
-
 location:
   country: India
   state: Tamil Nadu

@@ -1,6 +1,5 @@
 ---
 title: Sunderland
-
 location:
   country: England
   state: 

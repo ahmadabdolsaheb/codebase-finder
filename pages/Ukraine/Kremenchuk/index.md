@@ -1,6 +1,5 @@
 ---
 title: Kremenchuk
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Guwahati
-
 location:
   country: India
   state: Assam

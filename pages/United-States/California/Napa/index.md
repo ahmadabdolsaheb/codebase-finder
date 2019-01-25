@@ -1,6 +1,5 @@
 ---
 title: Napa
-
 location:
   country: United States
   state: California

@@ -1,6 +1,5 @@
 ---
 title: San Miguel de Tucumán
-
 location:
   country: Argentina
   state: Tucumán/Noroeste

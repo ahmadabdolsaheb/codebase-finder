@@ -1,6 +1,5 @@
 ---
 title: Mansoura
-
 location:
   country: Algeria
   state: 

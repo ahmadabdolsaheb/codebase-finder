@@ -1,6 +1,5 @@
 ---
 title: Billings
-
 location:
   country: United States
   state: Montana

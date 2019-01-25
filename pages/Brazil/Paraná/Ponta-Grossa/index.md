@@ -1,6 +1,5 @@
 ---
 title: Ponta Grossa
-
 location:
   country: Brazil
   state: Paraná

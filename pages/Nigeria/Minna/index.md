@@ -1,6 +1,5 @@
 ---
 title: Minna
-
 location:
   country: Nigeria
   state: 

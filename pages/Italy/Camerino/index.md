@@ -1,6 +1,5 @@
 ---
 title: Camerino
-
 location:
   country: Italy
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Gilbert
-
 location:
   country: United States
   state: Arizona

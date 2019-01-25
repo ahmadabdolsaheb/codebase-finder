@@ -1,6 +1,5 @@
 ---
 title: Santa Cruz de Tenerife
-
 location:
   country: Spain
   state: 

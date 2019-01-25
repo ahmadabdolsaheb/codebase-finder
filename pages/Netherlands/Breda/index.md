@@ -1,6 +1,5 @@
 ---
 title: Breda
-
 location:
   country: Netherlands
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Aichi
-
 location:
   country: Peru
   state: 

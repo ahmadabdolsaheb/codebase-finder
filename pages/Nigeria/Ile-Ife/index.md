@@ -1,6 +1,5 @@
 ---
 title: Ile-Ife
-
 location:
   country: Nigeria
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Udon Thani
-
 location:
   country: Thailand
   state: Udon Thani

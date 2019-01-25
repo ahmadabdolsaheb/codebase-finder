@@ -1,6 +1,5 @@
 ---
 title: Bournemouth
-
 location:
   country: England
   state: 

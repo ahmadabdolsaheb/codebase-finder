@@ -1,6 +1,5 @@
 ---
 title: Córdoba
-
 location:
   country: Spain
   state: 

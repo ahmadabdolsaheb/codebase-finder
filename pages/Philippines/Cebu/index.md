@@ -1,6 +1,5 @@
 ---
 title: Cebu
-
 location:
   country: Philippines
   state: 

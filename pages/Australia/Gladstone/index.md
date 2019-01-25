@@ -1,6 +1,5 @@
 ---
 title: Gladstone
-
 location:
   country: Australia
   state: 

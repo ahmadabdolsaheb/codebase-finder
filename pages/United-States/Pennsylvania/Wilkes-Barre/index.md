@@ -1,6 +1,5 @@
 ---
 title: Wilkes-Barre
-
 location:
   country: United States
   state: Pennsylvania

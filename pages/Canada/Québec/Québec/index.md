@@ -1,6 +1,5 @@
 ---
 title: Québec
-
 location:
   country: Canada
   state: Québec

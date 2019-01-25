@@ -1,6 +1,5 @@
 ---
 title: Tahoe
-
 location:
   country: United States
   state: California

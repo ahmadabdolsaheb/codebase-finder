@@ -1,6 +1,5 @@
 ---
 title: Skopje
-
 location:
   country: Macedonia
   state: 

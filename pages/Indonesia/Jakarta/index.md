@@ -1,6 +1,5 @@
 ---
 title: Jakarta
-
 location:
   country: Indonesia
   state: 

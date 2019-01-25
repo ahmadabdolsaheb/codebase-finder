@@ -1,6 +1,5 @@
 ---
 title: Utica
-
 location:
   country: United States
   state: Michigan

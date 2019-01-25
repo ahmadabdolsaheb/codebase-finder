@@ -1,6 +1,5 @@
 ---
 title: Maracaibo
-
 location:
   country: Venezuela
   state: 

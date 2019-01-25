@@ -1,6 +1,5 @@
 ---
 title: Samara
-
 location:
   country: Russia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Redwood city
-
 location:
   country: United States
   state: California

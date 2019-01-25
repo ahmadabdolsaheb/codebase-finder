@@ -1,6 +1,5 @@
 ---
 title: Reading
-
 location:
   country: England
   state: 

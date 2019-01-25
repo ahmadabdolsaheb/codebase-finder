@@ -1,6 +1,5 @@
 ---
 title: Champaign-Urbana
-
 location:
   country: United States
   state: Illinois

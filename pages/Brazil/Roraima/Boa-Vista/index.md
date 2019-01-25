@@ -1,6 +1,5 @@
 ---
 title: Boa Vista
-
 location:
   country: Brazil
   state: Roraima

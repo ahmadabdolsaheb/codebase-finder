@@ -1,6 +1,5 @@
 ---
 title: Bega
-
 location:
   country: Australia
   state: 

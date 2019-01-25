@@ -1,6 +1,5 @@
 ---
 title: Salisbury
-
 location:
   country: England
   state: 

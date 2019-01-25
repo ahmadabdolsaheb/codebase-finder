@@ -1,6 +1,5 @@
 ---
 title: Rome
-
 location:
   country: United States
   state: Georgia

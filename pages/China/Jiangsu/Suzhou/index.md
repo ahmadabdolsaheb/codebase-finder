@@ -1,6 +1,5 @@
 ---
 title: Suzhou
-
 location:
   country: China
   state: Jiangsu

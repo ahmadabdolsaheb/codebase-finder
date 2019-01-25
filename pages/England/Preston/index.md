@@ -1,6 +1,5 @@
 ---
 title: Preston
-
 location:
   country: England
   state: 

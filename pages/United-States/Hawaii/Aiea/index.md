@@ -1,6 +1,5 @@
 ---
 title: Aiea
-
 location:
   country: United States
   state: Hawaii

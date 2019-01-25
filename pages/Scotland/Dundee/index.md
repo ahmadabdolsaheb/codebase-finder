@@ -1,6 +1,5 @@
 ---
 title: Dundee
-
 location:
   country: Scotland
   state: 

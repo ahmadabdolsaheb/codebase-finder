@@ -1,6 +1,5 @@
 ---
 title: Vrsac
-
 location:
   country: Serbia
   state: 

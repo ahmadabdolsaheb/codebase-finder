@@ -1,6 +1,5 @@
 ---
 title: Scottsdale
-
 location:
   country: United States
   state: Arizona

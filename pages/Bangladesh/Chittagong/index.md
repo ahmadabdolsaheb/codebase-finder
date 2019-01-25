@@ -1,6 +1,5 @@
 ---
 title: Chittagong
-
 location:
   country: Bangladesh
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Osijek
-
 location:
   country: Croatia
   state: 

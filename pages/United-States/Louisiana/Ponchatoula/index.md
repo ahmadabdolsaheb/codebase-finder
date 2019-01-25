@@ -1,6 +1,5 @@
 ---
 title: Ponchatoula
-
 location:
   country: United States
   state: Louisiana

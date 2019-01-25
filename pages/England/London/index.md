@@ -1,6 +1,5 @@
 ---
 title: London
-
 location:
   country: England
   state: 

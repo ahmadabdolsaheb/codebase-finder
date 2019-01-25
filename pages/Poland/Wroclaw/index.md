@@ -1,6 +1,5 @@
 ---
 title: Wroclaw
-
 location:
   country: Poland
   state: 

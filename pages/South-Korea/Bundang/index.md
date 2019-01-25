@@ -1,6 +1,5 @@
 ---
 title: Bundang
-
 location:
   country: South Korea
   state: 

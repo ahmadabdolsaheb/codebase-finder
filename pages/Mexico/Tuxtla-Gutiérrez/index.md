@@ -1,6 +1,5 @@
 ---
 title: Tuxtla Gutiérrez
-
 location:
   country: Mexico
   state: 

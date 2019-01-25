@@ -1,6 +1,5 @@
 ---
 title: Lompoc
-
 location:
   country: United States
   state: California

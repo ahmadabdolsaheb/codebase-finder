@@ -1,6 +1,5 @@
 ---
 title: TC South Metro
-
 location:
   country: United States
   state: Minnesota

@@ -1,6 +1,5 @@
 ---
 title: Tapachula
-
 location:
   country: Mexico
   state: 

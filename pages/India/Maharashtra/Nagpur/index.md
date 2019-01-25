@@ -1,6 +1,5 @@
 ---
 title: Nagpur
-
 location:
   country: India
   state: Maharashtra

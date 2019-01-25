@@ -1,6 +1,5 @@
 ---
 title: Morgan City
-
 location:
   country: United States
   state: Louisiana

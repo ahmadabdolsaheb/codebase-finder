@@ -1,6 +1,5 @@
 ---
 title: Trento
-
 location:
   country: Italy
   state: 

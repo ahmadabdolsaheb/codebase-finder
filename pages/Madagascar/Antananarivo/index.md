@@ -1,6 +1,5 @@
 ---
 title: Antananarivo
-
 location:
   country: Madagascar
   state: 

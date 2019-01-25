@@ -1,6 +1,5 @@
 ---
 title: Gdańsk
-
 location:
   country: Poland
   state: 

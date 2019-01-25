@@ -1,6 +1,5 @@
 ---
 title: Swindon
-
 location:
   country: England
   state: 

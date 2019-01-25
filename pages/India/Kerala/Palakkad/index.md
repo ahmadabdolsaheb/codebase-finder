@@ -1,6 +1,5 @@
 ---
 title: Palakkad
-
 location:
   country: India
   state: Kerala

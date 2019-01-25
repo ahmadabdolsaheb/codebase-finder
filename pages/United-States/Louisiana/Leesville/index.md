@@ -1,6 +1,5 @@
 ---
 title: Leesville
-
 location:
   country: United States
   state: Louisiana

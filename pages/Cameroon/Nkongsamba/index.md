@@ -1,6 +1,5 @@
 ---
 title: Nkongsamba
-
 location:
   country: Cameroon
   state: 

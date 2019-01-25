@@ -1,6 +1,5 @@
 ---
 title: Tunis
-
 location:
   country: Tunisia
   state: 

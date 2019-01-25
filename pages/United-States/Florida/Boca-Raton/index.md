@@ -1,6 +1,5 @@
 ---
 title: Boca Raton
-
 location:
   country: United States
   state: Florida

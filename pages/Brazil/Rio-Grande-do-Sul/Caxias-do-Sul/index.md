@@ -1,6 +1,5 @@
 ---
 title: Caxias do Sul
-
 location:
   country: Brazil
   state: Rio Grande do Sul

@@ -1,6 +1,5 @@
 ---
 title: Tanjong Malim
-
 location:
   country: Malaysia
   state: 

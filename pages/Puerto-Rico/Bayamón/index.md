@@ -1,6 +1,5 @@
 ---
 title: Bayamón
-
 location:
   country: Puerto Rico
   state: 

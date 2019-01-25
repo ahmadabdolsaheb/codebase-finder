@@ -1,6 +1,5 @@
 ---
 title: Annaba
-
 location:
   country: Algeria
   state: Annaba

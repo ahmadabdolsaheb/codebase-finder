@@ -1,6 +1,5 @@
 ---
 title: Oradea
-
 location:
   country: Romania
   state: 

@@ -1,6 +1,5 @@
 ---
 title: George
-
 location:
   country: South Africa
   state: 

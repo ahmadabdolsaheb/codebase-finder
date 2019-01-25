@@ -1,6 +1,5 @@
 ---
 title: Lincoln
-
 location:
   country: United States
   state: Nebraska

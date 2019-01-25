@@ -1,6 +1,5 @@
 ---
 title: Colchester
-
 location:
   country: England
   state: 

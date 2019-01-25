@@ -1,6 +1,5 @@
 ---
 title: Yaounde
-
 location:
   country: Cameroon
   state: 

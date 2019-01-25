@@ -1,6 +1,5 @@
 ---
 title: Swansea
-
 location:
   country: Wales
   state: 

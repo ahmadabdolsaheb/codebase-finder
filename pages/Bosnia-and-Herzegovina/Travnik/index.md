@@ -1,6 +1,5 @@
 ---
 title: Travnik
-
 location:
   country: Bosnia and Herzegovina
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Kocaeli
-
 location:
   country: Turkey
   state: 

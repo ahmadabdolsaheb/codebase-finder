@@ -1,6 +1,5 @@
 ---
 title: Pachuca
-
 location:
   country: Mexico
   state: 

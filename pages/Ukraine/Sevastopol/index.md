@@ -1,6 +1,5 @@
 ---
 title: Sevastopol
-
 location:
   country: Ukraine
   state: 

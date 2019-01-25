@@ -1,6 +1,5 @@
 ---
 title: Timisoara
-
 location:
   country: Romania
   state: 

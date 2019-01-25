@@ -1,6 +1,5 @@
 ---
 title: Provo
-
 location:
   country: United States
   state: Utah

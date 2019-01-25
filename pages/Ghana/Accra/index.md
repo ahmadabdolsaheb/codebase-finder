@@ -1,6 +1,5 @@
 ---
 title: Accra
-
 location:
   country: Ghana
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bremen
-
 location:
   country: Germany
   state: 

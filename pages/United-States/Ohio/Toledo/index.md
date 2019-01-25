@@ -1,6 +1,5 @@
 ---
 title: Toledo
-
 location:
   country: United States
   state: Ohio

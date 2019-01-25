@@ -1,6 +1,5 @@
 ---
 title: Innsbruck
-
 location:
   country: Austria
   state: 

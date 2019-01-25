@@ -1,6 +1,5 @@
 ---
 title: Jammu
-
 location:
   country: India
   state: Jammu & Kashmir

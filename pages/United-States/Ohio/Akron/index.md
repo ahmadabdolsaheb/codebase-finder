@@ -1,6 +1,5 @@
 ---
 title: Akron
-
 location:
   country: United States
   state: Ohio

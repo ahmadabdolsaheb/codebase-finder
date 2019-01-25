@@ -1,6 +1,5 @@
 ---
 title: Bikaner
-
 location:
   country: India
   state: Rajasthan

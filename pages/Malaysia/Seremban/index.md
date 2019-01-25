@@ -1,6 +1,5 @@
 ---
 title: Seremban
-
 location:
   country: Malaysia
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Louisville
-
 location:
   country: United States
   state: Kentucky

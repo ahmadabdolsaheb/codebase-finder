@@ -1,6 +1,5 @@
 ---
 title: Hefei
-
 location:
   country: China
   state: Anhui

@@ -1,6 +1,5 @@
 ---
 title: Ternopil
-
 location:
   country: Ukraine
   state: 

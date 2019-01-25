@@ -1,6 +1,5 @@
 ---
 title: Mathura
-
 location:
   country: India
   state: Uttar Pradesh

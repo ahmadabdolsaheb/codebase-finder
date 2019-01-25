@@ -1,6 +1,5 @@
 ---
 title: Tyumen
-
 location:
   country: Russia
   state: 

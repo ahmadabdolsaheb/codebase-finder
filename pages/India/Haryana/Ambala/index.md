@@ -1,6 +1,5 @@
 ---
 title: Ambala
-
 location:
   country: India
   state: Haryana

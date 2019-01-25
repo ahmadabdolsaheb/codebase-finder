@@ -1,6 +1,5 @@
 ---
 title: Belo Horizonte
-
 location:
   country: Brazil
   state: Minas Gerais

@@ -1,6 +1,5 @@
 ---
 title: New Orleans
-
 location:
   country: United States
   state: Louisiana

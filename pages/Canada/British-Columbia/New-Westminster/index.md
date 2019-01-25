@@ -1,6 +1,5 @@
 ---
 title: New Westminster
-
 location:
   country: Canada
   state: British Columbia

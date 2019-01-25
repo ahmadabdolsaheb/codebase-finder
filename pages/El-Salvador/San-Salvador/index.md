@@ -1,6 +1,5 @@
 ---
 title: San Salvador
-
 location:
   country: El Salvador
   state: 

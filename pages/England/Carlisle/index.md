@@ -1,6 +1,5 @@
 ---
 title: Carlisle
-
 location:
   country: England
   state: 

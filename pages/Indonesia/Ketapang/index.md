@@ -1,6 +1,5 @@
 ---
 title: Ketapang
-
 location:
   country: Indonesia
   state: 

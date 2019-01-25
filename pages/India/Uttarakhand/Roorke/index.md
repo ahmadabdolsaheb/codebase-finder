@@ -1,6 +1,5 @@
 ---
 title: Roorke
-
 location:
   country: India
   state: Uttarakhand

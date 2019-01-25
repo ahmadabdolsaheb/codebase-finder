@@ -1,6 +1,5 @@
 ---
 title: Ponorogo
-
 location:
   country: Indonesia
   state: 

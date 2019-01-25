@@ -1,6 +1,5 @@
 ---
 title: Clifton
-
 location:
   country: United States
   state: New Jersey

@@ -1,6 +1,5 @@
 ---
 title: Peoria
-
 location:
   country: United States
   state: Illinois

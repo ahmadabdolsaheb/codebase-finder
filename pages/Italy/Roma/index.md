@@ -1,6 +1,5 @@
 ---
 title: Roma
-
 location:
   country: Italy
   state: 

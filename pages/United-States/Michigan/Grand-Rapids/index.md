@@ -1,6 +1,5 @@
 ---
 title: Grand Rapids
-
 location:
   country: United States
   state: Michigan

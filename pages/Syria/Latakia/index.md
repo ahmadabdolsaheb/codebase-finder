@@ -1,6 +1,5 @@
 ---
 title: Latakia
-
 location:
   country: Syria
   state: 

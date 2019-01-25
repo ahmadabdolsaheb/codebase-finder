@@ -1,6 +1,5 @@
 ---
 title: Offenburg
-
 location:
   country: Germany
   state: 

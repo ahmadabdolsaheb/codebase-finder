@@ -1,6 +1,5 @@
 ---
 title: Barquisimeto
-
 location:
   country: Venezuela
   state: 

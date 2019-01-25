@@ -1,6 +1,5 @@
 ---
 title: Augusta
-
 location:
   country: United States
   state: Georgia

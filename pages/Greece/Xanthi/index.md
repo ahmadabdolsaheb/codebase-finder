@@ -1,6 +1,5 @@
 ---
 title: Xanthi
-
 location:
   country: Greece
   state: 

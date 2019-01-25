@@ -1,6 +1,5 @@
 ---
 title: Madison
-
 location:
   country: United States
   state: Wisconsin

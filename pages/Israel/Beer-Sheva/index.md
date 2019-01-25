@@ -1,6 +1,5 @@
 ---
 title: Beer Sheva
-
 location:
   country: Israel
   state: 

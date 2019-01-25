@@ -1,6 +1,5 @@
 ---
 title: Danville
-
 location:
   country: United States
   state: Virginia

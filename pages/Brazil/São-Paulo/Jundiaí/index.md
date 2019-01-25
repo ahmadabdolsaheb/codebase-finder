@@ -1,6 +1,5 @@
 ---
 title: Jundiaí
-
 location:
   country: Brazil
   state: São Paulo

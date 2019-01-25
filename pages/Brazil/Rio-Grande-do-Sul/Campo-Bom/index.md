@@ -1,6 +1,5 @@
 ---
 title: Campo Bom
-
 location:
   country: Brazil
   state: Rio Grande do Sul

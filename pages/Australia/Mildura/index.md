@@ -1,6 +1,5 @@
 ---
 title: Mildura
-
 location:
   country: Australia
   state: 

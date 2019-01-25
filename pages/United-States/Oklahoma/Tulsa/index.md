@@ -1,6 +1,5 @@
 ---
 title: Tulsa
-
 location:
   country: United States
   state: Oklahoma

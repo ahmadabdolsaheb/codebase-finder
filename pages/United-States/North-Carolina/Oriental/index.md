@@ -1,6 +1,5 @@
 ---
 title: Oriental
-
 location:
   country: United States
   state: North Carolina

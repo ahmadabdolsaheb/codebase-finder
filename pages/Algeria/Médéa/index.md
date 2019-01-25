@@ -1,6 +1,5 @@
 ---
 title: Médéa
-
 location:
   country: Algeria
   state: 

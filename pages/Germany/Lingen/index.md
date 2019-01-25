@@ -1,6 +1,5 @@
 ---
 title: Lingen
-
 location:
   country: Germany
   state: 

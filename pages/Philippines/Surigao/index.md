@@ -1,6 +1,5 @@
 ---
 title: Surigao
-
 location:
   country: Philippines
   state: 

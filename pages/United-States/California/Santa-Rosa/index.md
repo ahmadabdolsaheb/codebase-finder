@@ -1,6 +1,5 @@
 ---
 title: Santa Rosa
-
 location:
   country: United States
   state: California

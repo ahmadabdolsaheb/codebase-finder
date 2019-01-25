@@ -1,6 +1,5 @@
 ---
 title: Rice Lake
-
 location:
   country: United States
   state: Wisconsin

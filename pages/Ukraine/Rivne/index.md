@@ -1,6 +1,5 @@
 ---
 title: Rivne
-
 location:
   country: Ukraine
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Tanta
-
 location:
   country: Egypt
   state: 

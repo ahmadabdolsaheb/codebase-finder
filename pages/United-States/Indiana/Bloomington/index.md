@@ -1,6 +1,5 @@
 ---
 title: Bloomington
-
 location:
   country: United States
   state: Indiana

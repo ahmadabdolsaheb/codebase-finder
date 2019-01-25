@@ -1,6 +1,5 @@
 ---
 title: Prague
-
 location:
   country: Czech Republic
   state: 

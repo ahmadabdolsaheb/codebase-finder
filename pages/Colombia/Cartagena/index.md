@@ -1,6 +1,5 @@
 ---
 title: Cartagena
-
 location:
   country: Colombia
   state: 

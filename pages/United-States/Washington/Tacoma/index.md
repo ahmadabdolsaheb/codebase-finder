@@ -1,6 +1,5 @@
 ---
 title: Tacoma
-
 location:
   country: United States
   state: Washington

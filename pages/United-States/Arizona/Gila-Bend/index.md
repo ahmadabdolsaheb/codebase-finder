@@ -1,6 +1,5 @@
 ---
 title: Gila Bend
-
 location:
   country: United States
   state: Arizona

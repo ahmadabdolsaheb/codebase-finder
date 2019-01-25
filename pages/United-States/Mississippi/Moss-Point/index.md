@@ -1,6 +1,5 @@
 ---
 title: Moss Point
-
 location:
   country: United States
   state: Mississippi

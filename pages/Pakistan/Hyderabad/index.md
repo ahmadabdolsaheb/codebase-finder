@@ -1,6 +1,5 @@
 ---
 title: Hyderabad
-
 location:
   country: Pakistan
   state: 

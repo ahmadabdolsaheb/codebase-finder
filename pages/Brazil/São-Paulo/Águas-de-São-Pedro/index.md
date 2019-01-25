@@ -1,6 +1,5 @@
 ---
 title: Águas de São Pedro
-
 location:
   country: Brazil
   state: São Paulo

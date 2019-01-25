@@ -1,6 +1,5 @@
 ---
 title: New Haven
-
 location:
   country: United States
   state: Connecticut

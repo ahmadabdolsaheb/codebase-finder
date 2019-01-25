@@ -1,6 +1,5 @@
 ---
 title: Guaratingueta
-
 location:
   country: Brazil
   state: São Paulo

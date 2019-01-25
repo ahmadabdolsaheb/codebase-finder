@@ -1,6 +1,5 @@
 ---
 title: Portsmouth
-
 location:
   country: England
   state: 

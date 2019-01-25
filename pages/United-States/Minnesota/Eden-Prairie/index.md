@@ -1,6 +1,5 @@
 ---
 title: Eden Prairie
-
 location:
   country: United States
   state: Minnesota

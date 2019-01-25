@@ -1,6 +1,5 @@
 ---
 title: Campo Grande
-
 location:
   country: Brazil
   state: Mato Grosso do Sul

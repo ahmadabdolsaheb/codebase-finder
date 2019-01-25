@@ -1,6 +1,5 @@
 ---
 title: Bhubaneswar
-
 location:
   country: India
   state: Odisha

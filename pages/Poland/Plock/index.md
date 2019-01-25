@@ -1,6 +1,5 @@
 ---
 title: Plock
-
 location:
   country: Poland
   state: 

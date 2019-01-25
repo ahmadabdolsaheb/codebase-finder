@@ -1,6 +1,5 @@
 ---
 title: Sultanpur
-
 location:
   country: India
   state: Uttar Pradesh

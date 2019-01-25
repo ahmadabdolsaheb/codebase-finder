@@ -1,6 +1,5 @@
 ---
 title: Lagos
-
 location:
   country: Nigeria
   state: 

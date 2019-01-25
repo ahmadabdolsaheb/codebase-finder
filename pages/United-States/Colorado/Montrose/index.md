@@ -1,6 +1,5 @@
 ---
 title: Montrose
-
 location:
   country: United States
   state: Colorado

@@ -1,6 +1,5 @@
 ---
 title: Eugene
-
 location:
   country: United States
   state: Oregon

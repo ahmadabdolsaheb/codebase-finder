@@ -1,6 +1,5 @@
 ---
 title: Bracknell
-
 location:
   country: England
   state: 

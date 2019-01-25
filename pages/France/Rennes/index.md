@@ -1,6 +1,5 @@
 ---
 title: Rennes
-
 location:
   country: France
   state: 

@@ -1,6 +1,5 @@
 ---
 title: Bahawlapur
-
 location:
   country: Pakistan
   state: 

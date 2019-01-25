@@ -1,6 +1,5 @@
 ---
 title: Gridley
-
 location:
   country: United States
   state: California

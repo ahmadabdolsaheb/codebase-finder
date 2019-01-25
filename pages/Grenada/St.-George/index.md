@@ -1,6 +1,5 @@
 ---
 title: St. George
-
 location:
   country: Grenada
   state: 

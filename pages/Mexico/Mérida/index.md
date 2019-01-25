@@ -1,6 +1,5 @@
 ---
 title: Mérida
-
 location:
   country: Mexico
   state: 

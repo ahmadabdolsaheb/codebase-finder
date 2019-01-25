@@ -1,6 +1,5 @@
 ---
 title: Centralia
-
 location:
   country: United States
   state: Washington

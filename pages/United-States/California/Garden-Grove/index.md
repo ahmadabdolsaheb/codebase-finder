@@ -1,6 +1,5 @@
 ---
 title: Garden Grove
-
 location:
   country: United States
   state: California

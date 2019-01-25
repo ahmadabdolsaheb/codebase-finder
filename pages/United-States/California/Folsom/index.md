@@ -1,6 +1,5 @@
 ---
 title: Folsom
-
 location:
   country: United States
   state: California

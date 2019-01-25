@@ -1,6 +1,5 @@
 ---
 title: Kherson
-
 location:
   country: Ukraine
   state: 

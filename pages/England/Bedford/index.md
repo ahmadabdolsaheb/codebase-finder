@@ -1,6 +1,5 @@
 ---
 title: Bedford
-
 location:
   country: England
   state: 

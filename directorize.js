@@ -85,7 +85,6 @@ function mattermaker(title, country, state, city, neighborhood, coordinates, pho
 let item =
 `---
 title: ${title ? title: ''}
-${false ? 'hello': ''}
 location:
   country: ${country ? country: ''}
   state: ${state ? state: ''}

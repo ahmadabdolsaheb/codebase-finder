@@ -1,6 +1,5 @@
 ---
 title: Bilbao
-
 location:
   country: Spain
   state: 

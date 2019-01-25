@@ -1,6 +1,5 @@
 ---
 title: Bekasi
-
 location:
   country: Indonesia
   state: 

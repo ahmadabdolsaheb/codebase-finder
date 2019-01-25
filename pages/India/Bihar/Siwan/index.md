@@ -1,6 +1,5 @@
 ---
 title: Siwan
-
 location:
   country: India
   state: Bihar

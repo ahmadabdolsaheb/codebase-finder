@@ -1,6 +1,5 @@
 ---
 title: Caracas
-
 location:
   country: Venezuela
   state: 

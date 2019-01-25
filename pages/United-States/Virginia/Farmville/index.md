@@ -1,6 +1,5 @@
 ---
 title: Farmville
-
 location:
   country: United States
   state: Virginia

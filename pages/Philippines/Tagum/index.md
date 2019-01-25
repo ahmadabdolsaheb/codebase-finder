@@ -1,6 +1,5 @@
 ---
 title: Tagum
-
 location:
   country: Philippines
   state: 

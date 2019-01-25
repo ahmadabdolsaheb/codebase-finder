@@ -1,6 +1,5 @@
 ---
 title: Charlottesville
-
 location:
   country: United States
   state: Virginia

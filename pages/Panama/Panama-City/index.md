@@ -1,6 +1,5 @@
 ---
 title: Panama City
-
 location:
   country: Panama
   state: 

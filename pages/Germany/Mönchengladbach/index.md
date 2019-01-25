@@ -1,6 +1,5 @@
 ---
 title: Mönchengladbach
-
 location:
   country: Germany
   state: 

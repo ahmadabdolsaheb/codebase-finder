@@ -1,6 +1,5 @@
 ---
 title: Ankara
-
 location:
   country: Turkey
   state: 
