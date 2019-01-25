@@ -1,19 +1,26 @@
 ---
 title: Tyler
-country: United States
-state: Texas
-city: Tyler
-neighborhood: undefined
-coordinates: 32.35126, -95.301062
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Tyler.TX
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Texas
+  city: Tyler
+  neighborhood: 
+  coordinates: 32.35126, -95.301062
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Tyler.TX
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

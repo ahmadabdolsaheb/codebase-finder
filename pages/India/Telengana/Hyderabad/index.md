@@ -1,19 +1,26 @@
 ---
 title: Hyderabad
-country: India
-state: Telengana
-city: Hyderabad
-neighborhood: undefined
-coordinates: 17.361623, 78.474731
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.hyderabad
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Telengana
+  city: Hyderabad
+  neighborhood: 
+  coordinates: 17.361623, 78.474731
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.hyderabad
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

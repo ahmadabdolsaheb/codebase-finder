@@ -1,19 +1,26 @@
 ---
 title: Exeter
-country: England
-state: undefined
-city: Exeter
-neighborhood: undefined
-coordinates: 50.725647, -3.526661
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.exeter.uk
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: England
+  state: 
+  city: Exeter
+  neighborhood: 
+  coordinates: 50.725647, -3.526661
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.exeter.uk
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

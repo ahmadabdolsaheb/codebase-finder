@@ -1,19 +1,26 @@
 ---
 title: Aarau
-country: Switzerland
-state: undefined
-city: Aarau
-neighborhood: undefined
-coordinates: 47.392715, 8.044445
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.aarau
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Switzerland
+  state: 
+  city: Aarau
+  neighborhood: 
+  coordinates: 47.392715, 8.044445
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.aarau
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

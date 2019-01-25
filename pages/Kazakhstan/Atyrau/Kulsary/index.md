@@ -1,19 +1,26 @@
 ---
 title: Kulsary
-country: Kazakhstan
-state: Atyrau
-city: Kulsary
-neighborhood: undefined
-coordinates: 46.9691061,54.00681909999999
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kulsary
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Kazakhstan
+  state: Atyrau
+  city: Kulsary
+  neighborhood: 
+  coordinates: 46.9691061,54.00681909999999
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.kulsary
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

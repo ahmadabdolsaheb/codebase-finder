@@ -1,19 +1,26 @@
 ---
 title: Durban
-country: South Africa
-state: undefined
-city: Durban
-neighborhood: undefined
-coordinates: -29.861825, 31.00991
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.durban.kzn
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: South Africa
+  state: 
+  city: Durban
+  neighborhood: 
+  coordinates: -29.861825, 31.00991
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.durban.kzn
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Wuerzburg
-country: Germany
-state: undefined
-city: Wuerzburg
-neighborhood: undefined
-coordinates: 49.79245, 9.932966
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.wuerzburg
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Germany
+  state: 
+  city: Wuerzburg
+  neighborhood: 
+  coordinates: 49.79245, 9.932966
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.wuerzburg
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

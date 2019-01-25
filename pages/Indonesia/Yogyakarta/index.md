@@ -1,19 +1,26 @@
 ---
 title: Yogyakarta
-country: Indonesia
-state: undefined
-city: Yogyakarta
-neighborhood: undefined
-coordinates: -7.782925, 110.366965
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.yogyakarta
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Indonesia
+  state: 
+  city: Yogyakarta
+  neighborhood: 
+  coordinates: -7.782925, 110.366965
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.yogyakarta
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

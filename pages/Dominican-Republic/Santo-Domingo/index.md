@@ -1,19 +1,26 @@
 ---
 title: Santo Domingo
-country: Dominican Republic
-state: undefined
-city: Santo Domingo
-neighborhood: undefined
-coordinates: 18.480197, -69.942111
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.dr
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Dominican Republic
+  state: 
+  city: Santo Domingo
+  neighborhood: 
+  coordinates: 18.480197, -69.942111
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.dr
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

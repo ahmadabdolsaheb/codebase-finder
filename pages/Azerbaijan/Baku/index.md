@@ -1,19 +1,26 @@
 ---
 title: Baku
-country: Azerbaijan
-state: undefined
-city: Baku
-neighborhood: undefined
-coordinates: 40.392514, 49.846679
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.baku
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Azerbaijan
+  state: 
+  city: Baku
+  neighborhood: 
+  coordinates: 40.392514, 49.846679
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.baku
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

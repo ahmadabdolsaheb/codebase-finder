@@ -1,19 +1,26 @@
 ---
 title: Mérida
-country: Mexico
-state: undefined
-city: Mérida
-neighborhood: undefined
-coordinates: 38.917467, -6.344398
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.merida.mexico
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Mexico
+  state: 
+  city: Mérida
+  neighborhood: 
+  coordinates: 38.917467, -6.344398
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.merida.mexico
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

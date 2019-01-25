@@ -1,19 +1,26 @@
 ---
 title: McArthur
-country: United States
-state: Ohio
-city: McArthur
-neighborhood: undefined
-coordinates: 39.2464596,-82.47848979999999
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.mcarthur.oh
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Ohio
+  city: McArthur
+  neighborhood: 
+  coordinates: 39.2464596,-82.47848979999999
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/freecodecamp.mcarthur.oh
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

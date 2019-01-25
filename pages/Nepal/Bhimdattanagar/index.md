@@ -1,19 +1,26 @@
 ---
 title: Bhimdattanagar
-country: Nepal
-state: undefined
-city: Bhimdattanagar
-neighborhood: undefined
-coordinates: 39.78373, -100.445882
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bhimdattanagar
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Nepal
+  state: 
+  city: Bhimdattanagar
+  neighborhood: 
+  coordinates: 39.78373, -100.445882
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bhimdattanagar
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

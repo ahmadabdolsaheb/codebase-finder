@@ -1,19 +1,26 @@
 ---
 title: Aalesund
-country: Norway
-state: undefined
-city: Aalesund
-neighborhood: undefined
-coordinates: 39.78373, -100.445882
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.aalesund
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Norway
+  state: 
+  city: Aalesund
+  neighborhood: 
+  coordinates: 39.78373, -100.445882
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.aalesund
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

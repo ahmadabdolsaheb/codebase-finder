@@ -1,19 +1,26 @@
 ---
 title: Tyumen
-country: Russia
-state: undefined
-city: Tyumen
-neighborhood: undefined
-coordinates: 57.153534, 65.542276
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Tyumen
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Tyumen
+  neighborhood: 
+  coordinates: 57.153534, 65.542276
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Tyumen
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Şanlıurfa
-country: Turkey
-state: undefined
-city: Şanlıurfa
-neighborhood: undefined
-coordinates: 37.160388, 38.790916
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sanliurfa
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Turkey
+  state: 
+  city: Şanlıurfa
+  neighborhood: 
+  coordinates: 37.160388, 38.790916
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.sanliurfa
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

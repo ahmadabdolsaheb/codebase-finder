@@ -1,19 +1,26 @@
 ---
 title: Pietermaritzburg
-country: South Africa
-state: undefined
-city: Pietermaritzburg
-neighborhood: undefined
-coordinates: -29.6, 30.378889
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.pietermaritzburg
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: South Africa
+  state: 
+  city: Pietermaritzburg
+  neighborhood: 
+  coordinates: -29.6, 30.378889
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.pietermaritzburg
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

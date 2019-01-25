@@ -1,19 +1,26 @@
 ---
 title: Pittsburgh
-country: United States
-state: Pennsylvania
-city: Pittsburgh
-neighborhood: undefined
-coordinates: 40.441694, -79.990086
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.pittsburgh.pa
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Pennsylvania
+  city: Pittsburgh
+  neighborhood: 
+  coordinates: 40.441694, -79.990086
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.pittsburgh.pa
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

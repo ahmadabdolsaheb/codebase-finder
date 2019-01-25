@@ -1,19 +1,26 @@
 ---
 title: Agadir
-country: Morocco
-state: undefined
-city: Agadir
-neighborhood: undefined
-coordinates: 30.421468, -9.583016
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.agadir
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Morocco
+  state: 
+  city: Agadir
+  neighborhood: 
+  coordinates: 30.421468, -9.583016
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.agadir
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

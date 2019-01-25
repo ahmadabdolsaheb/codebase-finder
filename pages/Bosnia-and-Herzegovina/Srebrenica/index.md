@@ -1,19 +1,26 @@
 ---
 title: Srebrenica
-country: Bosnia and Herzegovina
-state: undefined
-city: Srebrenica
-neighborhood: undefined
-coordinates: 44.106319, 19.295278
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.srebrenica
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Bosnia and Herzegovina
+  state: 
+  city: Srebrenica
+  neighborhood: 
+  coordinates: 44.106319, 19.295278
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.srebrenica
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

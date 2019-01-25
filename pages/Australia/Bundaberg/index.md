@@ -1,19 +1,26 @@
 ---
 title: Bundaberg
-country: Australia
-state: undefined
-city: Bundaberg
-neighborhood: undefined
-coordinates: -24.865325, 152.351679
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bundaberg
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Australia
+  state: 
+  city: Bundaberg
+  neighborhood: 
+  coordinates: -24.865325, 152.351679
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bundaberg
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Ciudad Real
-country: Spain
-state: undefined
-city: Ciudad Real
-neighborhood: undefined
-coordinates: 38.98542, -3.928514
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ciudad.real
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Spain
+  state: 
+  city: Ciudad Real
+  neighborhood: 
+  coordinates: 38.98542, -3.928514
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ciudad.real
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

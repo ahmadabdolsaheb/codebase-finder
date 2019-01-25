@@ -1,19 +1,26 @@
 ---
 title: Rio de Janeiro
-country: Brazil
-state: Rio de Janeiro
-city: Rio de Janeiro
-neighborhood: undefined
-coordinates: -22.911014, -43.209373
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rio.de.janeiro
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Rio de Janeiro
+  city: Rio de Janeiro
+  neighborhood: 
+  coordinates: -22.911014, -43.209373
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.rio.de.janeiro
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

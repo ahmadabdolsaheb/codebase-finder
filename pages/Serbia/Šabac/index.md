@@ -1,19 +1,26 @@
 ---
 title: Šabac
-country: Serbia
-state: undefined
-city: Šabac
-neighborhood: undefined
-coordinates: 44.751862, 19.691707
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sabac
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Serbia
+  state: 
+  city: Šabac
+  neighborhood: 
+  coordinates: 44.751862, 19.691707
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.sabac
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

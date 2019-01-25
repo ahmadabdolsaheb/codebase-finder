@@ -1,19 +1,26 @@
 ---
 title: Ado Ekiti
-country: Nigeria
-state: undefined
-city: Ado Ekiti
-neighborhood: undefined
-coordinates: 7.623248, 5.22274
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ado.ekiti
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Nigeria
+  state: 
+  city: Ado Ekiti
+  neighborhood: 
+  coordinates: 7.623248, 5.22274
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ado.ekiti
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Arusha
-country: Tanzania
-state: undefined
-city: Arusha
-neighborhood: undefined
-coordinates: -3.366956, 36.691552
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/Free.Code.Camp.Arusha.Moshi
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Tanzania
+  state: 
+  city: Arusha
+  neighborhood: 
+  coordinates: -3.366956, 36.691552
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/Free.Code.Camp.Arusha.Moshi
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

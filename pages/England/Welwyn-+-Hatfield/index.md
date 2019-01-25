@@ -1,19 +1,26 @@
 ---
 title: Welwyn + Hatfield
-country: England
-state: undefined
-city: Welwyn + Hatfield
-neighborhood: undefined
-coordinates: 51.773106, -0.209517
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.welwyn.hatfield
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: England
+  state: 
+  city: Welwyn + Hatfield
+  neighborhood: 
+  coordinates: 51.773106, -0.209517
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.welwyn.hatfield
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

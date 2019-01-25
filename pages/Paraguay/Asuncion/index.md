@@ -1,19 +1,26 @@
 ---
 title: Asuncion
-country: Paraguay
-state: undefined
-city: Asuncion
-neighborhood: undefined
-coordinates: -25.295992, -57.63112
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.asuncion
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Paraguay
+  state: 
+  city: Asuncion
+  neighborhood: 
+  coordinates: -25.295992, -57.63112
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.asuncion
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

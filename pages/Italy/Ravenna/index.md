@@ -1,19 +1,26 @@
 ---
 title: Ravenna
-country: Italy
-state: undefined
-city: Ravenna
-neighborhood: undefined
-coordinates: 44.416141, 12.201762
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ravenna
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Italy
+  state: 
+  city: Ravenna
+  neighborhood: 
+  coordinates: 44.416141, 12.201762
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ravenna
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

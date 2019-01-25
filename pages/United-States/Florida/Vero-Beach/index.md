@@ -1,19 +1,26 @@
 ---
 title: Vero Beach
-country: United States
-state: Florida
-city: Vero Beach
-neighborhood: undefined
-coordinates: 27.638716, -80.39754
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.vero.beach
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Florida
+  city: Vero Beach
+  neighborhood: 
+  coordinates: 27.638716, -80.39754
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.vero.beach
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

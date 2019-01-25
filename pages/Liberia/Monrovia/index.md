@@ -1,19 +1,26 @@
 ---
 title: Monrovia
-country: Liberia
-state: undefined
-city: Monrovia
-neighborhood: undefined
-coordinates: 6.328034, -10.797788
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.monrovia.lr
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Liberia
+  state: 
+  city: Monrovia
+  neighborhood: 
+  coordinates: 6.328034, -10.797788
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.monrovia.lr
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

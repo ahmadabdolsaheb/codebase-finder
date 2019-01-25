@@ -1,19 +1,26 @@
 ---
 title: Dharamshala
-country: India
-state: Himachal Pradesh
-city: Dharamshala
-neighborhood: undefined
-coordinates: 32.214304, 76.319672
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.dharamshala
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Himachal Pradesh
+  city: Dharamshala
+  neighborhood: 
+  coordinates: 32.214304, 76.319672
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.dharamshala
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

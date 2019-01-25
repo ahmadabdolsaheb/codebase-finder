@@ -1,19 +1,26 @@
 ---
 title: Ede
-country: Netherlands
-state: Gelderland
-city: Ede
-neighborhood: undefined
-coordinates: 52.0401675,5.6648594
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ede.nl/
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Netherlands
+  state: Gelderland
+  city: Ede
+  neighborhood: 
+  coordinates: 52.0401675,5.6648594
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ede.nl/
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

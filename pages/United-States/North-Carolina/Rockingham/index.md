@@ -1,19 +1,26 @@
 ---
 title: Rockingham
-country: United States
-state: North Carolina
-city: Rockingham
-neighborhood: undefined
-coordinates: 34.93932, -79.773946
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rockingham.nc
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: North Carolina
+  city: Rockingham
+  neighborhood: 
+  coordinates: 34.93932, -79.773946
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.rockingham.nc
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

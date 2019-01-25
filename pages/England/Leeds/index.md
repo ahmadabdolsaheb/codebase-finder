@@ -1,19 +1,26 @@
 ---
 title: Leeds
-country: England
-state: undefined
-city: Leeds
-neighborhood: undefined
-coordinates: 53.797419, -1.543794
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.leeds
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: England
+  state: 
+  city: Leeds
+  neighborhood: 
+  coordinates: 53.797419, -1.543794
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.leeds
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

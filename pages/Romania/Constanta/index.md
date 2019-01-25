@@ -1,19 +1,26 @@
 ---
 title: Constanta
-country: Romania
-state: undefined
-city: Constanta
-neighborhood: undefined
-coordinates: 44.171786, 28.631977
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.constanta
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Romania
+  state: 
+  city: Constanta
+  neighborhood: 
+  coordinates: 44.171786, 28.631977
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.constanta
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

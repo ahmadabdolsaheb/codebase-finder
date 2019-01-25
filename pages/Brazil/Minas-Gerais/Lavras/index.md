@@ -1,19 +1,26 @@
 ---
 title: Lavras
-country: Brazil
-state: Minas Gerais
-city: Lavras
-neighborhood: undefined
-coordinates: -21.245, -45
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.lavras
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Minas Gerais
+  city: Lavras
+  neighborhood: 
+  coordinates: -21.245, -45
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.lavras
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

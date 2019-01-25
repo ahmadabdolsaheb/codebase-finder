@@ -1,19 +1,26 @@
 ---
 title: Bielsko
-country: Poland
-state: undefined
-city: Bielsko
-neighborhood: undefined
-coordinates: 52.815, 16.228333
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bielsko
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Poland
+  state: 
+  city: Bielsko
+  neighborhood: 
+  coordinates: 52.815, 16.228333
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bielsko
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

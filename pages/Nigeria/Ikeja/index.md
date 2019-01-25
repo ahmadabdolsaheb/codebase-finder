@@ -1,19 +1,26 @@
 ---
 title: Ikeja
-country: Nigeria
-state: undefined
-city: Ikeja
-neighborhood: undefined
-coordinates: 6.596061, 3.340787
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ikeja
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Nigeria
+  state: 
+  city: Ikeja
+  neighborhood: 
+  coordinates: 6.596061, 3.340787
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ikeja
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

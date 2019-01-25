@@ -1,19 +1,26 @@
 ---
 title: Castries
-country: Saint Lucia
-state: undefined
-city: Castries
-neighborhood: undefined
-coordinates: 14.009602, -60.990274
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.your.castries
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Saint Lucia
+  state: 
+  city: Castries
+  neighborhood: 
+  coordinates: 14.009602, -60.990274
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.your.castries
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

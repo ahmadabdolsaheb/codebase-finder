@@ -1,19 +1,26 @@
 ---
 title: Flowery Branch
-country: United States
-state: Georgia
-city: Flowery Branch
-neighborhood: undefined
-coordinates: 34.185102, -83.925181
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.flowerybranchga
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Georgia
+  city: Flowery Branch
+  neighborhood: 
+  coordinates: 34.185102, -83.925181
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.flowerybranchga
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

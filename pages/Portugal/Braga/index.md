@@ -1,19 +1,26 @@
 ---
 title: Braga
-country: Portugal
-state: undefined
-city: Braga
-neighborhood: undefined
-coordinates: 41.551058, -8.428004
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.braga
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Portugal
+  state: 
+  city: Braga
+  neighborhood: 
+  coordinates: 41.551058, -8.428004
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.braga
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Bulawayo
-country: Zimbabwe
-state: Bulawayo
-city: Bulawayo
-neighborhood: undefined
-coordinates: -20.1325066,28.626479
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bulawayo
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Zimbabwe
+  state: Bulawayo
+  city: Bulawayo
+  neighborhood: 
+  coordinates: -20.1325066,28.626479
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bulawayo
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

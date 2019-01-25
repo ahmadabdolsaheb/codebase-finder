@@ -1,19 +1,26 @@
 ---
 title: Granada
-country: Nicaragua
-state: undefined
-city: Granada
-neighborhood: undefined
-coordinates: 37.18302, -3.602192
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.granada
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Nicaragua
+  state: 
+  city: Granada
+  neighborhood: 
+  coordinates: 37.18302, -3.602192
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.granada
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Patna
-country: India
-state: Bihar
-city: Patna
-neighborhood: undefined
-coordinates: 25.609575, 85.123819
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.patna
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Bihar
+  city: Patna
+  neighborhood: 
+  coordinates: 25.609575, 85.123819
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.patna
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

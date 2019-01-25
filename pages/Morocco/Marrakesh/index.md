@@ -1,19 +1,26 @@
 ---
 title: Marrakesh
-country: Morocco
-state: undefined
-city: Marrakesh
-neighborhood: undefined
-coordinates: 31.62599, -7.988608
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.marrakesh
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Morocco
+  state: 
+  city: Marrakesh
+  neighborhood: 
+  coordinates: 31.62599, -7.988608
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.marrakesh
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

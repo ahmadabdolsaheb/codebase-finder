@@ -1,19 +1,26 @@
 ---
 title: Statesboro
-country: United States
-state: Georgia
-city: Statesboro
-neighborhood: undefined
-coordinates: 32.449014, -81.783291
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.statesboro
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Georgia
+  city: Statesboro
+  neighborhood: 
+  coordinates: 32.449014, -81.783291
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.statesboro
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Águas de São Pedro
-country: Brazil
-state: São Paulo
-city: Águas de São Pedro
-neighborhood: undefined
-coordinates: -22.60109, -47.875884
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.aguas.de.sao.pedro
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: São Paulo
+  city: Águas de São Pedro
+  neighborhood: 
+  coordinates: -22.60109, -47.875884
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.aguas.de.sao.pedro
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

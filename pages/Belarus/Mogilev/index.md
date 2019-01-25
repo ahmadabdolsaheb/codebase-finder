@@ -1,19 +1,26 @@
 ---
 title: Mogilev
-country: Belarus
-state: undefined
-city: Mogilev
-neighborhood: undefined
-coordinates: 39.78373, -100.445882
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mogilev
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Belarus
+  state: 
+  city: Mogilev
+  neighborhood: 
+  coordinates: 39.78373, -100.445882
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.mogilev
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

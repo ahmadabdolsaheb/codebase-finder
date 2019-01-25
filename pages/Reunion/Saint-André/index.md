@@ -1,19 +1,26 @@
 ---
 title: Saint-André
-country: Reunion
-state: undefined
-city: Saint-André
-neighborhood: undefined
-coordinates: -20.960633, 55.649273
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.your.city.saint.andre
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Reunion
+  state: 
+  city: Saint-André
+  neighborhood: 
+  coordinates: -20.960633, 55.649273
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.your.city.saint.andre
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

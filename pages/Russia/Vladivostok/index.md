@@ -1,19 +1,26 @@
 ---
 title: Vladivostok
-country: Russia
-state: undefined
-city: Vladivostok
-neighborhood: undefined
-coordinates: 43.115284, 131.885401
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.vladivostok
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Vladivostok
+  neighborhood: 
+  coordinates: 43.115284, 131.885401
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.vladivostok
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

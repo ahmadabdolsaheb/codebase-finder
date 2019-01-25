@@ -1,19 +1,26 @@
 ---
 title: São Lourenço
-country: Brazil
-state: Minas Gerais
-city: São Lourenço
-neighborhood: undefined
-coordinates: -22.116389, -45.054167
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sao.lourenco
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Minas Gerais
+  city: São Lourenço
+  neighborhood: 
+  coordinates: -22.116389, -45.054167
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.sao.lourenco
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

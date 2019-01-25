@@ -1,19 +1,26 @@
 ---
 title: Batangas
-country: Philippines
-state: undefined
-city: Batangas
-neighborhood: undefined
-coordinates: 13.756122, 121.057754
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.batangas
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Philippines
+  state: 
+  city: Batangas
+  neighborhood: 
+  coordinates: 13.756122, 121.057754
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.batangas
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

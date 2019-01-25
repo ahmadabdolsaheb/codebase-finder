@@ -1,19 +1,26 @@
 ---
 title: Rouen
-country: France
-state: undefined
-city: Rouen
-neighborhood: undefined
-coordinates: 49.440459, 1.093966
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.rouen
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: France
+  state: 
+  city: Rouen
+  neighborhood: 
+  coordinates: 49.440459, 1.093966
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/freecodecamp.rouen
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

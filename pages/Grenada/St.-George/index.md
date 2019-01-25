@@ -1,19 +1,26 @@
 ---
 title: St. George
-country: Grenada
-state: undefined
-city: St. George
-neighborhood: undefined
-coordinates: 37.104153, -113.584131
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.stgeorge.gd
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Grenada
+  state: 
+  city: St. George
+  neighborhood: 
+  coordinates: 37.104153, -113.584131
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.stgeorge.gd
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

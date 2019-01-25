@@ -1,19 +1,26 @@
 ---
 title: Rockhampton
-country: Australia
-state: undefined
-city: Rockhampton
-neighborhood: undefined
-coordinates: -23.37825, 150.513444
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rockhampton
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Australia
+  state: 
+  city: Rockhampton
+  neighborhood: 
+  coordinates: -23.37825, 150.513444
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.rockhampton
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Moscow
-country: United States
-state: Idaho
-city: Moscow
-neighborhood: undefined
-coordinates: 55.751634, 37.618704
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.moscow.idaho
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Idaho
+  city: Moscow
+  neighborhood: 
+  coordinates: 55.751634, 37.618704
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.moscow.idaho
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

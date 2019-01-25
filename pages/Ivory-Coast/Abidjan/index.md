@@ -1,19 +1,26 @@
 ---
 title: Abidjan
-country: Ivory Coast
-state: undefined
-city: Abidjan
-neighborhood: undefined
-coordinates: 5.320357, -4.016107
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.babi
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Ivory Coast
+  state: 
+  city: Abidjan
+  neighborhood: 
+  coordinates: 5.320357, -4.016107
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.babi
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

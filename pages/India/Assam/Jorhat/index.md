@@ -1,19 +1,26 @@
 ---
 title: Jorhat
-country: India
-state: Assam
-city: Jorhat
-neighborhood: undefined
-coordinates: 26.757793, 94.207965
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jorhat
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Assam
+  city: Jorhat
+  neighborhood: 
+  coordinates: 26.757793, 94.207965
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.jorhat
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

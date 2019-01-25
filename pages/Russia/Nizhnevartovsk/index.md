@@ -1,19 +1,26 @@
 ---
 title: Nizhnevartovsk
-country: Russia
-state: undefined
-city: Nizhnevartovsk
-neighborhood: undefined
-coordinates: 60.934044, 76.58037
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.nizhnevartovsk
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Nizhnevartovsk
+  neighborhood: 
+  coordinates: 60.934044, 76.58037
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.nizhnevartovsk
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Huancayo
-country: Peru
-state: undefined
-city: Huancayo
-neighborhood: undefined
-coordinates: -14.792951, -70.327172
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.huancayo
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Peru
+  state: 
+  city: Huancayo
+  neighborhood: 
+  coordinates: -14.792951, -70.327172
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.huancayo
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

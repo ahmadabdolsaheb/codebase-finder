@@ -1,19 +1,26 @@
 ---
 title: Dalat
-country: Vietnam
-state: undefined
-city: Dalat
-neighborhood: undefined
-coordinates: 11.940242, 108.437576
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.Dalat
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Vietnam
+  state: 
+  city: Dalat
+  neighborhood: 
+  coordinates: 11.940242, 108.437576
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/freecodecamp.Dalat
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

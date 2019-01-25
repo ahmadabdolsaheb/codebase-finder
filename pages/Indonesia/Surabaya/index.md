@@ -1,19 +1,26 @@
 ---
 title: Surabaya
-country: Indonesia
-state: undefined
-city: Surabaya
-neighborhood: undefined
-coordinates: -7.245972, 112.737827
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.surabaya.new
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Indonesia
+  state: 
+  city: Surabaya
+  neighborhood: 
+  coordinates: -7.245972, 112.737827
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.surabaya.new
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

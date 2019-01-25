@@ -1,19 +1,26 @@
 ---
 title: Gouda
-country: Netherlands
-state: undefined
-city: Gouda
-neighborhood: undefined
-coordinates: 52.018119, 4.711122
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.gouda
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Netherlands
+  state: 
+  city: Gouda
+  neighborhood: 
+  coordinates: 52.018119, 4.711122
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.gouda
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

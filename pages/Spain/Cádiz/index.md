@@ -1,19 +1,26 @@
 ---
 title: Cádiz
-country: Spain
-state: undefined
-city: Cádiz
-neighborhood: undefined
-coordinates: 36.521647, -6.282601
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cadiz
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Spain
+  state: 
+  city: Cádiz
+  neighborhood: 
+  coordinates: 36.521647, -6.282601
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cadiz
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

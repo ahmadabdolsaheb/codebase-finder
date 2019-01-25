@@ -1,19 +1,26 @@
 ---
 title: Solo
-country: Indonesia
-state: undefined
-city: Solo
-neighborhood: undefined
-coordinates: -7.569246, 110.828448
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.solo
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Indonesia
+  state: 
+  city: Solo
+  neighborhood: 
+  coordinates: -7.569246, 110.828448
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.solo
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

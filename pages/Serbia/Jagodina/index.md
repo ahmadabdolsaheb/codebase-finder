@@ -1,19 +1,26 @@
 ---
 title: Jagodina
-country: Serbia
-state: undefined
-city: Jagodina
-neighborhood: undefined
-coordinates: 43.979426, 21.260769
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jagodina
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Serbia
+  state: 
+  city: Jagodina
+  neighborhood: 
+  coordinates: 43.979426, 21.260769
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.jagodina
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

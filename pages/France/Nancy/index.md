@@ -1,19 +1,26 @@
 ---
 title: Nancy
-country: France
-state: undefined
-city: Nancy
-neighborhood: undefined
-coordinates: 48.693722, 6.18341
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.nancy
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: France
+  state: 
+  city: Nancy
+  neighborhood: 
+  coordinates: 48.693722, 6.18341
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.nancy
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

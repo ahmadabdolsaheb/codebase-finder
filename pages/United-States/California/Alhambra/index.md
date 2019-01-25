@@ -1,19 +1,26 @@
 ---
 title: Alhambra
-country: United States
-state: California
-city: Alhambra
-neighborhood: undefined
-coordinates: 34.092736, -118.126824
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.Code.Camp.Alhambra
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: California
+  city: Alhambra
+  neighborhood: 
+  coordinates: 34.092736, -118.126824
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.Code.Camp.Alhambra
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

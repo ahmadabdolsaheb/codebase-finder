@@ -1,19 +1,26 @@
 ---
 title: Trujillo
-country: Peru
-state: undefined
-city: Trujillo
-neighborhood: undefined
-coordinates: 39.46053, -5.881392
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.trujillo
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Peru
+  state: 
+  city: Trujillo
+  neighborhood: 
+  coordinates: 39.46053, -5.881392
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.trujillo
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

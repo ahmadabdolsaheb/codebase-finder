@@ -1,19 +1,26 @@
 ---
 title: Cebu
-country: Philippines
-state: undefined
-city: Cebu
-neighborhood: undefined
-coordinates: 10.30903, 123.893084
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cebu
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Philippines
+  state: 
+  city: Cebu
+  neighborhood: 
+  coordinates: 10.30903, 123.893084
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cebu
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

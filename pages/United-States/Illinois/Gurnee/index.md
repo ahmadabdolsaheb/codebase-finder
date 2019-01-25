@@ -1,19 +1,26 @@
 ---
 title: Gurnee
-country: United States
-state: Illinois
-city: Gurnee
-neighborhood: undefined
-coordinates: 42.3703, -87.902019
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.gurnee
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Illinois
+  city: Gurnee
+  neighborhood: 
+  coordinates: 42.3703, -87.902019
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.gurnee
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

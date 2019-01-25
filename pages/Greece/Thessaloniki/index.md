@@ -1,19 +1,26 @@
 ---
 title: Thessaloniki
-country: Greece
-state: undefined
-city: Thessaloniki
-neighborhood: undefined
-coordinates: 40.640317, 22.935272
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.thessaloniki
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Greece
+  state: 
+  city: Thessaloniki
+  neighborhood: 
+  coordinates: 40.640317, 22.935272
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.thessaloniki
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

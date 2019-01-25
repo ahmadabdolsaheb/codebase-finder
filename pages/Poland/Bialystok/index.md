@@ -1,19 +1,26 @@
 ---
 title: Bialystok
-country: Poland
-state: undefined
-city: Bialystok
-neighborhood: undefined
-coordinates: 53.132398, 23.159168
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bialystok
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Poland
+  state: 
+  city: Bialystok
+  neighborhood: 
+  coordinates: 53.132398, 23.159168
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bialystok
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

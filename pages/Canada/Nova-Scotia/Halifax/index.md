@@ -1,19 +1,26 @@
 ---
 title: Halifax
-country: Canada
-state: Nova Scotia
-city: Halifax
-neighborhood: undefined
-coordinates: 44.648425, -63.574972
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.halifax
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Canada
+  state: Nova Scotia
+  city: Halifax
+  neighborhood: 
+  coordinates: 44.648425, -63.574972
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.halifax
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

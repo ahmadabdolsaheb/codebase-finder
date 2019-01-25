@@ -1,19 +1,26 @@
 ---
 title: Bandung
-country: Indonesia
-state: undefined
-city: Bandung
-neighborhood: undefined
-coordinates: -6.934469, 107.604954
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bandung
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Indonesia
+  state: 
+  city: Bandung
+  neighborhood: 
+  coordinates: -6.934469, 107.604954
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bandung
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

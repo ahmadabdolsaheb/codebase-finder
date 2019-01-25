@@ -1,19 +1,26 @@
 ---
 title: Worcester
-country: United States
-state: Massachusetts
-city: Worcester
-neighborhood: undefined
-coordinates: 42.2755407, -71.8777779
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.worcester.ma
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Massachusetts
+  city: Worcester
+  neighborhood: 
+  coordinates: 42.2755407, -71.8777779
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.worcester.ma
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

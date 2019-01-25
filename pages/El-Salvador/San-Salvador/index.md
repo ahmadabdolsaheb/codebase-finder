@@ -1,19 +1,26 @@
 ---
 title: San Salvador
-country: El Salvador
-state: undefined
-city: San Salvador
-neighborhood: undefined
-coordinates: 13.697759, -89.19301
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.san.salvador
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: El Salvador
+  state: 
+  city: San Salvador
+  neighborhood: 
+  coordinates: 13.697759, -89.19301
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.san.salvador
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Rajshahi
-country: Bangladesh
-state: undefined
-city: Rajshahi
-neighborhood: undefined
-coordinates: 24.371551, 88.592104
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.rajshahicity
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Bangladesh
+  state: 
+  city: Rajshahi
+  neighborhood: 
+  coordinates: 24.371551, 88.592104
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.rajshahicity
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

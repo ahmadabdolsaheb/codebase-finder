@@ -1,19 +1,26 @@
 ---
 title: Birmingham
-country: England
-state: undefined
-city: Birmingham
-neighborhood: undefined
-coordinates: 52.494460, -1.891031
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.birmingham.uk
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: England
+  state: 
+  city: Birmingham
+  neighborhood: 
+  coordinates: 52.494460, -1.891031
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.birmingham.uk
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

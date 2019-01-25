@@ -1,19 +1,26 @@
 ---
 title: Maceió
-country: Brazil
-state: Alagoas
-city: Maceió
-neighborhood: undefined
-coordinates: -9.647684, -35.733926
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.alagoas
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Alagoas
+  city: Maceió
+  neighborhood: 
+  coordinates: -9.647684, -35.733926
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.alagoas
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

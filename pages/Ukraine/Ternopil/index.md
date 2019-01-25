@@ -1,19 +1,26 @@
 ---
 title: Ternopil
-country: Ukraine
-state: undefined
-city: Ternopil
-neighborhood: undefined
-coordinates: 49.555772, 25.591886
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Ternopil.Ukraine
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Ukraine
+  state: 
+  city: Ternopil
+  neighborhood: 
+  coordinates: 49.555772, 25.591886
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Ternopil.Ukraine
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

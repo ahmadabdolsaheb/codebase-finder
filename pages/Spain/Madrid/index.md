@@ -1,19 +1,26 @@
 ---
 title: Madrid
-country: Spain
-state: undefined
-city: Madrid
-neighborhood: undefined
-coordinates: 40.416705, -3.703582
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.madrid
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Spain
+  state: 
+  city: Madrid
+  neighborhood: 
+  coordinates: 40.416705, -3.703582
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.madrid
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

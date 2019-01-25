@@ -1,19 +1,26 @@
 ---
 title: Fez
-country: Morocco
-state: undefined
-city: Fez
-neighborhood: undefined
-coordinates: 34.034116, -5.013355
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.fes
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Morocco
+  state: 
+  city: Fez
+  neighborhood: 
+  coordinates: 34.034116, -5.013355
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.fes
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

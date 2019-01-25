@@ -1,19 +1,26 @@
 ---
 title: Cali
-country: Colombia
-state: undefined
-city: Cali
-neighborhood: undefined
-coordinates: 3.431933, -76.511305
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cali
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Colombia
+  state: 
+  city: Cali
+  neighborhood: 
+  coordinates: 3.431933, -76.511305
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cali
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

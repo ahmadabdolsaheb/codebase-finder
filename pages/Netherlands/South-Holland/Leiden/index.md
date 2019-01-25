@@ -1,19 +1,26 @@
 ---
 title: Leiden
-country: Netherlands
-state: South Holland
-city: Leiden
-neighborhood: undefined
-coordinates: 52.1601144,4.4970097
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.leiden
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Netherlands
+  state: South Holland
+  city: Leiden
+  neighborhood: 
+  coordinates: 52.1601144,4.4970097
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/freecodecamp.leiden
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

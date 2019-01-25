@@ -1,19 +1,26 @@
 ---
 title: Edinburgh
-country: Scotland
-state: undefined
-city: Edinburgh
-neighborhood: undefined
-coordinates: 55.946458, -3.205901
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.edinburgh
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Scotland
+  state: 
+  city: Edinburgh
+  neighborhood: 
+  coordinates: 55.946458, -3.205901
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.edinburgh
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

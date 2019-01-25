@@ -1,19 +1,26 @@
 ---
 title: Opole
-country: Poland
-state: undefined
-city: Opole
-neighborhood: undefined
-coordinates: 50.666818, 17.923641
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.opole
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Poland
+  state: 
+  city: Opole
+  neighborhood: 
+  coordinates: 50.666818, 17.923641
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.opole
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Natal
-country: Brazil
-state: Rio Grande do Norte
-city: Natal
-neighborhood: undefined
-coordinates: -5.805398, -35.20809
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.natal
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Rio Grande do Norte
+  city: Natal
+  neighborhood: 
+  coordinates: -5.805398, -35.20809
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.natal
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

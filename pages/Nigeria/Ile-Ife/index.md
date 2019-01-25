@@ -1,19 +1,26 @@
 ---
 title: Ile-Ife
-country: Nigeria
-state: undefined
-city: Ile-Ife
-neighborhood: undefined
-coordinates: 39.78373, -100.445882
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.ileife
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Nigeria
+  state: 
+  city: Ile-Ife
+  neighborhood: 
+  coordinates: 39.78373, -100.445882
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.ileife
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

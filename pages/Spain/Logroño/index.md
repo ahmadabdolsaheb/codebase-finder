@@ -1,19 +1,26 @@
 ---
 title: Logroño
-country: Spain
-state: undefined
-city: Logroño
-neighborhood: undefined
-coordinates: 42.46612, -2.439668
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.logrono
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Spain
+  state: 
+  city: Logroño
+  neighborhood: 
+  coordinates: 42.46612, -2.439668
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.logrono
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

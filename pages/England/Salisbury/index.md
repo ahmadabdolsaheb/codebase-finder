@@ -1,19 +1,26 @@
 ---
 title: Salisbury
-country: England
-state: undefined
-city: Salisbury
-neighborhood: undefined
-coordinates: 51.073661, -1.795118
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.salisbury
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: England
+  state: 
+  city: Salisbury
+  neighborhood: 
+  coordinates: 51.073661, -1.795118
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.salisbury
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

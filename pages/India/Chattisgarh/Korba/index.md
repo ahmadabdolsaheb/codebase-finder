@@ -1,19 +1,26 @@
 ---
 title: Korba
-country: India
-state: Chattisgarh
-city: Korba
-neighborhood: undefined
-coordinates: 36.573553, 10.856499
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.korba
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Chattisgarh
+  city: Korba
+  neighborhood: 
+  coordinates: 36.573553, 10.856499
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.korba
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

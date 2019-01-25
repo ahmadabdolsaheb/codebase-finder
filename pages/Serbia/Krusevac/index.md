@@ -1,19 +1,26 @@
 ---
 title: Krusevac
-country: Serbia
-state: undefined
-city: Krusevac
-neighborhood: undefined
-coordinates: 43.582754, 21.326304
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.krusevac
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Serbia
+  state: 
+  city: Krusevac
+  neighborhood: 
+  coordinates: 43.582754, 21.326304
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.krusevac
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

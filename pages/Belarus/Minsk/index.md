@@ -1,19 +1,26 @@
 ---
 title: Minsk
-country: Belarus
-state: undefined
-city: Minsk
-neighborhood: undefined
-coordinates: 53.902334, 27.561879
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Minsk
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Belarus
+  state: 
+  city: Minsk
+  neighborhood: 
+  coordinates: 53.902334, 27.561879
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Minsk
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

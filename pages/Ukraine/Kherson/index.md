@@ -1,19 +1,26 @@
 ---
 title: Kherson
-country: Ukraine
-state: undefined
-city: Kherson
-neighborhood: undefined
-coordinates: 46.640176, 32.614532
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kherson
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Ukraine
+  state: 
+  city: Kherson
+  neighborhood: 
+  coordinates: 46.640176, 32.614532
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.kherson
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Antwerp
-country: Belgium
-state: undefined
-city: Antwerp
-neighborhood: undefined
-coordinates: 51.22111, 4.399708
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.antwerp
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Belgium
+  state: 
+  city: Antwerp
+  neighborhood: 
+  coordinates: 51.22111, 4.399708
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.antwerp
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

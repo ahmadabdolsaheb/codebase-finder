@@ -1,19 +1,26 @@
 ---
 title: Barranquilla
-country: Colombia
-state: undefined
-city: Barranquilla
-neighborhood: undefined
-coordinates: 10.979959, -74.801914
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.barranquilla.co
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Colombia
+  state: 
+  city: Barranquilla
+  neighborhood: 
+  coordinates: 10.979959, -74.801914
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.barranquilla.co
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

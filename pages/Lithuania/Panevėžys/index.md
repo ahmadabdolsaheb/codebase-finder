@@ -1,19 +1,26 @@
 ---
 title: Panevėžys
-country: Lithuania
-state: undefined
-city: Panevėžys
-neighborhood: undefined
-coordinates: 55.734499, 24.357806
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.panevezys
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Lithuania
+  state: 
+  city: Panevėžys
+  neighborhood: 
+  coordinates: 55.734499, 24.357806
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.panevezys
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

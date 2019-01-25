@@ -1,19 +1,26 @@
 ---
 title: Aberdeen
-country: Scotland
-state: undefined
-city: Aberdeen
-neighborhood: undefined
-coordinates: 57.144345, -2.096021
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/aberdeenfreecodecamp
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Scotland
+  state: 
+  city: Aberdeen
+  neighborhood: 
+  coordinates: 57.144345, -2.096021
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/aberdeenfreecodecamp
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

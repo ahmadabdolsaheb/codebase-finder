@@ -1,19 +1,26 @@
 ---
 title: Taiyuan
-country: China
-state: Shanxi
-city: Taiyuan
-neighborhood: undefined
-coordinates: 37.856186, 112.556174
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.taiyuan
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: China
+  state: Shanxi
+  city: Taiyuan
+  neighborhood: 
+  coordinates: 37.856186, 112.556174
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.taiyuan
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

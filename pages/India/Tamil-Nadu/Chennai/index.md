@@ -1,19 +1,26 @@
 ---
 title: Chennai
-country: India
-state: Tamil Nadu
-city: Chennai
-neighborhood: undefined
-coordinates: 13.079691, 80.282953
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.chennai
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Tamil Nadu
+  city: Chennai
+  neighborhood: 
+  coordinates: 13.079691, 80.282953
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.chennai
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

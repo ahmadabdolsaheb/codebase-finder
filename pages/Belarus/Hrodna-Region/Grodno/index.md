@@ -1,19 +1,26 @@
 ---
 title: Grodno
-country: Belarus
-state: Hrodna Region
-city: Grodno
-neighborhood: undefined
-coordinates: 53.6693538,23.8131306
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/freecodecamp.grodno
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Belarus
+  state: Hrodna Region
+  city: Grodno
+  neighborhood: 
+  coordinates: 53.6693538,23.8131306
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/freecodecamp.grodno
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

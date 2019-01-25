@@ -1,19 +1,26 @@
 ---
 title: Jodhpur
-country: India
-state: Rajasthan
-city: Jodhpur
-neighborhood: undefined
-coordinates: 26.29893, 73.0334
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.jodhpur
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Rajasthan
+  city: Jodhpur
+  neighborhood: 
+  coordinates: 26.29893, 73.0334
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.jodhpur
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

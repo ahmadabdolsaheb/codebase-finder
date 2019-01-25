@@ -1,19 +1,26 @@
 ---
 title: Peshawar
-country: Pakistan
-state: undefined
-city: Peshawar
-neighborhood: undefined
-coordinates: 34.012385, 71.578746
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Peshawar
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Pakistan
+  state: 
+  city: Peshawar
+  neighborhood: 
+  coordinates: 34.012385, 71.578746
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Peshawar
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

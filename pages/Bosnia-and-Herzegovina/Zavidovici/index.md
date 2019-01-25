@@ -1,19 +1,26 @@
 ---
 title: Zavidovici
-country: Bosnia and Herzegovina
-state: undefined
-city: Zavidovici
-neighborhood: undefined
-coordinates: 44.439985, 18.145692
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.zavidovici
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Bosnia and Herzegovina
+  state: 
+  city: Zavidovici
+  neighborhood: 
+  coordinates: 44.439985, 18.145692
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.zavidovici
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Uberlândia
-country: Brazil
-state: Minas Gerais
-city: Uberlândia
-neighborhood: undefined
-coordinates: -18.918804, -48.276784
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.uberlandia
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Minas Gerais
+  city: Uberlândia
+  neighborhood: 
+  coordinates: -18.918804, -48.276784
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.uberlandia
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

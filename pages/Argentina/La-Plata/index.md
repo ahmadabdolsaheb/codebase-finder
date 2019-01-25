@@ -1,19 +1,26 @@
 ---
 title: La Plata
-country: Argentina
-state: undefined
-city: La Plata
-neighborhood: undefined
-coordinates: -34.92068, -57.953764
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.la.plata
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Argentina
+  state: 
+  city: La Plata
+  neighborhood: 
+  coordinates: -34.92068, -57.953764
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.la.plata
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -84,23 +84,30 @@ function mattermaker(title, country, state, city, neighborhood, coordinates, pho
 
 let item =
 `---
-title: ${title ? title: 'undefined'}
-country: ${country ? country: 'undefined'}
-state: ${state ? state: 'undefined'}
-city: ${city ? city: 'undefined'}
-neighborhood: ${neighborhood ? neighborhood: 'undefined'}
-coordinates: ${coordinates ? coordinates: 'undefined'}
-plusCode: undefined
-socialName: Facebook
-socialURL: ${url ? url: 'undefined'}
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: ${photoUrl ? photoUrl: 'undefined'}
-coverPhoto: undefined
+title: ${title ? title: ''}
+${false ? 'hello': ''}
+location:
+  country: ${country ? country: ''}
+  state: ${state ? state: ''}
+  city: ${city ? city: ''}
+  neighborhood: ${neighborhood ? neighborhood: ''}
+  coordinates: ${coordinates ? coordinates: ''}
+  plusCode: ''
+social:
+  name: Facebook
+  URL: ${url ? url: ''}
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: ${photoUrl ? photoUrl: ''}
+  cover: ''
 ---
 `;
 return item;

@@ -1,19 +1,26 @@
 ---
 title: Mangalore
-country: India
-state: Karnataka
-city: Mangalore
-neighborhood: undefined
-coordinates: -42.653894, 147.241578
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mangalore
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Karnataka
+  city: Mangalore
+  neighborhood: 
+  coordinates: -42.653894, 147.241578
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.mangalore
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

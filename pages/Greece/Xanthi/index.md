@@ -1,19 +1,26 @@
 ---
 title: Xanthi
-country: Greece
-state: undefined
-city: Xanthi
-neighborhood: undefined
-coordinates: 41.138029, 24.886269
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.your.xanthi
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Greece
+  state: 
+  city: Xanthi
+  neighborhood: 
+  coordinates: 41.138029, 24.886269
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.your.xanthi
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

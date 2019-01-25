@@ -1,19 +1,26 @@
 ---
 title: Cajamarca
-country: Peru
-state: undefined
-city: Cajamarca
-neighborhood: undefined
-coordinates: -7.156668, -78.517306
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cajamarca
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Peru
+  state: 
+  city: Cajamarca
+  neighborhood: 
+  coordinates: -7.156668, -78.517306
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cajamarca
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

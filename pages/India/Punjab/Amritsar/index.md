@@ -1,19 +1,26 @@
 ---
 title: Amritsar
-country: India
-state: Punjab
-city: Amritsar
-neighborhood: undefined
-coordinates: 31.634308, 74.873679
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.amritsar
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Punjab
+  city: Amritsar
+  neighborhood: 
+  coordinates: 31.634308, 74.873679
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.amritsar
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

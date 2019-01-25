@@ -1,19 +1,26 @@
 ---
 title: Noginsk
-country: Russia
-state: undefined
-city: Noginsk
-neighborhood: undefined
-coordinates: 55.855351, 38.44119
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.noginsk
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Noginsk
+  neighborhood: 
+  coordinates: 55.855351, 38.44119
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.noginsk
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Volgograd
-country: Russia
-state: undefined
-city: Volgograd
-neighborhood: undefined
-coordinates: 48.70984, 44.515547
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.volgograd
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Volgograd
+  neighborhood: 
+  coordinates: 48.70984, 44.515547
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.volgograd
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

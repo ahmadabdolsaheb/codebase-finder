@@ -1,19 +1,26 @@
 ---
 title: Anshun
-country: China
-state: Guizhou
-city: Anshun
-neighborhood: undefined
-coordinates: 26.249696, 105.927781
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.anshun
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: China
+  state: Guizhou
+  city: Anshun
+  neighborhood: 
+  coordinates: 26.249696, 105.927781
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.anshun
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

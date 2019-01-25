@@ -1,19 +1,26 @@
 ---
 title: Venice
-country: Italy
-state: undefined
-city: Venice
-neighborhood: undefined
-coordinates: 45.437191, 12.33459
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.venice
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Italy
+  state: 
+  city: Venice
+  neighborhood: 
+  coordinates: 45.437191, 12.33459
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.venice
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

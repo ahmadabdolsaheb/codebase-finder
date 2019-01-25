@@ -1,19 +1,26 @@
 ---
 title: Karlovac
-country: Croatia
-state: undefined
-city: Karlovac
-neighborhood: undefined
-coordinates: 45.490545, 15.5483
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.karlovac
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Croatia
+  state: 
+  city: Karlovac
+  neighborhood: 
+  coordinates: 45.490545, 15.5483
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.karlovac
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: George
-country: South Africa
-state: undefined
-city: George
-neighborhood: undefined
-coordinates: -33.964444, 22.459722
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.george
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: South Africa
+  state: 
+  city: George
+  neighborhood: 
+  coordinates: -33.964444, 22.459722
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.george
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

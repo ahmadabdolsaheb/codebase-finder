@@ -1,19 +1,26 @@
 ---
 title: Wellington
-country: New Zealand
-state: undefined
-city: Wellington
-neighborhood: undefined
-coordinates: -41.288764, 174.777224
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.wellington.nz
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: New Zealand
+  state: 
+  city: Wellington
+  neighborhood: 
+  coordinates: -41.288764, 174.777224
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.wellington.nz
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

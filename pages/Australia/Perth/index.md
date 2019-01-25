@@ -1,19 +1,26 @@
 ---
 title: Perth
-country: Australia
-state: undefined
-city: Perth
-neighborhood: undefined
-coordinates: -31.952712, 115.86048
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.perth
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Australia
+  state: 
+  city: Perth
+  neighborhood: 
+  coordinates: -31.952712, 115.86048
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.perth
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

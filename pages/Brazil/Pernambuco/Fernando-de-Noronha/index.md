@@ -1,19 +1,26 @@
 ---
 title: Fernando de Noronha
-country: Brazil
-state: Pernambuco
-city: Fernando de Noronha
-neighborhood: undefined
-coordinates: -3.856101, -32.424819
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.fernandodenoronha
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Brazil
+  state: Pernambuco
+  city: Fernando de Noronha
+  neighborhood: 
+  coordinates: -3.856101, -32.424819
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.fernandodenoronha
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

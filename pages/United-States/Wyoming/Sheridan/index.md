@@ -1,19 +1,26 @@
 ---
 title: Sheridan
-country: United States
-state: Wyoming
-city: Sheridan
-neighborhood: undefined
-coordinates: 44.797194, -106.956179
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sheridan
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Wyoming
+  city: Sheridan
+  neighborhood: 
+  coordinates: 44.797194, -106.956179
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.sheridan
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

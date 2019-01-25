@@ -1,19 +1,26 @@
 ---
 title: Graz
-country: Austria
-state: undefined
-city: Graz
-neighborhood: undefined
-coordinates: 47.07081, 15.438292
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.graz
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Austria
+  state: 
+  city: Graz
+  neighborhood: 
+  coordinates: 47.07081, 15.438292
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.graz
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

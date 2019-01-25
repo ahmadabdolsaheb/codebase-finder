@@ -1,19 +1,26 @@
 ---
 title: Reims
-country: France
-state: undefined
-city: Reims
-neighborhood: undefined
-coordinates: 49.257789, 4.031926
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.reims
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: France
+  state: 
+  city: Reims
+  neighborhood: 
+  coordinates: 49.257789, 4.031926
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.reims
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Bridgetown
-country: Barbados
-state: undefined
-city: Bridgetown
-neighborhood: undefined
-coordinates: 13.097783, -59.618418
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.barbados
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Barbados
+  state: 
+  city: Bridgetown
+  neighborhood: 
+  coordinates: 13.097783, -59.618418
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.barbados
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

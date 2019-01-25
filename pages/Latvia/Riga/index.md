@@ -1,19 +1,26 @@
 ---
 title: Riga
-country: Latvia
-state: undefined
-city: Riga
-neighborhood: undefined
-coordinates: 56.949398, 24.105185
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.riga
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Latvia
+  state: 
+  city: Riga
+  neighborhood: 
+  coordinates: 56.949398, 24.105185
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.riga
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

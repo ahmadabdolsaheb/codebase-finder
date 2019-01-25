@@ -1,19 +1,26 @@
 ---
 title: Basel
-country: Switzerland
-state: undefined
-city: Basel
-neighborhood: undefined
-coordinates: 47.558108, 7.587826
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.basel
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Switzerland
+  state: 
+  city: Basel
+  neighborhood: 
+  coordinates: 47.558108, 7.587826
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.basel
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

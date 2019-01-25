@@ -1,19 +1,26 @@
 ---
 title: Grenoble
-country: France
-state: undefined
-city: Grenoble
-neighborhood: undefined
-coordinates: 45.182478, 5.721077
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.grenoble
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: France
+  state: 
+  city: Grenoble
+  neighborhood: 
+  coordinates: 45.182478, 5.721077
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.grenoble
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

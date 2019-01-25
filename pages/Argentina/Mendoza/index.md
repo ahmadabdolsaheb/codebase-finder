@@ -1,19 +1,26 @@
 ---
 title: Mendoza
-country: Argentina
-state: undefined
-city: Mendoza
-neighborhood: undefined
-coordinates: -32.889729, -68.844296
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.mendoza
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Argentina
+  state: 
+  city: Mendoza
+  neighborhood: 
+  coordinates: -32.889729, -68.844296
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.mendoza
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Gurgaon
-country: India
-state: Haryana
-city: Gurgaon
-neighborhood: undefined
-coordinates: 28.464615, 77.029919
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.gurgaon
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: India
+  state: Haryana
+  city: Gurgaon
+  neighborhood: 
+  coordinates: 28.464615, 77.029919
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.gurgaon
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

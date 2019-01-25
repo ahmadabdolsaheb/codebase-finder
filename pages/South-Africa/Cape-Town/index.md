@@ -1,19 +1,26 @@
 ---
 title: Cape Town
-country: South Africa
-state: undefined
-city: Cape Town
-neighborhood: undefined
-coordinates: -33.928992, 18.417396
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cape.town
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: South Africa
+  state: 
+  city: Cape Town
+  neighborhood: 
+  coordinates: -33.928992, 18.417396
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cape.town
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

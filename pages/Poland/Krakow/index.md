@@ -1,19 +1,26 @@
 ---
 title: Krakow
-country: Poland
-state: undefined
-city: Krakow
-neighborhood: undefined
-coordinates: 50.061947, 19.936856
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.krakow
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Poland
+  state: 
+  city: Krakow
+  neighborhood: 
+  coordinates: 50.061947, 19.936856
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.krakow
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

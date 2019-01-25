@@ -1,19 +1,26 @@
 ---
 title: Vinnitsa
-country: Ukraine
-state: undefined
-city: Vinnitsa
-neighborhood: undefined
-coordinates: 49.232016, 28.467975
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.vinnitsa
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Ukraine
+  state: 
+  city: Vinnitsa
+  neighborhood: 
+  coordinates: 49.232016, 28.467975
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.vinnitsa
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

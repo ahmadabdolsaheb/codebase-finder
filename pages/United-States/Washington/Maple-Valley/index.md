@@ -1,19 +1,26 @@
 ---
 title: Maple Valley
-country: United States
-state: Washington
-city: Maple Valley
-neighborhood: undefined
-coordinates: 44.966306, -88.305443
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.maple.valley
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Washington
+  city: Maple Valley
+  neighborhood: 
+  coordinates: 44.966306, -88.305443
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.maple.valley
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

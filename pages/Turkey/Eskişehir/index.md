@@ -1,19 +1,26 @@
 ---
 title: Eskişehir
-country: Turkey
-state: undefined
-city: Eskişehir
-neighborhood: undefined
-coordinates: 39.768856, 30.521647
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.eskisehir
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Turkey
+  state: 
+  city: Eskişehir
+  neighborhood: 
+  coordinates: 39.768856, 30.521647
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.eskisehir
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

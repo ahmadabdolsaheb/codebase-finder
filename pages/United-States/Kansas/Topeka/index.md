@@ -1,19 +1,26 @@
 ---
 title: Topeka
-country: United States
-state: Kansas
-city: Topeka
-neighborhood: undefined
-coordinates: 39.049011, -95.677556
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.topeka.ks
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: Kansas
+  city: Topeka
+  neighborhood: 
+  coordinates: 39.049011, -95.677556
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.topeka.ks
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

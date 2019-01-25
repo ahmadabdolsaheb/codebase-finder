@@ -1,19 +1,26 @@
 ---
 title: Bangkok
-country: Thailand
-state: undefined
-city: Bangkok
-neighborhood: undefined
-coordinates: 13.754253, 100.493087
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bangkok
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Thailand
+  state: 
+  city: Bangkok
+  neighborhood: 
+  coordinates: 13.754253, 100.493087
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bangkok
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

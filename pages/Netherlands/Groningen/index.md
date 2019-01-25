@@ -1,19 +1,26 @@
 ---
 title: Groningen
-country: Netherlands
-state: undefined
-city: Groningen
-neighborhood: undefined
-coordinates: 53.221793, 6.558245
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.groningen
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Netherlands
+  state: 
+  city: Groningen
+  neighborhood: 
+  coordinates: 53.221793, 6.558245
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.groningen
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

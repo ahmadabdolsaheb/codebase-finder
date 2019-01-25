@@ -1,19 +1,26 @@
 ---
 title: Cheboksary
-country: Russia
-state: undefined
-city: Cheboksary
-neighborhood: undefined
-coordinates: 56.131174, 47.245482
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.cheboksary
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Cheboksary
+  neighborhood: 
+  coordinates: 56.131174, 47.245482
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.cheboksary
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

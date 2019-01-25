@@ -1,19 +1,26 @@
 ---
 title: Hanover
-country: Germany
-state: undefined
-city: Hanover
-neighborhood: undefined
-coordinates: 52.374478, 9.738553
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.hanover.germany
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Germany
+  state: 
+  city: Hanover
+  neighborhood: 
+  coordinates: 52.374478, 9.738553
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.hanover.germany
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

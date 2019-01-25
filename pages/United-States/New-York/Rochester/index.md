@@ -1,19 +1,26 @@
 ---
 title: Rochester
-country: United States
-state: New York
-city: Rochester
-neighborhood: undefined
-coordinates: 43.157285, -77.615214
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Rochester.New.York
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: New York
+  city: Rochester
+  neighborhood: 
+  coordinates: 43.157285, -77.615214
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Rochester.New.York
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

@@ -1,19 +1,26 @@
 ---
 title: Bariloche
-country: Argentina
-state: undefined
-city: Bariloche
-neighborhood: undefined
-coordinates: -41.133467, -71.309994
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.bariloche
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Argentina
+  state: 
+  city: Bariloche
+  neighborhood: 
+  coordinates: -41.133467, -71.309994
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.bariloche
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

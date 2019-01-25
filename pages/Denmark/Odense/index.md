@@ -1,19 +1,26 @@
 ---
 title: Odense
-country: Denmark
-state: undefined
-city: Odense
-neighborhood: undefined
-coordinates: 55.399723, 10.38521
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.odense
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Denmark
+  state: 
+  city: Odense
+  neighborhood: 
+  coordinates: 55.399723, 10.38521
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.odense
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

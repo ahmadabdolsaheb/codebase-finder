@@ -1,19 +1,26 @@
 ---
 title: Acarigua
-country: Venezuela
-state: undefined
-city: Acarigua
-neighborhood: undefined
-coordinates: 9.558, -69.205043
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.acarigua
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Venezuela
+  state: 
+  city: Acarigua
+  neighborhood: 
+  coordinates: 9.558, -69.205043
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.acarigua
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

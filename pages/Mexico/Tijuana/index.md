@@ -1,19 +1,26 @@
 ---
 title: Tijuana
-country: Mexico
-state: undefined
-city: Tijuana
-neighborhood: undefined
-coordinates: 32.500863, -116.964166
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.tijuana
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Mexico
+  state: 
+  city: Tijuana
+  neighborhood: 
+  coordinates: 32.500863, -116.964166
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.tijuana
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

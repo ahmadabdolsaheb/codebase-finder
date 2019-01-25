@@ -1,19 +1,26 @@
 ---
 title: Chisinau
-country: Moldova
-state: undefined
-city: Chisinau
-neighborhood: undefined
-coordinates: 47.012274, 28.860594
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.Chisinau
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Moldova
+  state: 
+  city: Chisinau
+  neighborhood: 
+  coordinates: 47.012274, 28.860594
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.Chisinau
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

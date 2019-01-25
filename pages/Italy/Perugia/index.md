@@ -1,19 +1,26 @@
 ---
 title: Perugia
-country: Italy
-state: undefined
-city: Perugia
-neighborhood: undefined
-coordinates: 43.111961, 12.38901
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.perugia.it
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Italy
+  state: 
+  city: Perugia
+  neighborhood: 
+  coordinates: 43.111961, 12.38901
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.perugia.it
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

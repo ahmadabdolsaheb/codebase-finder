@@ -1,19 +1,26 @@
 ---
 title: Kemerovo
-country: Russia
-state: undefined
-city: Kemerovo
-neighborhood: undefined
-coordinates: 55.355125, 86.087232
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.kemerovo
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Russia
+  state: 
+  city: Kemerovo
+  neighborhood: 
+  coordinates: 55.355125, 86.087232
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.kemerovo
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

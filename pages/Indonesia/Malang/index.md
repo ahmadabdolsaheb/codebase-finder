@@ -1,19 +1,26 @@
 ---
 title: Malang
-country: Indonesia
-state: undefined
-city: Malang
-neighborhood: undefined
-coordinates: -7.977121, 112.634029
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.malang
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Indonesia
+  state: 
+  city: Malang
+  neighborhood: 
+  coordinates: -7.977121, 112.634029
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.malang
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

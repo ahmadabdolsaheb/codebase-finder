@@ -1,19 +1,26 @@
 ---
 title: Lund
-country: Sweden
-state: undefined
-city: Lund
-neighborhood: undefined
-coordinates: 55.70293, 13.192945
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.lund
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Sweden
+  state: 
+  city: Lund
+  neighborhood: 
+  coordinates: 55.70293, 13.192945
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.lund
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

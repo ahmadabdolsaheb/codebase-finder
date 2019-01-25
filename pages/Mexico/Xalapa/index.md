@@ -1,19 +1,26 @@
 ---
 title: Xalapa
-country: Mexico
-state: undefined
-city: Xalapa
-neighborhood: undefined
-coordinates: 19.527409, -96.923879
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.xalapa
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: Mexico
+  state: 
+  city: Xalapa
+  neighborhood: 
+  coordinates: 19.527409, -96.923879
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.xalapa
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---

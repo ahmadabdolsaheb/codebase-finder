@@ -1,19 +1,26 @@
 ---
 title: Sacramento
-country: United States
-state: California
-city: Sacramento
-neighborhood: undefined
-coordinates: 38.581572, -121.4944
-plusCode: undefined
-socialName: Facebook
-socialURL: https://www.facebook.com/groups/free.code.camp.sacramento
-chatName: undefined
-chatURL: undefined
-eventName: undefined
-eventURL: undefined
-leaderName: undefined
-leaderURL: undefined
-oldPhoto: undefined
-coverPhoto: undefined
+
+location:
+  country: United States
+  state: California
+  city: Sacramento
+  neighborhood: 
+  coordinates: 38.581572, -121.4944
+  plusCode: ''
+social:
+  name: Facebook
+  URL: https://www.facebook.com/groups/free.code.camp.sacramento
+chat:
+  name: ''
+  URL: ''
+event:
+  name: ''
+  URL: ''
+leaders:
+- name: ''
+  URL: ''
+photos:
+  old: 
+  cover: ''
 ---
