@@ -8,7 +8,7 @@ location:
   coordinates: -29.456321, -51.963397
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lajeado
 chat:
   name: ''

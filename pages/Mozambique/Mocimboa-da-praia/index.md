@@ -8,7 +8,7 @@ location:
   coordinates: -11.343896, 40.357672
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mocimboa.da.praia
 chat:
   name: ''

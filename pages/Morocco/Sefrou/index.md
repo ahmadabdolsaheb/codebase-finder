@@ -8,7 +8,7 @@ location:
   coordinates: 33.824898, -4.833336
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sefrou
 chat:
   name: ''

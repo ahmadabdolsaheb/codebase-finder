@@ -8,7 +8,7 @@ location:
   coordinates: 53.902334, 27.561879
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Minsk
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 34.949801, -81.932016
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.spartanburg
 chat:
   name: ''

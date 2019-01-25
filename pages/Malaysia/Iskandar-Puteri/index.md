@@ -8,7 +8,7 @@ location:
   coordinates: 1.426586, 103.640205
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.iskandar.puteri
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 11.106116, 9.708971
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.daegu
 chat:
   name: ''

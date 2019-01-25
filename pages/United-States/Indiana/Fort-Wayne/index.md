@@ -8,7 +8,7 @@ location:
   coordinates: 41.07999, -85.138601
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fort.wayne.in
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 35.384884, -77.992765
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.goldsboro
 chat:
   name: ''

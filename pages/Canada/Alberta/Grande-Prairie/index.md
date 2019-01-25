@@ -8,7 +8,7 @@ location:
   coordinates: 55.170643, -118.794803
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/GPFREECODINGCAMP
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 37.302097, -78.39194
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.farmville.va
 chat:
   name: ''

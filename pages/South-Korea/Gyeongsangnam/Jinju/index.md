@@ -8,7 +8,7 @@ location:
   coordinates: 35.180346, 128.107995
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jinju
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 31.779113, 35.226629
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jerusalem
 chat:
   name: ''

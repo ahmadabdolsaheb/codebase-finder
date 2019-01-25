@@ -8,7 +8,7 @@ location:
   coordinates: 34.739739, 10.759852
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sfax
 chat:
   name: ''

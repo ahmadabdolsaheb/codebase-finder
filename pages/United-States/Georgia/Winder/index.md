@@ -8,7 +8,7 @@ location:
   coordinates: 33.991035, -83.718373
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/fee.code.camp.winder.ga
 chat:
   name: ''

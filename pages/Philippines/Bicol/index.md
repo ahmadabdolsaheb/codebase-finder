@@ -8,7 +8,7 @@ location:
   coordinates: 13.158964, 123.747738
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Bicol
 chat:
   name: ''

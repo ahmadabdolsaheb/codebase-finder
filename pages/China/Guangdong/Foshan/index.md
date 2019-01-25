@@ -8,7 +8,7 @@ location:
   coordinates: 23.024917, 113.114617
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Foshan
 chat:
   name: ''

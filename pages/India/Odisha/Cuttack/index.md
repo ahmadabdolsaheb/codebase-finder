@@ -8,7 +8,7 @@ location:
   coordinates: 20.4686, 85.8792
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cuttack
 chat:
   name: ''

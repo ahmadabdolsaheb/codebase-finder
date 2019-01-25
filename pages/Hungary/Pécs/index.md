@@ -8,7 +8,7 @@ location:
   coordinates: 46.076296, 18.228147
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pecs
 chat:
   name: ''

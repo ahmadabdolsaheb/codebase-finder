@@ -8,7 +8,7 @@ location:
   coordinates: 37.071438, 15.283007
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.siracusa
 chat:
   name: ''

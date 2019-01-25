@@ -8,7 +8,7 @@ location:
   coordinates: 55.355125, 86.087232
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kemerovo
 chat:
   name: ''

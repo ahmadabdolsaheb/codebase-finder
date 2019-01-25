@@ -8,7 +8,7 @@ location:
   coordinates: 14.093192, -87.201263
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Honduras
 chat:
   name: ''

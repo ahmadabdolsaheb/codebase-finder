@@ -8,7 +8,7 @@ location:
   coordinates: 29.4246, -98.49514
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.antonio
 chat:
   name: ''

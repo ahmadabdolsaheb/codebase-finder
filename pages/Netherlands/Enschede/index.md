@@ -8,7 +8,7 @@ location:
   coordinates: 52.223363, 6.870596
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.enschede
 chat:
   name: ''

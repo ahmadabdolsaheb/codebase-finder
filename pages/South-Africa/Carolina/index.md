@@ -8,7 +8,7 @@ location:
   coordinates: 38.274248, -3.61527
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.carolina
 chat:
   name: ''

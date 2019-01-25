@@ -8,7 +8,7 @@ location:
   coordinates: 41.060289, -111.966149
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.layton
 chat:
   name: ''

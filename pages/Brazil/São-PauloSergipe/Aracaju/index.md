@@ -8,7 +8,7 @@ location:
   coordinates: -10.916206, -37.077465
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aracaju
 chat:
   name: ''

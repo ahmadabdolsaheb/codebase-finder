@@ -8,7 +8,7 @@ location:
   coordinates: 31.066667, 35.033333
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Dimona
 chat:
   name: ''

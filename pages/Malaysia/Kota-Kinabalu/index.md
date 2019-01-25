@@ -8,7 +8,7 @@ location:
   coordinates: 5.978007, 116.072899
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.code.camp.KK.Sabah
 chat:
   name: ''

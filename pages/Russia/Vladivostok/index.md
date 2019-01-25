@@ -8,7 +8,7 @@ location:
   coordinates: 43.115284, 131.885401
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vladivostok
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -62.223111, -58.787056
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sejong.city
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 31.634308, 74.873679
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.amritsar
 chat:
   name: ''

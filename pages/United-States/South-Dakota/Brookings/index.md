@@ -8,7 +8,7 @@ location:
   coordinates: 44.311461, -96.79844
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brookings.sd
 chat:
   name: ''

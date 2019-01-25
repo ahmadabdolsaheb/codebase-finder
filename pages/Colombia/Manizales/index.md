@@ -8,7 +8,7 @@ location:
   coordinates: 5.064605, -75.49923
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.manizales
 chat:
   name: ''

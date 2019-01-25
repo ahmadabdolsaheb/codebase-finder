@@ -8,7 +8,7 @@ location:
   coordinates: 40.21098, -8.429206
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coimbra
 chat:
   name: ''

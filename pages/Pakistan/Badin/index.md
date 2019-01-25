@@ -8,7 +8,7 @@ location:
   coordinates: 24.655167, 68.840151
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.badin
 chat:
   name: ''

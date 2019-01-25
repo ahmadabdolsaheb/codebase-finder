@@ -8,7 +8,7 @@ location:
   coordinates: 45.520247, -122.674195
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.portland
 chat:
   name: ''

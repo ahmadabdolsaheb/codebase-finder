@@ -8,7 +8,7 @@ location:
   coordinates: 26.215907, -98.325293
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mission.texas
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 35.04563, -85.30968
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chattanooga
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 44.021987,-92.462571
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pescara
 chat:
   name: ''

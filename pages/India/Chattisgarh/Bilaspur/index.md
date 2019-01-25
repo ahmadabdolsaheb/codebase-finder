@@ -8,7 +8,7 @@ location:
   coordinates: 22.079102, 82.14807
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bilaspur
 chat:
   name: ''

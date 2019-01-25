@@ -8,7 +8,7 @@ location:
   coordinates: 48.153538, 17.109671
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bratislava
 chat:
   name: ''

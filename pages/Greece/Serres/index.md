@@ -8,7 +8,7 @@ location:
   coordinates: 42.946638, 2.323695
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.serres
 chat:
   name: ''

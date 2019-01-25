@@ -8,7 +8,7 @@ location:
   coordinates: 42.141912, 24.749839
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.plovdiv
 chat:
   name: ''

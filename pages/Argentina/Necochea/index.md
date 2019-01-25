@@ -8,7 +8,7 @@ location:
   coordinates: -38.566643, -58.729937
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.necochea
 chat:
   name: ''

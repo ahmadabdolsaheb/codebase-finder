@@ -8,7 +8,7 @@ location:
   coordinates: 50.371266, -4.142566
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.plymouth
 chat:
   name: ''

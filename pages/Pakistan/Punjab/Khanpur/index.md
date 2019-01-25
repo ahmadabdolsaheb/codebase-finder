@@ -8,7 +8,7 @@ location:
   coordinates: 28.6331825,70.6573694
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.khanpur
 chat:
   name: ''

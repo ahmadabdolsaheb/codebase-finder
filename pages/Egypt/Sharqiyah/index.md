@@ -8,7 +8,7 @@ location:
   coordinates: 30.827563, 46.591377
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sharkia
 chat:
   name: ''

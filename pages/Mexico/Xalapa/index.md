@@ -8,7 +8,7 @@ location:
   coordinates: 19.527409, -96.923879
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.xalapa
 chat:
   name: ''

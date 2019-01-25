@@ -8,7 +8,7 @@ location:
   coordinates: 24.848086, 89.372953
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bogra
 chat:
   name: ''

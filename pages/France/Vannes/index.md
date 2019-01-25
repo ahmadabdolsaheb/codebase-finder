@@ -8,7 +8,7 @@ location:
   coordinates: 47.658677, -2.759908
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vannes
 chat:
   name: ''

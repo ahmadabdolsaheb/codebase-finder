@@ -8,7 +8,7 @@ location:
   coordinates: 43.589285, -79.644165
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sauga
 chat:
   name: ''

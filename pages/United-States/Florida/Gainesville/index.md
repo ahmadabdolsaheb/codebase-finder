@@ -8,7 +8,7 @@ location:
   coordinates: 29.651907, -82.324798
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gainesville.fla
 chat:
   name: ''

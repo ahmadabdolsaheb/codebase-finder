@@ -8,7 +8,7 @@ location:
   coordinates: 23.413611, 120.384722
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nanjing
 chat:
   name: ''

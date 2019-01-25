@@ -8,7 +8,7 @@ location:
   coordinates: 54.596987, -5.930099
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.belfast.UK
 chat:
   name: ''

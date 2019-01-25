@@ -8,7 +8,7 @@ location:
   coordinates: 51.899569, -2.071156
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cheltenham
 chat:
   name: ''

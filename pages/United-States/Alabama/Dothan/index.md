@@ -8,7 +8,7 @@ location:
   coordinates: 31.223231, -85.390489
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dothan
 chat:
   name: ''

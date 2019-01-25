@@ -8,7 +8,7 @@ location:
   coordinates: 42.697721, 23.322596
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sofia
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 54.906379, -1.375053
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sunderland.uk
 chat:
   name: ''

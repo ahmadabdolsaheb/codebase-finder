@@ -8,7 +8,7 @@ location:
   coordinates: 41.591064, -93.603715
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.des.moines
 chat:
   name: ''

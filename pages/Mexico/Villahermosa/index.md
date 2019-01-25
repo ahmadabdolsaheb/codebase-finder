@@ -8,7 +8,7 @@ location:
   coordinates: 38.750781, -2.871768
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tabasco
 chat:
   name: ''

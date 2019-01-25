@@ -8,7 +8,7 @@ location:
   coordinates: 18.95238, 72.832711
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mumbai
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 40.798711, -74.239035
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.west.orange
 chat:
   name: ''

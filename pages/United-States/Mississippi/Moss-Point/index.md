@@ -8,7 +8,7 @@ location:
   coordinates: 30.411588, -88.53446
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.moss.point.mississippi
 chat:
   name: ''

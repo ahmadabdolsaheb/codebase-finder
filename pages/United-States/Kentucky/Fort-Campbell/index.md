@@ -8,7 +8,7 @@ location:
   coordinates: 36.632027, -87.614848
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fortcampbell
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 38.833958, -104.825348
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampcoloradosprings
 chat:
   name: ''

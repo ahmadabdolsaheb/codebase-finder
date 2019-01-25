@@ -8,7 +8,7 @@ location:
   coordinates: 34.445358, 35.822512
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Tripoli.Libya
 chat:
   name: ''

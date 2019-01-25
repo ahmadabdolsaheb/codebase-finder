@@ -8,7 +8,7 @@ location:
   coordinates: 12.243169, 109.189868
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nha.trang
 chat:
   name: ''

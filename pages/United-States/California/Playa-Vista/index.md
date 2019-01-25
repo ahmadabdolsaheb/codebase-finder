@@ -8,7 +8,7 @@ location:
   coordinates: 33.97279, -118.427578
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.playavista
 chat:
   name: ''

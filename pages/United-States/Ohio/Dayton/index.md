@@ -8,7 +8,7 @@ location:
   coordinates: 39.758948, -84.191607
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dayton.ohio
 chat:
   name: ''

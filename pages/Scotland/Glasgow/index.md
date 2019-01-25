@@ -8,7 +8,7 @@ location:
   coordinates: 55.866265, -4.250308
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.glasgow
 chat:
   name: ''

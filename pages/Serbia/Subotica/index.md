@@ -8,7 +8,7 @@ location:
   coordinates: 46.100013, 19.664097
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.subotica
 chat:
   name: ''

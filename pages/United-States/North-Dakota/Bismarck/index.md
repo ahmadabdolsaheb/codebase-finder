@@ -8,7 +8,7 @@ location:
   coordinates: 46.808327, -100.783739
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bismarck.north.dakota
 chat:
   name: ''

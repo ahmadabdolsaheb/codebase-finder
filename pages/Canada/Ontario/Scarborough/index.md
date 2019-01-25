@@ -8,7 +8,7 @@ location:
   coordinates: 54.28476, -0.409034
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.scarborough
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 32.214304, 76.319672
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dharamshala
 chat:
   name: ''

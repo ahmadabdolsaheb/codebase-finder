@@ -8,7 +8,7 @@ location:
   coordinates: 41.763494, -72.683052
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hartford.connecticut
 chat:
   name: ''

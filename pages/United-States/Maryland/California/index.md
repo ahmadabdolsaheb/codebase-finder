@@ -8,7 +8,7 @@ location:
   coordinates: 38.3004029,-76.5074542
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.californiaMD
 chat:
   name: ''

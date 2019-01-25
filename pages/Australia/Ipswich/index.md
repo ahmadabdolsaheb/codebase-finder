@@ -8,7 +8,7 @@ location:
   coordinates: 52.05795, 1.152635
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ipswich.qld
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -19.922732, -43.945095
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.belo.horizonte
 chat:
   name: ''

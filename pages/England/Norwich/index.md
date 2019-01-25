@@ -8,7 +8,7 @@ location:
   coordinates: 52.628606, 1.29227
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.norwich.england
 chat:
   name: ''

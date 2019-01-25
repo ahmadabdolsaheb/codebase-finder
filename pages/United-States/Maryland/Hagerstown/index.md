@@ -8,7 +8,7 @@ location:
   coordinates: 39.641922, -77.720264
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hagerstown
 chat:
   name: ''

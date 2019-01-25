@@ -8,7 +8,7 @@ location:
   coordinates: -20.538177, -47.400979
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.franca
 chat:
   name: ''

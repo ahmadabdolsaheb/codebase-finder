@@ -8,7 +8,7 @@ location:
   coordinates: 44.368305, -100.351185
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pierre.sd
 chat:
   name: ''

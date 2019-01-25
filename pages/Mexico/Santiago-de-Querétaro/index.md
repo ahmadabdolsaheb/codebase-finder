@@ -8,7 +8,7 @@ location:
   coordinates: 20.587837, -100.38799
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santiago.de.queretaro
 chat:
   name: ''

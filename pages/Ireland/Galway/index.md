@@ -8,7 +8,7 @@ location:
   coordinates: 53.274412, -9.049063
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.galway
 chat:
   name: ''

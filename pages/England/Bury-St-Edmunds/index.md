@@ -8,7 +8,7 @@ location:
   coordinates: 52.246037, 0.712517
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Bury.St.Edmunds
 chat:
   name: ''

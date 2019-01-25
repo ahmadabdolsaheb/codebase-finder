@@ -8,7 +8,7 @@ location:
   coordinates: 11.568271, 104.922443
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.phnompenh.cambodia
 chat:
   name: ''

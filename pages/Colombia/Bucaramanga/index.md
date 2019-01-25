@@ -8,7 +8,7 @@ location:
   coordinates: 7.111461, -73.117287
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bucaramanga
 chat:
   name: ''

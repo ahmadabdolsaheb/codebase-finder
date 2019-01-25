@@ -8,7 +8,7 @@ location:
   coordinates: -26.655652, 153.094668
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maroochydore
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -3.132862, -59.986529
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.manaus
 chat:
   name: ''

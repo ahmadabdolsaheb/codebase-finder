@@ -8,7 +8,7 @@ location:
   coordinates: 41.683381, -86.250007
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.south.bend
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.017543, -47.890971
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sao.carlos
 chat:
   name: ''

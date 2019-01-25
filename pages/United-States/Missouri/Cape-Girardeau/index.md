@@ -8,7 +8,7 @@ location:
   coordinates: 37.305884, -89.518148
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cape.girardeau
 chat:
   name: ''

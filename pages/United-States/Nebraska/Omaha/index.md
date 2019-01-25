@@ -8,7 +8,7 @@ location:
   coordinates: 41.258732, -95.937873
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.omaha
 chat:
   name: ''

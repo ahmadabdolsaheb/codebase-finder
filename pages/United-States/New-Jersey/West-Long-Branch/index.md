@@ -8,7 +8,7 @@ location:
   coordinates: 40.2804557,-74.0058114
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.monmouth/
 chat:
   name: ''

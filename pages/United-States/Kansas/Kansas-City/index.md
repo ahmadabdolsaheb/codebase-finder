@@ -8,7 +8,7 @@ location:
   coordinates: 39.084469, -94.56303
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kansascity
 chat:
   name: ''

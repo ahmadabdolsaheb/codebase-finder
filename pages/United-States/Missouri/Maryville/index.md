@@ -8,7 +8,7 @@ location:
   coordinates: 40.346102, -94.872471
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maryville.missouri
 chat:
   name: ''

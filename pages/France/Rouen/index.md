@@ -8,7 +8,7 @@ location:
   coordinates: 49.440459, 1.093966
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.rouen
 chat:
   name: ''

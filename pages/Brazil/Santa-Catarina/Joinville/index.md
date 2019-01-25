@@ -8,7 +8,7 @@ location:
   coordinates: -26.30449, -48.848673
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.joinville
 chat:
   name: ''

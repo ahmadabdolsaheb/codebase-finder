@@ -8,7 +8,7 @@ location:
   coordinates: 24.497442, 118.135564
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.xiamen
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.264018, 7.178037
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wuppertal
 chat:
   name: ''

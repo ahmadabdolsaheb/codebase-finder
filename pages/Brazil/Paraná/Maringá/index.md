@@ -8,7 +8,7 @@ location:
   coordinates: -23.425104, -51.938285
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampmga
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 32.314035, -106.779808
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lc.nm
 chat:
   name: ''

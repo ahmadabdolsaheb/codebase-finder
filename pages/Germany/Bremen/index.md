@@ -8,7 +8,7 @@ location:
   coordinates: 41.446436, -86.148058
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bremen
 chat:
   name: ''

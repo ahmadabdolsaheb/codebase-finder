@@ -8,7 +8,7 @@ location:
   coordinates: 44.811349, -91.498494
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.eau.claire
 chat:
   name: ''

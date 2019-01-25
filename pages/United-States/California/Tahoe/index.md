@@ -8,7 +8,7 @@ location:
   coordinates: 46.096288, -115.807083
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tahoe
 chat:
   name: ''

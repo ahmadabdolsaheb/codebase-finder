@@ -8,7 +8,7 @@ location:
   coordinates: -38.718236, -62.266245
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampbahiablanca
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 36.166286, -115.149225
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.las.vegas.nv
 chat:
   name: ''

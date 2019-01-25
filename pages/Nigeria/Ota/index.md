@@ -8,7 +8,7 @@ location:
   coordinates: 35.561206, 139.715843
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ota
 chat:
   name: ''

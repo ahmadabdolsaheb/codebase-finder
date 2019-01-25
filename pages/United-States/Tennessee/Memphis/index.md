@@ -8,7 +8,7 @@ location:
   coordinates: 35.149022, -90.051628
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Memphis
 chat:
   name: ''

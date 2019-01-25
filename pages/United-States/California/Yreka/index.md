@@ -8,7 +8,7 @@ location:
   coordinates: 41.732616, -122.637765
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Yreka
 chat:
   name: ''

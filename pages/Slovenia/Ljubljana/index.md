@@ -8,7 +8,7 @@ location:
   coordinates: 46.049865, 14.506892
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ljubljana
 chat:
   name: ''

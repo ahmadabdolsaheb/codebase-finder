@@ -8,7 +8,7 @@ location:
   coordinates: 55.965139, 43.071114
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Pavlovo
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -39.490858, 176.917911
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Napier
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.927798, 4.488623
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rotterdam
 chat:
   name: ''

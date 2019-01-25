@@ -8,7 +8,7 @@ location:
   coordinates: 15.454051, 75.006652
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dharwad
 chat:
   name: ''

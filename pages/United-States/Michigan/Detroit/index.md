@@ -8,7 +8,7 @@ location:
   coordinates: 42.348664, -83.056737
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.detroit
 chat:
   name: ''

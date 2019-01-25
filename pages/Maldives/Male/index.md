@@ -8,7 +8,7 @@ location:
   coordinates: 46.351607, 10.912876
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodemv
 chat:
   name: ''

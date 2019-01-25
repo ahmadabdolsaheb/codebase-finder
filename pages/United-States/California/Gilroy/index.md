@@ -8,7 +8,7 @@ location:
   coordinates: 37.006508, -121.563172
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.come.gilroy
 chat:
   name: ''

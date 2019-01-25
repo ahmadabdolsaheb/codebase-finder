@@ -8,7 +8,7 @@ location:
   coordinates: 7.063976, 125.60831
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.davao
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 62.89246, 27.678184
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kuopio
 chat:
   name: ''

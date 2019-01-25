@@ -8,7 +8,7 @@ location:
   coordinates: -3.856101, -32.424819
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fernandodenoronha
 chat:
   name: ''

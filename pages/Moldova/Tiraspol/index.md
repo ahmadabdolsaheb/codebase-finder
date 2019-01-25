@@ -8,7 +8,7 @@ location:
   coordinates: 46.851604, 29.634944
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tiraspol
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.883237, -43.115455
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.niteroi
 chat:
   name: ''

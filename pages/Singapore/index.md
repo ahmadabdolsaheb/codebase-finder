@@ -8,7 +8,7 @@ location:
   coordinates: 1.290453, 103.852038
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.singapore
 chat:
   name: ''

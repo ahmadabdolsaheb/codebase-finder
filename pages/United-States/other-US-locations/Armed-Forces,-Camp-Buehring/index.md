@@ -8,7 +8,7 @@ location:
   coordinates: 29.699025, 47.420235
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.buehring
 chat:
   name: ''

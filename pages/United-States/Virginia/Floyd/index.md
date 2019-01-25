@@ -8,7 +8,7 @@ location:
   coordinates: 36.911244, -80.32005
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.floyd.virginia
 chat:
   name: ''

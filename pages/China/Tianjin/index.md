@@ -8,7 +8,7 @@ location:
   coordinates: 39.123564, 117.198079
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Tianjin
 chat:
   name: ''

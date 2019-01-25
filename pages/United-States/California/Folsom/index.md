@@ -8,7 +8,7 @@ location:
   coordinates: 38.677959, -121.176058
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.folsom
 chat:
   name: ''

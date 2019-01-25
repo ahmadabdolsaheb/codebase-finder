@@ -8,7 +8,7 @@ location:
   coordinates: 53.534361, -113.506508
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.edmonton
 chat:
   name: ''

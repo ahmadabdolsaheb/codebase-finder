@@ -8,7 +8,7 @@ location:
   coordinates: 31.811131, -106.501349
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.el.paso
 chat:
   name: ''

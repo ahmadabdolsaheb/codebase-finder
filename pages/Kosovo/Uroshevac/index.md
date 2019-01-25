@@ -8,7 +8,7 @@ location:
   coordinates: 42.3701844,21.1483281
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ferizaj
 chat:
   name: ''

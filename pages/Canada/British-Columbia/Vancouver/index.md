@@ -8,7 +8,7 @@ location:
   coordinates: 49.260894, -123.113938
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vancouver.bc.canada
 chat:
   name: ''

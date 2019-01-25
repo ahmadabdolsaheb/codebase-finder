@@ -8,7 +8,7 @@ location:
   coordinates: 51.097235, -1.313653
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.winchestercity
 chat:
   name: ''

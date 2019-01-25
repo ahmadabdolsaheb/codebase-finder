@@ -8,7 +8,7 @@ location:
   coordinates: 32.6778114,35.2417497
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.migdal.haemek/
 chat:
   name: ''

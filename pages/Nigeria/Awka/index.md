@@ -8,7 +8,7 @@ location:
   coordinates: 6.210095, 7.074115
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.awka
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 41.596564, -73.91121
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.WappingersFalls
 chat:
   name: ''

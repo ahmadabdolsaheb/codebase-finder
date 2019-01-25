@@ -8,7 +8,7 @@ location:
   coordinates: -33.928992, 18.417396
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cape.town
 chat:
   name: ''

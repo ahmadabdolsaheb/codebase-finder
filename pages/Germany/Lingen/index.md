@@ -8,7 +8,7 @@ location:
   coordinates: 52.522466, 7.316584
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lingen
 chat:
   name: ''

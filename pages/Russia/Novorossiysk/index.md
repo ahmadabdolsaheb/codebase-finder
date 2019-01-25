@@ -8,7 +8,7 @@ location:
   coordinates: 44.723958, 37.769071
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.novorossiysk
 chat:
   name: ''

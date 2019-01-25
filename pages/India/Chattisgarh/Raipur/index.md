@@ -8,7 +8,7 @@ location:
   coordinates: 22.802478, 86.946539
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.raipur
 chat:
   name: ''

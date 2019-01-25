@@ -8,7 +8,7 @@ location:
   coordinates: 23.759357, 90.378814
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dhaka
 chat:
   name: ''

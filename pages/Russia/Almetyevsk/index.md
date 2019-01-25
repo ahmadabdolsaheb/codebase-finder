@@ -8,7 +8,7 @@ location:
   coordinates: 54.89965, 52.301485
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.almetyevsk
 chat:
   name: ''

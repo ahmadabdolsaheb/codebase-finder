@@ -8,7 +8,7 @@ location:
   coordinates: 41.549566, -72.65156
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.middletown.ny
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 40.233844, -111.658534
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.provo
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 34.93932, -79.773946
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rockingham.nc
 chat:
   name: ''

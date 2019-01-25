@@ -8,7 +8,7 @@ location:
   coordinates: 22.6859, 72.860129
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nadiad
 chat:
   name: ''

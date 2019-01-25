@@ -8,7 +8,7 @@ location:
   coordinates: 47.161494, 27.58405
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.iasi.romania
 chat:
   name: ''

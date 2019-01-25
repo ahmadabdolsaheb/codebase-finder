@@ -8,7 +8,7 @@ location:
   coordinates: 26.11829, 85.385789
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.muzaffarpur
 chat:
   name: ''

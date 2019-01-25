@@ -8,7 +8,7 @@ location:
   coordinates: 60.451753, 22.267052
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.turku
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -27.5973, -48.54961
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.florianopolis
 chat:
   name: ''

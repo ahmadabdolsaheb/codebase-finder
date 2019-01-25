@@ -8,7 +8,7 @@ location:
   coordinates: 41.366161, -81.854303
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.berea.kentucky
 chat:
   name: ''

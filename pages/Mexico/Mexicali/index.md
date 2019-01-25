@@ -8,7 +8,7 @@ location:
   coordinates: 32.62007, -115.44407
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Mexicali
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 54.149774, -4.477902
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.douglas
 chat:
   name: ''

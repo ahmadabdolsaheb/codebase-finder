@@ -8,7 +8,7 @@ location:
   coordinates: 41.940326, -85.000521
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coldwater.ks
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -27.3621374,-55.90087459999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.posadas
 chat:
   name: ''

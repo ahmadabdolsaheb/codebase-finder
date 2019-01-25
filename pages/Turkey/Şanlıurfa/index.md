@@ -8,7 +8,7 @@ location:
   coordinates: 37.160388, 38.790916
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sanliurfa
 chat:
   name: ''

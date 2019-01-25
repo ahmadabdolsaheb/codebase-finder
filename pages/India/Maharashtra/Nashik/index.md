@@ -8,7 +8,7 @@ location:
   coordinates: 20.011248, 73.790236
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.nashik
 chat:
   name: ''

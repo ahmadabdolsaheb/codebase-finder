@@ -8,7 +8,7 @@ location:
   coordinates: -1.283253, 36.817245
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nairobi
 chat:
   name: ''

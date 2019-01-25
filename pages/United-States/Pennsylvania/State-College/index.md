@@ -8,7 +8,7 @@ location:
   coordinates: 40.794026, -77.860697
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.stcollege.pa
 chat:
   name: ''

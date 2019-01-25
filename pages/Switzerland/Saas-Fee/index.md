@@ -8,7 +8,7 @@ location:
   coordinates: 46.107342, 7.924706
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saas.fee
 chat:
   name: ''

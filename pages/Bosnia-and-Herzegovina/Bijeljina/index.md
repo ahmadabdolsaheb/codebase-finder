@@ -8,7 +8,7 @@ location:
   coordinates: 44.757474, 19.217891
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bijeljina
 chat:
   name: ''

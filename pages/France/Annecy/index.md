@@ -8,7 +8,7 @@ location:
   coordinates: 45.899559, 6.128761
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.annecy
 chat:
   name: ''

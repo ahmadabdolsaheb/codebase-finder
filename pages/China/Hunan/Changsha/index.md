@@ -8,7 +8,7 @@ location:
   coordinates: 28.187377, 112.983582
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.changsha
 chat:
   name: ''

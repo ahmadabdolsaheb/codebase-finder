@@ -8,7 +8,7 @@ location:
   coordinates: 43.254687, -79.86782
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hamilton
 chat:
   name: ''

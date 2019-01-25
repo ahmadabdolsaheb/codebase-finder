@@ -8,7 +8,7 @@ location:
   coordinates: 24.344558, 56.742477
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sohar
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 40.75839, -82.515447
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mansfieldoh
 chat:
   name: ''

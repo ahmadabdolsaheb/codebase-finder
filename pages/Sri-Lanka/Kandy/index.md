@@ -8,7 +8,7 @@ location:
   coordinates: 7.293092, 80.635077
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kandy
 chat:
   name: ''

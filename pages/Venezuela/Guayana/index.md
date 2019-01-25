@@ -8,7 +8,7 @@ location:
   coordinates: 5.471696, -74.897694
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guayanaedobolivar
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -12.46044, 130.841047
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.darwin
 chat:
   name: ''

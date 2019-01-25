@@ -8,7 +8,7 @@ location:
   coordinates: 47.498382, 19.040471
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.budapest
 chat:
   name: ''

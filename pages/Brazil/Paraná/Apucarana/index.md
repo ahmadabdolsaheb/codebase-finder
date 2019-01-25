@@ -8,7 +8,7 @@ location:
   coordinates: -23.552533, -51.461076
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.apucarana.parana
 chat:
   name: ''

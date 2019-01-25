@@ -8,7 +8,7 @@ location:
   coordinates: 61.058242, 28.18753
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lappeenranta
 chat:
   name: ''

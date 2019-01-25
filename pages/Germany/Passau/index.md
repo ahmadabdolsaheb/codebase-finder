@@ -8,7 +8,7 @@ location:
   coordinates: 48.574014, 13.460645
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.passau
 chat:
   name: ''

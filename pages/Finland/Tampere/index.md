@@ -8,7 +8,7 @@ location:
   coordinates: 61.498021, 23.760312
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Tampere
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 40.958709, -74.036806
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oradell
 chat:
   name: ''

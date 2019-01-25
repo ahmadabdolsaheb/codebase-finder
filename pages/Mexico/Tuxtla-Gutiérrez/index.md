@@ -8,7 +8,7 @@ location:
   coordinates: 16.753801, -93.115959
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tuxtla.gutierrez
 chat:
   name: ''

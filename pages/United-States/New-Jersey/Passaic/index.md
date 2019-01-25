@@ -8,7 +8,7 @@ location:
   coordinates: 40.8567662,-74.1284764
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.passiac.nj
 chat:
   name: ''

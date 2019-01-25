@@ -8,7 +8,7 @@ location:
   coordinates: -3.730451, -38.521799
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.group.fortaleza
 chat:
   name: ''

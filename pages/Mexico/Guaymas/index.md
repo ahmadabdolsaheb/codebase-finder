@@ -8,7 +8,7 @@ location:
   coordinates: 27.921644, -110.899406
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/FreeCodeCamp.Guaymas
 chat:
   name: ''

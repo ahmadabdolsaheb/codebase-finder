@@ -8,7 +8,7 @@ location:
   coordinates: 44.959602, -89.629824
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wausau
 chat:
   name: ''

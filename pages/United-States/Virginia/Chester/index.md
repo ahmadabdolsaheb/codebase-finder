@@ -8,7 +8,7 @@ location:
   coordinates: 53.190887, -2.890895
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chester.va
 chat:
   name: ''

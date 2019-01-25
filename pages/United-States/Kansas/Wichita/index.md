@@ -8,7 +8,7 @@ location:
   coordinates: 37.692236, -97.337545
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wichita
 chat:
   name: ''

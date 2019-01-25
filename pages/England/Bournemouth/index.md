@@ -8,7 +8,7 @@ location:
   coordinates: 50.719478, -1.876771
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bournemouth.UK
 chat:
   name: ''

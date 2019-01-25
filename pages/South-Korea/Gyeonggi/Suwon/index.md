@@ -8,7 +8,7 @@ location:
   coordinates: 33.429441, 126.267859
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.suwon
 chat:
   name: ''

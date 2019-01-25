@@ -8,7 +8,7 @@ location:
   coordinates: 53.47913, -2.244101
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.manchester.kentucky
 chat:
   name: ''

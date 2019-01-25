@@ -8,7 +8,7 @@ location:
   coordinates: 45.313823, 9.502427
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lodi
 chat:
   name: ''

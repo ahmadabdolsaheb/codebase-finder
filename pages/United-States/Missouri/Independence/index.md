@@ -8,7 +8,7 @@ location:
   coordinates: 37.224236, -95.708313
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.independence.mo
 chat:
   name: ''

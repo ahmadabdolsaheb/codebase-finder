@@ -8,7 +8,7 @@ location:
   coordinates: 14.009602, -60.990274
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.castries
 chat:
   name: ''

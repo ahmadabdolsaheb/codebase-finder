@@ -8,7 +8,7 @@ location:
   coordinates: 19.873954, 75.32778
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampauranagabad
 chat:
   name: ''

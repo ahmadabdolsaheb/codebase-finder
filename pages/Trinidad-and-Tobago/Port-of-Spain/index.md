@@ -8,7 +8,7 @@ location:
   coordinates: 10.657268, -61.518017
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.trinidad.and.tobago
 chat:
   name: ''

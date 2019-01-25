@@ -8,7 +8,7 @@ location:
   coordinates: 25.265651, 51.532111
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.almansoura
 chat:
   name: ''

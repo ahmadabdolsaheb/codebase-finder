@@ -8,7 +8,7 @@ location:
   coordinates: 47.739137, -122.63928
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.poulsbo.wa
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 38.046407, -84.497039
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lexington
 chat:
   name: ''

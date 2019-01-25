@@ -8,7 +8,7 @@ location:
   coordinates: 46.217697, 24.793777
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sighisoara
 chat:
   name: ''

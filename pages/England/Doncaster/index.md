@@ -8,7 +8,7 @@ location:
   coordinates: 53.522768, -1.133531
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.doncaster
 chat:
   name: ''

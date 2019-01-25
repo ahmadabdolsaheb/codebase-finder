@@ -8,7 +8,7 @@ location:
   coordinates: 26.606923, -81.980263
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.capecoral
 chat:
   name: ''

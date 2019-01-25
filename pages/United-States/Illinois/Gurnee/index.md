@@ -8,7 +8,7 @@ location:
   coordinates: 42.3703, -87.902019
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gurnee
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 32.947827, -112.716824
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Gila.Bend.AZ
 chat:
   name: ''

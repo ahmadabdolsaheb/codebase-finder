@@ -8,7 +8,7 @@ location:
   coordinates: 37.494657, -120.846594
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.turlock
 chat:
   name: ''

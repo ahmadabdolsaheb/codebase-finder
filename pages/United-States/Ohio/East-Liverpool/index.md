@@ -8,7 +8,7 @@ location:
   coordinates: 40.618676, -80.577293
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.EastLiverpool
 chat:
   name: ''

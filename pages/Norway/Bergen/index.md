@@ -8,7 +8,7 @@ location:
   coordinates: 60.394346, 5.325885
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Bergen
 chat:
   name: ''

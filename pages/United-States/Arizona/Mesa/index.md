@@ -8,7 +8,7 @@ location:
   coordinates: 33.436188, -111.586066
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mesa
 chat:
   name: ''

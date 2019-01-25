@@ -8,7 +8,7 @@ location:
   coordinates: 22.476058,88.4147846
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.nsec
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 48.855434, 16.048946
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.znojmo
 chat:
   name: ''

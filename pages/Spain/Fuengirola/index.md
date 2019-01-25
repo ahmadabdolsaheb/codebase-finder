@@ -8,7 +8,7 @@ location:
   coordinates: 36.541358, -4.623757
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fuengirola
 chat:
   name: ''

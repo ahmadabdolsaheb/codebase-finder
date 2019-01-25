@@ -8,7 +8,7 @@ location:
   coordinates: 5.475808, 10.421557
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bafoussam
 chat:
   name: ''

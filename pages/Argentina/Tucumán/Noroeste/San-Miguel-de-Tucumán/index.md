@@ -8,7 +8,7 @@ location:
   coordinates: -26.8241405, -65.2226028
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://web.facebook.com/groups/free.code.camp.smtucuman
 chat:
   name: ''

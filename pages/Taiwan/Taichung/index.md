@@ -8,7 +8,7 @@ location:
   coordinates: 24.163162, 120.647828
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.taichung.city
 chat:
   name: ''

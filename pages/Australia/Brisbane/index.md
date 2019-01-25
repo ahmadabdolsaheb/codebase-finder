@@ -8,7 +8,7 @@ location:
   coordinates: -27.468968, 153.023499
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brisbane
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 36.155681, -95.992911
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tulsa
 chat:
   name: ''

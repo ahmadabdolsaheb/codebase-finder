@@ -8,7 +8,7 @@ location:
   coordinates: 51.603949, 10.13364
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bodensee
 chat:
   name: ''

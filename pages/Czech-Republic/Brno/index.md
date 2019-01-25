@@ -8,7 +8,7 @@ location:
   coordinates: 49.192244, 16.611338
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brno
 chat:
   name: ''

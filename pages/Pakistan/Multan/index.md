@@ -8,7 +8,7 @@ location:
   coordinates: 30.197721, 71.473628
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.multan
 chat:
   name: ''

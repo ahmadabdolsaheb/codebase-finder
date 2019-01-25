@@ -8,7 +8,7 @@ location:
   coordinates: 60.934044, 76.58037
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nizhnevartovsk
 chat:
   name: ''

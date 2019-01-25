@@ -8,7 +8,7 @@ location:
   coordinates: 38.729625, -120.798546
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.placerville
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.225402, 6.776314
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.duesseldorf
 chat:
   name: ''

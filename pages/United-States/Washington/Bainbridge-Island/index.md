@@ -8,7 +8,7 @@ location:
   coordinates: 47.65526, -122.535086
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bainbridge.island
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 9.791643, 125.492927
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.surigao
 chat:
   name: ''

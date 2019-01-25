@@ -8,7 +8,7 @@ location:
   coordinates: 34.685296, 135.514568
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.osaka
 chat:
   name: ''

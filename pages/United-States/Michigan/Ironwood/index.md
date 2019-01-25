@@ -8,7 +8,7 @@ location:
   coordinates: 46.454571, -90.168582
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ironwood
 chat:
   name: ''

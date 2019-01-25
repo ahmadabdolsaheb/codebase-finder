@@ -8,7 +8,7 @@ location:
   coordinates: 25.268352, 55.296196
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dubai
 chat:
   name: ''

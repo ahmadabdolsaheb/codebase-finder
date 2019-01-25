@@ -8,7 +8,7 @@ location:
   coordinates: 33.745851, -117.826166
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tustin
 chat:
   name: ''

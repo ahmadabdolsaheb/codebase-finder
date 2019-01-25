@@ -8,7 +8,7 @@ location:
   coordinates: 51.005111, 5.869474
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sittard
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 36.9264582,7.752535200000001
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.annaba
 chat:
   name: ''

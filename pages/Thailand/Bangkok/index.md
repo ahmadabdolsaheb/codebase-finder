@@ -8,7 +8,7 @@ location:
   coordinates: 13.754253, 100.493087
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bangkok
 chat:
   name: ''

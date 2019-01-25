@@ -8,7 +8,7 @@ location:
   coordinates: 39.056308, -77.440484
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.university.center
 chat:
   name: ''

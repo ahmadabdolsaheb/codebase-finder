@@ -8,7 +8,7 @@ location:
   coordinates: 32.080481, 34.780527
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Tel.Aviv
 chat:
   name: ''

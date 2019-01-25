@@ -8,7 +8,7 @@ location:
   coordinates: 7.44689, 125.809577
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.tagum
 chat:
   name: ''

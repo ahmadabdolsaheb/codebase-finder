@@ -8,7 +8,7 @@ location:
   coordinates: 13.45535, -16.575646
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.banjul
 chat:
   name: ''

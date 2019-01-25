@@ -8,7 +8,7 @@ location:
   coordinates: 23.366464, 85.320503
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ranchi
 chat:
   name: ''

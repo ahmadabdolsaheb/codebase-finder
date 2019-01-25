@@ -8,7 +8,7 @@ location:
   coordinates: 34.850851, 5.728688
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.biskra
 chat:
   name: ''

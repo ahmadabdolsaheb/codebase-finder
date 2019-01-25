@@ -8,7 +8,7 @@ location:
   coordinates: 42.473701, -72.006188
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hubbardston
 chat:
   name: ''

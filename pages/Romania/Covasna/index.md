@@ -8,7 +8,7 @@ location:
   coordinates: 45.844899, 26.169311
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.covasna
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 35.493783, 112.851986
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jincheng
 chat:
   name: ''

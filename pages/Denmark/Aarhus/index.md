@@ -8,7 +8,7 @@ location:
   coordinates: 56.149628, 10.213405
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/FreeCodeCampAarhus
 chat:
   name: ''

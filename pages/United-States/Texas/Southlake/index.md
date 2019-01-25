@@ -8,7 +8,7 @@ location:
   coordinates: 32.941236, -97.134178
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.southlake
 chat:
   name: ''

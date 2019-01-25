@@ -8,7 +8,7 @@ location:
   coordinates: 51.22111, 4.399708
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.antwerp
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 20.144953, -75.207252
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gtmo
 chat:
   name: ''

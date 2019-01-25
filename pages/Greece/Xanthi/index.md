@@ -8,7 +8,7 @@ location:
   coordinates: 41.138029, 24.886269
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.xanthi
 chat:
   name: ''

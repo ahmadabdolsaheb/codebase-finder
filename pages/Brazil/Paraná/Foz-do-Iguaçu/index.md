@@ -8,7 +8,7 @@ location:
   coordinates: -25.520873, -54.576308
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.foz.do.iguacu
 chat:
   name: ''

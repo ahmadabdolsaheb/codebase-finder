@@ -8,7 +8,7 @@ location:
   coordinates: 52.04298, -0.758961
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.milton.keynes
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 24.225841, 55.747405
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.AlAin
 chat:
   name: ''

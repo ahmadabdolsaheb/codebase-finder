@@ -8,7 +8,7 @@ location:
   coordinates: 21.386338,-157.9255357
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aiea/
 chat:
   name: ''

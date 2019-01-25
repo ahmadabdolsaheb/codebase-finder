@@ -8,7 +8,7 @@ location:
   coordinates: 7.735603, 81.694196
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.batticaloa
 chat:
   name: ''

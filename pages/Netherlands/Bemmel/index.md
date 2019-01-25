@@ -8,7 +8,7 @@ location:
   coordinates: 51.899913, 5.893718
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bemmel
 chat:
   name: ''

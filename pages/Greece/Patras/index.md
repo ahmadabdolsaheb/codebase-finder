@@ -8,7 +8,7 @@ location:
   coordinates: 38.246203, 21.735249
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Patras
 chat:
   name: ''

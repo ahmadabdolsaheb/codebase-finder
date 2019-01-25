@@ -8,7 +8,7 @@ location:
   coordinates: 49.990279, 36.230389
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kharkiv
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -24.865325, 152.351679
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bundaberg
 chat:
   name: ''

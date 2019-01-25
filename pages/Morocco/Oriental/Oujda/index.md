@@ -8,7 +8,7 @@ location:
   coordinates: 34.681962,-1.900155
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oujda.morocco/
 chat:
   name: ''

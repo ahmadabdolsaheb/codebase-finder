@@ -8,7 +8,7 @@ location:
   coordinates: -0.3030988,36.080026
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/nakuru.free.code.camp/
 chat:
   name: ''

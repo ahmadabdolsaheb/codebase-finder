@@ -8,7 +8,7 @@ location:
   coordinates: 65.011873, 25.471681
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.finland.oulu
 chat:
   name: ''

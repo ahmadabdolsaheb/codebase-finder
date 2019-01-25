@@ -8,7 +8,7 @@ location:
   coordinates: 41.7910697,-107.2386627
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rawlins.wyoming/
 chat:
   name: ''

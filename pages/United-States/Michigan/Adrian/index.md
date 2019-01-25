@@ -8,7 +8,7 @@ location:
   coordinates: 41.897547, -84.037166
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.adrian.mi
 chat:
   name: ''

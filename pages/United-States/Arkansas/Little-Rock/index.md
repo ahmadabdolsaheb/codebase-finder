@@ -8,7 +8,7 @@ location:
   coordinates: 34.746481, -92.289595
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.little.rock
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 18.465299, -66.116666
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.juan.philippines
 chat:
   name: ''

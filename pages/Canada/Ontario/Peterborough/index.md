@@ -8,7 +8,7 @@ location:
   coordinates: 52.573888, -0.24167
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.peterborough
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.283056, -46.369167
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ouro.fino.mg
 chat:
   name: ''

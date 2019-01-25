@@ -8,7 +8,7 @@ location:
   coordinates: 37.003348, 35.326325
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.adana
 chat:
   name: ''

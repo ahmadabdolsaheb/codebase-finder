@@ -8,7 +8,7 @@ location:
   coordinates: 30.292436, 57.064683
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kerman
 chat:
   name: ''

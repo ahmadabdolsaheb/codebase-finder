@@ -8,7 +8,7 @@ location:
   coordinates: 39.3022693,-90.4070632
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.carrollton.il
 chat:
   name: ''

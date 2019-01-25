@@ -8,7 +8,7 @@ location:
   coordinates: 52.203305, 0.124862
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Cambridge.ON.Canada
 chat:
   name: ''

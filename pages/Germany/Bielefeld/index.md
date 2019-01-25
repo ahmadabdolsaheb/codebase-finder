@@ -8,7 +8,7 @@ location:
   coordinates: 52.022901, 8.535069
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bielefeld
 chat:
   name: ''

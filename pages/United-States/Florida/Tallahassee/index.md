@@ -8,7 +8,7 @@ location:
   coordinates: 30.438083, -84.280933
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tallahassee.florida
 chat:
   name: ''

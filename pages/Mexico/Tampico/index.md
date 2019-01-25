@@ -8,7 +8,7 @@ location:
   coordinates: 22.217047, -97.846366
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tampico
 chat:
   name: ''

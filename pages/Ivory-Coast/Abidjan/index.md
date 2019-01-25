@@ -8,7 +8,7 @@ location:
   coordinates: 5.320357, -4.016107
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.babi
 chat:
   name: ''

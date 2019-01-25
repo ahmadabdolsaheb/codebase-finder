@@ -8,7 +8,7 @@ location:
   coordinates: 36.800108, 10.184794
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tunis
 chat:
   name: ''

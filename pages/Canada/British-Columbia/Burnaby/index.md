@@ -8,7 +8,7 @@ location:
   coordinates: 49.243277, -122.972593
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.burnaby
 chat:
   name: ''

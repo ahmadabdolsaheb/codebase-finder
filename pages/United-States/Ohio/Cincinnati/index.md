@@ -8,7 +8,7 @@ location:
   coordinates: 39.101454, -84.51246
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cincinnati
 chat:
   name: ''

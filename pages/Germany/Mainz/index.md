@@ -8,7 +8,7 @@ location:
   coordinates: 49.999995, 8.271024
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mainz
 chat:
   name: ''

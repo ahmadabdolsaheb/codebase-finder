@@ -8,7 +8,7 @@ location:
   coordinates: 58.146708, 7.995766
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kristiansand
 chat:
   name: ''

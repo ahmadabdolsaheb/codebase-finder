@@ -8,7 +8,7 @@ location:
   coordinates: 53.424281, 58.983333
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.magnitogorsk
 chat:
   name: ''

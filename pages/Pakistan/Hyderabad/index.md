@@ -8,7 +8,7 @@ location:
   coordinates: 25.3818, 68.3694
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hyderabad.pk
 chat:
   name: ''

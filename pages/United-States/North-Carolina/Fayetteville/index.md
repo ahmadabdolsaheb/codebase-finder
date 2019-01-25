@@ -8,7 +8,7 @@ location:
   coordinates: 36.062584, -94.157433
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampfayettevilleNC
 chat:
   name: ''

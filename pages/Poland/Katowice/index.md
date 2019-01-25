@@ -8,7 +8,7 @@ location:
   coordinates: 50.259432, 19.022134
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.the.katowice
 chat:
   name: ''

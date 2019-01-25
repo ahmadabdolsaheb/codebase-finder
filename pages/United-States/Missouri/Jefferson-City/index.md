@@ -8,7 +8,7 @@ location:
   coordinates: 38.577359, -92.172426
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jeffersoncity
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 18.480197, -69.942111
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dr
 chat:
   name: ''

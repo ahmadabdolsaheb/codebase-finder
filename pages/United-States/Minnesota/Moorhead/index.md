@@ -8,7 +8,7 @@ location:
   coordinates: 46.873908, -96.753867
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.moorhead.nd
 chat:
   name: ''

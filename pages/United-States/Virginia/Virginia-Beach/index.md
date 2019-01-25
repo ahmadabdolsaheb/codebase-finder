@@ -8,7 +8,7 @@ location:
   coordinates: 36.852984, -75.977418
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.virginia.beach
 chat:
   name: ''

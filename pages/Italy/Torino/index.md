@@ -8,7 +8,7 @@ location:
   coordinates: 45.07092, 7.685972
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.torino
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 48.111359, -1.680009
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rennes
 chat:
   name: ''

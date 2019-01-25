@@ -8,7 +8,7 @@ location:
   coordinates: 6.328034, -10.797788
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.monrovia.lr
 chat:
   name: ''

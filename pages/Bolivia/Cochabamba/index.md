@@ -8,7 +8,7 @@ location:
   coordinates: -17.393542, -66.157014
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Cochabamba
 chat:
   name: ''

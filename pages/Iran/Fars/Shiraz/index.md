@@ -8,7 +8,7 @@ location:
   coordinates: 29.615676, 52.547660
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://gitter.im/freeCodeCampShiraz/
 chat:
   name: ''

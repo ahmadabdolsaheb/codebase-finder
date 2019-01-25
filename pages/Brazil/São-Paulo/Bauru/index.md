@@ -8,7 +8,7 @@ location:
   coordinates: -22.32181, -49.070586
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bauru
 chat:
   name: ''

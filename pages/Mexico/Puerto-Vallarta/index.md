@@ -8,7 +8,7 @@ location:
   coordinates: 20.609224, -105.233893
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.puerto.vallarta
 chat:
   name: ''

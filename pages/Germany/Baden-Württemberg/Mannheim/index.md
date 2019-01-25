@@ -8,7 +8,7 @@ location:
   coordinates: 49.4874592,8.466039499999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mannheim
 chat:
   name: ''

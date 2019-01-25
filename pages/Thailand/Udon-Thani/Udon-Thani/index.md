@@ -8,7 +8,7 @@ location:
   coordinates: 17.3646969,102.8158924
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.udon.thani/
 chat:
   name: ''

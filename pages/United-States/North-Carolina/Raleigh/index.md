@@ -8,7 +8,7 @@ location:
   coordinates: 35.780398, -78.639099
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.raleigh
 chat:
   name: ''

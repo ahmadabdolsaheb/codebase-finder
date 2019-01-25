@@ -8,7 +8,7 @@ location:
   coordinates: 55.734499, 24.357806
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.panevezys
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -1.0387569,37.0833753
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.thika
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -7.114784, -34.889798
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.joao.pessoa
 chat:
   name: ''

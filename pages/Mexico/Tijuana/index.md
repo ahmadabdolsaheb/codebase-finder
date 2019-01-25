@@ -8,7 +8,7 @@ location:
   coordinates: 32.500863, -116.964166
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tijuana
 chat:
   name: ''

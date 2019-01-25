@@ -8,7 +8,7 @@ location:
   coordinates: 41.033986, -73.76291
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.white.plains
 chat:
   name: ''

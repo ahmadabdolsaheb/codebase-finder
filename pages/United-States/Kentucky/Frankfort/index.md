@@ -8,7 +8,7 @@ location:
   coordinates: 50.110653, 8.682093
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.frankfort.kentucky
 chat:
   name: ''

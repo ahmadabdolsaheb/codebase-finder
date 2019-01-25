@@ -8,7 +8,7 @@ location:
   coordinates: -20.163728, 57.504533
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.port.louis
 chat:
   name: ''

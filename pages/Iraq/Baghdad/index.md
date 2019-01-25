@@ -8,7 +8,7 @@ location:
   coordinates: 33.302425, 44.378799
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.baghdad
 chat:
   name: ''

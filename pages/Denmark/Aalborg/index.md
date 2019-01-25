@@ -8,7 +8,7 @@ location:
   coordinates: 57.048221, 9.919394
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aalborg
 chat:
   name: ''

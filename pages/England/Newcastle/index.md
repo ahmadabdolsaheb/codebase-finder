@@ -8,7 +8,7 @@ location:
   coordinates: 54.977092, -1.614206
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.newcastle
 chat:
   name: ''

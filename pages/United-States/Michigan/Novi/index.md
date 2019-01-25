@@ -8,7 +8,7 @@ location:
   coordinates: 42.48059, -83.475491
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.NOVI.MI
 chat:
   name: ''

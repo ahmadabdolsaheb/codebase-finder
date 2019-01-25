@@ -8,7 +8,7 @@ location:
   coordinates: 44.106319, 19.295278
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.srebrenica
 chat:
   name: ''

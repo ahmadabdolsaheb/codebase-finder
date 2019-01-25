@@ -8,7 +8,7 @@ location:
   coordinates: 33.509122, -111.899236
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.scottsdale
 chat:
   name: ''

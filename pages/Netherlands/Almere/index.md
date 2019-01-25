@@ -8,7 +8,7 @@ location:
   coordinates: 52.441759, 5.209315
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.almere.netherlands
 chat:
   name: ''

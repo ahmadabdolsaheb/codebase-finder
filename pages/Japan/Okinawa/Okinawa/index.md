@@ -8,7 +8,7 @@ location:
   coordinates: 26.338393, 127.806341
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.okinawa
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.621144, -3.946775
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.swansea
 chat:
   name: ''

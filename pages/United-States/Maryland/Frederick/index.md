@@ -8,7 +8,7 @@ location:
   coordinates: 39.414443, -77.410578
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.frederick
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 52.005664, 5.876235
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.arnhem
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 20.7002159,77.0081678
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.akola/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 52.079984, 4.311346
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.the.hague
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 41.788642, -89.696219
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Sterling.IL
 chat:
   name: ''

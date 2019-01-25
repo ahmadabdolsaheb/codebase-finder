@@ -8,7 +8,7 @@ location:
   coordinates: 16.412007, 120.593394
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.baguio.benguet
 chat:
   name: ''

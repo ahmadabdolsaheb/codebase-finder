@@ -8,7 +8,7 @@ location:
   coordinates: 29.882644, -97.940583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.marcos
 chat:
   name: ''

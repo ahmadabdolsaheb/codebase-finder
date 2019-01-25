@@ -8,7 +8,7 @@ location:
   coordinates: 48.35187, -116.547416
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bronx.ny
 chat:
   name: ''

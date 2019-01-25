@@ -8,7 +8,7 @@ location:
   coordinates: 33.749099, -84.390185
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.atlanta
 chat:
   name: ''

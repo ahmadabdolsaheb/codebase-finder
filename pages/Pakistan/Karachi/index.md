@@ -8,7 +8,7 @@ location:
   coordinates: 24.86678, 67.031129
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.karachi
 chat:
   name: ''

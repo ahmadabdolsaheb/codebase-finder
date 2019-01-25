@@ -8,7 +8,7 @@ location:
   coordinates: 36.16223, -86.774353
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nashville
 chat:
   name: ''

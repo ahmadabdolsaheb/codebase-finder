@@ -8,7 +8,7 @@ location:
   coordinates: 41.308214, -72.925052
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.new.haven
 chat:
   name: ''

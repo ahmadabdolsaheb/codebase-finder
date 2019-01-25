@@ -8,7 +8,7 @@ location:
   coordinates: 58.30195, -134.419734
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.juneau
 chat:
   name: ''

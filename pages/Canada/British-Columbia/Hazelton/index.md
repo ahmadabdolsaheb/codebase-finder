@@ -8,7 +8,7 @@ location:
   coordinates: 35.042192, -119.384561
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hazelton.britishcolumbia
 chat:
   name: ''

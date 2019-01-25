@@ -8,7 +8,7 @@ location:
   coordinates: 11.940242, 108.437576
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.Dalat
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 9.618709, 6.547575
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.minna
 chat:
   name: ''

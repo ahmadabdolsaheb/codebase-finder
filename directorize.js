@@ -93,7 +93,7 @@ location:
   coordinates: ${coordinates ? coordinates: ''}
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: ${url ? url: ''}
 chat:
   name: ''

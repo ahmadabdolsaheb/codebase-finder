@@ -8,7 +8,7 @@ location:
   coordinates: -35.281207, 149.128766
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.canberra
 chat:
   name: ''

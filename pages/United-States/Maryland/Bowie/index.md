@@ -8,7 +8,7 @@ location:
   coordinates: 38.942966, -76.731234
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bowie.md
 chat:
   name: ''

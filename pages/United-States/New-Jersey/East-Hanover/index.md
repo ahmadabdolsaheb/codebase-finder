@@ -8,7 +8,7 @@ location:
   coordinates: 40.8201, -74.364873
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.east.hanover
 chat:
   name: ''

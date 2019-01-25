@@ -8,7 +8,7 @@ location:
   coordinates: 39.475155, -6.371413
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.caceres
 chat:
   name: ''

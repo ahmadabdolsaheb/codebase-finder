@@ -8,7 +8,7 @@ location:
   coordinates: 41.178429, -74.540437
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mcafee
 chat:
   name: ''

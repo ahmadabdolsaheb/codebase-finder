@@ -8,7 +8,7 @@ location:
   coordinates: -2.212436, -79.895812
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guayaqui.ecuador
 chat:
   name: ''

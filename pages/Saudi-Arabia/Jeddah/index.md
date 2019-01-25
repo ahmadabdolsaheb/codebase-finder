@@ -8,7 +8,7 @@ location:
   coordinates: 21.582225, 39.16404
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.jeddah
 chat:
   name: ''

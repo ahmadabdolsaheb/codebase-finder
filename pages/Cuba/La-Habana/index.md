@@ -8,7 +8,7 @@ location:
   coordinates: 23.137991, -82.365856
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.havana
 chat:
   name: ''

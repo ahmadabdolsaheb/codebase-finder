@@ -8,7 +8,7 @@ location:
   coordinates: 52.40823, 16.933364
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.poznan
 chat:
   name: ''

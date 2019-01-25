@@ -8,7 +8,7 @@ location:
   coordinates: 14.482032, 120.908915
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cavite.city
 chat:
   name: ''

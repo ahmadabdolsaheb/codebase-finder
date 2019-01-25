@@ -8,7 +8,7 @@ location:
   coordinates: 40.6404067,15.8056041
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.potenza
 chat:
   name: ''

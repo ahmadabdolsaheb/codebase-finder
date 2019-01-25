@@ -8,7 +8,7 @@ location:
   coordinates: 41.222319, -73.056495
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.milford.michigan
 chat:
   name: ''

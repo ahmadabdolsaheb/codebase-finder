@@ -8,7 +8,7 @@ location:
   coordinates: -27.054349, -49.517312
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ibirama.sc
 chat:
   name: ''

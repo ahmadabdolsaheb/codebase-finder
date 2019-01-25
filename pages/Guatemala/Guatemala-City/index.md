@@ -8,7 +8,7 @@ location:
   coordinates: 14.641789, -90.513224
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guatemala
 chat:
   name: ''

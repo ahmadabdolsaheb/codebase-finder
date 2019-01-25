@@ -8,7 +8,7 @@ location:
   coordinates: 57.60979099999999,-3.61998
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.forres/
 chat:
   name: ''

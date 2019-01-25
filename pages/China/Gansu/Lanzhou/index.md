@@ -8,7 +8,7 @@ location:
   coordinates: 36.060348, 103.833
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lanzhou
 chat:
   name: ''

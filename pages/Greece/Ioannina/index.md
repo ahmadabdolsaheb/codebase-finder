@@ -8,7 +8,7 @@ location:
   coordinates: 39.663982, 20.852278
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ioannina
 chat:
   name: ''

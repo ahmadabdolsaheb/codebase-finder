@@ -8,7 +8,7 @@ location:
   coordinates: 43.61656, -116.200835
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.boise
 chat:
   name: ''

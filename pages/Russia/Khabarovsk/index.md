@@ -8,7 +8,7 @@ location:
   coordinates: 48.481402, 135.07694
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.khabarovsk
 chat:
   name: ''

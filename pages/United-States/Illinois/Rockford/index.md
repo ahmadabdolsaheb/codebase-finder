@@ -8,7 +8,7 @@ location:
   coordinates: 42.271395, -89.093966
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Rockford
 chat:
   name: ''

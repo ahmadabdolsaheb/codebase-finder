@@ -8,7 +8,7 @@ location:
   coordinates: 43.516663, -79.879400
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.milton
 chat:
   name: ''

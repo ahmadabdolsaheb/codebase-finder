@@ -8,7 +8,7 @@ location:
   coordinates: 35.622506, -117.669941
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ridgecrest
 chat:
   name: ''

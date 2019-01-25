@@ -8,7 +8,7 @@ location:
   coordinates: 22.775217, -102.572248
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zacatecas
 chat:
   name: ''

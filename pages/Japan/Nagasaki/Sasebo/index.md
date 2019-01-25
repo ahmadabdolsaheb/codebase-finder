@@ -8,7 +8,7 @@ location:
   coordinates: 33.177797, 129.672769
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sasebo
 chat:
   name: ''

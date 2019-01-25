@@ -8,7 +8,7 @@ location:
   coordinates: 6.961492, 126.214792
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mati
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 30.450746, -91.154551
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.baton.rouge.louisiana
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 39.768333, -86.15835
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.indianapolis.in
 chat:
   name: ''

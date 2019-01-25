@@ -8,7 +8,7 @@ location:
   coordinates: 34.4990116,-82.0142597
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.laurens.sc/
 chat:
   name: ''

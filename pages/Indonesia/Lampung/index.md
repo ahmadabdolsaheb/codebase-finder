@@ -8,7 +8,7 @@ location:
   coordinates: -5.446071, 105.264374
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bandar.lampung
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 31.55454, -110.303693
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sierra.vista
 chat:
   name: ''

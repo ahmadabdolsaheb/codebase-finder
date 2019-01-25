@@ -8,7 +8,7 @@ location:
   coordinates: 29.558571, 106.549282
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chongqing
 chat:
   name: ''

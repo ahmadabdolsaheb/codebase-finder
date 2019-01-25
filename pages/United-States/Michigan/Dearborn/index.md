@@ -8,7 +8,7 @@ location:
   coordinates: 42.32226, -83.176314
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dearborn
 chat:
   name: ''

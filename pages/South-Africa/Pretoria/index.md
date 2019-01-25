@@ -8,7 +8,7 @@ location:
   coordinates: -25.745837, 28.186718
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pretoria.za
 chat:
   name: ''

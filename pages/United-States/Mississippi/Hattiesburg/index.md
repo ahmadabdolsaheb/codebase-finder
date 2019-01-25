@@ -8,7 +8,7 @@ location:
   coordinates: 31.327119, -89.290339
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Hattiesburg
 chat:
   name: ''

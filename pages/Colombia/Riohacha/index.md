@@ -8,7 +8,7 @@ location:
   coordinates: 11.544634, -72.906978
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.riohacha
 chat:
   name: ''

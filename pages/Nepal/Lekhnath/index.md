@@ -8,7 +8,7 @@ location:
   coordinates: 28.154358, 84.079764
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Lekhnath
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 50.630509, 3.070641
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lille
 chat:
   name: ''

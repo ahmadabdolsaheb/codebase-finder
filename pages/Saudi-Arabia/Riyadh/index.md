@@ -8,7 +8,7 @@ location:
   coordinates: 24.631969, 46.715065
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Riyadh
 chat:
   name: ''

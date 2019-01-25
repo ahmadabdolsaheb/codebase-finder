@@ -8,7 +8,7 @@ location:
   coordinates: 37.036465, -76.393608
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hamptonroads
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -27.338582, -55.866846
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.encarnacion
 chat:
   name: ''

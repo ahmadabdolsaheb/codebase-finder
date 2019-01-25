@@ -8,7 +8,7 @@ location:
   coordinates: -51.6230485,-69.2168291
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Rio.Gallegos
 chat:
   name: ''

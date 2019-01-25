@@ -8,7 +8,7 @@ location:
   coordinates: 40.728158, -74.077642
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jersey.city.new.jersey
 chat:
   name: ''

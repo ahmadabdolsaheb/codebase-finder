@@ -8,7 +8,7 @@ location:
   coordinates: -21.788671, -48.17731
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.araraquara
 chat:
   name: ''

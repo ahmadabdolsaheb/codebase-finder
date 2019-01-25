@@ -8,7 +8,7 @@ location:
   coordinates: 34.074744, 74.820444
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.srinagar
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 20.958296, 95.895638
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.meiktila
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 29.210815, -81.022833
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.daytona.beach
 chat:
   name: ''

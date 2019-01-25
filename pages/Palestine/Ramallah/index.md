@@ -8,7 +8,7 @@ location:
   coordinates: 31.903082, 35.195174
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ramallah
 chat:
   name: ''

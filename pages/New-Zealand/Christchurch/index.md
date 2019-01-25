@@ -8,7 +8,7 @@ location:
   coordinates: -43.530955, 172.636646
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.christchurch
 chat:
   name: ''

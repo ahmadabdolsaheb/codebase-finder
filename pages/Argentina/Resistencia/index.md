@@ -8,7 +8,7 @@ location:
   coordinates: -27.451104, -58.986565
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.resistencia
 chat:
   name: ''

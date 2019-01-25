@@ -8,7 +8,7 @@ location:
   coordinates: 49.232016, 28.467975
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vinnitsa
 chat:
   name: ''

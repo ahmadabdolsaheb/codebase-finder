@@ -8,7 +8,7 @@ location:
   coordinates: -3.687913, -40.345637
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sobral.ce
 chat:
   name: ''

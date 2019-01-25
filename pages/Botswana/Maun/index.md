@@ -8,7 +8,7 @@ location:
   coordinates: -19.986095, 23.422435
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maun
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 45.5945645,-121.1786823
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.the.dalles/
 chat:
   name: ''

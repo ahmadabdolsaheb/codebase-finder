@@ -8,7 +8,7 @@ location:
   coordinates: 59.128697, 37.916389
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cherepovets
 chat:
   name: ''

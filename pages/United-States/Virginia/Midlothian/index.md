@@ -8,7 +8,7 @@ location:
   coordinates: 41.625312, -87.717549
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.midlothian.va
 chat:
   name: ''

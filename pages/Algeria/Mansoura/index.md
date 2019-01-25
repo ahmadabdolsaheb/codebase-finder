@@ -8,7 +8,7 @@ location:
   coordinates: 31.037566, 31.38649
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mansoura
 chat:
   name: ''

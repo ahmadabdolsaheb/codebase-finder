@@ -8,7 +8,7 @@ location:
   coordinates: 38.990666, -77.026088
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.silverspring
 chat:
   name: ''

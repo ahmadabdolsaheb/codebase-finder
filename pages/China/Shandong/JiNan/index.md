@@ -8,7 +8,7 @@ location:
   coordinates: 36.650701, 117.114004
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jinan
 chat:
   name: ''

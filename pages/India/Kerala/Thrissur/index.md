@@ -8,7 +8,7 @@ location:
   coordinates: 10.524748, 76.214394
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.thrissur
 chat:
   name: ''

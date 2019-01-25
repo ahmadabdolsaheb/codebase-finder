@@ -8,7 +8,7 @@ location:
   coordinates: 43.11624, -79.24122
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.niagara
 chat:
   name: ''

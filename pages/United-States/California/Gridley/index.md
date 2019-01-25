@@ -8,7 +8,7 @@ location:
   coordinates: 39.363777, -121.693583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gridley
 chat:
   name: ''

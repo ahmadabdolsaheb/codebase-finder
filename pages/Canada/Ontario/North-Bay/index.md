@@ -8,7 +8,7 @@ location:
   coordinates: 46.320019, -79.457943
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.north.bay
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -6.208383, 106.833559
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guntur
 chat:
   name: ''

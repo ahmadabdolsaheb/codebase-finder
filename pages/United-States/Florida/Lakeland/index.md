@@ -8,7 +8,7 @@ location:
   coordinates: 28.039465, -81.949804
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Lakeland.Florida
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 12.895511, 77.866927
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tirupathi
 chat:
   name: ''

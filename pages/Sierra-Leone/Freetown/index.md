@@ -8,7 +8,7 @@ location:
   coordinates: 8.479002, -13.268016
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.salone
 chat:
   name: ''

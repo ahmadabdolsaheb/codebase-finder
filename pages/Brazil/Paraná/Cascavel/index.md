@@ -8,7 +8,7 @@ location:
   coordinates: -24.961676, -53.436067
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.cascavel
 chat:
   name: ''

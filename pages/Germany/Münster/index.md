@@ -8,7 +8,7 @@ location:
   coordinates: 51.96251, 7.625188
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.muenster
 chat:
   name: ''

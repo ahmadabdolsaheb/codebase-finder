@@ -8,7 +8,7 @@ location:
   coordinates: 51.767394, 55.097131
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.orenburg
 chat:
   name: ''

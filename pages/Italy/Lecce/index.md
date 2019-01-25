@@ -8,7 +8,7 @@ location:
   coordinates: 40.357037, 18.171848
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lecce
 chat:
   name: ''

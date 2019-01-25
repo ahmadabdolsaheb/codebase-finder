@@ -8,7 +8,7 @@ location:
   coordinates: 39.469901, -0.375951
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vlc
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.530018, 46.034685
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saratov
 chat:
   name: ''

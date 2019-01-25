@@ -8,7 +8,7 @@ location:
   coordinates: 54.895535, -2.934735
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.carlisle
 chat:
   name: ''

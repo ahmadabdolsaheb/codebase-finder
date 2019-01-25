@@ -8,7 +8,7 @@ location:
   coordinates: 32.089801, 72.678257
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sargodha
 chat:
   name: ''

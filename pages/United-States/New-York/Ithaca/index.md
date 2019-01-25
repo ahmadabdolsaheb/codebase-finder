@@ -8,7 +8,7 @@ location:
   coordinates: 42.439604, -76.496802
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ithaca
 chat:
   name: ''

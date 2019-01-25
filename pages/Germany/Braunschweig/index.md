@@ -8,7 +8,7 @@ location:
   coordinates: 52.263996, 10.525267
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.braunschweig
 chat:
   name: ''

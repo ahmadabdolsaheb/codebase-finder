@@ -8,7 +8,7 @@ location:
   coordinates: 44.200713, 17.908095
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bih.zenica
 chat:
   name: ''

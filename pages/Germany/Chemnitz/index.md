@@ -8,7 +8,7 @@ location:
   coordinates: 50.832261, 12.925298
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chemnitz
 chat:
   name: ''

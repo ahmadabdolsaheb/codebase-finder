@@ -8,7 +8,7 @@ location:
   coordinates: 41.09978, -80.649519
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.youngstown
 chat:
   name: ''

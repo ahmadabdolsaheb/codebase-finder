@@ -8,7 +8,7 @@ location:
   coordinates: 40.19475389999999,-92.5832496
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kirksville/
 chat:
   name: ''

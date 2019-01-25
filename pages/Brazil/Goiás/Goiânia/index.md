@@ -8,7 +8,7 @@ location:
   coordinates: -16.680882, -49.253269
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.goiania
 chat:
   name: ''

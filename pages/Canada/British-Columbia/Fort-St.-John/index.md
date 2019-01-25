@@ -8,7 +8,7 @@ location:
   coordinates: 56.250094, -120.833466
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fort.st.john
 chat:
   name: ''

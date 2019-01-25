@@ -8,7 +8,7 @@ location:
   coordinates: 34.532125, -83.984589
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Dahlonega
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 25.542698, -103.410513
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.torreon
 chat:
   name: ''

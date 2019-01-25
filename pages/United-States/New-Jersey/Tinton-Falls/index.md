@@ -8,7 +8,7 @@ location:
   coordinates: 40.289073, -74.092797
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tintonfalls
 chat:
   name: ''

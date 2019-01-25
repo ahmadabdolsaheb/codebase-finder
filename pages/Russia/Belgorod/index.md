@@ -8,7 +8,7 @@ location:
   coordinates: 50.595299, 36.586934
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.belgorod
 chat:
   name: ''

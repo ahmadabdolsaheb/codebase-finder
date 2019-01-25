@@ -8,7 +8,7 @@ location:
   coordinates: 35.73319, -81.341201
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hickory.nc
 chat:
   name: ''

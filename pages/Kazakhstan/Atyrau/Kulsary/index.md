@@ -8,7 +8,7 @@ location:
   coordinates: 46.9691061,54.00681909999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kulsary
 chat:
   name: ''

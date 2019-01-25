@@ -8,7 +8,7 @@ location:
   coordinates: 50.803683, -1.075614
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.portsmouth
 chat:
   name: ''

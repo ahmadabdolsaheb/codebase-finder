@@ -8,7 +8,7 @@ location:
   coordinates: 50.450107, 30.52405
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kiev
 chat:
   name: ''

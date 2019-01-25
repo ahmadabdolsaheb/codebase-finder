@@ -8,7 +8,7 @@ location:
   coordinates: 40.063079, -80.721035
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wheeling.wv
 chat:
   name: ''

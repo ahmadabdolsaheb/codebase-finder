@@ -8,7 +8,7 @@ location:
   coordinates: -5.08964, -42.809588
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.teresina.piaui
 chat:
   name: ''

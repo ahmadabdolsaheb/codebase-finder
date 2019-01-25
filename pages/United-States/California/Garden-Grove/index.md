@@ -8,7 +8,7 @@ location:
   coordinates: 33.774629, -117.946372
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gardengrove
 chat:
   name: ''

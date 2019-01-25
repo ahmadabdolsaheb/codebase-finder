@@ -8,7 +8,7 @@ location:
   coordinates: 35.46806, 133.04861
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.matsue/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.434999, 6.759562
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.duisburg
 chat:
   name: ''

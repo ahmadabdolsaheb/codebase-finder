@@ -8,7 +8,7 @@ location:
   coordinates: 51.08669, -115.348113
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Canmore.Alberta
 chat:
   name: ''

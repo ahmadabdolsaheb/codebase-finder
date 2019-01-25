@@ -8,7 +8,7 @@ location:
   coordinates: 18.043125, -77.50741
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mandeville
 chat:
   name: ''

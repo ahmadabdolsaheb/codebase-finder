@@ -8,7 +8,7 @@ location:
   coordinates: 37.270973, -79.941431
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.roanoke.va
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 24.899091, 91.86881
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sylhet
 chat:
   name: ''

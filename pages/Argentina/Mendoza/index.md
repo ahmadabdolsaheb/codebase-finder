@@ -8,7 +8,7 @@ location:
   coordinates: -32.889729, -68.844296
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mendoza
 chat:
   name: ''

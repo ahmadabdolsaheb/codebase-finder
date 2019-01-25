@@ -8,7 +8,7 @@ location:
   coordinates: 36.295684, -76.22477
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Elizabeth.City
 chat:
   name: ''

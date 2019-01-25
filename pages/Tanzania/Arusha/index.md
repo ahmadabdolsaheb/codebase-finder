@@ -8,7 +8,7 @@ location:
   coordinates: -3.366956, 36.691552
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Arusha.Moshi
 chat:
   name: ''

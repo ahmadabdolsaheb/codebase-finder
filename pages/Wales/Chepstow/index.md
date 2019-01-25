@@ -8,7 +8,7 @@ location:
   coordinates: 51.642847, -2.675126
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chepstow
 chat:
   name: ''

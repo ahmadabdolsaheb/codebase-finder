@@ -8,7 +8,7 @@ location:
   coordinates: 20.116541, -98.741353
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pachuca
 chat:
   name: ''

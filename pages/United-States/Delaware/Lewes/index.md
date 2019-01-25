@@ -8,7 +8,7 @@ location:
   coordinates: 38.7746, -75.1393
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lewes
 chat:
   name: ''

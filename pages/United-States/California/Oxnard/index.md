@@ -8,7 +8,7 @@ location:
   coordinates: 34.195115, -119.176993
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/fccoxnard/
 chat:
   name: ''

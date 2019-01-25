@@ -8,7 +8,7 @@ location:
   coordinates: 59.3100677,14.1089193
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.kristinehamn/
 chat:
   name: ''

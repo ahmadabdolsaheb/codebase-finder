@@ -8,7 +8,7 @@ location:
   coordinates: 55.946458, -3.205901
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.edinburgh
 chat:
   name: ''

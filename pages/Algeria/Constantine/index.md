@@ -8,7 +8,7 @@ location:
   coordinates: 36.364519, 6.60826
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.constantine
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 18.502073, -88.290888
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chetumal
 chat:
   name: ''

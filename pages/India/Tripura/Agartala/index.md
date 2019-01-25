@@ -8,7 +8,7 @@ location:
   coordinates: 23.831238, 91.282382
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.agartala
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 30.421309, -87.216915
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pensacola
 chat:
   name: ''

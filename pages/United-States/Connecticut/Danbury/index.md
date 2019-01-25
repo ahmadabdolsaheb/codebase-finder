@@ -8,7 +8,7 @@ location:
   coordinates: 41.394817, -73.454011
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.danbury
 chat:
   name: ''

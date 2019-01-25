@@ -8,7 +8,7 @@ location:
   coordinates: 34.0966764,-117.7197785
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.camp.code.claremont/
 chat:
   name: ''

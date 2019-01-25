@@ -8,7 +8,7 @@ location:
   coordinates: 37.104153, -113.584131
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saint.george
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 7.623248, 5.22274
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ado.ekiti
 chat:
   name: ''

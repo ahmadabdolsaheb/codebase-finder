@@ -8,7 +8,7 @@ location:
   coordinates: 26.32237, 89.459245
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.KochBihar
 chat:
   name: ''

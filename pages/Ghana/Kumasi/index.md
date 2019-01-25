@@ -8,7 +8,7 @@ location:
   coordinates: 6.698081, -1.62304
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kumasi
 chat:
   name: ''

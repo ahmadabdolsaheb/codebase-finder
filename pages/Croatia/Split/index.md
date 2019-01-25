@@ -8,7 +8,7 @@ location:
   coordinates: 43.511556, 16.43968
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.split
 chat:
   name: ''

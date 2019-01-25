@@ -8,7 +8,7 @@ location:
   coordinates: 23.654434, 86.145644
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.campbokar
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 42.46612, -2.439668
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.logrono
 chat:
   name: ''

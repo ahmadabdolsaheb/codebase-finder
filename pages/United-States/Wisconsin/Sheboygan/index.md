@@ -8,7 +8,7 @@ location:
   coordinates: 43.750828, -87.71453
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sheboygan
 chat:
   name: ''

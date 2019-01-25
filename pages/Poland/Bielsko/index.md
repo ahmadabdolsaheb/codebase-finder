@@ -8,7 +8,7 @@ location:
   coordinates: 52.815, 16.228333
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bielsko
 chat:
   name: ''

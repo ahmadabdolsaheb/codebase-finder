@@ -8,7 +8,7 @@ location:
   coordinates: 27.800254, -97.395574
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.corpus.christi
 chat:
   name: ''

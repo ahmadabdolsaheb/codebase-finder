@@ -8,7 +8,7 @@ location:
   coordinates: 4.053729, 9.664307
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.douala
 chat:
   name: ''

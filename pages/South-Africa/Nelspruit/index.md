@@ -8,7 +8,7 @@ location:
   coordinates: -25.481944, 30.984722
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nelspruit
 chat:
   name: ''

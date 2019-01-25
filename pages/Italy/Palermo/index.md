@@ -8,7 +8,7 @@ location:
   coordinates: 38.11127, 13.353442
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.palermo
 chat:
   name: ''

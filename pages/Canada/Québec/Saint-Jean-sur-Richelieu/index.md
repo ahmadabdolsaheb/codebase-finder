@@ -8,7 +8,7 @@ location:
   coordinates: 45.305688, -73.25334
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sjsr
 chat:
   name: ''

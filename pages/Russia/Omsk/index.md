@@ -8,7 +8,7 @@ location:
   coordinates: 54.991375, 73.371488
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.omsk
 chat:
   name: ''

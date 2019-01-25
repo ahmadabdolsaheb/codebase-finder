@@ -8,7 +8,7 @@ location:
   coordinates: 46.544624, 24.561195
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.targu.mures
 chat:
   name: ''

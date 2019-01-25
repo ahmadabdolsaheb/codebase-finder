@@ -8,7 +8,7 @@ location:
   coordinates: 25.669657, -100.317819
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.monterrey
 chat:
   name: ''

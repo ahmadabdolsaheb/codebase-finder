@@ -8,7 +8,7 @@ location:
   coordinates: -22.64374, -47.197209
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cosmopolis
 chat:
   name: ''

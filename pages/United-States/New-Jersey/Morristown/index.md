@@ -8,7 +8,7 @@ location:
   coordinates: 40.797021, -74.481011
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.morristown
 chat:
   name: ''

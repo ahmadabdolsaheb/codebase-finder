@@ -8,7 +8,7 @@ location:
   coordinates: 48.754402, -122.47886
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bellingham
 chat:
   name: ''

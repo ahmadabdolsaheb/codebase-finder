@@ -8,7 +8,7 @@ location:
   coordinates: -34.424394, 150.89385
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wollongong
 chat:
   name: ''

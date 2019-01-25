@@ -8,7 +8,7 @@ location:
   coordinates: 40.34655, -76.428381
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lebanon.mo
 chat:
   name: ''

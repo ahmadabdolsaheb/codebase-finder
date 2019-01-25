@@ -8,7 +8,7 @@ location:
   coordinates: 38.28007, -85.582738
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.westwood
 chat:
   name: ''

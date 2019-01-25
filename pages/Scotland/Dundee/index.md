@@ -8,7 +8,7 @@ location:
   coordinates: 56.459365, -2.973521
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dundee
 chat:
   name: ''

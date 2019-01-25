@@ -8,7 +8,7 @@ location:
   coordinates: -39.814196, -73.245852
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.valdivia
 chat:
   name: ''

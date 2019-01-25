@@ -8,7 +8,7 @@ location:
   coordinates: 39.46053, -5.881392
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.trujillo
 chat:
   name: ''

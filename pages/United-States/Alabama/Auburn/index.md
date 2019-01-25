@@ -8,7 +8,7 @@ location:
   coordinates: 32.609857, -85.480782
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.code.auburn
 chat:
   name: ''

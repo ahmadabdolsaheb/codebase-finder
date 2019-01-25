@@ -8,7 +8,7 @@ location:
   coordinates: 47.677683, -116.780466
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coeurdalene
 chat:
   name: ''

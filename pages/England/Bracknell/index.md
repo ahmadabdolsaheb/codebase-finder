@@ -8,7 +8,7 @@ location:
   coordinates: 51.414351, -0.744992
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bracknell
 chat:
   name: ''

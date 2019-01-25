@@ -8,7 +8,7 @@ location:
   coordinates: 38.783436, -77.014142
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.national.harbor
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 50.902535, -1.404189
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/FCC.Southampton
 chat:
   name: ''

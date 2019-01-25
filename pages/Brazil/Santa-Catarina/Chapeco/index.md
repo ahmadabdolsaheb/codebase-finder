@@ -8,7 +8,7 @@ location:
   coordinates: -27.10131, -52.618467
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chapeco
 chat:
   name: ''

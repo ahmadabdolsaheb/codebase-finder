@@ -8,7 +8,7 @@ location:
   coordinates: -16.727354, -43.871768
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montesclaros
 chat:
   name: ''

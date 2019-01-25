@@ -8,7 +8,7 @@ location:
   coordinates: -4.9685795,-39.0162466
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.group.quixada/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 44.939157, -123.033121
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.salemor
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 38.995105, -1.855961
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.albacete
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -7.813601, 112.006239
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kediri
 chat:
   name: ''

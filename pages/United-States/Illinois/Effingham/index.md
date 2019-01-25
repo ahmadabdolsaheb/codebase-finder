@@ -8,7 +8,7 @@ location:
   coordinates: 39.1200418,-88.5433829
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.effingham/
 chat:
   name: ''

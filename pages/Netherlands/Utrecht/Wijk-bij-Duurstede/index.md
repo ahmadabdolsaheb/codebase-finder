@@ -8,7 +8,7 @@ location:
   coordinates: 51.9756003,5.338449499999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wijkbijduurstede
 chat:
   name: ''

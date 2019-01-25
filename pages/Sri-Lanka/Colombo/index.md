@@ -8,7 +8,7 @@ location:
   coordinates: 6.934287, 79.85327
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.colombo
 chat:
   name: ''

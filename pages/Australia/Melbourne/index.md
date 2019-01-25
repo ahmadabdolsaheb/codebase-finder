@@ -8,7 +8,7 @@ location:
   coordinates: -37.814218, 144.963161
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Melbourne
 chat:
   name: ''

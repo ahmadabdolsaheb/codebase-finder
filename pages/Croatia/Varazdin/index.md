@@ -8,7 +8,7 @@ location:
   coordinates: 46.308216, 16.337816
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.varazdin
 chat:
   name: ''

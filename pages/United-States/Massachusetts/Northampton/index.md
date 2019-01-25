@@ -8,7 +8,7 @@ location:
   coordinates: 52.238524, -0.902493
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.northampton.mass
 chat:
   name: ''

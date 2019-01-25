@@ -8,7 +8,7 @@ location:
   coordinates: 27.707676, 85.314888
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kathmandu
 chat:
   name: ''

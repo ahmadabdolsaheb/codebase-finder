@@ -8,7 +8,7 @@ location:
   coordinates: 41.652134, -0.880943
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zaragoza
 chat:
   name: ''

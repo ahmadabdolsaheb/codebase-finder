@@ -8,7 +8,7 @@ location:
   coordinates: 32.37445, 15.090541
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.misrata
 chat:
   name: ''

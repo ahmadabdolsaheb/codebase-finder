@@ -8,7 +8,7 @@ location:
   coordinates: 45.787496, -108.49607
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.billings
 chat:
   name: ''

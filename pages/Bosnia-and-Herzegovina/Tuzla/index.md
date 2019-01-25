@@ -8,7 +8,7 @@ location:
   coordinates: 44.539111, 18.675193
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tuzla
 chat:
   name: ''

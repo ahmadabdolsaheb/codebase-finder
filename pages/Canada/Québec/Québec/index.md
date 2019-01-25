@@ -8,7 +8,7 @@ location:
   coordinates: 46.825737, -71.234911
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.quebec.city
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 44.378703, -79.703052
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Barrie.Ontario
 chat:
   name: ''

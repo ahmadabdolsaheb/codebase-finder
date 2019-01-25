@@ -8,7 +8,7 @@ location:
   coordinates: 53.380663, -1.470228
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sheffield
 chat:
   name: ''

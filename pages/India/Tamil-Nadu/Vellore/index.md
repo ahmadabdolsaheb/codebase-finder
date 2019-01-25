@@ -8,7 +8,7 @@ location:
   coordinates: 12.9657203,79.1454622
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vellore.tamilnadu
 chat:
   name: ''

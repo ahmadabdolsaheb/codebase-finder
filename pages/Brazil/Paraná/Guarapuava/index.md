@@ -8,7 +8,7 @@ location:
   coordinates: -25.395099, -51.462202
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guarapuava
 chat:
   name: ''

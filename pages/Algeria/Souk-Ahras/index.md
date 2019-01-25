@@ -8,7 +8,7 @@ location:
   coordinates: 36.284832, 7.951547
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.souk.ahras
 chat:
   name: ''

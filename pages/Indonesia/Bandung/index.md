@@ -8,7 +8,7 @@ location:
   coordinates: -6.934469, 107.604954
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bandung
 chat:
   name: ''

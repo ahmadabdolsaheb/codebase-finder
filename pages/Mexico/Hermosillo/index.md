@@ -8,7 +8,7 @@ location:
   coordinates: 29.089415, -110.961238
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Hermosillo
 chat:
   name: ''

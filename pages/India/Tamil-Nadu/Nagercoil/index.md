@@ -8,7 +8,7 @@ location:
   coordinates: 8.188047, 77.429049
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nagercoil
 chat:
   name: ''

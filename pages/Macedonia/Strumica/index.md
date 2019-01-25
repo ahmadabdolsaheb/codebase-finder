@@ -8,7 +8,7 @@ location:
   coordinates: 41.439205, 22.63972
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.strumica
 chat:
   name: ''

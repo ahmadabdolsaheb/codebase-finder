@@ -8,7 +8,7 @@ location:
   coordinates: 47.04502, -122.894872
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.olympia
 chat:
   name: ''

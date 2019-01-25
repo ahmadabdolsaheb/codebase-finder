@@ -8,7 +8,7 @@ location:
   coordinates: 59.371738, 16.505147
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.eskilstuna
 chat:
   name: ''

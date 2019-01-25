@@ -8,7 +8,7 @@ location:
   coordinates: -6.175394, 106.827183
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jakarta
 chat:
   name: ''

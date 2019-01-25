@@ -8,7 +8,7 @@ location:
   coordinates: 44.668852, -90.171799
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.marshfield
 chat:
   name: ''

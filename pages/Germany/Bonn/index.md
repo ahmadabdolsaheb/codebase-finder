@@ -8,7 +8,7 @@ location:
   coordinates: 50.735851, 7.10066
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bonn
 chat:
   name: ''

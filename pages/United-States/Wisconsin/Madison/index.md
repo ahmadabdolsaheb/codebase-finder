@@ -8,7 +8,7 @@ location:
   coordinates: 43.074761, -89.383761
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.madison.wisconsin
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 55.043102,24.956981
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sirvintos/
 chat:
   name: ''

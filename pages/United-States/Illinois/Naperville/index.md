@@ -8,7 +8,7 @@ location:
   coordinates: 41.772911, -88.147867
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.naperville
 chat:
   name: ''

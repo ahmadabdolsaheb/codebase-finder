@@ -8,7 +8,7 @@ location:
   coordinates: 51.062259, -114.177677
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.patterson.ca
 chat:
   name: ''

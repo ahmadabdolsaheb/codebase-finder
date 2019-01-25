@@ -8,7 +8,7 @@ location:
   coordinates: 38.554469, 14.825471
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Linyi
 chat:
   name: ''

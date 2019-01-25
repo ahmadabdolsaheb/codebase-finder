@@ -8,7 +8,7 @@ location:
   coordinates: 10.959223, -63.849938
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.porlamar
 chat:
   name: ''

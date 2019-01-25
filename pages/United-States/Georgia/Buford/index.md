@@ -8,7 +8,7 @@ location:
   coordinates: 34.120656, -84.004351
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.buford
 chat:
   name: ''

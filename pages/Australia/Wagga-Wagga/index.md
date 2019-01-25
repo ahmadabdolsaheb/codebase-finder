@@ -8,7 +8,7 @@ location:
   coordinates: -35.115, 147.367778
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wagga
 chat:
   name: ''

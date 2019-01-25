@@ -8,7 +8,7 @@ location:
   coordinates: 43.582754, 21.326304
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.krusevac
 chat:
   name: ''

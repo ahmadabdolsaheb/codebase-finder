@@ -8,7 +8,7 @@ location:
   coordinates: 45.440147, 4.387306
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saint.etienne
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 41.693435, 44.801498
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tbilisi
 chat:
   name: ''

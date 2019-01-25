@@ -8,7 +8,7 @@ location:
   coordinates: 30.566734, -100.642859
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sonora.ca
 chat:
   name: ''

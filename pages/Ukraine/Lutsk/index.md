@@ -8,7 +8,7 @@ location:
   coordinates: 50.745073, 25.320078
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lutsk
 chat:
   name: ''

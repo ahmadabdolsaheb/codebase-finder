@@ -8,7 +8,7 @@ location:
   coordinates: 31.9973500, -102.0779100
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.midland
 chat:
   name: ''

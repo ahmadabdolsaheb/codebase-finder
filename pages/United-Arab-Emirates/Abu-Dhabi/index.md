@@ -8,7 +8,7 @@ location:
   coordinates: 24.474796, 54.370576
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.abu.dhabi
 chat:
   name: ''

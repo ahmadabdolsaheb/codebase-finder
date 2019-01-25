@@ -8,7 +8,7 @@ location:
   coordinates: 40.650104, -73.949582
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brooklyn.ny
 chat:
   name: ''

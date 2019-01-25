@@ -8,7 +8,7 @@ location:
   coordinates: 16.75414, 81.685839
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.code.camp.Tanuku
 chat:
   name: ''

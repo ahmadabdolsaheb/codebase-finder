@@ -8,7 +8,7 @@ location:
   coordinates: 16.508759, 80.61851
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.vijayawada
 chat:
   name: ''

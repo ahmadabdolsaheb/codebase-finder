@@ -8,7 +8,7 @@ location:
   coordinates: 34.228592, -118.536932
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.northridge
 chat:
   name: ''

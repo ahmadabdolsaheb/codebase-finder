@@ -8,7 +8,7 @@ location:
   coordinates: 26.25886, 82.071689
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.sultanpur.up
 chat:
   name: ''

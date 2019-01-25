@@ -8,7 +8,7 @@ location:
   coordinates: 31.298476, 120.622239
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.suzhou
 chat:
   name: ''

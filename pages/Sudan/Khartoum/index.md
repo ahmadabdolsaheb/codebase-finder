@@ -8,7 +8,7 @@ location:
   coordinates: 15.593325, 32.53565
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Khartoum
 chat:
   name: ''

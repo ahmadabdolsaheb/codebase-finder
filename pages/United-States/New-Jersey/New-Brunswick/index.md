@@ -8,7 +8,7 @@ location:
   coordinates: 40.486217, -74.451817
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.new.brunswick.new.jersey
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 3.589665, 98.673826
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.medan
 chat:
   name: ''

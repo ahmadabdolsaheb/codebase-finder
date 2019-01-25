@@ -8,7 +8,7 @@ location:
   coordinates: 47.798135, 13.046481
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.salzburg
 chat:
   name: ''

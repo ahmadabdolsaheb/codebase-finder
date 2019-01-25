@@ -8,7 +8,7 @@ location:
   coordinates: 47.603832, -122.330062
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.seattle
 chat:
   name: ''

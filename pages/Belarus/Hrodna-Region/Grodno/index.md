@@ -8,7 +8,7 @@ location:
   coordinates: 53.6693538,23.8131306
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.grodno
 chat:
   name: ''

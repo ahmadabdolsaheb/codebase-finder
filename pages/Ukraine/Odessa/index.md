@@ -8,7 +8,7 @@ location:
   coordinates: 46.484612, 30.732559
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.city.odessa.ukraine
 chat:
   name: ''

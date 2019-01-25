@@ -8,7 +8,7 @@ location:
   coordinates: 44.405600, 8.946300
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.genova/
 chat:
   name: ''

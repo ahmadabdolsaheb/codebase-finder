@@ -8,7 +8,7 @@ location:
   coordinates: 38.545379, -121.744583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.davis
 chat:
   name: ''

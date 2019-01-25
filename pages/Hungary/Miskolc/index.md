@@ -8,7 +8,7 @@ location:
   coordinates: 48.103152, 20.790216
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.miskolc
 chat:
   name: ''

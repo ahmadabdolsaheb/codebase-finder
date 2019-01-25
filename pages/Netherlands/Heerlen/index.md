@@ -8,7 +8,7 @@ location:
   coordinates: 50.876277, 5.982795
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.heerlen
 chat:
   name: ''

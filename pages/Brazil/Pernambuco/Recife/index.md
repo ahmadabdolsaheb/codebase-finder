@@ -8,7 +8,7 @@ location:
   coordinates: -8.064193, -34.878152
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.recife
 chat:
   name: ''

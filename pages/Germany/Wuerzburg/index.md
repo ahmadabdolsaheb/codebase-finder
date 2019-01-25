@@ -8,7 +8,7 @@ location:
   coordinates: 49.79245, 9.932966
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wuerzburg
 chat:
   name: ''

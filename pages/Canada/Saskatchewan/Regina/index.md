@@ -8,7 +8,7 @@ location:
   coordinates: 50.448095, -104.615818
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.regina
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 42.665923, -71.588402
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pepperell.ma
 chat:
   name: ''

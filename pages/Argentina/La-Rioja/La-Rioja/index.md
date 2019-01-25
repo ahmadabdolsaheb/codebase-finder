@@ -8,7 +8,7 @@ location:
   coordinates: -29.417881, -66.852688
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.la.rioja/
 chat:
   name: ''

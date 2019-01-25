@@ -8,7 +8,7 @@ location:
   coordinates: 25.419297, -100.994507
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saltillo
 chat:
   name: ''

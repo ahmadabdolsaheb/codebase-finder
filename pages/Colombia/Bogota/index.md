@@ -8,7 +8,7 @@ location:
   coordinates: 4.598048, -74.076087
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bogota
 chat:
   name: ''

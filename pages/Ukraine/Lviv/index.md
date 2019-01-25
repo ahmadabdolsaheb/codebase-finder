@@ -8,7 +8,7 @@ location:
   coordinates: 49.841951, 24.031597
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lviv
 chat:
   name: ''

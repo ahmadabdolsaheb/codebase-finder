@@ -8,7 +8,7 @@ location:
   coordinates: 48.471656, 7.944378
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.offenburg
 chat:
   name: ''

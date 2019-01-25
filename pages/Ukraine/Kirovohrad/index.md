@@ -8,7 +8,7 @@ location:
   coordinates: 48.510581, 32.265628
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kirovohrad
 chat:
   name: ''

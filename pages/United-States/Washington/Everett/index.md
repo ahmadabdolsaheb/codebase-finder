@@ -8,7 +8,7 @@ location:
   coordinates: 47.967306, -122.2014
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.everett
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 6.268674, -10.708537
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.paynesville
 chat:
   name: ''

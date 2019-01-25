@@ -8,7 +8,7 @@ location:
   coordinates: 17.495212, -88.201744
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.belize
 chat:
   name: ''

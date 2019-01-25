@@ -8,7 +8,7 @@ location:
   coordinates: 15.905261, 80.46805
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bapatla
 chat:
   name: ''

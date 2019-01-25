@@ -8,7 +8,7 @@ location:
   coordinates: 51.453493, -2.597394
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bristol.uk
 chat:
   name: ''

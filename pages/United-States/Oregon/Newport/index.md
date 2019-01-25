@@ -8,7 +8,7 @@ location:
   coordinates: 44.637636, -124.053332
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.newport.or
 chat:
   name: ''

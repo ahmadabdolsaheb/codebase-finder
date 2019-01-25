@@ -8,7 +8,7 @@ location:
   coordinates: 48.208354, 16.372504
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vienna.austria
 chat:
   name: ''

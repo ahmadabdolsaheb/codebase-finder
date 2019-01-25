@@ -8,7 +8,7 @@ location:
   coordinates: 36.521647, -6.282601
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cadiz
 chat:
   name: ''

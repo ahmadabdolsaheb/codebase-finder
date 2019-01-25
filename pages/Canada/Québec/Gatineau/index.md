@@ -8,7 +8,7 @@ location:
   coordinates: 45.456305, -75.722883
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gatineau
 chat:
   name: ''

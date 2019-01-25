@@ -8,7 +8,7 @@ location:
   coordinates: 54.726287, 55.947729
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ufa
 chat:
   name: ''

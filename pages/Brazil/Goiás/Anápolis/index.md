@@ -8,7 +8,7 @@ location:
   coordinates: -16.333283, -48.952576
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.anapolis
 chat:
   name: ''

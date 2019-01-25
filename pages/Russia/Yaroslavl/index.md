@@ -8,7 +8,7 @@ location:
   coordinates: 57.626388, 39.893371
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.yaroslavl
 chat:
   name: ''

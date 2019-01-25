@@ -8,7 +8,7 @@ location:
   coordinates: 32.083541, -81.099834
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.savannah
 chat:
   name: ''

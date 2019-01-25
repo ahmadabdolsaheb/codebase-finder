@@ -8,7 +8,7 @@ location:
   coordinates: 37.984149, 23.727984
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.athens.ohio
 chat:
   name: ''

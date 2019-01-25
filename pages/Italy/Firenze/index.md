@@ -8,7 +8,7 @@ location:
   coordinates: 43.769871, 11.255576
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.firenze
 chat:
   name: ''

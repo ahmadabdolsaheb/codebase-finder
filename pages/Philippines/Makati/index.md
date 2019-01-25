@@ -8,7 +8,7 @@ location:
   coordinates: 14.556885, 121.023532
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.makati
 chat:
   name: ''

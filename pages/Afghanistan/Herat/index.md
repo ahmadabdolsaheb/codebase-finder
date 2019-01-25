@@ -8,7 +8,7 @@ location:
   coordinates: 34.350827, 62.2164
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.herat
 chat:
   name: ''

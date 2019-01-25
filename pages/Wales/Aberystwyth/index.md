@@ -8,7 +8,7 @@ location:
   coordinates: 52.414311, -4.081685
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aberystwyth
 chat:
   name: ''

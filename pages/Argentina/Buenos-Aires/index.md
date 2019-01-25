@@ -8,7 +8,7 @@ location:
   coordinates: -34.612869, -58.445979
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.buenos.aires
 chat:
   name: ''

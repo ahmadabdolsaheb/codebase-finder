@@ -8,7 +8,7 @@ location:
   coordinates: 12.305183, 76.655361
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mysore
 chat:
   name: ''

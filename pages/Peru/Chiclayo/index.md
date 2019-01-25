@@ -8,7 +8,7 @@ location:
   coordinates: -6.766417, -79.840831
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chiclayo
 chat:
   name: ''

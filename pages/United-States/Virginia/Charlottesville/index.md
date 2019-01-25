@@ -8,7 +8,7 @@ location:
   coordinates: 39.536162, -84.853012
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.charlottesville
 chat:
   name: ''

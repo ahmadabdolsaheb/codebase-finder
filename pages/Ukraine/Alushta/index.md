@@ -8,7 +8,7 @@ location:
   coordinates: 44.677112, 34.409539
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.alushta
 chat:
   name: ''

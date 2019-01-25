@@ -8,7 +8,7 @@ location:
   coordinates: 53.349765, -6.260273
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dublin
 chat:
   name: ''

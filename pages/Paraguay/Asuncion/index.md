@@ -8,7 +8,7 @@ location:
   coordinates: -25.295992, -57.63112
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.asuncion
 chat:
   name: ''

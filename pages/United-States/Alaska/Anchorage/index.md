@@ -8,7 +8,7 @@ location:
   coordinates: 61.216313, -149.894852
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.anchorage
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -6.162959000000001,35.7516069
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dodoma.tanzania/
 chat:
   name: ''

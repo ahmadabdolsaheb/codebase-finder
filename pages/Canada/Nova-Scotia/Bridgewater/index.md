@@ -8,7 +8,7 @@ location:
   coordinates: 44.372027, -64.520771
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bridgewater.ns
 chat:
   name: ''

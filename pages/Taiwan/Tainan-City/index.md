@@ -8,7 +8,7 @@ location:
   coordinates: 22.9997281,120.2270277
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Tainan
 chat:
   name: ''

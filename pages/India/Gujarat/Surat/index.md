@@ -8,7 +8,7 @@ location:
   coordinates: 21.186461, 72.808128
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.surat
 chat:
   name: ''

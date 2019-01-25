@@ -8,7 +8,7 @@ location:
   coordinates: 51.198643, 0.745367
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kent
 chat:
   name: ''

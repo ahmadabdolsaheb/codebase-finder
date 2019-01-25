@@ -8,7 +8,7 @@ location:
   coordinates: 25.335649, 83.007629
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.varanasi
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 41.167041, -73.204835
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampbridgeport
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 36.677708, -121.656011
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.salinas.valley
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 45.182478, 5.721077
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.grenoble
 chat:
   name: ''

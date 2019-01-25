@@ -8,7 +8,7 @@ location:
   coordinates: 57.144345, -2.096021
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/aberdeenfreecodecamp
 chat:
   name: ''

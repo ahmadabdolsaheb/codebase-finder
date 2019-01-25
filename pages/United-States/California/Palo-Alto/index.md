@@ -8,7 +8,7 @@ location:
   coordinates: 37.442156, -122.163447
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.palo.alto
 chat:
   name: ''

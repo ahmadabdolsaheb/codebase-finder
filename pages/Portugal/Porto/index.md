@@ -8,7 +8,7 @@ location:
   coordinates: 41.149451, -8.610788
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.porto
 chat:
   name: ''

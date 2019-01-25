@@ -8,7 +8,7 @@ location:
   coordinates: 42.599126, -5.567319
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leon.gt
 chat:
   name: ''

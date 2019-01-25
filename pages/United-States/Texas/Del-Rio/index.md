@@ -8,7 +8,7 @@ location:
   coordinates: 29.36273, -100.896761
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.delrio
 chat:
   name: ''

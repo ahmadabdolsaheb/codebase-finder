@@ -8,7 +8,7 @@ location:
   coordinates: 17.723128, 83.301284
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vizag
 chat:
   name: ''

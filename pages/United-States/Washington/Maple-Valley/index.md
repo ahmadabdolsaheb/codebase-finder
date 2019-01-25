@@ -8,7 +8,7 @@ location:
   coordinates: 44.966306, -88.305443
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maple.valley
 chat:
   name: ''

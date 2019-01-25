@@ -8,7 +8,7 @@ location:
   coordinates: -22.574418, 17.079123
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.windhoek
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 43.917276, -78.861487
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oshawa
 chat:
   name: ''

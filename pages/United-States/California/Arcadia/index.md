@@ -8,7 +8,7 @@ location:
   coordinates: 34.136208, -118.04015
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.arcadia
 chat:
   name: ''

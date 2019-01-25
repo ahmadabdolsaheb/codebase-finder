@@ -8,7 +8,7 @@ location:
   coordinates: 42.268157, -83.731229
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ann.arbor
 chat:
   name: ''

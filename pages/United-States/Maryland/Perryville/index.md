@@ -8,7 +8,7 @@ location:
   coordinates: 37.72422, -89.86122
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.perryville.MD
 chat:
   name: ''

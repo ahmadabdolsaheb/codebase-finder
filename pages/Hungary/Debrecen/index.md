@@ -8,7 +8,7 @@ location:
   coordinates: 47.531399, 21.625978
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.debrecen
 chat:
   name: ''

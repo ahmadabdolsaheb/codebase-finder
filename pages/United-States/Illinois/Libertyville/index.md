@@ -8,7 +8,7 @@ location:
   coordinates: 42.283079, -87.95313
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.libertyvillevh
 chat:
   name: ''

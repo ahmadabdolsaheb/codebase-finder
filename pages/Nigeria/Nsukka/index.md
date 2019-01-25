@@ -8,7 +8,7 @@ location:
   coordinates: 6.8561, 7.3927
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Nsukka
 chat:
   name: ''

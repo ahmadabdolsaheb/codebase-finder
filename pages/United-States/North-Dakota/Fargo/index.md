@@ -8,7 +8,7 @@ location:
   coordinates: 46.877229, -96.789821
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fargo
 chat:
   name: ''

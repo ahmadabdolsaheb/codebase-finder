@@ -8,7 +8,7 @@ location:
   coordinates: 30.210994,74.9454745
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.bathinda
 chat:
   name: ''

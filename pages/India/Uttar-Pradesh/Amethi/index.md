@@ -8,7 +8,7 @@ location:
   coordinates: 26.756059, 81.157675
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/code.camp.amethi
 chat:
   name: ''

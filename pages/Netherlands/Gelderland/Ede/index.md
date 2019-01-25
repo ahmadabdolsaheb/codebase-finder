@@ -8,7 +8,7 @@ location:
   coordinates: 52.0401675,5.6648594
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ede.nl/
 chat:
   name: ''

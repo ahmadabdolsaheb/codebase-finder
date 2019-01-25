@@ -8,7 +8,7 @@ location:
   coordinates: 39.905963, 116.391248
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.beijing
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 22.297076, 73.195737
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vadodara
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 46.323352, 5.112712
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cuet
 chat:
   name: ''

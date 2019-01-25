@@ -8,7 +8,7 @@ location:
   coordinates: 31.037874, 30.467986
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.damanhur
 chat:
   name: ''

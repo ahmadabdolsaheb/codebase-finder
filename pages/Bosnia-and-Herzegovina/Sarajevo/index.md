@@ -8,7 +8,7 @@ location:
   coordinates: 43.851977, 18.386687
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sarajevo
 chat:
   name: ''

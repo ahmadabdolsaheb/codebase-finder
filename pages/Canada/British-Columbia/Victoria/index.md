@@ -8,7 +8,7 @@ location:
   coordinates: 48.428333, -123.364927
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.victoria.bc.canada
 chat:
   name: ''

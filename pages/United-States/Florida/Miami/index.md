@@ -8,7 +8,7 @@ location:
   coordinates: 25.774266, -80.193659
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.miami
 chat:
   name: ''

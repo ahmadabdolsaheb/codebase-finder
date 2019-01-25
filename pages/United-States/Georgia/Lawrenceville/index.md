@@ -8,7 +8,7 @@ location:
   coordinates: 33.956215, -83.987962
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lawrenceville
 chat:
   name: ''

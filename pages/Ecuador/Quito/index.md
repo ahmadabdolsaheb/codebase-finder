@@ -8,7 +8,7 @@ location:
   coordinates: -0.155388, -78.486231
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.quito
 chat:
   name: ''

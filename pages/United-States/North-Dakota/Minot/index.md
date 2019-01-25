@@ -8,7 +8,7 @@ location:
   coordinates: 48.23251, -101.296273
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.minot.nd
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 53.2, 45
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.penza
 chat:
   name: ''

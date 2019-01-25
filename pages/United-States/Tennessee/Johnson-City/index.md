@@ -8,7 +8,7 @@ location:
   coordinates: 36.31344, -82.353473
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.johnson.city
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 52.355, -7.703889
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.clonmel.ireland
 chat:
   name: ''

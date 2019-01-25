@@ -8,7 +8,7 @@ location:
   coordinates: 51.752225, -1.258303
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oxford.eng
 chat:
   name: ''

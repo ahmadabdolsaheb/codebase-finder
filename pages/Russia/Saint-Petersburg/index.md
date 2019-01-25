@@ -8,7 +8,7 @@ location:
   coordinates: 59.939366, 30.315363
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saint.petersburg
 chat:
   name: ''

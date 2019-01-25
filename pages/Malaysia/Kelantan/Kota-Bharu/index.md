@@ -8,7 +8,7 @@ location:
   coordinates: 6.125605, 102.239346
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kotabharu.malaysia
 chat:
   name: ''

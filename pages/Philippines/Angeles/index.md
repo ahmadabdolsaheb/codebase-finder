@@ -8,7 +8,7 @@ location:
   coordinates: 15.139966, 120.587918
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.angelescity.pampanga.philippines
 chat:
   name: ''

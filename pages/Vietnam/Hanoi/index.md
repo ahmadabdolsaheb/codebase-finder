@@ -8,7 +8,7 @@ location:
   coordinates: 21.02921, 105.85247
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hanoi
 chat:
   name: ''

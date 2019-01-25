@@ -8,7 +8,7 @@ location:
   coordinates: 41.996227, 21.431796
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.skopje
 chat:
   name: ''

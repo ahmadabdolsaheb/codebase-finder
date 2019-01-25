@@ -8,7 +8,7 @@ location:
   coordinates: 2.441852, -76.606062
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.popayan
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.526743, -41.944519
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rio.das.ostras
 chat:
   name: ''

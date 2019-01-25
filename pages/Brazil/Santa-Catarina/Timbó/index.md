@@ -8,7 +8,7 @@ location:
   coordinates: -26.828274, -49.270641
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.timbo
 chat:
   name: ''

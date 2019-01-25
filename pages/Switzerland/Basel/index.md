@@ -8,7 +8,7 @@ location:
   coordinates: 47.558108, 7.587826
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.basel
 chat:
   name: ''

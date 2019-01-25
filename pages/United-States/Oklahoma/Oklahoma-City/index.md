@@ -8,7 +8,7 @@ location:
   coordinates: 35.472989, -97.517054
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oklahoma.city
 chat:
   name: ''

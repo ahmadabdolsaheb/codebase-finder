@@ -8,7 +8,7 @@ location:
   coordinates: 37.053757, -7.931937
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.faro
 chat:
   name: ''

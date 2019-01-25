@@ -8,7 +8,7 @@ location:
   coordinates: 42.494227, 27.455016
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Burgas
 chat:
   name: ''

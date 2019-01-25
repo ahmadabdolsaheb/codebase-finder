@@ -8,7 +8,7 @@ location:
   coordinates: 47.26543, 11.392769
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.innsbruck
 chat:
   name: ''

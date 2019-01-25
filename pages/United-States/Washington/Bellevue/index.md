@@ -8,7 +8,7 @@ location:
   coordinates: 47.614422, -122.192337
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bellevue
 chat:
   name: ''

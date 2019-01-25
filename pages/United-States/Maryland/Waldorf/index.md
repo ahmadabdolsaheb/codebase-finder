@@ -8,7 +8,7 @@ location:
   coordinates: 38.626388, -76.910658
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.waldorf
 chat:
   name: ''

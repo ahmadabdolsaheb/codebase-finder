@@ -8,7 +8,7 @@ location:
   coordinates: 49.932438, 17.901184
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.opava
 chat:
   name: ''

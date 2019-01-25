@@ -8,7 +8,7 @@ location:
   coordinates: 26.716413, 88.430992
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.siliguri
 chat:
   name: ''

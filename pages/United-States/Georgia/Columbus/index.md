@@ -8,7 +8,7 @@ location:
   coordinates: 39.96226, -83.000706
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.columbus.georgia
 chat:
   name: ''

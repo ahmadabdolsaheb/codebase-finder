@@ -8,7 +8,7 @@ location:
   coordinates: 33.953355, -117.396162
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.riverside.ca
 chat:
   name: ''

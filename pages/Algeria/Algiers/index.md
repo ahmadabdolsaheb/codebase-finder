@@ -8,7 +8,7 @@ location:
   coordinates: 36.775348, 3.060066
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Algiers
 chat:
   name: ''

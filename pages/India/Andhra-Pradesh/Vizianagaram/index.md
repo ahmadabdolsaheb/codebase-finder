@@ -8,7 +8,7 @@ location:
   coordinates: 18.115498, 83.397881
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.vizianagaram
 chat:
   name: ''

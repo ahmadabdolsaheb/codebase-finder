@@ -8,7 +8,7 @@ location:
   coordinates: 40.8097107,-80.4244418
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.darlington.pa
 chat:
   name: ''

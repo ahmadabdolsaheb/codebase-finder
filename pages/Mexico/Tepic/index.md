@@ -8,7 +8,7 @@ location:
   coordinates: 21.504441, -104.894667
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tepic
 chat:
   name: ''

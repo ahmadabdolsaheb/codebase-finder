@@ -8,7 +8,7 @@ location:
   coordinates: 40.833796, 111.673079
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hohhot
 chat:
   name: ''

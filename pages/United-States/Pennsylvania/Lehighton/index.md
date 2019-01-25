@@ -8,7 +8,7 @@ location:
   coordinates: 40.833703, -75.713801
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lehighton.pa
 chat:
   name: ''

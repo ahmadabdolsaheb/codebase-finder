@@ -8,7 +8,7 @@ location:
   coordinates: 52.661258, -8.630208
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.limerick
 chat:
   name: ''

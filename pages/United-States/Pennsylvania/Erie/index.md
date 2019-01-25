@@ -8,7 +8,7 @@ location:
   coordinates: 42.129066, -80.085242
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.erie.pa
 chat:
   name: ''

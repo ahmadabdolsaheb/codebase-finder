@@ -8,7 +8,7 @@ location:
   coordinates: 57.77748159999999,40.9698928
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.Code.Camp.Kostroma.City/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 45.745571, -87.064743
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.escanaba.mi
 chat:
   name: ''

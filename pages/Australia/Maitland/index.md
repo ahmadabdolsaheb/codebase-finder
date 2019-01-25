@@ -8,7 +8,7 @@ location:
   coordinates: -32.731668, 151.551112
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maitland.au
 chat:
   name: ''

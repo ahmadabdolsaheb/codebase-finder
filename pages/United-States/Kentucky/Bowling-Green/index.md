@@ -8,7 +8,7 @@ location:
   coordinates: 36.99032, -86.443602
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.BG.kentucky
 chat:
   name: ''

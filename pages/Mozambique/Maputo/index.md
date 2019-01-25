@@ -8,7 +8,7 @@ location:
   coordinates: -25.966213, 32.56745
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maputo
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 38.254238, -85.759407
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Louisville
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 23.006305, 91.395519
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.feni
 chat:
   name: ''

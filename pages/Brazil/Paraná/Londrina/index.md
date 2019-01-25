@@ -8,7 +8,7 @@ location:
   coordinates: -23.311288, -51.159502
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.londrina
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 53.959056, -1.081536
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.york.pa
 chat:
   name: ''

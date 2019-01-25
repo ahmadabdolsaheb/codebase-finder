@@ -8,7 +8,7 @@ location:
   coordinates: 45.652309, 25.610275
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brasov
 chat:
   name: ''

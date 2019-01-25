@@ -8,7 +8,7 @@ location:
   coordinates: 23.599786, 58.545131
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.muscat
 chat:
   name: ''

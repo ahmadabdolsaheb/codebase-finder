@@ -8,7 +8,7 @@ location:
   coordinates: 1.495304, 103.755084
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nusajaya.malaysia
 chat:
   name: ''

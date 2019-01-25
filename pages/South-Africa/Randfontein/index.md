@@ -8,7 +8,7 @@ location:
   coordinates: -26.173611, 27.694167
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.randfontein
 chat:
   name: ''

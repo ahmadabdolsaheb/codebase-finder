@@ -8,7 +8,7 @@ location:
   coordinates: 33.897067, -115.951115
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Joshua.Tree.Ca
 chat:
   name: ''

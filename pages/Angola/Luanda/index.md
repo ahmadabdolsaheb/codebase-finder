@@ -8,7 +8,7 @@ location:
   coordinates: -8.827166, 13.243667
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.luanda
 chat:
   name: ''

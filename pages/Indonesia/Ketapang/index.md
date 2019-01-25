@@ -8,7 +8,7 @@ location:
   coordinates: -6.894206, 113.285651
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ketapang
 chat:
   name: ''

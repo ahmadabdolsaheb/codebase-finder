@@ -8,7 +8,7 @@ location:
   coordinates: 34.085474, -117.961176
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.baldwinpark
 chat:
   name: ''

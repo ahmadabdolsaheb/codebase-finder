@@ -8,7 +8,7 @@ location:
   coordinates: 15.8281,78.0373
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kurnool
 chat:
   name: ''

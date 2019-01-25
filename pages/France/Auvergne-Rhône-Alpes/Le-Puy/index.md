@@ -8,7 +8,7 @@ location:
   coordinates: 45.042768,3.882936
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.le.puy.en.velay
 chat:
   name: ''

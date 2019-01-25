@@ -8,7 +8,7 @@ location:
   coordinates: 37.38863, -5.995317
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sevilla.spain
 chat:
   name: ''

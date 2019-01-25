@@ -8,7 +8,7 @@ location:
   coordinates: 45.964649, -66.643753
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Fredericton
 chat:
   name: ''

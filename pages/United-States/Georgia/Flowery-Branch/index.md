@@ -8,7 +8,7 @@ location:
   coordinates: 34.185102, -83.925181
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.flowerybranchga
 chat:
   name: ''

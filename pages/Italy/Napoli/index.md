@@ -8,7 +8,7 @@ location:
   coordinates: 40.835934, 14.248783
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.napoli
 chat:
   name: ''

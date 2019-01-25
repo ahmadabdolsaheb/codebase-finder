@@ -8,7 +8,7 @@ location:
   coordinates: 4.167118, 9.242743
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.buea
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.739177, -47.331386
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.americana
 chat:
   name: ''

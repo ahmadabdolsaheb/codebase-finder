@@ -8,7 +8,7 @@ location:
   coordinates: -21.977814, -46.788172
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sao.joao.da.boa.vista
 chat:
   name: ''

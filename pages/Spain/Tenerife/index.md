@@ -8,7 +8,7 @@ location:
   coordinates: 9.900349, -74.858997
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tenerife
 chat:
   name: ''

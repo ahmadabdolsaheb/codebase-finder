@@ -8,7 +8,7 @@ location:
   coordinates: 32.522183, -93.765194
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.shreveport
 chat:
   name: ''

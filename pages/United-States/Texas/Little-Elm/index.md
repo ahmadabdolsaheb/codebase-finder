@@ -8,7 +8,7 @@ location:
   coordinates: 33.1626193,-96.9375051
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.little.elm
 chat:
   name: ''

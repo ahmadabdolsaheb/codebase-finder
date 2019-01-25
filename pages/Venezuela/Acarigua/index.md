@@ -8,7 +8,7 @@ location:
   coordinates: 9.558, -69.205043
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.acarigua
 chat:
   name: ''

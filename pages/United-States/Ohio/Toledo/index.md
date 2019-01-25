@@ -8,7 +8,7 @@ location:
   coordinates: 41.678675, -83.512728
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.toledo
 chat:
   name: ''

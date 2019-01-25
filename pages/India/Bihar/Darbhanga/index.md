@@ -8,7 +8,7 @@ location:
   coordinates: 26.156965, 85.899512
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.darbhanga
 chat:
   name: ''

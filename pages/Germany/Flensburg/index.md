@@ -8,7 +8,7 @@ location:
   coordinates: 54.783302, 9.433326
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.flensburg.germany
 chat:
   name: ''

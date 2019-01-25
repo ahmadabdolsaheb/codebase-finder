@@ -8,7 +8,7 @@ location:
   coordinates: 42.291707, -85.587229
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kalamazoo
 chat:
   name: ''

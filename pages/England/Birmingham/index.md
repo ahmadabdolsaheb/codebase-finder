@@ -8,7 +8,7 @@ location:
   coordinates: 52.494460, -1.891031
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.birmingham.uk
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 18.139679, -94.450173
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coatzacoalcos
 chat:
   name: ''

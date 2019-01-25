@@ -8,7 +8,7 @@ location:
   coordinates: 42.5083482,-89.03177649999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.beloit
 chat:
   name: ''

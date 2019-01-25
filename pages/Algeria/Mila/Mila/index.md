@@ -8,7 +8,7 @@ location:
   coordinates: 36.4512, 6.2535
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://web.facebook.com/groups/free.code.camp.mila/
 chat:
   name: ''

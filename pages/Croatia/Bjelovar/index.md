@@ -8,7 +8,7 @@ location:
   coordinates: 45.899012, 16.842444
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bjelovar
 chat:
   name: ''

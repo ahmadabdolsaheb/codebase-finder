@@ -8,7 +8,7 @@ location:
   coordinates: 58.014964, 56.246724
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.city.perm
 chat:
   name: ''

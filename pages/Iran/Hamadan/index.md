@@ -8,7 +8,7 @@ location:
   coordinates: 34.79835, 48.514607
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hamedan
 chat:
   name: ''

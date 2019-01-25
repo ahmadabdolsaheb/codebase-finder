@@ -8,7 +8,7 @@ location:
   coordinates: 23.795281, 86.430964
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Dhanbad
 chat:
   name: ''

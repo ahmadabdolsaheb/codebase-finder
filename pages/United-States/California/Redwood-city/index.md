@@ -8,7 +8,7 @@ location:
   coordinates: 37.485215, -122.236355
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.redwood.city
 chat:
   name: ''

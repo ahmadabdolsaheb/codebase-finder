@@ -8,7 +8,7 @@ location:
   coordinates: -0.0917016,34.7679568
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Kisumu
 chat:
   name: ''

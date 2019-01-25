@@ -8,7 +8,7 @@ location:
   coordinates: 37.72493, -122.156077
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.leandro
 chat:
   name: ''

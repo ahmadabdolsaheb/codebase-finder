@@ -8,7 +8,7 @@ location:
   coordinates: 40.845655, -74.694884
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.flanders.nj
 chat:
   name: ''

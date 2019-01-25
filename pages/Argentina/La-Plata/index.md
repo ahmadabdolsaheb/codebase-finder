@@ -8,7 +8,7 @@ location:
   coordinates: -34.92068, -57.953764
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.la.plata
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.885394, -3.992514
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.llandeilo
 chat:
   name: ''

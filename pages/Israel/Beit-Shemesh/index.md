@@ -8,7 +8,7 @@ location:
   coordinates: 31.746214, 34.988683
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.beitshemesh
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 52.018119, 4.711122
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gouda
 chat:
   name: ''

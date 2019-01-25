@@ -8,7 +8,7 @@ location:
   coordinates: 32.992026, 35.6877
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.katzrin
 chat:
   name: ''

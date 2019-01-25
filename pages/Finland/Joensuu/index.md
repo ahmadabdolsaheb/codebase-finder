@@ -8,7 +8,7 @@ location:
   coordinates: 62.600015, 29.766659
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.joensuu
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 38.917467, -6.344398
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.merida.mexico
 chat:
   name: ''

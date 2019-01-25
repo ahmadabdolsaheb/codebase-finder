@@ -8,7 +8,7 @@ location:
   coordinates: 30.325565, 78.043681
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dehradun
 chat:
   name: ''

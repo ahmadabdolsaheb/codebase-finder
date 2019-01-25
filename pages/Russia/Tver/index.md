@@ -8,7 +8,7 @@ location:
   coordinates: 56.858675, 35.920828
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.tver
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 44.797194, -106.956179
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sheridan
 chat:
   name: ''

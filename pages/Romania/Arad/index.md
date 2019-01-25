@@ -8,7 +8,7 @@ location:
   coordinates: 46.175379, 21.319634
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.romania.arad
 chat:
   name: ''

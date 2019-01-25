@@ -8,7 +8,7 @@ location:
   coordinates: 11.405065, -69.667807
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coro
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 26.46171, 87.280811
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.biratnagar
 chat:
   name: ''

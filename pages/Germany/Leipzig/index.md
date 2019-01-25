@@ -8,7 +8,7 @@ location:
   coordinates: 51.339183, 12.381055
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leipzig
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -7.569246, 110.828448
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.solo
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 46.948276, 7.451501
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bern
 chat:
   name: ''

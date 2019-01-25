@@ -8,7 +8,7 @@ location:
   coordinates: 26.581411, 106.705254
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guiyang
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 55.710121, 21.130698
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freeCodeCamp.klaipeda
 chat:
   name: ''

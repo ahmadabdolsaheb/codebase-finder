@@ -8,7 +8,7 @@ location:
   coordinates: 56.949398, 24.105185
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.riga
 chat:
   name: ''

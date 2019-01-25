@@ -8,7 +8,7 @@ location:
   coordinates: 37.538509, -77.43428
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.richmond.va
 chat:
   name: ''

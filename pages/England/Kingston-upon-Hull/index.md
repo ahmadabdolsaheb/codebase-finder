@@ -8,7 +8,7 @@ location:
   coordinates: 53.743572, -0.339476
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kingston.upon.hull
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 40.2902056,-3.8035477
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fuenlabrada
 chat:
   name: ''

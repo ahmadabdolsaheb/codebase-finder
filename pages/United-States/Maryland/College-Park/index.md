@@ -8,7 +8,7 @@ location:
   coordinates: 38.980666, -76.936919
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.college.park
 chat:
   name: ''

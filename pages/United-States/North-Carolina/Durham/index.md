@@ -8,7 +8,7 @@ location:
   coordinates: 54.776415, -1.575854
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.durham
 chat:
   name: ''

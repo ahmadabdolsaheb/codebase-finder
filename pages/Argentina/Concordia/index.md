@@ -8,7 +8,7 @@ location:
   coordinates: -27.231367, -52.022986
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.concordia
 chat:
   name: ''

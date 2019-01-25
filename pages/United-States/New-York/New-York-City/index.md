@@ -8,7 +8,7 @@ location:
   coordinates: 40.724579, -73.988898
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.new.york.city
 chat:
   name: ''

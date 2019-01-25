@@ -8,7 +8,7 @@ location:
   coordinates: -22.911014, -43.209373
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rio.de.janeiro
 chat:
   name: ''

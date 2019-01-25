@@ -8,7 +8,7 @@ location:
   coordinates: 3.868987, 11.521334
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.yaounde
 chat:
   name: ''

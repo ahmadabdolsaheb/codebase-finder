@@ -8,7 +8,7 @@ location:
   coordinates: 39.624247, 19.921043
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.corfu
 chat:
   name: ''

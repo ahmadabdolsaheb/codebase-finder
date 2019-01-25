@@ -8,7 +8,7 @@ location:
   coordinates: 37.354113, -121.955174
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santa.clara
 chat:
   name: ''

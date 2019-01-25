@@ -8,7 +8,7 @@ location:
   coordinates: 35.960395, -83.921026
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.knoxville.tn
 chat:
   name: ''

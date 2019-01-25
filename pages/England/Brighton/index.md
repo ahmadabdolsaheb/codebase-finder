@@ -8,7 +8,7 @@ location:
   coordinates: 50.82204, -0.137406
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brighton
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 52.678042, -2.451427
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.telford
 chat:
   name: ''

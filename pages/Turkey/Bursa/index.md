@@ -8,7 +8,7 @@ location:
   coordinates: 40.182706, 29.066764
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bursa
 chat:
   name: ''

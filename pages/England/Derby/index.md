@@ -8,7 +8,7 @@ location:
   coordinates: 52.921262, -1.476149
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.derby
 chat:
   name: ''

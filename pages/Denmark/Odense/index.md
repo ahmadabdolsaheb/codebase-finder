@@ -8,7 +8,7 @@ location:
   coordinates: 55.399723, 10.38521
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.odense
 chat:
   name: ''

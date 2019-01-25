@@ -8,7 +8,7 @@ location:
   coordinates: 33.781003, -116.464076
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cathedral.city
 chat:
   name: ''

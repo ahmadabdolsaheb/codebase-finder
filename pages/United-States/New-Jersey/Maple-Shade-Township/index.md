@@ -8,7 +8,7 @@ location:
   coordinates: 39.9526127,-74.9923915
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maple.shade/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 12.146124, -86.273717
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.managua
 chat:
   name: ''

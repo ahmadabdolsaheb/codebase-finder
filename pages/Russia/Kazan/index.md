@@ -8,7 +8,7 @@ location:
   coordinates: 55.760419, 49.190294
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kazan
 chat:
   name: ''

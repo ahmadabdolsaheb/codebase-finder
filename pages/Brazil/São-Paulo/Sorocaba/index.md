@@ -8,7 +8,7 @@ location:
   coordinates: -23.501667, -47.458056
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sorocaba.sp
 chat:
   name: ''

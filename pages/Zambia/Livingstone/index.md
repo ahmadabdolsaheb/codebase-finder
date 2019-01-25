@@ -8,7 +8,7 @@ location:
   coordinates: -17.853135, 25.861429
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.livingstone
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 1.490058, 124.840871
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.manado
 chat:
   name: ''

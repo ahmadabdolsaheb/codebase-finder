@@ -8,7 +8,7 @@ location:
   coordinates: 45.118613, 21.300618
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vrsac
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 4.847834, 100.73716
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.taiping
 chat:
   name: ''

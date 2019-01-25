@@ -8,7 +8,7 @@ location:
   coordinates: 51.7150832,94.4574804
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.kyzyl
 chat:
   name: ''

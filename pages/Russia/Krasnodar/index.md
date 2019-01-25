@@ -8,7 +8,7 @@ location:
   coordinates: 45.035433, 38.975712
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.krasnodar
 chat:
   name: ''

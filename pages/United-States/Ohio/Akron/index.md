@@ -8,7 +8,7 @@ location:
   coordinates: 41.083064, -81.518485
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.akron
 chat:
   name: ''

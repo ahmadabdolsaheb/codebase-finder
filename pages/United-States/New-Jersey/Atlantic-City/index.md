@@ -8,7 +8,7 @@ location:
   coordinates: 39.364285, -74.422935
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.atlantic.city
 chat:
   name: ''

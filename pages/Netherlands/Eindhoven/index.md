@@ -8,7 +8,7 @@ location:
   coordinates: 51.448557, 5.450123
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lightcity
 chat:
   name: ''

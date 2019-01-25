@@ -8,7 +8,7 @@ location:
   coordinates: 49.2067, -122.910898
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.new.westminster
 chat:
   name: ''

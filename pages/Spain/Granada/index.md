@@ -8,7 +8,7 @@ location:
   coordinates: 37.18302, -3.602192
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.spain.granada
 chat:
   name: ''

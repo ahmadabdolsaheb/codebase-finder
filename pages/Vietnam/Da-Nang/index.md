@@ -8,7 +8,7 @@ location:
   coordinates: 20.914006, 106.675453
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.Da.Nang
 chat:
   name: ''

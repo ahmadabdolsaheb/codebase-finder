@@ -8,7 +8,7 @@ location:
   coordinates: -1.239871, 116.859338
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.balikpapan
 chat:
   name: ''

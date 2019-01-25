@@ -8,7 +8,7 @@ location:
   coordinates: 16.943739, 82.235061
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kakinada
 chat:
   name: ''

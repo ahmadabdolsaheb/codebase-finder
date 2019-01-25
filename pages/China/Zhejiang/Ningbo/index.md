@@ -8,7 +8,7 @@ location:
   coordinates: 29.856506, 121.577886
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ningbo
 chat:
   name: ''

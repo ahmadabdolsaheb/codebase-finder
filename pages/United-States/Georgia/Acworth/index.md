@@ -8,7 +8,7 @@ location:
   coordinates: 34.065933, -84.67688
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.acworth.ga
 chat:
   name: ''

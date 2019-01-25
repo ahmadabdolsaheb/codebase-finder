@@ -8,7 +8,7 @@ location:
   coordinates: 26.204369, -98.230082
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mcallen.tx
 chat:
   name: ''

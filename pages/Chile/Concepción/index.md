@@ -8,7 +8,7 @@ location:
   coordinates: -36.827074, -73.050246
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.concepcion
 chat:
   name: ''

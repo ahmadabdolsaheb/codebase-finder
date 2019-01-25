@@ -8,7 +8,7 @@ location:
   coordinates: -39.03939, 177.427139
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wairoa
 chat:
   name: ''

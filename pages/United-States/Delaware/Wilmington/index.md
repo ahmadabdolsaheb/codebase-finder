@@ -8,7 +8,7 @@ location:
   coordinates: 39.745947, -75.546589
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/fcc.wilmington.delaware
 chat:
   name: ''

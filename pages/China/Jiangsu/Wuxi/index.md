@@ -8,7 +8,7 @@ location:
   coordinates: 31.575635, 120.295453
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wuxi
 chat:
   name: ''

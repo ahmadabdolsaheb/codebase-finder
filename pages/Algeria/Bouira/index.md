@@ -8,7 +8,7 @@ location:
   coordinates: 36.372806, 3.890637
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bouira
 chat:
   name: ''

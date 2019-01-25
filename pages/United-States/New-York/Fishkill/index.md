@@ -8,7 +8,7 @@ location:
   coordinates: 41.535575, -73.898702
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fishkill
 chat:
   name: ''

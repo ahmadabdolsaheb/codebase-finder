@@ -8,7 +8,7 @@ location:
   coordinates: 23.6175, 120.539722
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Nanchang
 chat:
   name: ''

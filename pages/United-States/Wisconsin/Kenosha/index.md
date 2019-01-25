@@ -8,7 +8,7 @@ location:
   coordinates: 42.584677, -87.821226
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kenosha
 chat:
   name: ''

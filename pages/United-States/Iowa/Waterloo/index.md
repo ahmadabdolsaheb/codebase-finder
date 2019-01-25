@@ -8,7 +8,7 @@ location:
   coordinates: 43.465552, -80.521779
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.waterloo.iowa
 chat:
   name: ''

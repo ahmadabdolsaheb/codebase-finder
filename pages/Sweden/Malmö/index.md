@@ -8,7 +8,7 @@ location:
   coordinates: 55.605293, 13.000157
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.malmo
 chat:
   name: ''

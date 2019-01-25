@@ -8,7 +8,7 @@ location:
   coordinates: 36.901996, -89.823698
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Guam
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 59.325117, 18.071094
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.stockholm.sweden
 chat:
   name: ''

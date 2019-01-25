@@ -8,7 +8,7 @@ location:
   coordinates: 52.450306, 4.815944
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zaandam
 chat:
   name: ''

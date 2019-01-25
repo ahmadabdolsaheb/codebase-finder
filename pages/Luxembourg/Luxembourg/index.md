@@ -8,7 +8,7 @@ location:
   coordinates: 48.849513, 2.332417
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.luxembourg
 chat:
   name: ''

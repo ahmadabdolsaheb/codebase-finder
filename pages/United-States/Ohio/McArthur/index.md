@@ -8,7 +8,7 @@ location:
   coordinates: 39.2464596,-82.47848979999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.mcarthur.oh
 chat:
   name: ''

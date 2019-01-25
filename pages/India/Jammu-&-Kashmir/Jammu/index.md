@@ -8,7 +8,7 @@ location:
   coordinates: 32.718561, 74.858092
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jammu1
 chat:
   name: ''

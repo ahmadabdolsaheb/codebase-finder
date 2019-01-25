@@ -8,7 +8,7 @@ location:
   coordinates: 45.17793, 28.801892
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tulcea
 chat:
   name: ''

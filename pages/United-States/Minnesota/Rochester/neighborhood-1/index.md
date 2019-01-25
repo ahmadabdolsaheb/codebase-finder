@@ -8,7 +8,7 @@ location:
   coordinates: 
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: 
 chat:
   name: ''

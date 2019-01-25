@@ -8,7 +8,7 @@ location:
   coordinates: -22.628455, -65.021742
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.costa.rica.san.pedro
 chat:
   name: ''

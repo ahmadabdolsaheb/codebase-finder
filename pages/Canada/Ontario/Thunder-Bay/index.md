@@ -8,7 +8,7 @@ location:
   coordinates: 48.3808951,-89.2476823
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.thunder.bay/
 chat:
   name: ''

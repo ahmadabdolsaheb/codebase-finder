@@ -8,7 +8,7 @@ location:
   coordinates: 43.46231, -3.810107
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santander
 chat:
   name: ''

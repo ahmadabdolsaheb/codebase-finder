@@ -8,7 +8,7 @@ location:
   coordinates: 23.021624, 72.579707
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ahmedabad
 chat:
   name: ''

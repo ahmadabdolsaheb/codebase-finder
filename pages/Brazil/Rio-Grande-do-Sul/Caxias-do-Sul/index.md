@@ -8,7 +8,7 @@ location:
   coordinates: -29.16848, -51.179386
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.caxias.do.sul
 chat:
   name: ''

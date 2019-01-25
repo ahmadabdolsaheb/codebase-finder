@@ -8,7 +8,7 @@ location:
   coordinates: -25.428693, -49.272373
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.curitiba
 chat:
   name: ''

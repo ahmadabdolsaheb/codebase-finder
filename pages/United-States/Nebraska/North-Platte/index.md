@@ -8,7 +8,7 @@ location:
   coordinates: 41.123887, -100.765423
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.north.platte
 chat:
   name: ''

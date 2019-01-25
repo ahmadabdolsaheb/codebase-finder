@@ -8,7 +8,7 @@ location:
   coordinates: 28.459782, -16.253638
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santacruzdetenerife
 chat:
   name: ''

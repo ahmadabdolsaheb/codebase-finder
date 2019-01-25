@@ -8,7 +8,7 @@ location:
   coordinates: 42.988097, -81.246029
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.london.ky
 chat:
   name: ''

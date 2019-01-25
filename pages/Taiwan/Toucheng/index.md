@@ -8,7 +8,7 @@ location:
   coordinates: 24.951152, 121.492128
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.toucheng.taiwan
 chat:
   name: ''

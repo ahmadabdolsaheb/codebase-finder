@@ -8,7 +8,7 @@ location:
   coordinates: 56.839103, 60.60825
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.yekaterinburg
 chat:
   name: ''

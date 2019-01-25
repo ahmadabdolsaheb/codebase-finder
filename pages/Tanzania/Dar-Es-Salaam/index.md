@@ -8,7 +8,7 @@ location:
   coordinates: -6.814274, 39.280376
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dar.es.salaam
 chat:
   name: ''

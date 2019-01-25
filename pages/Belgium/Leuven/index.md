@@ -8,7 +8,7 @@ location:
   coordinates: 50.881213, 4.694183
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leuven
 chat:
   name: ''

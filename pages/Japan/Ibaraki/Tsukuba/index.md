@@ -8,7 +8,7 @@ location:
   coordinates: 36.083388, 140.07651
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tsukuba
 chat:
   name: ''

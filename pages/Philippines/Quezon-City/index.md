@@ -8,7 +8,7 @@ location:
   coordinates: 14.650991, 121.048616
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.quezon.city
 chat:
   name: ''

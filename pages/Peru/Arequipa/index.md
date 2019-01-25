@@ -8,7 +8,7 @@ location:
   coordinates: -12.433267, -73.982587
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.arequipa
 chat:
   name: ''

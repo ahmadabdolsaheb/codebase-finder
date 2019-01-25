@@ -8,7 +8,7 @@ location:
   coordinates: 40.014986, -105.270546
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.boulder
 chat:
   name: ''

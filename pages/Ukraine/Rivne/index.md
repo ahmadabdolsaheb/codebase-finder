@@ -8,7 +8,7 @@ location:
   coordinates: 50.619618, 26.251317
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rivne
 chat:
   name: ''

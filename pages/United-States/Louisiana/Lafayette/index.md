@@ -8,7 +8,7 @@ location:
   coordinates: 30.22409, -92.019843
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lafayette
 chat:
   name: ''

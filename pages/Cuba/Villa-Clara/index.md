@@ -8,7 +8,7 @@ location:
   coordinates: 4.330746, -74.367409
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.villa.clara
 chat:
   name: ''

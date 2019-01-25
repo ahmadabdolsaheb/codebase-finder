@@ -8,7 +8,7 @@ location:
   coordinates: 32.64965, -16.908678
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.funchal
 chat:
   name: ''

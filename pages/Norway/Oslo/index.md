@@ -8,7 +8,7 @@ location:
   coordinates: 59.913269, 10.739111
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.oslo
 chat:
   name: ''

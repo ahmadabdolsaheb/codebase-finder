@@ -8,7 +8,7 @@ location:
   coordinates: 39.52927, -119.813674
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.reno
 chat:
   name: ''

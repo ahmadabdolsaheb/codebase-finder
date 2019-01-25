@@ -8,7 +8,7 @@ location:
   coordinates: -34.905904, -56.191357
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montevideo
 chat:
   name: ''

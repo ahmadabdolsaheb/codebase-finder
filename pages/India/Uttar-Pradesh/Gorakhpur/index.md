@@ -8,7 +8,7 @@ location:
   coordinates: 26.760022, 83.366813
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gorakhpur
 chat:
   name: ''

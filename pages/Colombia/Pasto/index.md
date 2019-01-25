@@ -8,7 +8,7 @@ location:
   coordinates: 1.214629, -77.278252
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pasto
 chat:
   name: ''

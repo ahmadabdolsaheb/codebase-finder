@@ -8,7 +8,7 @@ location:
   coordinates: -29.310054, 27.478222
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maseru
 chat:
   name: ''

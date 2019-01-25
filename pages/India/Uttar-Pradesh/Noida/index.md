@@ -8,7 +8,7 @@ location:
   coordinates: 28.572644, 77.354761
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.noida
 chat:
   name: ''

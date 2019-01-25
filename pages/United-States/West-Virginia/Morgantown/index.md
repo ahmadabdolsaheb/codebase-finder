@@ -8,7 +8,7 @@ location:
   coordinates: 39.629526, -79.955897
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.morgantown
 chat:
   name: ''

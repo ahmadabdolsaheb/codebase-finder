@@ -8,7 +8,7 @@ location:
   coordinates: 43.234181, -86.248392
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.muskegon
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 26.203725, 78.157363
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Gwalior
 chat:
   name: ''

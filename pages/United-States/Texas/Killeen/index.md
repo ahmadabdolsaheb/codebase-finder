@@ -8,7 +8,7 @@ location:
   coordinates: 31.117144, -97.727796
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.killeen.texas
 chat:
   name: ''

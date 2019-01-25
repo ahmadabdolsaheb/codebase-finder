@@ -8,7 +8,7 @@ location:
   coordinates: 45.753836, 21.225747
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.timisoara
 chat:
   name: ''

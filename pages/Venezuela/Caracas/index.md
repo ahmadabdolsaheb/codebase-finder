@@ -8,7 +8,7 @@ location:
   coordinates: 10.506098, -66.914602
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.caracas
 chat:
   name: ''

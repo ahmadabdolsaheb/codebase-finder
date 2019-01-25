@@ -8,7 +8,7 @@ location:
   coordinates: -0.967700, -80.708900
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.manta
 chat:
   name: ''

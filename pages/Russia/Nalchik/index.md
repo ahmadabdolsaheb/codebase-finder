@@ -8,7 +8,7 @@ location:
   coordinates: 43.493075, 43.619357
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.russia.nalchik
 chat:
   name: ''

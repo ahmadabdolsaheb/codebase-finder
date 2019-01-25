@@ -8,7 +8,7 @@ location:
   coordinates: 26.9080378,-101.4215236
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Monclova
 chat:
   name: ''

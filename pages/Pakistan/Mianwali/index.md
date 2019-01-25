@@ -8,7 +8,7 @@ location:
   coordinates: 32.57451, 71.580041
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mianwali
 chat:
   name: ''

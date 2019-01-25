@@ -8,7 +8,7 @@ location:
   coordinates: 43.21661, 27.901713
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.varna
 chat:
   name: ''

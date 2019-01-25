@@ -8,7 +8,7 @@ location:
   coordinates: 51.89313, 0.904629
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.colchester
 chat:
   name: ''

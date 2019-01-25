@@ -8,7 +8,7 @@ location:
   coordinates: 37.226611, -121.97468
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Los.Gatos.CA
 chat:
   name: ''

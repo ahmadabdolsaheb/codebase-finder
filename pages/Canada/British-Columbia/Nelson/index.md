@@ -8,7 +8,7 @@ location:
   coordinates: -41.271085, 173.283676
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nelson.bc
 chat:
   name: ''

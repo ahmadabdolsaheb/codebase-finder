@@ -8,7 +8,7 @@ location:
   coordinates: 33.089873, -82.015674
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.waynesboro
 chat:
   name: ''

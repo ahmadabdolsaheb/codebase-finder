@@ -8,7 +8,7 @@ location:
   coordinates: 41.800652, -73.121221
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Torrington.CT
 chat:
   name: ''

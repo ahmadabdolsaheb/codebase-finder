@@ -8,7 +8,7 @@ location:
   coordinates: 27.364189, -99.480041
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.riobravo
 chat:
   name: ''

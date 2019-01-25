@@ -8,7 +8,7 @@ location:
   coordinates: -6.990404, 110.422946
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.semarang
 chat:
   name: ''

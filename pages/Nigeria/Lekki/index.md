@@ -8,7 +8,7 @@ location:
   coordinates: 6.360679, 4.833312
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lekki
 chat:
   name: ''

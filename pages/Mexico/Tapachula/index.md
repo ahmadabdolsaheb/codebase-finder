@@ -8,7 +8,7 @@ location:
   coordinates: 14.909941, -92.264971
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tapachula
 chat:
   name: ''

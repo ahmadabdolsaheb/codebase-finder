@@ -8,7 +8,7 @@ location:
   coordinates: 47.850782, 35.118292
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zaporozhye
 chat:
   name: ''

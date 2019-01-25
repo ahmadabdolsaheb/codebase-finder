@@ -8,7 +8,7 @@ location:
   coordinates: -6.234874, 106.994316
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bekasi
 chat:
   name: ''

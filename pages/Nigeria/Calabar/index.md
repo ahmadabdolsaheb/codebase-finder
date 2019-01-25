@@ -8,7 +8,7 @@ location:
   coordinates: 4.9796, 8.33736
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.calabar
 chat:
   name: ''

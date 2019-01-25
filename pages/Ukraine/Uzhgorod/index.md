@@ -8,7 +8,7 @@ location:
   coordinates: 48.62235, 22.302126
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.uzhgorod
 chat:
   name: ''

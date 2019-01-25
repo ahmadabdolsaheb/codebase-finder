@@ -8,7 +8,7 @@ location:
   coordinates: 52.245157, -7.101979
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.waterford
 chat:
   name: ''

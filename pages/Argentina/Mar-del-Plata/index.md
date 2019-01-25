@@ -8,7 +8,7 @@ location:
   coordinates: -37.997722, -57.54827
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mar.del.plata
 chat:
   name: ''

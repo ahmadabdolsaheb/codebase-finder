@@ -8,7 +8,7 @@ location:
   coordinates: 38.98542, -3.928514
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ciudad.real
 chat:
   name: ''

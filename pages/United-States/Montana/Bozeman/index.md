@@ -8,7 +8,7 @@ location:
   coordinates: 45.679984, -111.044675
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bozeman
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 50.294113, 18.665731
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.gliwice
 chat:
   name: ''

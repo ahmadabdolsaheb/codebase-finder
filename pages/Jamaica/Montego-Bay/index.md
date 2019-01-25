@@ -8,7 +8,7 @@ location:
   coordinates: 18.47246, -77.921736
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montego.bay
 chat:
   name: ''

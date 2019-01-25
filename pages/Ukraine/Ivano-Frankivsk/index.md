@@ -8,7 +8,7 @@ location:
   coordinates: 48.922522, 24.710319
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ivano.frankivsk
 chat:
   name: ''

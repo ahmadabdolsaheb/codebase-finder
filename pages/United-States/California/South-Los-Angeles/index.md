@@ -8,7 +8,7 @@ location:
   coordinates: 33.927515, -118.278129
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampsola
 chat:
   name: ''

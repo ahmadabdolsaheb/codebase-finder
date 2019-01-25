@@ -8,7 +8,7 @@ location:
   coordinates: 37.5442706,-4.7277528
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.andalucia/
 chat:
   name: ''

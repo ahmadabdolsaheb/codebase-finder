@@ -8,7 +8,7 @@ location:
   coordinates: 35.682838, 139.758967
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tokyo
 chat:
   name: ''

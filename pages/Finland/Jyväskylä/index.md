@@ -8,7 +8,7 @@ location:
   coordinates: 62.2393, 25.745951
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jyvaskyla
 chat:
   name: ''

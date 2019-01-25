@@ -8,7 +8,7 @@ location:
   coordinates: -12.981636, -38.482077
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.salvador
 chat:
   name: ''

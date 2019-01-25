@@ -8,7 +8,7 @@ location:
   coordinates: 24.371551, 88.592104
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rajshahicity
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 43.2081, -71.5376
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.concord/
 chat:
   name: ''

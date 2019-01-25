@@ -8,7 +8,7 @@ location:
   coordinates: 16.4349, 80.5688
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mangalagiri/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 43.814405, 125.316942
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.changchun
 chat:
   name: ''

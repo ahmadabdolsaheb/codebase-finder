@@ -8,7 +8,7 @@ location:
   coordinates: 28.209538, 83.991403
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pokhara
 chat:
   name: ''

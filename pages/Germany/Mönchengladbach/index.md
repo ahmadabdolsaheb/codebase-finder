@@ -8,7 +8,7 @@ location:
   coordinates: 51.194698, 6.435364
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.moenchengladbach
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 34.851354, -82.398488
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Greenville
 chat:
   name: ''

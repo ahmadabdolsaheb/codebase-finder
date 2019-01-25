@@ -8,7 +8,7 @@ location:
   coordinates: 53.228702, -4.129300
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wales.bangor
 chat:
   name: ''

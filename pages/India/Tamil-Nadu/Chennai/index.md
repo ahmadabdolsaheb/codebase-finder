@@ -8,7 +8,7 @@ location:
   coordinates: 13.079691, 80.282953
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chennai
 chat:
   name: ''

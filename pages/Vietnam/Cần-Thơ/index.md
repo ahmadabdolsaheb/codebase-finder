@@ -8,7 +8,7 @@ location:
   coordinates: 10.0495716,105.7853052
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.canthocity/
 chat:
   name: ''

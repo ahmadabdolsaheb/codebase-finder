@@ -8,7 +8,7 @@ location:
   coordinates: 6.9046, 122.07637
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zamboanga.city
 chat:
   name: ''

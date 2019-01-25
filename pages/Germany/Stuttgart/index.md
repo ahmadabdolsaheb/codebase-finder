@@ -8,7 +8,7 @@ location:
   coordinates: 48.778449, 9.180013
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.stuttgart
 chat:
   name: ''

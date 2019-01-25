@@ -8,7 +8,7 @@ location:
   coordinates: -18.604145, -46.50967
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.patosdeminas
 chat:
   name: ''

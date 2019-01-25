@@ -8,7 +8,7 @@ location:
   coordinates: 36.072636, -79.791975
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampgreensboro
 chat:
   name: ''

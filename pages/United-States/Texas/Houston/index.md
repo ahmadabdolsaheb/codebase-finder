@@ -8,7 +8,7 @@ location:
   coordinates: 29.758938, -95.367697
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: http://www.freecodecamphouston.com
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 26.916129, 75.820406
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jaipur
 chat:
   name: ''

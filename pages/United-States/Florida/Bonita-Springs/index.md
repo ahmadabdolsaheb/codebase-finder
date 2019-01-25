@@ -8,7 +8,7 @@ location:
   coordinates: 26.361865, -81.793061
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Bonita.Springs
 chat:
   name: ''

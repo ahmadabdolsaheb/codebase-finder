@@ -8,7 +8,7 @@ location:
   coordinates: -16.495647, -68.133542
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.La.Paz
 chat:
   name: ''

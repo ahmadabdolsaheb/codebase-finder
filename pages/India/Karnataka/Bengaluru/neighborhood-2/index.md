@@ -8,7 +8,7 @@ location:
   coordinates: 12.9657327,77.6000341
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.jaaga
 chat:
   name: ''

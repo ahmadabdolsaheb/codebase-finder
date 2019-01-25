@@ -8,7 +8,7 @@ location:
   coordinates: -36.853466, 174.765551
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/awesome.code.camp
 chat:
   name: ''

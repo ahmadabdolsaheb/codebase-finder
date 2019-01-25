@@ -8,7 +8,7 @@ location:
   coordinates: 38.209797, -84.558831
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.georgetown.gy
 chat:
   name: ''

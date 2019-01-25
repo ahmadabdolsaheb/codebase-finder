@@ -8,7 +8,7 @@ location:
   coordinates: 32.186248, 34.869635
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.raanana
 chat:
   name: ''

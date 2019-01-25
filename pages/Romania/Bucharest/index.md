@@ -8,7 +8,7 @@ location:
   coordinates: 44.436141, 26.10272
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bucharest
 chat:
   name: ''

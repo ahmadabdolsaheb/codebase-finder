@@ -8,7 +8,7 @@ location:
   coordinates: 44.472399, -73.211494
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Racine.WI
 chat:
   name: ''

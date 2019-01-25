@@ -8,7 +8,7 @@ location:
   coordinates: 43.567516, 22.255655
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.knjazevac
 chat:
   name: ''

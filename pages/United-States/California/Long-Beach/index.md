@@ -8,7 +8,7 @@ location:
   coordinates: 33.777466, -118.188487
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/fcc.long.beach.ca
 chat:
   name: ''

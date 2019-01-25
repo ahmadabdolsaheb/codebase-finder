@@ -8,7 +8,7 @@ location:
   coordinates: 53.797419, -1.543794
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leeds
 chat:
   name: ''

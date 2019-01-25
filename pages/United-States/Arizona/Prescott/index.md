@@ -8,7 +8,7 @@ location:
   coordinates: 34.540024, -112.468502
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.northern.arizona
 chat:
   name: ''

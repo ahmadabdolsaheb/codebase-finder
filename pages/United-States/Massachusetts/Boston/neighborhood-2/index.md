@@ -8,7 +8,7 @@ location:
   coordinates: 42.37021370000001,-71.0388601
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.east.boston
 chat:
   name: ''

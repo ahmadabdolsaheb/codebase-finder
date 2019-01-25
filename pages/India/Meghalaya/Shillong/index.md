@@ -8,7 +8,7 @@ location:
   coordinates: 25.576015, 91.882803
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.shillong
 chat:
   name: ''

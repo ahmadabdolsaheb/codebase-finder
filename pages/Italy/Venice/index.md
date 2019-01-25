@@ -8,7 +8,7 @@ location:
   coordinates: 45.437191, 12.33459
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.venice
 chat:
   name: ''

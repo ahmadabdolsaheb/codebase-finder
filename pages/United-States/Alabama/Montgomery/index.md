@@ -8,7 +8,7 @@ location:
   coordinates: 32.366966, -86.300648
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montgomery.alabama
 chat:
   name: ''

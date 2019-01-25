@@ -8,7 +8,7 @@ location:
   coordinates: 7.918384, -72.430163
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aguascalientes
 chat:
   name: ''

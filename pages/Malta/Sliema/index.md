@@ -8,7 +8,7 @@ location:
   coordinates: 35.912761, 14.502071
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.sliema
 chat:
   name: ''

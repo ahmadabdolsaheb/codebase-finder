@@ -8,7 +8,7 @@ location:
   coordinates: -26.919557, -49.066578
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.blumenau
 chat:
   name: ''

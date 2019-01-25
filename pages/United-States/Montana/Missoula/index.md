@@ -8,7 +8,7 @@ location:
   coordinates: 46.87008, -113.99528
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.missoula
 chat:
   name: ''

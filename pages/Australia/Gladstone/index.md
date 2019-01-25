@@ -8,7 +8,7 @@ location:
   coordinates: -23.843172, 151.256132
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gladstone.qld
 chat:
   name: ''

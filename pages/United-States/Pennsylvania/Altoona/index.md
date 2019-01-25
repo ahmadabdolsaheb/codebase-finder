@@ -8,7 +8,7 @@ location:
   coordinates: 40.518681, -78.394736
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.altoona.pa
 chat:
   name: ''

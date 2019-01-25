@@ -8,7 +8,7 @@ location:
   coordinates: 27.638716, -80.39754
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vero.beach
 chat:
   name: ''

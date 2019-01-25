@@ -8,7 +8,7 @@ location:
   coordinates: 54.348226, 18.654289
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.trojmiasto
 chat:
   name: ''

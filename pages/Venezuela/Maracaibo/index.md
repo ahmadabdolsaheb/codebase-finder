@@ -8,7 +8,7 @@ location:
   coordinates: 10.665156, -71.623075
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.maracaibo
 chat:
   name: ''

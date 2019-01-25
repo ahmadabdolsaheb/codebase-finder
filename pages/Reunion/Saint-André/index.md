@@ -8,7 +8,7 @@ location:
   coordinates: -20.960633, 55.649273
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.city.saint.andre
 chat:
   name: ''

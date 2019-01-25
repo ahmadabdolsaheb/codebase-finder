@@ -8,7 +8,7 @@ location:
   coordinates: 10.775923, 76.643801
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.palakkad
 chat:
   name: ''

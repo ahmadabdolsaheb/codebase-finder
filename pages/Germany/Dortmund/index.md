@@ -8,7 +8,7 @@ location:
   coordinates: 51.514227, 7.465279
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.dortmund
 chat:
   name: ''

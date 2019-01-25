@@ -8,7 +8,7 @@ location:
   coordinates: 39.78373, -100.445882
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kangbashen
 chat:
   name: ''

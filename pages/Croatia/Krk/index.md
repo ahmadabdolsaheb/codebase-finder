@@ -8,7 +8,7 @@ location:
   coordinates: 31.184722, 35.704722
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.krk
 chat:
   name: ''

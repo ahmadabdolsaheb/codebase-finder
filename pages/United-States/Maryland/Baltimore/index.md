@@ -8,7 +8,7 @@ location:
   coordinates: 39.290861, -76.610807
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.baltimore
 chat:
   name: ''

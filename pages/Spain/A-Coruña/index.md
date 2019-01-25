@@ -8,7 +8,7 @@ location:
   coordinates: 43.371209, -8.395877
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.a.coruna
 chat:
   name: ''

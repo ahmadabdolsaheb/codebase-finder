@@ -8,7 +8,7 @@ location:
   coordinates: 47.758495, 27.91139
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.balti
 chat:
   name: ''

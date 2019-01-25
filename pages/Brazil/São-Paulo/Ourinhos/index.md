@@ -8,7 +8,7 @@ location:
   coordinates: -22.9493713,-49.87520689999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.ourinhos/
 chat:
   name: ''

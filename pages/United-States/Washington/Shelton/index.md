@@ -8,7 +8,7 @@ location:
   coordinates: 41.316486, -73.093164
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.shelton
 chat:
   name: ''

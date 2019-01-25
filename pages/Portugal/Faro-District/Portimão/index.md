@@ -8,7 +8,7 @@ location:
   coordinates: 37.13617,-8.5376926
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.portimao/
 chat:
   name: ''

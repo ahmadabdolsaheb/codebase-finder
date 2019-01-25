@@ -8,7 +8,7 @@ location:
   coordinates: -17.831773, 31.045686
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.harare
 chat:
   name: ''

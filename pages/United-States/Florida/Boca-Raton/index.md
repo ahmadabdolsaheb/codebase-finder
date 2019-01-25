@@ -8,7 +8,7 @@ location:
   coordinates: 26.358689, -80.083098
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.boca.raton
 chat:
   name: ''

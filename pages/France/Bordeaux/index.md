@@ -8,7 +8,7 @@ location:
   coordinates: 44.841225, -0.580036
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.your.city.Bordeaux
 chat:
   name: ''

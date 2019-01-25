@@ -8,7 +8,7 @@ location:
   coordinates: 40.146221, -74.711826
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bordentown
 chat:
   name: ''

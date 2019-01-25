@@ -8,7 +8,7 @@ location:
   coordinates: 48.468022, 35.041771
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dnipropetrovsk
 chat:
   name: ''

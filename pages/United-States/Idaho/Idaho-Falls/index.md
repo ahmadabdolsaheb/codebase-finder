@@ -8,7 +8,7 @@ location:
   coordinates: 43.493079, -112.044349
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.idaho.falls.idaho
 chat:
   name: ''

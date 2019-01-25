@@ -8,7 +8,7 @@ location:
   coordinates: 41.408687, -75.662129
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.scranton
 chat:
   name: ''

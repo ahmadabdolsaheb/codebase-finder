@@ -8,7 +8,7 @@ location:
   coordinates: 41.177205, 20.683244
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.struga
 chat:
   name: ''

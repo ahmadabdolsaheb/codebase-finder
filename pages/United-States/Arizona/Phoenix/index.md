@@ -8,7 +8,7 @@ location:
   coordinates: 33.446768, -112.075672
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tempe.phoenix.scottsdale
 chat:
   name: ''

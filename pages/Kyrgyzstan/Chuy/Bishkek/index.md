@@ -8,7 +8,7 @@ location:
   coordinates: 42.8746212,74.5697617
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bishkek
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 28.542118, -81.379046
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.orlando
 chat:
   name: ''

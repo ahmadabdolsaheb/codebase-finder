@@ -8,7 +8,7 @@ location:
   coordinates: 27.495554, 77.685555
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mathura
 chat:
   name: ''

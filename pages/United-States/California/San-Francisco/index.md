@@ -8,7 +8,7 @@ location:
   coordinates: 37.779277, -122.41927
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.francisco
 chat:
   name: ''

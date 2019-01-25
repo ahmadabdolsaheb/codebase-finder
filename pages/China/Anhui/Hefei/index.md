@@ -8,7 +8,7 @@ location:
   coordinates: 31.822809, 117.221803
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hefei1
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.90556, -47.06083
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.campinas
 chat:
   name: ''

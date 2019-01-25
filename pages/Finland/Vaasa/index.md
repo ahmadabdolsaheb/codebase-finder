@@ -8,7 +8,7 @@ location:
   coordinates: 63.095772, 21.615919
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.vaasa
 chat:
   name: ''

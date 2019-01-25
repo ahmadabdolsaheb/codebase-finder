@@ -8,7 +8,7 @@ location:
   coordinates: 36.330228, -119.292058
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.visalia
 chat:
   name: ''

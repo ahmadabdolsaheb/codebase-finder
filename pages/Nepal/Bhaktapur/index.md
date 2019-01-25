@@ -8,7 +8,7 @@ location:
   coordinates: 27.704332, 85.452119
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bhaktapur
 chat:
   name: ''

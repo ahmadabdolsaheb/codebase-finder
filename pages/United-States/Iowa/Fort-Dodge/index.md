@@ -8,7 +8,7 @@ location:
   coordinates: 42.497469, -94.168016
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fort.dodge.iowa
 chat:
   name: ''

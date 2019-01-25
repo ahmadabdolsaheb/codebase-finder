@@ -8,7 +8,7 @@ location:
   coordinates: 26.757793, 94.207965
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jorhat
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 26.180598, 91.753943
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guwahati
 chat:
   name: ''

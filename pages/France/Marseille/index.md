@@ -8,7 +8,7 @@ location:
   coordinates: 43.296174, 5.369953
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.marseille
 chat:
   name: ''

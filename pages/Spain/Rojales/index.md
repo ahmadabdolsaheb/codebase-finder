@@ -8,7 +8,7 @@ location:
   coordinates: 38.087175, -0.722821
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rojales
 chat:
   name: ''

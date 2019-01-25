@@ -8,7 +8,7 @@ location:
   coordinates: 3.431933, -76.511305
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cali
 chat:
   name: ''

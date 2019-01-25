@@ -8,7 +8,7 @@ location:
   coordinates: 40.693861, -89.589101
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Peoria
 chat:
   name: ''

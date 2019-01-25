@@ -8,7 +8,7 @@ location:
   coordinates: 23.535048, 87.338043
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.durgapur
 chat:
   name: ''

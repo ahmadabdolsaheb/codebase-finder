@@ -8,7 +8,7 @@ location:
   coordinates: 11.934057, 79.830645
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pondicherry
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 58.521143, 31.27529
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.velikiy.novgorod
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 8.505891, 76.957048
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.trivandrum
 chat:
   name: ''

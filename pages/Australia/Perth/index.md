@@ -8,7 +8,7 @@ location:
   coordinates: -31.952712, 115.86048
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.perth
 chat:
   name: ''

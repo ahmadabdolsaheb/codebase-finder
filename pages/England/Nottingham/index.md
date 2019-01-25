@@ -8,7 +8,7 @@ location:
   coordinates: 52.955863, -1.158047
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nottingham
 chat:
   name: ''

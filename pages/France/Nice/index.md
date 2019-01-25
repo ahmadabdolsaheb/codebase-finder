@@ -8,7 +8,7 @@ location:
   coordinates: 43.700936, 7.268391
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Nice
 chat:
   name: ''

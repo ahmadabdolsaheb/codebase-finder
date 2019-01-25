@@ -8,7 +8,7 @@ location:
   coordinates: 55.70293, 13.192945
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lund
 chat:
   name: ''

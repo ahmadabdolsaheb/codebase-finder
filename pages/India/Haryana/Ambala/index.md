@@ -8,7 +8,7 @@ location:
   coordinates: 30.3781788,76.7766974
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freeCodeCampAmbala/
 chat:
   name: ''

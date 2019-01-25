@@ -8,7 +8,7 @@ location:
   coordinates: 34.409811, -119.697024
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santa.barbara
 chat:
   name: ''

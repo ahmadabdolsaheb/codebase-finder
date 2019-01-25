@@ -8,7 +8,7 @@ location:
   coordinates: 44.083994, -93.226108
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.owatonna
 chat:
   name: ''

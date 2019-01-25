@@ -8,7 +8,7 @@ location:
   coordinates: 45.149006, 26.830656
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.buzau
 chat:
   name: ''

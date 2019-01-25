@@ -8,7 +8,7 @@ location:
   coordinates: 51.481655, -3.179193
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cardiff
 chat:
   name: ''

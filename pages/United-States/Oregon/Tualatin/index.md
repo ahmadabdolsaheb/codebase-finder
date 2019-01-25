@@ -8,7 +8,7 @@ location:
   coordinates: 45.383855, -122.766352
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tualatin.oregon
 chat:
   name: ''

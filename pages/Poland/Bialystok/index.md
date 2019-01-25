@@ -8,7 +8,7 @@ location:
   coordinates: 53.132398, 23.159168
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bialystok
 chat:
   name: ''

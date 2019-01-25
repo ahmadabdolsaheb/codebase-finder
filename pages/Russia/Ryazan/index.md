@@ -8,7 +8,7 @@ location:
   coordinates: 55.670796, 36.667606
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.ryazan
 chat:
   name: ''

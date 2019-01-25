@@ -8,7 +8,7 @@ location:
   coordinates: 41.8386, -94.1072
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.perry.ia
 chat:
   name: ''

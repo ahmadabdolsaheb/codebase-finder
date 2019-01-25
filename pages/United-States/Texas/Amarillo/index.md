@@ -8,7 +8,7 @@ location:
   coordinates: 35.207219, -101.833825
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampamarillotexas
 chat:
   name: ''

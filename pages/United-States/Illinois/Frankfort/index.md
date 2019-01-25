@@ -8,7 +8,7 @@ location:
   coordinates: 41.4958665,-87.84866129999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.frankfort.illinois/
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -27.864355, -54.477929
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.santa.rosa
 chat:
   name: ''

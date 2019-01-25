@@ -8,7 +8,7 @@ location:
   coordinates: 29.019515, -81.294142
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.deland
 chat:
   name: ''

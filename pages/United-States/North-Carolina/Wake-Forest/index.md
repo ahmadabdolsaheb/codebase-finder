@@ -8,7 +8,7 @@ location:
   coordinates: 35.98031, -78.510343
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wake.forest
 chat:
   name: ''

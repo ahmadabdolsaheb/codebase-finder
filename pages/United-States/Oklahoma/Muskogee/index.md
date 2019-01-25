@@ -8,7 +8,7 @@ location:
   coordinates: 35.747877, -95.369691
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.muskogee
 chat:
   name: ''

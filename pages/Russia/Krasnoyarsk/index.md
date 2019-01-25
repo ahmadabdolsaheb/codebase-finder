@@ -8,7 +8,7 @@ location:
   coordinates: 56.008256, 92.870237
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.krasnoyarsk
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 8.845318, 7.876834
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.keffi
 chat:
   name: ''

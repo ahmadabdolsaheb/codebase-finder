@@ -8,7 +8,7 @@ location:
   coordinates: 51.053059, -114.062561
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.calgary
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 44.9773, -93.265469
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.minneapolis
 chat:
   name: ''

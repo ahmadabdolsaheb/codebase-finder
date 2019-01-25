@@ -8,7 +8,7 @@ location:
   coordinates: 43.082058, 25.632131
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.veliko.tarnovo
 chat:
   name: ''

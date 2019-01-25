@@ -8,7 +8,7 @@ location:
   coordinates: 45.813155, 15.97703
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zagreb
 chat:
   name: ''

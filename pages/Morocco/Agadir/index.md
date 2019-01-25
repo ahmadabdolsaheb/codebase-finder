@@ -8,7 +8,7 @@ location:
   coordinates: 30.421468, -9.583016
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.agadir
 chat:
   name: ''

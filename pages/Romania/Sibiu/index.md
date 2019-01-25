@@ -8,7 +8,7 @@ location:
   coordinates: 45.797391, 24.15192
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sibiu
 chat:
   name: ''

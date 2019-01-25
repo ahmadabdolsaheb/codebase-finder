@@ -8,7 +8,7 @@ location:
   coordinates: -13.63692, 32.649193
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chipata
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 50.8279, -0.1687
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hove
 chat:
   name: ''

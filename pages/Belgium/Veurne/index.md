@@ -8,7 +8,7 @@ location:
   coordinates: 51.071043, 2.654886
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.veurne
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 20.4619152,94.5624426
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.magway
 chat:
   name: ''

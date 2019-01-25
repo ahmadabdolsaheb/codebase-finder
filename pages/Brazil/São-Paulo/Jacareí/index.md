@@ -8,7 +8,7 @@ location:
   coordinates: -23.30528, -45.96583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sao.paulo.jacarei
 chat:
   name: ''

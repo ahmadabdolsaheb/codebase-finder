@@ -8,7 +8,7 @@ location:
   coordinates: 44.529941, -88.024832
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.GreenBay
 chat:
   name: ''

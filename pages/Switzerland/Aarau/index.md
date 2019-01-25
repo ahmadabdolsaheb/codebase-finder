@@ -8,7 +8,7 @@ location:
   coordinates: 47.392715, 8.044445
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aarau
 chat:
   name: ''

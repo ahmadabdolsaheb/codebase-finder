@@ -8,7 +8,7 @@ location:
   coordinates: 34.087793, -117.889116
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Covina
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 43.944133, -90.812912
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sparta
 chat:
   name: ''

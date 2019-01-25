@@ -8,7 +8,7 @@ location:
   coordinates: 13.5775886,44.0177989
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Taiz
 chat:
   name: ''

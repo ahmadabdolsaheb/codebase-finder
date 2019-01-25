@@ -8,7 +8,7 @@ location:
   coordinates: 52.408106, -1.510456
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.coventry
 chat:
   name: ''

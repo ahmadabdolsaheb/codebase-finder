@@ -8,7 +8,7 @@ location:
   coordinates: 37.565486, 126.97799
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.seoul
 chat:
   name: ''

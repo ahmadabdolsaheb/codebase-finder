@@ -8,7 +8,7 @@ location:
   coordinates: 30.329561, 76.412782
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.patiala
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 37.834711, -122.12956
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.moraga.ca
 chat:
   name: ''

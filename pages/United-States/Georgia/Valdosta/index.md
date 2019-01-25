@@ -8,7 +8,7 @@ location:
   coordinates: 30.832702, -83.278485
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.valdosta
 chat:
   name: ''

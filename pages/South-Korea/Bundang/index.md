@@ -8,7 +8,7 @@ location:
   coordinates: 37.375693, 127.094125
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bundang
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 70.066989, 23.096644
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.alta
 chat:
   name: ''

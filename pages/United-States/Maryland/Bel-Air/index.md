@@ -8,7 +8,7 @@ location:
   coordinates: 39.535492, -76.347343
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.belair
 chat:
   name: ''

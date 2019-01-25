@@ -8,7 +8,7 @@ location:
   coordinates: 5.447203, 10.05317
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dschang
 chat:
   name: ''

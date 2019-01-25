@@ -8,7 +8,7 @@ location:
   coordinates: 39.749781, 37.013697
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sivastr
 chat:
   name: ''

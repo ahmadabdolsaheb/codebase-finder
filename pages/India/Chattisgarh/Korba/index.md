@@ -8,7 +8,7 @@ location:
   coordinates: 36.573553, 10.856499
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.korba
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 31.143519, -93.260998
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leesville.la
 chat:
   name: ''

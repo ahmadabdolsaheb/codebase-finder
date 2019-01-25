@@ -8,7 +8,7 @@ location:
   coordinates: 49.887663, -119.496161
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kelowna
 chat:
   name: ''

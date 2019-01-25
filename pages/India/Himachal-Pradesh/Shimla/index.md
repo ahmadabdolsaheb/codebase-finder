@@ -8,7 +8,7 @@ location:
   coordinates: 31.104153, 77.170973
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.shimla
 chat:
   name: ''

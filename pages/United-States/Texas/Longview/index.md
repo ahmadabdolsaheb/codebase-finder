@@ -8,7 +8,7 @@ location:
   coordinates: 32.500704, -94.740489
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tyler.longview.texas
 chat:
   name: ''

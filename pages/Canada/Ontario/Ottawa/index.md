@@ -8,7 +8,7 @@ location:
   coordinates: 45.421033, -75.690022
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ottawa
 chat:
   name: ''

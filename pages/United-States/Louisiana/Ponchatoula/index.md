@@ -8,7 +8,7 @@ location:
   coordinates: 30.438804, -90.441476
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pomchatoula.louisiana
 chat:
   name: ''

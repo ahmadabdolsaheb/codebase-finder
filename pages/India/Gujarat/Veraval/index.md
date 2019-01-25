@@ -8,7 +8,7 @@ location:
   coordinates: 20.9057, 70.3781
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.veraval.gujarat
 chat:
   name: ''

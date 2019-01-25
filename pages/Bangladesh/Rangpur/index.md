@@ -8,7 +8,7 @@ location:
   coordinates: 25.76531, 89.232211
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rangpur
 chat:
   name: ''

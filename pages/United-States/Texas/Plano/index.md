@@ -8,7 +8,7 @@ location:
   coordinates: 33.013676, -96.69251
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.plano
 chat:
   name: ''

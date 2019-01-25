@@ -8,7 +8,7 @@ location:
   coordinates: 38.296736, -85.759963
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.clarksville.TN
 chat:
   name: ''

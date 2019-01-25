@@ -8,7 +8,7 @@ location:
   coordinates: 41.117236, 1.254606
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tarragona
 chat:
   name: ''

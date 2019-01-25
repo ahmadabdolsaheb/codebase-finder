@@ -8,7 +8,7 @@ location:
   coordinates: 38.478504, -107.877777
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montrose.co
 chat:
   name: ''

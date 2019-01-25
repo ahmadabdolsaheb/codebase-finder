@@ -8,7 +8,7 @@ location:
   coordinates: -34.184726, 142.162497
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mildura
 chat:
   name: ''

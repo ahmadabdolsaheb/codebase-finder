@@ -8,7 +8,7 @@ location:
   coordinates: -32.9595, -60.661541
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rosario
 chat:
   name: ''

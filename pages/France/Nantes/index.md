@@ -8,7 +8,7 @@ location:
   coordinates: 47.218516, -1.560235
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nantes
 chat:
   name: ''

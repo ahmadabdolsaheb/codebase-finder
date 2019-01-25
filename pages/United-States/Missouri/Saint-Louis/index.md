@@ -8,7 +8,7 @@ location:
   coordinates: 38.627273, -90.197889
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.saint.louis
 chat:
   name: ''

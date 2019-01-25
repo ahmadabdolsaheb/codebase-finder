@@ -8,7 +8,7 @@ location:
   coordinates: -22.478, -47.2015
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.engenheiro.coelho
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 28.651718, 77.221939
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.delhi
 chat:
   name: ''

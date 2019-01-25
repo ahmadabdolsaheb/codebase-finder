@@ -8,7 +8,7 @@ location:
   coordinates: 42.562967, -114.460871
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.twin.falls
 chat:
   name: ''

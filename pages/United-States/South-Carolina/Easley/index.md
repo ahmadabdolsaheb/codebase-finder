@@ -8,7 +8,7 @@ location:
   coordinates: 34.826928, -82.581705
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.easley
 chat:
   name: ''

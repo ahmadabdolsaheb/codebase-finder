@@ -8,7 +8,7 @@ location:
   coordinates: 42.651167, -73.754968
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.albany.wa
 chat:
   name: ''

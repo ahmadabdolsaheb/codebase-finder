@@ -8,7 +8,7 @@ location:
   coordinates: 18.201116, -67.139112
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mayaguez.pr
 chat:
   name: ''

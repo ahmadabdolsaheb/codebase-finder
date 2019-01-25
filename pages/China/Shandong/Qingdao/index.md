@@ -8,7 +8,7 @@ location:
   coordinates: 36.089509, 120.349719
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Qingdao
 chat:
   name: ''

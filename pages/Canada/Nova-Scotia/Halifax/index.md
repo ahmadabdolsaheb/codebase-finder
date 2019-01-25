@@ -8,7 +8,7 @@ location:
   coordinates: 44.648425, -63.574972
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.halifax
 chat:
   name: ''

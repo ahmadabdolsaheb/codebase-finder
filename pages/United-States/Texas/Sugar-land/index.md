@@ -8,7 +8,7 @@ location:
   coordinates: 29.619679, -95.634946
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sugarland
 chat:
   name: ''

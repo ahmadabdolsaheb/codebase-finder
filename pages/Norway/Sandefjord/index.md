@@ -8,7 +8,7 @@ location:
   coordinates: 59.004194, 10.311856
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Sandefjord
 chat:
   name: ''

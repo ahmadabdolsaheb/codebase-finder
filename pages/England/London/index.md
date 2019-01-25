@@ -8,7 +8,7 @@ location:
   coordinates: 51.516596, -0.129757
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.london
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 41.602129, -87.337137
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gary
 chat:
   name: ''

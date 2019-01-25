@@ -8,7 +8,7 @@ location:
   coordinates: -23.37825, 150.513444
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.rockhampton
 chat:
   name: ''

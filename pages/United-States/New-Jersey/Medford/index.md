@@ -8,7 +8,7 @@ location:
   coordinates: 42.326418, -122.87186
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.medford.nj
 chat:
   name: ''

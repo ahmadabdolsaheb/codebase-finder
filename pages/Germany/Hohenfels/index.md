@@ -8,7 +8,7 @@ location:
   coordinates: 50.132376, 5.788693
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hohenfels
 chat:
   name: ''

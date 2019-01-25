@@ -8,7 +8,7 @@ location:
   coordinates: 27.472762, 89.629548
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.thimphu
 chat:
   name: ''

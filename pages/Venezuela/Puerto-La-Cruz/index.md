@@ -8,7 +8,7 @@ location:
   coordinates: 28.415902, -16.553296
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.puertolacruz.anzoategui.ve
 chat:
   name: ''

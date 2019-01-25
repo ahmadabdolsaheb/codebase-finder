@@ -8,7 +8,7 @@ location:
   coordinates: 54.27207, -8.475136
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sligo
 chat:
   name: ''

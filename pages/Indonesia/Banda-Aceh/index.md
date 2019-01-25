@@ -8,7 +8,7 @@ location:
   coordinates: 5.552846, 95.319291
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.banda.aceh
 chat:
   name: ''

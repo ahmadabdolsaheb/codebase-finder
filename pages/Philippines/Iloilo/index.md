@@ -8,7 +8,7 @@ location:
   coordinates: 10.702427, 122.569032
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.iloilo.city
 chat:
   name: ''

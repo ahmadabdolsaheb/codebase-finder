@@ -8,7 +8,7 @@ location:
   coordinates: 50.25983, 28.669235
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.zhytomyr
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 2.820802, -60.672448
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.boa.vista
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -25.516901, -54.616864
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ciudad.del.este
 chat:
   name: ''

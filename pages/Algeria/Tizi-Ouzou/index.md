@@ -8,7 +8,7 @@ location:
   coordinates: 36.713784, 4.049392
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tiziouzou
 chat:
   name: ''

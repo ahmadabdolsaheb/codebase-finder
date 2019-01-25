@@ -8,7 +8,7 @@ location:
   coordinates: 30.676555, 104.061278
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chengdu
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 34.108345, -117.289765
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.bernardino
 chat:
   name: ''

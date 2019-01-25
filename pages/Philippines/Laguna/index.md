@@ -8,7 +8,7 @@ location:
   coordinates: 28.485772, -16.315942
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.philippines.laguna
 chat:
   name: ''

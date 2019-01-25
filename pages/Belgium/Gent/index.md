@@ -8,7 +8,7 @@ location:
   coordinates: 51.053829, 3.725012
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gent
 chat:
   name: ''

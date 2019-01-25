@@ -8,7 +8,7 @@ location:
   coordinates: 21.149804, 79.080609
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nagpore
 chat:
   name: ''

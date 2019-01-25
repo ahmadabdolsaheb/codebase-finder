@@ -8,7 +8,7 @@ location:
   coordinates: 39.978371, -86.118043
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.carmel.indiana
 chat:
   name: ''

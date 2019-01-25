@@ -8,7 +8,7 @@ location:
   coordinates: 50.400124, -105.540913
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.moosejaw
 chat:
   name: ''

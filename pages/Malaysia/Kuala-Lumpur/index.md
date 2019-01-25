@@ -8,7 +8,7 @@ location:
   coordinates: 0.642715, 122.590977
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.malaysia.kl
 chat:
   name: ''

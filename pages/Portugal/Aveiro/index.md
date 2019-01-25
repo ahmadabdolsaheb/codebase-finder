@@ -8,7 +8,7 @@ location:
   coordinates: 40.640496, -8.653784
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.aveiro
 chat:
   name: ''

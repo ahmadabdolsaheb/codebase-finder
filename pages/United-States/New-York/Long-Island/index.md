@@ -8,7 +8,7 @@ location:
   coordinates: 23.303, -75.105878
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.long.island.ny
 chat:
   name: ''

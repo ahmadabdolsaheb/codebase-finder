@@ -8,7 +8,7 @@ location:
   coordinates: 56.131174, 47.245482
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cheboksary
 chat:
   name: ''

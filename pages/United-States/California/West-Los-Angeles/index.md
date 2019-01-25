@@ -8,7 +8,7 @@ location:
   coordinates: 34.046399, -118.448135
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampwestla
 chat:
   name: ''

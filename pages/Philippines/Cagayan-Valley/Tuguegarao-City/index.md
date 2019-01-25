@@ -8,7 +8,7 @@ location:
   coordinates: 17.6131813,121.7270206
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tuguegarao.city/
 chat:
   name: ''

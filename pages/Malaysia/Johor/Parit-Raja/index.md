@@ -8,7 +8,7 @@ location:
   coordinates: 1.863472,103.1088661
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.parit.raja/
 chat:
   name: ''

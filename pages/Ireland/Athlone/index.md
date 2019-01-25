@@ -8,7 +8,7 @@ location:
   coordinates: 53.424646, -7.940548
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.athlone
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 43.321504, 21.89573
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nis
 chat:
   name: ''

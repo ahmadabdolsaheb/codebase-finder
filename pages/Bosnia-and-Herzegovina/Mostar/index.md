@@ -8,7 +8,7 @@ location:
   coordinates: 43.337649, 17.810684
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.mostar
 chat:
   name: ''

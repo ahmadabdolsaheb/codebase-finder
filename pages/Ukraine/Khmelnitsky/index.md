@@ -8,7 +8,7 @@ location:
   coordinates: 48.508186, 32.26148
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.khmelnitsky
 chat:
   name: ''

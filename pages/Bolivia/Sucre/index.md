@@ -8,7 +8,7 @@ location:
   coordinates: -19.047862, -65.259602
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Sucre
 chat:
   name: ''

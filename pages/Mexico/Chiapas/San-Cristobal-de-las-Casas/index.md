@@ -8,7 +8,7 @@ location:
   coordinates: 16.7370359,-92.6376186
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sancristobal
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 33.4918203,-80.8556476
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.orangeburgsc
 chat:
   name: ''

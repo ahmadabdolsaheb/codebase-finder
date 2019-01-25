@@ -8,7 +8,7 @@ location:
   coordinates: 39.953736, -74.197958
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.toms.river
 chat:
   name: ''

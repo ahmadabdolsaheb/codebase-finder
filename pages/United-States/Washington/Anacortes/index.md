@@ -8,7 +8,7 @@ location:
   coordinates: 48.502012, -122.623736
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.anacortes
 chat:
   name: ''

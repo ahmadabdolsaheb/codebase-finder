@@ -8,7 +8,7 @@ location:
   coordinates: 52.636781, -1.131229
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leicester.uk
 chat:
   name: ''

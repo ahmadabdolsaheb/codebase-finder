@@ -8,7 +8,7 @@ location:
   coordinates: 34.6391501,-120.4579409
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.lompoc/
 chat:
   name: ''

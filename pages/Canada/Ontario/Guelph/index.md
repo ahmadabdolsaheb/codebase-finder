@@ -8,7 +8,7 @@ location:
   coordinates: 43.5448048,-80.24816659999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.guelph
 chat:
   name: ''

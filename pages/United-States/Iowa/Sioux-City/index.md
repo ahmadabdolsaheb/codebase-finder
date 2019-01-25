@@ -8,7 +8,7 @@ location:
   coordinates: 42.496682, -96.405878
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sioux.city
 chat:
   name: ''

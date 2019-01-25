@@ -8,7 +8,7 @@ location:
   coordinates: 40.805057, -81.935143
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.wooster.ohio
 chat:
   name: ''

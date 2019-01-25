@@ -8,7 +8,7 @@ location:
   coordinates: 31.252547, 34.790691
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.beer.sheva
 chat:
   name: ''

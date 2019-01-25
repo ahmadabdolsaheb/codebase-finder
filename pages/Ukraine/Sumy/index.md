@@ -8,7 +8,7 @@ location:
   coordinates: 50.904259, 34.805004
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sumy
 chat:
   name: ''

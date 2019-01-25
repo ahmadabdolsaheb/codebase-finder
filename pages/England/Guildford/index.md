@@ -8,7 +8,7 @@ location:
   coordinates: 51.236813, -0.570517
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guildford.uk
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 46.066423, 11.12576
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.trento
 chat:
   name: ''

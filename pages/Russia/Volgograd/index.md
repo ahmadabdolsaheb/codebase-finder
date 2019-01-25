@@ -8,7 +8,7 @@ location:
   coordinates: 48.70984, 44.515547
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.volgograd
 chat:
   name: ''

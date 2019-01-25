@@ -8,7 +8,7 @@ location:
   coordinates: 28.406359,-106.8654066
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cuauhtemoc.chihuahua/
 chat:
   name: ''

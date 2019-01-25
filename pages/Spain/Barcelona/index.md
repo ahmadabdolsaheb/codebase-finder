@@ -8,7 +8,7 @@ location:
   coordinates: 41.38256, 2.177135
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.barcelona
 chat:
   name: ''

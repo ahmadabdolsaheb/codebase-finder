@@ -8,7 +8,7 @@ location:
   coordinates: 37.336191, -121.890583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.jose.costa.rica
 chat:
   name: ''

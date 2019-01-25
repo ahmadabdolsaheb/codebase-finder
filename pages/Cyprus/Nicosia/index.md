@@ -8,7 +8,7 @@ location:
   coordinates: 35.180282, 33.373687
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.nicosia
 chat:
   name: ''

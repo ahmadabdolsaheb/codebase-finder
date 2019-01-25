@@ -8,7 +8,7 @@ location:
   coordinates: -12.8231947,28.2175744
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kitwe
 chat:
   name: ''

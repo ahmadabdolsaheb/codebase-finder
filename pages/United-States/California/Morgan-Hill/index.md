@@ -8,7 +8,7 @@ location:
   coordinates: 37.130408, -121.654497
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.morgan.hill
 chat:
   name: ''

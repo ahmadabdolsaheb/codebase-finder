@@ -8,7 +8,7 @@ location:
   coordinates: 31.62599, -7.988608
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.marrakesh
 chat:
   name: ''

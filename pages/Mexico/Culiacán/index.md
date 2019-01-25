@@ -8,7 +8,7 @@ location:
   coordinates: 32.695048, -114.758201
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.culiacan
 chat:
   name: ''

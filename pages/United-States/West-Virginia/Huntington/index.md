@@ -8,7 +8,7 @@ location:
   coordinates: 38.41925, -82.445154
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.huntington.wv
 chat:
   name: ''

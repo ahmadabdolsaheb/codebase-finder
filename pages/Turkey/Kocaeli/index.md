@@ -8,7 +8,7 @@ location:
   coordinates: 40.768407, 29.96832
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kocaeli.tr
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 51.897928, -8.470581
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cork.ireland
 chat:
   name: ''

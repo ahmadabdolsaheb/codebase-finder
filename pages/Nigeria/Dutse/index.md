@@ -8,7 +8,7 @@ location:
   coordinates: 11.759796, 9.339822
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dutse.jigawa
 chat:
   name: ''

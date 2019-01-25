@@ -8,7 +8,7 @@ location:
   coordinates: 17.085, -97.72
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.morelos.mx
 chat:
   name: ''

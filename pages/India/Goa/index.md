@@ -8,7 +8,7 @@ location:
   coordinates: 15.2832, 73.9862
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.goa
 chat:
   name: ''

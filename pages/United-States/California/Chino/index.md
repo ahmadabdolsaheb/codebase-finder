@@ -8,7 +8,7 @@ location:
   coordinates: 36.014533, 138.243211
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.chino
 chat:
   name: ''

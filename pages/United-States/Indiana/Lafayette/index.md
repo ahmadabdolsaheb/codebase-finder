@@ -8,7 +8,7 @@ location:
   coordinates: 40.4167022,-86.87528689999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.lafayette.indiana
 chat:
   name: ''

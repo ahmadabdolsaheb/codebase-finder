@@ -8,7 +8,7 @@ location:
   coordinates: 32.386828, -83.35461
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.cochran.ga
 chat:
   name: ''

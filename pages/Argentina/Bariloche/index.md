@@ -8,7 +8,7 @@ location:
   coordinates: -41.133467, -71.309994
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bariloche
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -22.805784, -45.190893
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.guaratingueta
 chat:
   name: ''

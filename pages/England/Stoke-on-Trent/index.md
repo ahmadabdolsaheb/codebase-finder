@@ -8,7 +8,7 @@ location:
   coordinates: 53.016201, -2.181261
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.stoke.on.trent
 chat:
   name: ''

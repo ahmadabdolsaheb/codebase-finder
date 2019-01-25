@@ -8,7 +8,7 @@ location:
   coordinates: 44.606115, 33.522478
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sevastopol
 chat:
   name: ''

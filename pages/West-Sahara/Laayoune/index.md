@@ -8,7 +8,7 @@ location:
   coordinates: 27.154512, -13.195392
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.laayoune
 chat:
   name: ''

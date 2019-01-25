@@ -8,7 +8,7 @@ location:
   coordinates: 21.075519, 77.903944
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.amravati
 chat:
   name: ''

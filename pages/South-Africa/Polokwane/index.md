@@ -8,7 +8,7 @@ location:
   coordinates: -23.905833, 29.461389
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.polokwane
 chat:
   name: ''

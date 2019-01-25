@@ -8,7 +8,7 @@ location:
   coordinates: -18.85395, -41.945875
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.governadorvaladares
 chat:
   name: ''

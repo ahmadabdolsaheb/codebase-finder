@@ -8,7 +8,7 @@ location:
   coordinates: 40.177150, -75.278513
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.montgomery.county.PA
 chat:
   name: ''

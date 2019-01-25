@@ -8,7 +8,7 @@ location:
   coordinates: 49.834914, 18.282008
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ostrava
 chat:
   name: ''

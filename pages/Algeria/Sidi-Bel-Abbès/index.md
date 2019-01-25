@@ -8,7 +8,7 @@ location:
   coordinates: 35.205684, -0.62854
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sidibelabbes
 chat:
   name: ''

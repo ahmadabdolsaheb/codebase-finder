@@ -8,7 +8,7 @@ location:
   coordinates: 40.848156, -73.997639
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.palisadespark
 chat:
   name: ''

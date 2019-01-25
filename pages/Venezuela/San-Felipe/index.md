@@ -8,7 +8,7 @@ location:
   coordinates: 9.903482, -84.106334
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sanfelipe.yaracuy.ve
 chat:
   name: ''

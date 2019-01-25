@@ -8,7 +8,7 @@ location:
   coordinates: 39.11545, -77.564545
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.leesburg
 chat:
   name: ''

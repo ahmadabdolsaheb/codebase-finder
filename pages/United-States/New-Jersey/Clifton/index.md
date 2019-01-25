@@ -8,7 +8,7 @@ location:
   coordinates: 40.858247, -74.164293
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.clifton.nj
 chat:
   name: ''

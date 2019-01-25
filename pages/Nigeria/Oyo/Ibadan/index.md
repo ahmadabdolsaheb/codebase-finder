@@ -8,7 +8,7 @@ location:
   coordinates: 7.3775355,3.9470396
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.ibadan.Nigeria/
 chat:
   name: ''

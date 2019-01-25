@@ -8,7 +8,7 @@ location:
   coordinates: 50.016578, 6.417888
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hamm
 chat:
   name: ''

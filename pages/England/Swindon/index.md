@@ -8,7 +8,7 @@ location:
   coordinates: 51.561368, -1.785685
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.swindon
 chat:
   name: ''

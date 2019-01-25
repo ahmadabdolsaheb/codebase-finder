@@ -8,7 +8,7 @@ location:
   coordinates: 31.654653, -106.42911
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.juarezchi
 chat:
   name: ''

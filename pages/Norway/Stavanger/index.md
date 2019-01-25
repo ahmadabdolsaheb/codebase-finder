@@ -8,7 +8,7 @@ location:
   coordinates: 58.968043, 5.732472
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.stavanger
 chat:
   name: ''

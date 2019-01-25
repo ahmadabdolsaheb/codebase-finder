@@ -8,7 +8,7 @@ location:
   coordinates: 35.91537, -94.969956
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tahlequah.ok
 chat:
   name: ''

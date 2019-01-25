@@ -8,7 +8,7 @@ location:
   coordinates: 36.265344, 2.766957
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecamp.medea
 chat:
   name: ''

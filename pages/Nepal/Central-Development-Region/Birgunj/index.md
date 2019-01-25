@@ -8,7 +8,7 @@ location:
   coordinates: 27.0449005,84.86721709999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.birgunj
 chat:
   name: ''

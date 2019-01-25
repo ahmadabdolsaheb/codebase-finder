@@ -8,7 +8,7 @@ location:
   coordinates: 26.29893, 73.0334
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jodhpur
 chat:
   name: ''

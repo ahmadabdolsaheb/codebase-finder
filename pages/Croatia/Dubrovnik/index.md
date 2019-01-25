@@ -8,7 +8,7 @@ location:
   coordinates: 42.641048, 18.109422
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.dubrovnik
 chat:
   name: ''

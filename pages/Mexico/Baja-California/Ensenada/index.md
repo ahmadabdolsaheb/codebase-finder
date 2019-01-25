@@ -8,7 +8,7 @@ location:
   coordinates: 31.8667427,-116.5963713
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ensenada.mexico/
 chat:
   name: ''

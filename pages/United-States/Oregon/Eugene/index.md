@@ -8,7 +8,7 @@ location:
   coordinates: 44.101181, -123.152384
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.eugene
 chat:
   name: ''

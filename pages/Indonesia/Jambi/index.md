@@ -8,7 +8,7 @@ location:
   coordinates: -1.614128, 103.579671
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.jambi
 chat:
   name: ''

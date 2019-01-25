@@ -8,7 +8,7 @@ location:
   coordinates: -1.950851, 30.061508
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kigali
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 6.596061, 3.340787
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ikeja
 chat:
   name: ''

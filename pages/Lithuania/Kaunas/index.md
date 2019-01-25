@@ -8,7 +8,7 @@ location:
   coordinates: 54.898106, 23.911752
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kaunas
 chat:
   name: ''

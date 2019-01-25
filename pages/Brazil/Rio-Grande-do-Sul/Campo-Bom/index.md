@@ -8,7 +8,7 @@ location:
   coordinates: -29.674694, -51.060601
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.campo.bom
 chat:
   name: ''

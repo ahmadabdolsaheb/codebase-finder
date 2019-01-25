@@ -8,7 +8,7 @@ location:
   coordinates: 38.303184, -77.46054
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.fredericksburg
 chat:
   name: ''

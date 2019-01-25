@@ -8,7 +8,7 @@ location:
   coordinates: 38.879178, -99.32677
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hays
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -15.7934, -47.882293
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.brasilia
 chat:
   name: ''

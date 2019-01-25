@@ -8,7 +8,7 @@ location:
   coordinates: 46.254631, 20.148602
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.szeged
 chat:
   name: ''

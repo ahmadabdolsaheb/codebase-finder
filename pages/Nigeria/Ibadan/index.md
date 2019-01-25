@@ -8,7 +8,7 @@ location:
   coordinates: 7.378606, 3.896993
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Ibadan.oyo
 chat:
   name: ''

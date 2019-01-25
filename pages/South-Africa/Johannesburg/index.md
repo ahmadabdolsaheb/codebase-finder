@@ -8,7 +8,7 @@ location:
   coordinates: -26.205, 28.049722
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.johannesburg
 chat:
   name: ''

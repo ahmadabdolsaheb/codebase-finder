@@ -8,7 +8,7 @@ location:
   coordinates: 51.564448, 4.75123
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.breda
 chat:
   name: ''

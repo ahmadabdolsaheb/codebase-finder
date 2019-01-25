@@ -8,7 +8,7 @@ location:
   coordinates: -7.871214, 111.462269
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.ponorogo
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: 31.45036619999999,73.13496049999999
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/FreeCode.Camo.Faisalabad/
 chat:
   name: ''

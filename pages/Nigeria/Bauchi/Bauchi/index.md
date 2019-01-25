@@ -8,7 +8,7 @@ location:
   coordinates: 10.3009641,9.8236533
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bauchi.nigeria/
 chat:
   name: ''

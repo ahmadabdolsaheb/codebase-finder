@@ -8,7 +8,7 @@ location:
   coordinates: 46.848748, 35.367645
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.melitopol
 chat:
   name: ''

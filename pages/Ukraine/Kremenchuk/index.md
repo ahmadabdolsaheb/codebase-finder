@@ -8,7 +8,7 @@ location:
   coordinates: 49.079722, 33.4325
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kremenchuk
 chat:
   name: ''

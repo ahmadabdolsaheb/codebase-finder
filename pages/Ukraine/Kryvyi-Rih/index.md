@@ -8,7 +8,7 @@ location:
   coordinates: 47.910273, 33.39177
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.kryvyi.rih
 chat:
   name: ''

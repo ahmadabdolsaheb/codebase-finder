@@ -8,7 +8,7 @@ location:
   coordinates: 22.574943, 88.362892
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.Code.Camp.CU.Kolkata/
 chat:
   name: ''

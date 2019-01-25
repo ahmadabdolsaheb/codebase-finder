@@ -8,7 +8,7 @@ location:
   coordinates: 35.924864, -86.867691
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecode.camp.franklin
 chat:
   name: ''

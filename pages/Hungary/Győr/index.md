@@ -8,7 +8,7 @@ location:
   coordinates: 47.685360, 17.650443
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.gyor
 chat:
   name: ''

@@ -8,7 +8,7 @@ location:
   coordinates: -9.865475, -66.357526
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.tacna
 chat:
   name: ''

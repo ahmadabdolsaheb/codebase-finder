@@ -8,7 +8,7 @@ location:
   coordinates: 32.70663, 35.304816
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Nazareth.Israel
 chat:
   name: ''

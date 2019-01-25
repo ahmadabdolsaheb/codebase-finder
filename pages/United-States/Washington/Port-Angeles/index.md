@@ -8,7 +8,7 @@ location:
   coordinates: 48.118146, -123.430741
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.port.angeles
 chat:
   name: ''

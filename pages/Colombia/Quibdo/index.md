@@ -8,7 +8,7 @@ location:
   coordinates: 5.684571, -76.654046
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.quibdo
 chat:
   name: ''

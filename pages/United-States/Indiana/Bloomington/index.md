@@ -8,7 +8,7 @@ location:
   coordinates: 39.16704, -86.534288
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.bloomington.in
 chat:
   name: ''

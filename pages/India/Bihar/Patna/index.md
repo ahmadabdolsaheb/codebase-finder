@@ -8,7 +8,7 @@ location:
   coordinates: 25.609575, 85.123819
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.patna
 chat:
   name: ''

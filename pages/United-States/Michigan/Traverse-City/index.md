@@ -8,7 +8,7 @@ location:
   coordinates: 44.760644, -85.61653
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.traverse.city.mi
 chat:
   name: ''

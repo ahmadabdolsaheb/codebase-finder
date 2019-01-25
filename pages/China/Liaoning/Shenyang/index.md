@@ -8,7 +8,7 @@ location:
   coordinates: 41.804529, 123.427786
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Shenyang
 chat:
   name: ''

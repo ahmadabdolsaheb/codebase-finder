@@ -8,7 +8,7 @@ location:
   coordinates: 32.819122, 34.998386
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.Haifa
 chat:
   name: ''

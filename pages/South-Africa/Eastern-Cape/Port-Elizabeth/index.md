@@ -8,7 +8,7 @@ location:
   coordinates: -33.7139247,25.5207358
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/1815475105368892/
 chat:
   name: ''

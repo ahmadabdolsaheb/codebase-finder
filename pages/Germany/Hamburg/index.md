@@ -8,7 +8,7 @@ location:
   coordinates: 53.550341, 10.000654
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.hamburg
 chat:
   name: ''

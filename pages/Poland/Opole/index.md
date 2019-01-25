@@ -8,7 +8,7 @@ location:
   coordinates: 50.666818, 17.923641
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.opole
 chat:
   name: ''

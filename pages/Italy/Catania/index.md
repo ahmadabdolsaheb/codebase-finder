@@ -8,7 +8,7 @@ location:
   coordinates: 37.502608, 15.087111
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.catania
 chat:
   name: ''

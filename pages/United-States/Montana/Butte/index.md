@@ -8,7 +8,7 @@ location:
   coordinates: 45.984322, -112.501468
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.butte.montana
 chat:
   name: ''

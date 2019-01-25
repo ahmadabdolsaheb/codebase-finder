@@ -8,7 +8,7 @@ location:
   coordinates: 19.043671, -98.198727
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pueblaMX
 chat:
   name: ''

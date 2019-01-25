@@ -8,7 +8,7 @@ location:
   coordinates: 46.772932, -92.125122
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.duluth
 chat:
   name: ''

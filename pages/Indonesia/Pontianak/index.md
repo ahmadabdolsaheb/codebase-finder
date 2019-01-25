@@ -8,7 +8,7 @@ location:
   coordinates: -0.022654, 109.34476
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.pontianak
 chat:
   name: ''

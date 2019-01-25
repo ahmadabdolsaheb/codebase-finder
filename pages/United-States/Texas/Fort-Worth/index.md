@@ -8,7 +8,7 @@ location:
   coordinates: 32.753177, -97.332746
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/freecodecampfortworth
 chat:
   name: ''

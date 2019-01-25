@@ -8,7 +8,7 @@ location:
   coordinates: -3.31875, 114.592583
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.south.borneo
 chat:
   name: ''

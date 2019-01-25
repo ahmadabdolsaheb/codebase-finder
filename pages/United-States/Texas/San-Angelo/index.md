@@ -8,7 +8,7 @@ location:
   coordinates: 31.431993, -100.45458
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.sanangelo
 chat:
   name: ''

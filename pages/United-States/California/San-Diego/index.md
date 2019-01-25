@@ -8,7 +8,7 @@ location:
   coordinates: 32.717421, -117.162771
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.san.diego
 chat:
   name: ''

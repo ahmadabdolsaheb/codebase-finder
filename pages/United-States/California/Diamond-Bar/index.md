@@ -8,7 +8,7 @@ location:
   coordinates: 34.028623, -117.810337
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/Free.Code.Camp.Diamond.Bar
 chat:
   name: ''

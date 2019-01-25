@@ -8,7 +8,7 @@ location:
   coordinates: 36.721086, -4.422002
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.malaga
 chat:
   name: ''

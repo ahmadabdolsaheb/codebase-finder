@@ -8,7 +8,7 @@ location:
   coordinates: 39.569582, 2.650075
   plusCode: ''
 social:
-  name: Facebook
+  name: Facebook page
   URL: https://www.facebook.com/groups/free.code.camp.palma
 chat:
   name: ''
