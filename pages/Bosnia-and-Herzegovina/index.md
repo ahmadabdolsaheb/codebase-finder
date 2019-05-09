@@ -1,3 +1,0 @@
----
-title: Bosnia and Herzegovina
----

@@ -1,3 +1,0 @@
----
-title: Cagayan Valley
----

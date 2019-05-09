@@ -1,3 +1,0 @@
----
-title: United Arab Emirates
----

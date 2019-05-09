@@ -1,3 +1,0 @@
----
-title: Trinidad and Tobago
----

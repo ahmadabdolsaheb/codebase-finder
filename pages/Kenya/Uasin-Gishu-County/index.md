@@ -1,3 +1,0 @@
----
-title: Uasin Gishu County
----

@@ -1,3 +1,0 @@
----
-title: Uttar Pradesh
----

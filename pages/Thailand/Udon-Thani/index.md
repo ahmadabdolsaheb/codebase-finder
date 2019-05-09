@@ -1,3 +1,0 @@
----
-title: Udon Thani
----

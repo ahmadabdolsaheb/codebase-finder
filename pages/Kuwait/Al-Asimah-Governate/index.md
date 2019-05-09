@@ -1,3 +1,0 @@
----
-title: Al Asimah Governate
----
